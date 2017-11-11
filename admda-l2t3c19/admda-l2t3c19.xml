@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XIX.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XIX.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c19">
+        <head xml:id="admda-l2t3c19-Hd1e128">CAPUT XIX.</head>
+        <head xml:id="admda-l2t3c19-Hd1e131" type="question-title">De echo qui est sonus reflexus.</head>
+        <p xml:id="admda-l2t3c19-d1e134">Echo autem fit, cum aere uno et continuo facto per vas vel simile vasi determinans et
+          prohibens processum ejus secundum durationem vel dilationem, iterum idem aer repellitur,
+          sicut pila repercutitur ad parietem projecta. Ad hoc autem intelligendum, sciendum est
+          quod sicut omne sensibile, ita praecipue sonus generatur circulariter, et est simile de
+          sono et de lapide projecto in aquam, qui ubi cadit, quasi centrum est, et commovetur aqua
+          in circuitu circulariter, et dilatantur circuli plus et plus distantes, quamdiu durat
+          impetus lapidis, qui primo percussit aquam, et si aliquid prohiberet generationem et
+          processum circulorum, rediret circulatio versus centrum ubi cecidit lapis : et similiter
+          generatur sonus in aere, et est primum sonans sicut locus centri, et inundat sonus super
+          circulos aeris : et si sit paries solidus et concavus aliquantum, et altus, obvians
+          circulationibus illis reflectetur ad primum sonans <cb ed="#B5" n="b"/>
+          <!-- 267 b --> et sonus in eis : et hoc vocatur echo, scilicet reflexus sonus. Tinnitus
+          autem ab <name ref="#Avicenna">Avicenna</name> vocatur echo : sed secundum idioma Latinum
+          differunt tremitus vel tinnitus, et echo : quoniam tinnitus est proprie metallorum
+          reflexus sonus, sicut est in cymbalis et campanis, quando ibi in vase continetur et
+          prohibetur exire, et de pariete in parietem reflectitur : et ob hoc talia tinniunt : et
+          propter hoc quod supra diximus, quod scilicet aere plena sunt : et ideo percussa et
+          trementia diu sonum emittunt. Si igitur, sicut dictum est, echo est talis reflexio soni,
+          videtur semper fieri echo, licet non manifestus : non enim est manifestus, nisi quando
+          reflectitur idem aer primo percussus ab aliquo obviante solido, et aliquantulum concavo.
+          Diximus autem supra, quod etiam aer resistit aeri quando fortiter et velociter percutitur
+          ab uno aere, quod tunc etiam necesse est fieri reflexionem : hoc autem omnino in sono fit
+          : oportet igitur echo omnino in sono fieri, licet non manifeste percipiatur. Quod autem
+          idem numero aer reflectatur, ex hoc patet quod quando vox litterata et articulata
+          clamatur, per easdem litterationes et articulationes reflectitur : et in tales figuras aer
+          non potest reflecti a reflectente : oportet igitur quod primus aer percussus idem numero
+          reflectatur. Licet igitur non percipiatur, ut diximus, tamen semper fit aliqua soni
+          reflexio, eo quod accidit in sono sicut in lumine. Hic in domum si lumen non reflecteretur
+          non videremus, nec illuminaretur aer sub pariete ubi non incidit radius, si non illuc
+          reflecteretur lumen : sed tamen reflexio quae est ab aere, non est manifesta : quae autem
+          est a solido plano, manifesta est : et ideo quando aliquis latitudinem manus ponit in
+          radium, multo plus reflectitur lumen quam prius. Si autem in ipsum ponatur politum et
+          tersum, tunc reflectitur per irradiationem splendoris. Et hoc patet, quia ab aqua licet
+          sit pervia, multo magis repercutitur lumen quam ab aere : nec tantum ab aere sicut ab
+          aliquo alio cor<pb ed="#B5" n="268"/> <cb ed="#B5" n="a"/>pore leni et plano in
+          superficie, quod objectum lumini tenebras potest facere, hoc est, quod supra vocavimus
+          corpus terminatum, quod quidam Philosophi diaphanum terminatum vocarunt : sic enim lumen
+          reflexum est actus perspicui, secundum quod diffinivimus ipsum superius cum de visu
+          loqueremur.</p>
+        <p xml:id="admda-l2t3c19-d1e148">Cum autem talis soni inundatio et reflexio fiat in aere invisibili et intangibili, quidam
+          recte dixerunt vacuum esse proprium audiendi : vacuum enim vocaverunt aerem subtilem ad
+          hoc quod verberaretur bene aptum : talis enim aer est faciens audire secundum actum,
+          quando supra dicto modo, movetur continuus et unus existens et salvatus : sed tamen
+          propter id quod frangibilis est et divisibilis multum, non sonat, nisi lene et solidum sit
+          quod percutitur : tunc enim fit simul a superficie percussi expulsio aeris propter
+          superficiei planitiem : uniformis enim est planities ejus quod est lene et solidum corpus
+          : et ideo si fuerit aspera superficies, tunc percussa una parte non percutitur altera :
+          quia partes non sunt in superficie una, sed in multis : et inter asperitates ipsius
+          continetur non expulsus aer : lene autem percussum sonat vehementer si habuerit
+          condiciones supra determinatas, et praecipue si fuerint multa non continua ipsum aerem
+          percussum quasi repercutientia : et ideo sylvae et montes lapidei, mirabiliter sonora sunt
+          loca, et cavernae bene celatae. Et si sonans sit super concavum, tunc ad sonans continue
+          redit sonus ejus : et generabitur harmonia : et ideo musica instrumenta fere omnia sonant
+          super concavum. Et quia aer subtilis magis sonat : et ideo pluviae et frigus inspissantia
+          aerem, obscurant sonos : auditus enim, ut diximus, fit in aere qui quasi vacuum non
+          impediens sonorum generationem et inundationem.</p>
+        <p xml:id="admda-l2t3c19-d1e151"> <cb ed="#B5" n="b"/>
+          <!-- 268 b --> Sonativum enim motivum est unius aeris continui usque ad auditum : et si
+          sit aliquid intercipiens sonum in aere, non auditur sonus : et ideo sonans longe non
+          auditur, quia aerem usque ad auditum movere non potest : et diximus supra quod cessante
+          motu cessabit sonus.</p>
+        <p xml:id="admda-l2t3c19-d1e159">Sed dubitabit aliquis duobus sonis sibi obviantibus in aere, sicut si dicamus spatium ab
+          infra, quod unum sonans sit in A et aliud in B, et C sit medium ubi soni sibi obviant :
+          aut enim aequales sunt soni, et tunc uterque debet sistere reliquum : aut alter est
+          fortior, et tunc ille praevalebit et alter non audietur : et hoc falsum est, quia uterque
+          auditur clare et distincte, quia aliter non audirentur duo loquentes, ita quod unus stet
+          contra alterum. Ad hoc enim est inconveniens solutio quorumdam dicentium sonum fieri
+          secundum circulum : circulationem autem unam non esse contrariam alteri circulationi, et
+          ideo unum non confringere alterum. Hoc enim ideo falsum est, quia circuli aquae ex
+          opposito venientes se collidunt et constringunt, sicut experta docent : licet enim
+          circulus contrarius non sit circulo, tamen impetus unius contrariatur alterius impetui, et
+          una numero aqua non est figurabilis simul et semel in duos circulos ex opposito venientes
+          : et similiter videtur hoc esse in aere. Et ideo dicendum nobis videtur, quod circuli lati
+          ex opposito venientes, se tangunt in parte quae est quasi punctum, et ibidem unum
+          constringit aliud : sed arcus in aliis partibus se nec tangunt nec constringunt, et in
+          illis est soni figuratio, et ab illis iterum sit in aere vicino ubi obviante opposito
+          circulo confractus fuit, fit aer non per iterationem sonans, sed per reflexionem, ut supra
+          diximus : est enim facilis generatio soni, eo quod in aere aliquo non est nisi per
+          intentionem, sicut supra diximus : duo autem soni possent in adeo parvo aere figurari,
+          quod se invicem corrumperent, et generaretur con<pb ed="#B5" n="268"/> <cb ed="#B5" n="a"/>fusus sonus : et ideo duo soni in aure venientes propter paucitatem aeris in aure,
+          confuse audiuntur.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

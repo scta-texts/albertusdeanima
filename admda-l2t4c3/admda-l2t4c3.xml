@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT III.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT III.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t4c3">
+        <head xml:id="admda-l2t4c3-Hd1e128">CAPUT III.</head>
+        <head xml:id="admda-l2t4c3-Hd1e131" type="question-title">In quo est probatio, quod non est sensus praeter quinque per
+          naturam mediorum.</head>
+        <p xml:id="admda-l2t4c3-d1e134">Quoniam autem nullus est sensus proprius praeter quinque qui sunt visus, auditus, gustus,
+          tactus, et olfactus, ex his quae nunc dicemus, accipere potest ali<pb ed="#B5" n="296"/>
+          <cb ed="#B5" n="a"/>quis fidem : si enim nos omnia sensibilia per medium nobis conjunctum
+          et omnia sensibilia per medium distans sentimus istis quinque sensibus quos habemus, tunc
+          nullus nobis debet deesse sensus : quoniam sensus non habetur nisi per sensibilium
+          cognitionem, quae per medium conjunctum vel per medium distans sentiuntur. Quod autem his
+          quinque omnia talia sufficienter sentiantur, inducendo monstratur sic : in Physicis enim
+          ostensum est quod omnis animalis cujus est aliquis sensus, ille est tactus, sed non
+          convertitur. Hunc autem sensum qui tactus dicitur, et est per medium conjunctum nobis,
+          sufficienter habemus cum sint plures. Quod autem sufficienter tactum habeamus, patet, quia
+          omnes differentias possibiles tangi per hos tactus quos habemus, sufficienter sentimus :
+          si enim desset nobis aliquis illorum sensuum, deesset nobis etiam organum et medium illius
+          sensus.</p>
+        <p xml:id="admda-l2t4c3-d1e141">Quaecumque autem tangentes sentimus illa sunt objecta tactus : et illa habentes in sensu
+          tactu contingimus. Similiter autem est de gustabilibus quae sufficienter sentimus per
+          extremum linguae tangentes. Igitur non sunt plures sensus ad sentienda ea quae tactu
+          sentiri debent, sive universaliter, sive particulariter, secundum quod gustus est quidam :
+          non ergo nobis deest aliquis illorum sensuum qui sunt per medium intrinsecum. Similiter
+          autem probavimus quod non deest nobis aliquis illorum qui sunt per medium extrinsecum :
+          quaecumque enim sentimus per media et non ipsi tangentes, jam sentimus per sensum
+          intentionaliter per distantias simplicium corporum, quae sunt aer et aqua, quae sunt media
+          trium sensuum : illa enim sic se habent, quod sunt mediantia distanter ad sensus : et ideo
+          si plura sensibilia possent sentiri per organum unum, tunc habens illud organum per quod
+          sentiret sufficienter <cb ed="#B5" n="b"/>
+          <!-- 296 b --> illa plura sensibilia, sufficienter haberet plures sensus : quoniam non
+          deesset ei sensibilium cognitio : sicut si diceremus quod organum sensitivum esset ex
+          aere, et quod aer est medium soni et coloris, ille qui haberet hujus organum, sufficienter
+          sentiret per organum unum duo sensata differentia genere. Similiter autem si plura organa
+          et media sunt ejusdem sensati, sicut aer, et aqua, quae sunt media coloris in quantum
+          lucida sunt, tunc habens illa plura organa, iterum sufficienter sentiret illud sensatum,
+          et non deesset ei aliquid in sensibilium cognitione. Ex omnibus autem hujusmodi arguo,
+          quod habens organa sufficienter omnia sensibilia sentientia per medium conjunctum et per
+          medium remotum, non habet defectum alicujus sensus : animal autem habens quinque sensus,
+          habet organa sufficienter omnia sensibilia tam per medium conjunctum quam per medium
+          remotum accipientia : ergo non deest aliquis sensus habenti quinque sensus praedictos. Et
+          haec ratio est penes media sensuum accepta : medium enim ad omnem sensum essentialiter
+          exigitur. Sed medium aut est conjunctum, aut distans. Et si conjunctum est, aut est per
+          hoc medium quod est aequalitas inter sua sensibilia, aut privatum eis omnino : medium
+          autem quod est aequalitas, est in tactu, quoniam omnino non potuit privari tangibilibus,
+          eo quod ex talibus consistit compositio essentialis animati corporis. Si autem est medium
+          per privationem sensibilium conjunctum, tunc est gustus : ille enim est per conjunctum
+          medium, eo quod ipse est quidam tactus, et suum medium privatum est sensibili, eo quod ex
+          illo non componitur sentiens, sed potius suum sensibile est indicans hoc quod est maxime
+          conveniens compositioni essentiali, et hoc est sapor, qui ideo quod sequela est
+          complexionis, indicat nutrimentum quo salvatur compositum animatum. Si autem est medium
+          distans, non potest esse terminatum corpus, quia per illud non posset esse transitus
+          sensibi<pb ed="#B5" n="297"/> <cb ed="#B5" n="a"/>lium : oportet igitur quod sit pervium.
+          Hoc autem est secundum duplicem naturam : aut enim est secundum eam quae est a superiori
+          corpore, et sic est medium visus, et hoc est in quatuor corporibus perviis. Aut secundum
+          naturam alicujus elementi in seipso, et hoc est dupliciter : aut enim est cum motu
+          generante sensibile ipsum, aut secundum generationem a solo sensibili factam. Et primo
+          quidem modo est medium soni, et hoc est aer, quod aer quam aqua nobilior est, magis est in
+          aere quam in aqua. Secundo autem modo medium est odoris, quod est etiam plus in aere quam
+          in aqua : quia licet humidior sit quam aqua, tamen propter spiritualitatem sui humidi
+          calido sicco minus contrariatur quam aqua quae incorporatum habet humidum : et ideo plus
+          diffunduntur odores in aere quam in aqua. Est autem sciendum sensibilium per media sua non
+          esse motum localem, sed potius, sicut diximus supra, sensibile formaliter generat
+          intentionem suam in omni parte medii per circulum et sphaeram in circuitu. Nec est una
+          numero intentio sensibilis in qualibet parte medii, sed diversae : sicut etiam superius
+          diximus de soni generatione : et hoc magis est alteratio quam motus localis : non tamen
+          vere est alteratio, ideo quod non res sed potius intentio rei est generata in medio, quae
+          intentio non est res separata vel rara in esse, sed potius ratae rei similitudo
+          spiritualis.</p>
+        <p xml:id="admda-l2t4c3-d1e152">Si autem aliquis objiciat, quod si motus localis non est intentionum sensibilium in
+          medio, quod tunc distantia non debet impedire sensum, et debemus aequaliter cito sentire
+          remotum et propinquum. Adhuc autem si est alteratio, et omnis alteratio est cum
+          transmutatione subjecti, et ita videntur media debere transmutari. Dicimus ad hoc, quoniam
+          omnis virtus agens efficacior est in propinquum agere quam in remotum, sicut dicit
+          Philosophus Alpetrans : et ideo sensibilia in propinquo proportionatas suas generant
+          formas, et non in remotis <cb ed="#B5" n="b"/>
+          <!-- 297 b --> quorum distantia extra possit esse generantis : et licet concedatur media
+          secundum aliquid posse transmutari, non tamen simpliciter transmutantur, eo quod ista non
+          res sunt, velut diximus, sed rerum intentiones quaedam, et praecipue in visu : in auditu
+          autem sonus esse materiale habet in aere, et per reflexionem habet esse spirituale : odor
+          autem habet intentionale esse in remoto, et in propinquo aliquid habet de esse materiali.
+          Gustabilia autem et tangibilia per materiam conjunguntur mediis : sed tamen medium non
+          agit in organum nisi esse intentionale : et ideo videtur, quod sicut in aliis sensibus
+          sensibilia ad medium se habent, ita in gustu et tactu se habent media ad sensum. Haec
+          igitur est ratio media sensuum probans nullum in aliquo animali perfecto deesse
+          sensum.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

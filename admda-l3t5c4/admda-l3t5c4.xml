@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT IV.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT IV.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t5c4">
+        <head xml:id="admda-l3t5c4-Hd1e128">CAPUT IV.</head>
+        <head xml:id="admda-l3t5c4-Hd1e131" type="question-title">Et est digressio declarans quod sensibile et vegetativum et
+          rationale in homine sunt una anima.</head>
+        <p xml:id="admda-l3t5c4-d1e134">Omnibus autem his comparationibus habitis, videtur nobis quod relinquitur hic
+          considerandum, cum in omni rationali sit sensibile, nec unquam a rationali sensibile
+          separatur et vegetativum, utrum ista tria sint in homine substantia una, vel diversae : et
+          iterum duae quae sunt sensibile et vegetativum in bestiis, sint substantia una, vel
+          diversae. Sunt enim super hoc jam quidam Latinorum diversa de<pb ed="#B5" n="418"/> <cb ed="#B5" n="a"/>terminantes, licet super hoc non unquam non dubitaverit quisquam
+          Peripateticorum. Dicunt enim corruptibile et incorruptibile non posse esse substantiam
+          unam : rationalem autem incorruptibilem esse asserunt in homine : sensitivum autem et
+          vegetabile corruptibilia. In idem autem coincidit quod dicunt separabilis et non
+          separabilis esse substantiam unam. Amplius autem invicem praecedentium secundum tempus,
+          dicunt non esse substantiam unam : animam autem vegetabilem dicunt tempore in hominis
+          genitura praecedere sensibilem, et sensibilem praecedere rationalem. Probant autem hoc ex
+          eo quod embriones prius tempore trahunt nutrimentum et sanguinem menstruosum, quam
+          sentiant : trahens autem nutrimentum et convertens in speciem nutriti, non est nisi animae
+          vegetabilis. Similiter autem embria puncta contrahuntur, et non fit sine sensu tactus : et
+          tamen nihil adhuc agere potest intellectu discretivo. Adhuc autem quoniam ingredientis ab
+          extrinseco in materiam corporis, et educti de materia non potest esse substantia una. Non
+          autem est dubium intellectum ingredi ab extrinseco, secundum omnia quae de intellectu
+          dicta sunt : vegetabilem autem et sensibilem educi de materia ostendunt operationes
+          utriusque : quae omnes organicae et materiales esse constat nihilominus ex praedictis.</p>
+        <p xml:id="admda-l3t5c4-d1e141">Nos autem mirabilem istorum sapientiam quae nulli concors est Philosophorum, convincimus
+          per ea quae in fine primi libri istius scientiae hujus diximus, quoniam quaerimus quid sit
+          uniens istas animas vel substantias in corpore uno, et quidquid sit illud, hoc erit aliud
+          ab istis, et potius substantia et actus corporis, quam ista tria : oportet enim unius
+          perfecti secundum substantiam, unam esse perfectionem. Adhuc autem separatorum per
+          substantiam unum per intellectum non est in alio. Si igitur ista tria per substantiam
+          separata sunt, oportet quod vegetativum per intellectum non sit in sensitivo, neque
+          sensitivum per intellectum <cb ed="#B5" n="b"/>
+          <!-- 418 b --> erit in intellectivo : sed sunt tantum conjuncta in subjecto corporeo. Hoc
+          autem dato, sequuntur duo inconvenientia, quorum unum est, quod anima non habeat
+          diffinitionem similem figurae : quia non sicut trigonum in tetragono, sic vegetativum erit
+          in sensitivo, et sensitivum in intellectivo. Aliud autem est, quod destruitur ordo
+          causarum formalium : quia secunda causa non habebit a primaria quod est, et quod causa
+          est. Sunt enim ordinatae causae formales, esse vivum, sensitivum, intellectivum, ut dicit
+          Philosophus in libro de Causis. Si autem separantur ista tria per substantias, eo quod
+          aliquando per esse in diversis invenitur separata : tunc enim debet esse alia substantia
+          in homine quam vivum et sensitivum : quia quaedam inveniuntur quae sunt et non vivunt. Si
+          vero dicatur, ut nonnulli dicunt, quod solus intellectus est substantia et forma hominis,
+          ad quam formam vegetabilis et sensibilis sunt dispositiones, hoc absurdum reputatum est ab
+          <name ref="#Avicenna">Avicenna</name> et aliis Philosophis. Quia omnis dispositio aliquid
+          est de genere accidentium, et accidit ex hoc quod illud quod est substantiale unius, erit
+          accidentale alterius. Substantia enim bestiae sensibilis substantia est, et vegetativum
+          est substantia et actus plantae. Adhuc autem haec dispositio aut est ultimata, aut non est
+          ultimata. Si est ultimata, tunc semper ad ipsam sequitur species, et sic in sensibili cum
+          eadem materia, erit rationale semper : et sic omne sensibile erit rationale, sicut omne
+          rarissimum est ignis. Si autem non est ultimata, tunc oportet quod aliquid additum ei
+          faceret eam esse ultimatam, et sic aliquid esset inter sensibile et rationale, quod
+          ultimaret sensibilem, quod iterum absurdum est omnino.</p>
+        <p xml:id="admda-l3t5c4-d1e151">Sunt autem nonnulli qui dicunt tres substantias esse unam animam : eo quod in uno actu
+          animandi uniuntur, tanquam anima non sit nomen substantiae et formae, sed operationis.
+          Quod tanto absurdius caeteris quae dicta sunt, quanto hoc est contra omnes Antiquos de
+          anima <pb ed="#B5" n="419"/> <cb ed="#B5" n="a"/> loquentes : quia animam concorditer ut
+          substantiam diffinierunt, et substantiam esse dixerunt, praeter solam illorum opinionem
+          qui in harmoniam animam esse dixerunt, et in ratione harmoniae posuerunt animam. Illi enim
+          dixerunt animam esse accidens quod consequitur harmoniam ipsam. Amplius autem harum trium
+          substantiarum secundum actum erit aliqua causa : aut igitur unio actionum provenit ab
+          unitate corporis, aut ab unitate substantiarum, et tunc non sunt tres substantiae, sed
+          una, aut simplex, aut composita ex tribus. Si autem ab unitate corporis, hoc absurdum est
+          : quia jam corpora unirent actum animarum : et sic animae non essent causa unitatum
+          corporum, et tunc quaereretur quae sit causa unitatum corporum, et non erit assignare
+          causam, etiamsi fingendi detur licentia : non enim potest dici, quod corpora organica per
+          se sint unita ex multis, cum omnis unio materiae sit ab unitate formae perficientis.
+          Inducunt autem isti simile omnino fundamentum super falsas propositiones. Dicunt enim quod
+          ignis radius lunae et solis sint diversae substantiae, et tamen frequenter uniuntur in
+          illuminando, supponentes radios esse corpora : quod alibi improbatum est, et nulli
+          Peripatetici concordant : neque etiam si essent radii substantiae uniuntur in illuminando
+          quod majus lumen occultat minus, et facit ipsum non operari lumine suo. Propter hoc igitur
+          et his similia multa quae non induci oportet differentias in homine, haec tria esse
+          substantiam unam in homine, quae est actus et perfectio hominis, nec sensibilem esse in
+          homine neque vegetabilem animas vel substantias, sed potentias quae fluunt a substantia,
+          quae est anima rationalis, sicut saepe superius diximus. In aliis autem sensibilis est
+          substantia et non potentia, sed habet suas potentias concupiscibilem et irascibilem, et
+          quinque a se fluentes sensus. Similiter autem se habet vegetabilis in plantis modum quo
+          praecedens potestas est in sequenti, diximus superius in plu<cb ed="#B5" n="b"/>
+          <!-- 419 b -->ribus locis : quem hic iteramus propter doctrinae facilitatem, quoniam
+          inferior est in superiori sicut in magis formali. Omnis enim potestatis inferioris
+          operationes diriguntur ad superiorem, sicut materia instrumentalis ad suam formam, et
+          diximus superius quod omnis operatio quae instrumentaliter se habet ad aliam, est
+          materialis et imperfecta ad illam. Sicut enim se habent operationes quinque sensuum ad
+          sensum communem, sic se habent operationes sensus communis ad phantasiam. Similiter autem
+          et operationes phantasiae ad intellectum possibilem, et ulterius intellectus possibilis ad
+          agentem, qui absolute et simpliciter est substantia hominis : non tamen dicimus
+          simpliciter unum esse materia ad alterum, sed materiale hoc modo quo imperfectum dicitur
+          materiale. Imperfectum autem est omne materialiter operans vel instrumentaliter. Dico
+          autem illud instrumentaliter operari quod operatur ad alterum quoddam quo est perfectio
+          operis. Similiter autem se habent opera vegetabilis ad sensibilem : cujus signum est, quia
+          nutritiva convertit nutrimentum in carnem, quae non est subjectum vegetabilis tantum, sed
+          medium in tactu : ex quo facile innotescit potentiarum multitudinem in anima non inducere
+          compositionem essentialem, sed potius ostendit unum formalissimum, ex quo omnes istae
+          fluunt potentiae : et quanto formalius est, tanto in pluribus operationibus invenitur, et
+          sui ad plura indigent, in quo differt a natura quae obligata est materiae, et unum tantum
+          operatur. In hoc tamen uno ultimo formali aliquid est simile formae, et aliquid materiae,
+          sed non materia et forma, sicut supra diximus in tractatu de intellectu. Has enim
+          differentias in omni natura necesse est inveniri, quae est citra naturam et essentiam
+          primam. Si quis vero posterius objiciat has potentias animae non esse substantiam, sed
+          esse potentias naturales, et ita esse de genere accidentium, et inde ulterius velit esse
+          in anima compositionem sub<pb ed="#B5" n="420"/> <cb ed="#B5" n="a"/>jecti et accidentis,
+          inferens ulterius animam esse compositam in substantiam ex materia et forma, eo quod ante
+          omnes compositiones secundas accidentium cum substantis compositio est prior ex materia et
+          forma, eo quod nullum accidens accidit substantiae simplici, sive sit materia, sive forma,
+          nos dicimus quod hujusmodi potentiae non sunt accidentia communiter, sed sunt potentiae
+          naturales et proprietates animae : et haec sunt vires substantiae ejus, et talia multa
+          accidunt omni substantiae simplici, sive sit forma, sive materia, sicut etiam nos supra
+          dixisse meminimus. Et hoc addimus, quod tanto accidunt ei plura de talibus, quanto fuerit
+          simplicior : quanto enim simplicior, tanto plura operatur : et utique nihil operatur cujus
+          virtutem operis non habeat : et ideo ex talium accidentium multiplicitate et
+          multiplicatione non concludi potest compositio substantiae. Quod autem isti objiciunt de
+          corruptibili et incorruptibili, et separabili et non separabili, unam et eamdem habet
+          solutionem, quod videlicet anima hominis tota incorruptibilis et separabilis est a
+          corpore, sed per accidens non separatur in quibusdam viribus, eo quod operationes illarum
+          non sunt sine corpore, sicut superius diximus de nauta, quod substantialiter separatur a
+          navi, licet navigatio non sit sine corpore, ideo sicut senescunt et debilitantur vires
+          animae, ita corrumpuntur et non aliter : constat autem quod non senescunt et debilitantur
+          nisi corporis senectute et debilitate, sicut debilitatur nauta vel navigatio nave jam
+          fracta et scissa et inveterata : et ideo ani<cb ed="#B5" n="b"/>
+          <!-- 420 b -->ma exuta vires suas habet, licet non utatur eis, tamen non sunt otiosae,
+          quoniam usus impeditur per accidens, ut patet ex dictis. Quod autem inducunt, quod
+          vegetabilis praecedat sensibilem tempore, et sensibilis rationalem, non provenit nisi ex
+          malo intellectu librorum <name ref="#Aristotle">Aristotelis</name>. Docet enim nos <name ref="#Aristotle">Aristoteles</name> animam non esse in semine, sicut actus est in eo cujus
+          est actus : quia si sic inesset ei, tunc semen esset animal vel planta : sed docet nos,
+          quia est in semine sicut artifex in artificiato : et ideo in semine non operatur nisi
+          sicut artifex, neque unquam operatur animae opus nisi in corpore organico perfecto
+          secundum numerum et figuram et formam organorum : et hoc modo dicit quod praecedit opus
+          nutritivae opus sensitivae : hoc autem opus non est animae, sed virtutis formativae, quae
+          est sicut artifex formans corpus : et secundum istum modum est expositus <name ref="#Aristotle">Aristoteles</name> a suis Commentatoribus : et ideo ex hoc nihil inferri
+          potest de anima, neque quod sit una, neque quod sit multa. Haec igitur etiam in XVI libro
+          de Animalibus dicit <name ref="#Aristotle">Aristoteles</name>, ubi etiam dicit quod
+          spiritus qui est in semine, est intellectus, eo quod operatur ut intellectus practicus
+          alicujus artificis. Quod autem dicit de eo quod est ingredi ab extrinseco et duci de
+          materia, nihil omnino ad propositum, et solutio hujus patet per ea quae dicta sunt de
+          intellectu agente : erit autem de his subtiliter loquendum in libro de Animalibus. Haec
+          igitur de Anima secundum quod in seipsa consideratur, determinata sufficiunt.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

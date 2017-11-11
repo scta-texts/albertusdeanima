@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT V.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT V.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t1c5">
+        <head xml:id="admda-l2t1c5-Hd1e128">CAPUT V.</head>
+        <head xml:id="admda-l2t1c5-Hd1e131" type="question-title">In quo probatur, quod oportet quaerere aliam adhuc
+          diffinitionem, quae dicit causam superius habitae.</head>
+        <p xml:id="admda-l2t1c5-d1e134">Quoniam autem in prooemiis diximus, quod diffinitiones universales ex quibus non
+          contingit causas accidentium subjecti cognoscere neque conjecturari de ipsis facile, sunt
+          dialecticae et vanae omnes, et <cb ed="#B5" n="b"/>
+          <!-- 199 b --> nos jam diffinitionem quae solum dicit quid est anima, assignavimus, non
+          sumus contenti in ea : quia oportet nos cognoscere non solum quid est anima in se, sed
+          etiam partes animae cognoscere, et causas accidentium per se ipsis partibus demonstrare.
+          Accidentia per se et opera animae maxime secundum partes ei attribuuntur, et ideo oportet
+          nos aliam investigare quae in partibus animae propriam naturam et esse demonstret :
+          quoniam nos in prooemiis jam invenimus quod secundum unamquamque partem animae, altera et
+          altera est et ratio animae, et non est diffinibilis anima una ratione universali, quae
+          applicetur omnibus partibus ejus. Hoc autem in dicta superius diffinitione contingit, in
+          qua etiamsi diffinientia animam univoce sumerentur, non sufficerent ad naturam animae in
+          proprio partium esse cognoscendam. Nunc autem non univoce sumpta sunt : quoniam non una et
+          eadem ratione actus est intellectiva anima cum sensitiva, cum una sit separata, et altera
+          sit virtus in corpore. Neque in una et eadem ratione actus corporis physici est sensitiva
+          cum vegetativa, cum videamus sensitivam esse cognitivam et acceptivam spiritualium
+          specierum a sensibilibus, et vegetativa nihil spiritualiter accipit vel operatur.</p>
+        <p xml:id="admda-l2t1c5-d1e141">Hac igitur necessitate oportet iteratam facere investigationem de animae diffinitione :
+          quoniam in tali via quando agitur de partibus, fit aliquando certum id quod est secundum
+          naturam et rationem notius, ex his quae incerta sunt secundum rationem et naturam, certis
+          tamen quoad nos : tentandum est nobis iterum sic per viam istam aggredi de anima, quia
+          anima talis est substantia quae multum elongata est a sensibus nostris, et non subjicitur
+          sensibus nisi quoad opera, et opera sunt partium ejus : et ideo quoad nos sunt notiores
+          partes quam ipsa secundum se anima. Sic enim diximus diffini<pb ed="#B5" n="200"/> <cb ed="#B5" n="a"/>tivam rationem non solum ostendere quod quid est, sed oportet etiam quod
+          ostendat causam quare insunt ei per se accidentia, quae praecipue animae secundum partes
+          insunt. Rationes autem terminorum diffinientium quas nunc in praecedentibus adduximus,
+          sunt sicut conclusio demonstrata per aliud principium. Quaedam enim ratio non dicens nisi
+          quid est per aliud scita, sicut conclusio, quae ad hoc ut sciatur, alio indiget principio
+          quod est medius terminus. Ratio autem dicens simul propter quid et quid illa est, sicut
+          demonstratio per se scita, et per quam scitur conclusio. Est autem de hoc in secundo
+          Posteriorum dictum. Si enim quaeratur quid est tetragonismus sive quadratum, cui accidit
+          per se aequale esse quadrangulo altera parte longiori, dupliciter diffiniri potest : et
+          una diffinitio non dicet nisi quid est quod substat passioni, altera autem dicet causam
+          quare inest ei talis passio. Si enim diffiniatur sic : tetragonismus est orthogonum
+          aequilaterale, quatuor lineis contentum, aequale quadrangulo altera parte longiori, non
+          dicet nisi quid est absolute quod substat passioni. Si autem diffiniatur sic :
+          tetragonismus est inventio media rei, hoc est, inventio proportionis quantitatum ex quibus
+          fit tetragonismus, et altera parte longius quadrangulum, dicet causam quare inest ei talis
+          passio, quod est scilicet aequalis tetragonismus altera parte longiori quadrato.</p>
+        <p xml:id="admda-l2t1c5-d1e148">Ad hoc autem intelligendum propter doctrinae bonitatem oportet de Geometriae quinto libro
+          aliquid interponere. Sciendum igitur quod ex omnibus tribus quantitatibus quae sunt
+          continuae proportiones fit necessario tetragonismus et quadrangulum altera parte longius,
+          neque possunt hae duae figurae fieri ex pluribus quantitatibus, neque ex paucioribus.
+          Sicut enim accipitur ex secundo Euclidis, quadratum aequilaterum et aequiangulum sub una
+          linea dicitur contineri : quoniam fit ex una et eadem linea in se producta, et aequale in
+          quantitatibus causatur ab <cb ed="#B5" n="b"/>
+          <!-- 200 b --> unitate quantitatis. Manifestum autem est quod dicitur in numeris : si enim
+          quemcumque numerum in seipsum duxero, quadratum perficio, sicut bis duo, vel quater
+          quatuor, et sic deinceps. Quadratum igitur ex unica provenit quantitate. Quadrangulum
+          autem altera parte longius sub duabus necessario lineis et non pluribus continetur : habet
+          enim haec figura duo opposita latera aequalia : et duo quaelibet quae sibi invicem in
+          angulo applicantur, habet inaequalia. Sunt ergo ibi duae aequalitates diversae et duae
+          inaequalitates. Sicut igitur una per totum aequalitas ab una surgit quantitate, ita
+          necesse est quod duae aequalitates duabus interceptae inaequalitatibus a duabus surgant
+          quantitatibus : et sic necesse est ipsum sub duabus lineis contineri. Hoc autem est
+          manifestum in linearibus numeris : binarius enim et ternarius duae sunt inaequales
+          quantitates : et si duxero unum in alium, perficimus quadrangulum altera parte longius, ut
+          si dicam, bis tria, vel ter duo : longius enim est quam sit latum bis tria, et latius quam
+          sit longum ter duo : igitur probatum est quadratum et altera parte longius quadrangulum ex
+          tribus quantitatibus fieri, et neque ex pluribus neque ex paucioribus. Quotiescumque autem
+          uniuntur tres quantitates continuae proportionis, tunc ex illis fiunt quadrata et altera
+          parte longius aequales omnino. Continuam autem voco proportionem, quando in una et eadem
+          proportione, in qua se prima habet ad mediam, habet se ad tertiam. Et hoc in numeris est
+          manifestum : accipiantur enim 12. 6. 3. In his enim primus est duplus ad medium, et medius
+          duplus ad tertium. Ducamus autem medium in seipsum faciendo tetragonismum, dicendo sexties
+          sex fiunt triginta sex : et ducamus primum in tertium faciendo altera parte longius
+          quadrangulum, dicendo duodecies tria, vel ter duodecim, et fiunt similiter triginta sex.
+          Aequale igitur est quadratum mediae proportionis ad altera parte longius <pb ed="#B5" n="201"/> <cb ed="#B5" n="a"/> quadrangulum extremarum proportionum. Idem omnino evenit si
+          accepero in alia proportione continuas tres quantitates, sicut si velim accipere
+          sesquialteras, sicut 9. 6. 4 : primus enim continet secundum totum et alteram ejus partem,
+          et similiter medius continet tertium et alteram partem ejusdem : igitur continue
+          sexquialtera est in eisdem proportio. Continuamus igitur quadratum ducendo medium in
+          seipsum, dicendo sexties sex, et fiunt triginta sex, ut prius : et si ducamus extremos in
+          se invicem ita quod unum in alium, dicendo nonies quatuor, vel quater novem, perficiemus
+          tantumdem, hoc est, triginta sex. Idem est omnino in sexquitertiis, sicut si accipiamus
+          16. 12. 9 : omnes enim isti in continua sunt sequitertia proportione, et per omnia fiat ut
+          prius. Summa enim proveniens ex duo decies duodecim est centum quadraginta quatuor, et
+          tantumdem valet summa proveniens ex nonies sedecim, vel e converso ex sedecies novem.
+          Patet igitur quod diffiniens quadratum quod est tetragonismus, et dicens quod est
+          orthogonum aequilaterum quadrilaterum aequale altera parte longiori quadrangulo, non dicet
+          nisi quid est : dicens autem quod est in continuae proportionis tribus quantitatibus
+          mediae proportionis inventio, dicit propter quid tetragonismus est aequale altera parte
+          longiori quadrato. Et prima quidem diffinitio cum non dicat nisi quia inest passio
+          subjecto, est conclusio demonstrationis : quia ad hoc inducitur demonstratio ut passio
+          probetur inesse subjecto. Secunda autem est medium quod est principium demonstrationis,
+          quia per ipsum probatur passio inesse subjecto : sicut omnis figura producta a media
+          proportione continua in se ducta, quae tantum vincit tertiam, quantum vincitur a prima,
+          aequalis est ei quae fit ex ductu primae proportionis in tertiam. Tetragonismus autem est
+          figura consurgens a media continua proportione ducta in seipsam, quae tantum vincit
+          tertiam quantum vincitur a prima : ergo est <cb ed="#B5" n="b"/>
+          <!-- 201 b --> aequalis quadrangulo altera parte longiori : quod fit ex ductu primae in
+          tertiam : et sic patet quod mediae continuae proportionis inventio dicit causam aequalis
+          quadrati ad altera parte longius quadrangulum.</p>
+        <p xml:id="admda-l2t1c5-d1e164">Sic igitur est etiam in diffinitionibus aliarum rerum. Oportet enim quod id quod
+          communiter rei attribuitur, sicut animae attribuitur quod sit actus corporis physici, per
+          causam propriam inesse probetur : et hoc non potest fieri nisi tali diffinitione animae
+          inventa, quae dicit causam quare anima sit actus corporis : hoc autem erit si acceperimus
+          secundum quamlibet partem animae, quod ipsa est principium et causa hujus vitae quae
+          exercetur in corpore physico : tunc enim habebitur propositum. Cum enim habuerimus quod
+          quidquid essentialiter est principium et causa hujus vitae quae exercetur in corpore
+          physico organico, est actus physici corporis organici, et conjunxerimus istam, quod anima
+          essentialiter est principium, et causa hujus vitae quae exercetur in corpore physico
+          organico, concludemus demonstrative quod anima est actus primus physici organici corporis
+          : et sic concludemus superius inductam diffinitionem per eam quae dicit causam ejus, sicut
+          diximus in exemplo geometrico jam inducto.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

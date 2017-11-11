@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT IV.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT IV.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t1c4">
+        <head xml:id="admda-l3t1c4-Hd1e128">CAPUT IV.</head>
+        <head xml:id="admda-l3t1c4-Hd1e131" type="question-title">Et est digressio declarans quod omnes vires animae sunt
+          organicae, et agunt mediante corpore.</head>
+        <p xml:id="admda-l3t1c4-d1e134">Omnes autem dictae vires animae sensibilis organicae sunt, et per instrumenta corporalia
+          suas operationes perficiunt. Et hoc quidem de sensibus quae apprehendunt de foris,
+          ostendere non est difficile : quoniam jam habitum est, quod illi non apprehendunt nisi per
+          rei sensibilis praesentiam : sensibilia autem corpora sunt : corpus autem non est praesens
+          nisi corpori : ad virtutem enim incorpoream non exigitur praesentia secundum situm et
+          locum, nec operatur in ipsa aliquid propinquitas localis vel remotio, sicut apparet in
+          intellectu et intelligibilibus : sic ergo constat quod etiam virtutes sensibiles sunt in
+          corpore, cui etiam res sensibilis et praesentialiter in situ et loco opponitur. De
+          virtutibus autem interioribus quae sunt imaginatio, aestimatio, et phantasia, idem constat
+          quoniam in omnibus illis est apprehensio formae singularis secundum situm partium ejus, et
+          lineamenta, et quantitatem : cujus descriptio et pictura non potest esse nisi <choice>
+          <orig>instrumen to</orig> <reg>instrumento</reg> </choice> corpore : quod sic probatur.
+          Imaginemur enim quadratum A B C D, et adjungamus eidem duo quadrata per omnia illi
+          aequalia et omnino similia, quorum unum sit E F G H adjunctum ei in angulo A qui <pb ed="#B5" n="320"/> <cb ed="#B5" n="a"/> sit angulus dexter quadrati prius imaginati, et
+          alterum sit I K L M adjunctum primo quadrato in angulo B qui sit angulus sinister : et
+          statuamus ista tria quadrata in imaginatione nostra : quaero qualiter apprehenditur unum
+          horum esse a dextris, et alterum a sinistris et tertium fore medium cui duo adjunguntur ?
+          Aut enim hoc est ex subjecto in quo distribuuntur, aut ex ipsis quadratis, aut ex
+          comparatione quadratorum ad aliquid extra. Non autem potest dici quod sit ex comparatione
+          quadratorum ad aliquid extra, quia saepe imaginamur hoc quod non comparatur ad aliquid
+          extra, sicut chimaeram, et fligantem, et tragelaphum, et alia multa monstra quae
+          imaginantes fingimus. Si autem dicatur esse ex ipsis quadratis, aut erit hoc ex essentia
+          et figura quadratorum, aut ex aliquo accidente. Non autem potest esse ex ipsis quadratis,
+          quia illa sunt unius rationis et aequalia per omnia et similia, ita quod nulla, in quantum
+          talia, cadit inter ea diversitas. Si autem dicatur esse ex aliquo accidente quod accidit
+          eis, aut hoc erit accidens inseparabile, aut separabile. Non autem potest esse ex
+          accidente inseparabili : quoniam accidens inseparabile causatur ex essentialibus sui
+          subjecti, et quorum essentialia eadem sunt, horum accidens inseparabile est idem :
+          essentialia autem trium quadratorum per omnia sunt eadem : et sic propter accidens
+          inseparabile non potest esse dicta quadratorum imaginata diversitas. Si autem dicatur,
+          quod hoc est accidens separabile, tunc intelligatur illud non inesse : et cum illud sit
+          causa dictae diversitatis in magnitudine, tunc jam non imaginabimur unum fore dextrum, et
+          alterum sinistrum : quod omnino falsum est, quia adhuc stat imaginatio sicut prius,
+          quamdiu dicta quadrata sic ponuntur esse conjuncta. Remanet igitur quod hoc sit propterea
+          quod tali modo describuntur in organo imaginationis, quod est cerebrum. In quacumque autem
+          forma sub differentiis situs depingitur, illud est <cb ed="#B5" n="b"/>
+          <!-- 320 b --> corpus : ergo organum imaginationis est corpus. Si autem forte aliquis
+          dicat quod ista situs diversitas per dextrum et sinistrum et medium, ex intellectu est
+          attribuente eis rationem dextri et sinistri et medii : hoc constat esse falsum, quia
+          intellectus dextri et sinistri universalis est, et non attribuitur huic vel illi, nisi per
+          situm particularem quo illud est dextrum, et illud sinistrum, et tertium est medium : et
+          tunc redibit eadem quaestio, unde causetur hujusmodi situs. Oportet igitur quod illud
+          causetur ex imaginatione, sicut et in continuo in quo distribuuntur tria quadrata modo
+          praedicto : quia in continuo non efficitur unum dextrum, et alterum sinistrum, et tertium
+          medium, nisi per hoc quod distribuitur unum in dextra parte spatii, et alterum in
+          sinistra, et tertium in medio. Ita ergo est imaginatione quod unum in una parte organi
+          est, et alterum in altera, et tertium in tertia : virtus autem imaginationis considerat
+          ipsum sic distributum, et per hoc quod sic distribuitur in organo : ergo ipsa operatur in
+          organo, et est organica.</p>
+        <p xml:id="admda-l3t1c4-d1e154">Amplius autem nos imaginamur figuram et imaginem hominis ejusdem majorem et minorem : et
+          hoc causari non potest ex re, quia illa est uno modo : nec causatur a forma, quia forma
+          non causat sui diversitatem propter majoritatem et minoritatem : ergo fit hoc ex subjecto
+          in quo distribuitur, in quo ostenditur plus et minus : non autem describitur plus et minus
+          nisi in corpore : ergo organum imaginativae est corpus, et ipsa virtus organica, quae tali
+          in corpore operatur. Idem autem est de aestimativa et phantasia, quoniam et illae
+          intentiones ab imaginibus apprehensis non separantur : omnes igitur dictae virtutes
+          organicae sunt, et corpore indigentes ad suas operationes. Et per ista intelligimus
+          differentiam intellectus ab hujusmodi virtutibus : quia ille omnino incorporeus est.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

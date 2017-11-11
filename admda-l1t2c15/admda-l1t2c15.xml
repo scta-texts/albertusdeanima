@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XV.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XV.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l1t2c15">
+        <head xml:id="admda-l1t2c15-Hd1e128">CAPUT XV.</head>
+        <head xml:id="admda-l1t2c15-Hd1e131" type="question-title">Utrum anima diversa agat per unam substantiam et diversas
+          potentias, vel per plures substantias et plures potentias : in quo etiam habetur utrum
+          vegetabilis et sensibilis et rationalis una sit substantia in homine.</head>
+        <p xml:id="admda-l1t2c15-d1e134">His autem habitis, satis secundum Antiquos patet qualiter illi de substantia animae
+          determinaverunt. Diximus autem in principio prooemii, quod non solum quaerenda est animae
+          substantia, sed etiam de partibus animae oportet habere quaestionem : et ideo dubitationes
+          Antiquorum de partibus hic subinferimus dicentes, quod ea quae sunt in anima tanquam
+          partes, Antiqui ad quatuor reduxerunt. Viderunt enim quidquid est unius gene<cb ed="#B5" n="b"/>
+          <!-- 182 b -->ris, ab aliqua natura una principium sumere, et omne quod cognitivum est in
+          anima, ad unum primum principium cognitionis reduxerunt : et illi primo principio dederunt
+          cognoscere per intellectum, et sentire, et opinari, eo quod quodlibet illorum, sicut
+          diximus, communicat et participat cognitivum aliquid per naturam et habet potentiam
+          passivam ad ea quae cognoscit. Adhuc autem in anima viderunt esse concupiscere per sensum
+          rei convenientis vel disconvenientis et deliberare per rationem regentem voluntatem, et
+          omnino et universaliter appetitum qui communis est et vegetabili et sensibili et rationali
+          animae : et cum concesserint ista esse secundum motum factum ab anima, et sic inesse
+          secundum potentiam activam vel formalem, et ideo ad principium cognitionis non posse
+          reduci, et ideo ista inesse animae secundum diversas naturas et principia videbantur.
+          Adhuc autem viderunt quod motus secundum locum est ab anima in animalibus, et conjecerunt
+          inter omnia moventia perfectius esse id quod movet secundum locum : appetitum autem esse
+          imperfectum in quantum appetit : et ideo existimaverunt motivum secundum locum secundum
+          eamdem naturam convenire animae, per quam convenit ei esse cognitivum vel appetitivum : et
+          ideo haec tria secundum tres naturas animae dixerunt inesse. Ulterius autem procedentes
+          invenerunt in anima augmentativum et juventutem et senectutem et decrementum, et hoc
+          semper agere per calorem naturalem qui est virtus corporea, et in hoc differre a physicis
+          : et ideo iterum hoc existimaverunt causari ab aliquo speciali principio. Et ideo
+          quaerendum, utrum toti animae insit secundum unam et eamdem naturam et essentiam
+          unumquodque istorum, ita quod eodem aliquo omnia haec praedicta facimus, et omnibus
+          praedictis si una natura et essentia sunt, et intelligimus, et sentimus, et facimus, et
+          patimur aliorum <pb ed="#B5" n="183"/> <cb ed="#B5" n="a"/> unumquodque, ita quod possumus
+          dicere, quod vegetativo intelligimus, et movemur secundum locum et alia facimus, et
+          intellectu augemur et movemur secundum locum et sentimus et reliqua facimus, eo quod omnia
+          haec unum et idem sunt : et hoc est quaerere utrum diversis essentiis et diversis
+          potentiis facimus illa diversa quae dicta sunt, sicut dixit Plato. Est autem intellectivum
+          inter duo, quod una essentia et diversis potentiis haec fiunt, vel una potentia et
+          diversis essentiis : sed non potest esse hoc ultimum membrum, quia nunquam est una
+          potentia diversarum essentiarum. Remanet igitur unum solum medium quod est una essentia
+          facere haec omnia per diversas potentias naturales, quae sunt unita in illa essentia.
+          Primum autem horum membrorum etiam abjiciemus, eo quod impossibile est una essentia et
+          eadem potentia plura facere : quia scimus quod idem eodem modo se habens non facit per se
+          diversa. Scimus autem quod anima omnia quae superius enumerata sunt, per se facit et non
+          per accidens. Quaeramus igitur de duobus relictis membris solis, utrum scilicet faciat ea
+          quae dicta sunt multis naturis et potentiis vel una natura et multis potentiis. Si autem
+          pluribus facit essentiis ea quae dicta sunt, tunc quaeramus utrum iste actus qui est
+          vivere, conveniat animae secundum aliquod unum praehabitorum, aut secundum plura ex eis,
+          aut secundum omnia quatuor enumerata, aut etiam conveniat ei ex aliqua alia causa
+          quaecumque sit illa.</p>
+        <p xml:id="admda-l1t2c15-d1e145">Dicunt autem quidam et partibilem et partitam esse animam per essentiam et locum, et
+          concedunt, quod alio quodam intelligit, et alio concupiscit, cognitivam partem secundum
+          suas differentias ponentes in cerebro, concupiscibilem vero ponentes in hepate,
+          vegetabilem autem praecipue ponentes in vasis et membris genitalibus, et motivam secundum
+          locum <cb ed="#B5" n="b"/>
+          <!-- 183 b --> attribuentes posteriori parti cerebri et nuchae, quae <choice>
+          <orig>dscendit</orig> <reg>descendit</reg> </choice> per dorsi spondiles, a quibus
+          oriuntur nervi motivi. Vivere autem quidam attribuit secundum unam istarum partium quae
+          est vegetabilis, sicut Dionysius Philosophus diffiniens vitam dixit, quod est motus
+          generis nutribilis naturam assequens. Alii autem, ut Plato dixit, vivere esse secundum
+          aliam <choice> <orig>causa</orig> <reg>causam</reg> </choice> quae sita est in corde, et
+          influit vitam corpori per arterias super spiritum qui vehit vitam. Alii autem communiter
+          dixerunt vitam inesse secundum quamlibet supra dictarum potentiarum. Illi autem qui
+          dixerunt animam in eodem corpore esse partitam per diversas essentias, rationes habeant
+          vel habebant : quia quaecumque separata inveniuntur loco et subjecto aliquando, secundum
+          naturam et essentiam diversa sunt, etiam quando in eodem continente ea inveniuntur.
+          Invenimus autem vegetativum sine sensitivo, et motivum secundum locum et sine
+          concupiscentia, sicut in plantis. In quibusdam autem invenimus sensitivum sine motivo
+          secundum locum, ut in spongia et ostreis et conchilibus quibusdam. Aliquando autem
+          invenimus motivum secundum locum absque sensu, sicut in intelligentiis, in quibus etiam
+          non est concupiscentia et deliberatio et appetitus, eo quod nullius egent secundum
+          naturam. Cum igitur ista sic sint separata per locum et subjectum, constare videtur quod
+          supra dictum est, quod sunt diversae essentiae et naturae. Amplius autem quoniam quae in
+          corpore sunt secundum diversas differentias temporis, sunt diversa in essentia et natura.
+          Est autem primo secundum tempus vegetari et alimento uti quam concupiscere et sentire et
+          movere secundum locum : et prius est concupiscere, quam movere secundum locum motu
+          procedente de loco ad locum : et prius sunt istud quam intelligere : ergo ista omnia
+          differentiam videntur habere in esse et natura. Amplius quaecumque in diversis et
+          diversarum commixtionum corporibus subjecta sua quaerunt, diversa <pb ed="#B5" n="184"/>
+          <cb ed="#B5" n="a"/> sunt in esse et natura : quoniam sicut se habet susceptibile ad
+          susceptibilem, ita se habet perfectio suscepta unius ad perfectionem susceptam ab altero.
+          Sic autem se habent superius inductae animae : eo quod una in cerebro, altera in hepate,
+          et tertia in alterius modi esse mixtionis et compositionis membro habet suscipi : igitur
+          ipsae sunt diversae in esse et substantia et natura.</p>
+        <p xml:id="admda-l1t2c15-d1e175">Haec autem quae dicta sunt, induxit primum Pythagoras : et in tantum praebuit eis
+          assensum, quod diversa animalia dixit congregata in uno animali, ita quod dixit hepar esse
+          animal, et matricem aliud animal, et cor aliud animal principale inter illa, et cerebrum
+          obtinere locum sublimis et coelestis animalis. Et postea veniens Plato correxit errores in
+          parte et non in toto : dixit enim haec omnia diversas esse substantias secundum situm et
+          esse, sed tamen unam animam, et ideo constituere unum animal : eo quod conveniant omnia in
+          animando. Animatum enim anima perfecta dicitur habere cognitionem et appetitum et motum et
+          vegetationem : propter quod dixit Plato quod nisi haec dividuntur, licet sint substantiae
+          diversae, tamen non sunt nisi pars animae : quia non animant rem secundum perfectum modum
+          animationis, qui est, ut ipse dixit, ex hoc quod alicui conveniant omnia illa quibus
+          animatum differt ab animato.</p>
+        <p xml:id="admda-l1t2c15-d1e179">Et hunc errorem hucusque in diem sequuntur quidam Latinorum Philosophorum, praecipue in
+          sensibili, vegetabili, et rationabili, qui dicunt esse diversas substantias et unam animam
+          in corpore hominis, adducentes quod <name ref="#Aristotle">Aristoteles</name> videtur
+          dicere in sextodecimo librorum suorum de Animalibus, ubi dicit quod non est vivum et
+          animal simul, neque est vivum et homo simul, et quod cibativa anima prius inest quam
+          sensitiva, et alia hujusmodi. Adducunt autem simile <cb ed="#B5" n="b"/>
+          <!-- 184 b --> per quod suadere volunt diversas substantias habere unam rationem animae in
+          animando. Dicunt enim diversae naturae esse luminaria coeli, et in diversis locis et tamen
+          radios et lumina eorum uniri ad unam mundi illuminationem, qua universa materia
+          generabilium et corruptibilium movetur. Idem autem asserunt in luminibus diversarum
+          candelarum in illuminatione domus. Similiter autem alia quaedam inducunt probabilitatem
+          habentia in superficie apud imperitum et insanum vulgus : sed fortiora quae hic efficere
+          videntur, sunt quae nos hic induximus.</p>
+        <p xml:id="admda-l1t2c15-d1e189">Faciamus autem quaestionem contra omnes istos Doctores. Constat enim quod homo unum est
+          in natura, et una substantia composita, in quo tamen omnia sunt quae superius induximus :
+          huic autem intellectus et sensus et appetitus et motivum secundum locum est et
+          augmentativum. Sic autem et asinus est unum, et hoc aliquid in natura, in quo sunt omnia
+          praedicta praeter intellectum. Unum autem quod est hoc aliquid natura fit unum a pluribus
+          ut plura sunt. Oportet ergo quod illa sint unita. Quaeramus ergo ab istis, quis continet
+          et unit animam, si ipsa de natura sua apta nata est esse partibilis et partita et unum
+          faciat ? Et non potest dici quod uniens illa sit corpus, quia corpus non continet et unit
+          animam, sed e converso anima est quae unit et haec continet corpus : cujus signum est,
+          quia anima egrediente per mortem de corpore, statim incipit deperdere unionem et
+          continuitatem suam : tunc enim primo exspirat ex ipsa calidum, quod secum ad superficiem
+          educit continuans humidum, sic marcescit et dissolvitur corpus, sicut diximus in quarto
+          Meteororum. Igitur non unitur ut faciant unum ex hoc quod continentur in corpore duo, sed
+          potius unum aliquid erit quod continet corpus : uniuntur igitur in aliquo incorporeo. <pb ed="#B5" n="185"/> <cb ed="#B5" n="a"/> Quaeramus utrum illud sit accidens, aut substantia
+          ? Et si ipsum est accidens, sive forma accidentalis, tunc accidens unit substantiam : et
+          hoc est maximum inconveniens : quia nulla multitudo substantiarum refertur ad accidens,
+          sed omnis accidentium multitudo refertur ad substantiam sicut ad uniens. Adhuc autem illud
+          accidens aut erit communiter accidens, aut erit accidens inseparabile. Et siquidem
+          communiter accidens, tunc poterunt esse sine illo. Ponamus igitur quod sint sine illo : et
+          nihil accidit inconveniens. Quando autem sunt sine illo, tunc sunt plura ut plura. Igitur
+          plura ut plura constituunt unum in natura : et hoc non est intelligibile. Si autem
+          accidens est inseparabile ab eis, tunc nunquam continget ea separari, quod ad sensum est
+          falsum : quia saepe ista in diversis inveniuntur subjectis. Adhuc si unum sint in
+          accidente, tunc causa faciens unum aliquid quod est homo vel leo, est accidens : homo
+          igitur et leo et caetera animalia non sunt unum substantialiter, sed accidentaliter, quod
+          ridiculo dignum est.</p>
+        <p xml:id="admda-l1t2c15-d1e196">Si autem detur, ut Aristoteli placet, quod uniens ea quae sunt in uno corpore, sit forma
+          substantialis quae sit altera a substantia ipsorum : tunc sequitur illud uniens magis esse
+          animam quam ista, quia in hoc solo differt anima ab alia forma naturali, quod ipsa una in
+          se existens per diversas potentias agit diversa in eo cujus ipsa est perfectio. Itaque
+          illorum quodlibet agit per se. Caeterae autem formae naturales essentialiter et per se non
+          faciunt nisi unum sicut calor calefacit, et frigus frigefacit. De illo autem uniente ea
+          quae supra commemorata sunt, quaeremus iterum utrum sit multarum partium non unitarum, aut
+          simpliciter substantia una ? Et siquidem est diversarum partium, oportebit et ipsum habere
+          uniens aliquid : et de illo iterum quaeremus ut prius, et procedet hoc in infinitum, nisi
+          stetur in <cb ed="#B5" n="b"/>
+          <!-- 185 b --> aliquo uno quod non est diversarum partium. Si autem statur in aliquo uno
+          tali, tunc necesse est dicere, quod mox sine altero aliquo uniente una est substantia quae
+          est anima, quae unit in se diversas potentias, quae sunt supra commemoratae : quia melius
+          est mox fieri per unum, quam per aliud. Praeterea substantia magis unit proprietates, quam
+          aliquod aliud posterius substantia sumptum. Adhuc autem quia tales potentiae quae sunt
+          quasi proprietates animae quibus praeparatur ad agendum et patiendum, fiunt immediate de
+          ipsis essentialibus. Et ideo istis tribus de causis oportet dicere, quod mox ipsa
+          substantia animae uniuntur, et non aliquo alio. Illud autem uniens cum non possit esse
+          multipartium, ut habitum est, oportet esse unum secundum substantiam. Una igitur est
+          substantia, in qua uniuntur omnia haec sicut proprietates naturales quae potentiae
+          naturales vocantur.</p>
+        <p xml:id="admda-l1t2c15-d1e203">Et secundum hoc facile respondetur his quae pro se induxerunt Pythagorici. Quoniam anima
+          tripliciter potest considerari. Uno quidem modo ut genus, alio ut anima, et tertio ut
+          naturalis potentia animae. Si enim anima accipiatur ut genus, praedicabilis est de
+          animabus particularibus quae sunt vegetativa plantarum, et sensitiva brutorum, et
+          rationalis anima hominum. Si autem accipiatur ut anima, tunc perfectio erit animati
+          corporis, et tunc secundum differentiam in specie vel in genere vel individuo ipsorum
+          animatorum differt anima ab anima specie vel in genere vel individuo : et ideo tota
+          hominis anima specie differt ab anima bruti : et nulla potentia est unius, quae non specie
+          differat a potentia alterius : visus enim hominis et visus asini specie differunt, non
+          quidem specie ipsius visibilis, quia hoc idem esse potest : sed specie pupillae et
+          virtutis visivae perficientis visum : et sic est de aliis viribus. Et hoc probatur
+          necessario ex hoc, quia sicut est in tota anima ad totum corpus, ita est in partibus
+          animae comparatae ad partes corporis : tota autem anima est species et <pb ed="#B5" n="186"/> <cb ed="#B5" n="a"/> forma diversum esse specie et ratione dans homini ab
+          animali bruti : sic igitur erit etiam in omnibus partibus ejus. Amplius a differentibus
+          specie substantialibus impossibile est potentias naturales ejusdem speciei causari. Sunt
+          autem differentia specie substantialia in homine et bruto. Proprietates igitur fluentes ab
+          ipsis specie erunt diversae : et hoc quidem necessarium est.</p>
+        <p xml:id="admda-l1t2c15-d1e210">Sed multi circa hoc errant, et eorum occasio, quod vident objecta esse eadem, et haec
+          inferre passiones potentiis diversorum animalium specie. Quae autem nata sunt inferre
+          passiones cum sint eadem, sunt sua passiva eadem specie : sed sua passiva sunt oculi, vel
+          aures animalium specie differentium : videntur ergo potentiae diversorum animalium specie,
+          esse eadem specie. Isti autem tales non sufficienter persuasi sunt signo. Quoniam nos
+          videmus, quod idem numero calidum ignis infert passiones diversis genere et specie, sicut
+          lapidi, et ligno, et animali : et tamen non propter hoc illa sunt eadem genere et specie.
+          Tales enim passiones inferunt non secundum convenientiam vel differentiam in specie et
+          genere, quae differentiae sunt secundum formam, sed potius secundum communicationem in
+          materia, quod ea quae communicationem habent in materia transmutabili, ad invicem agunt,
+          et patiuntur ab invicem et ab eisdem activis : haec autem communicatio nihil omnino facit
+          ad convenientiam vel differentiam in genere vel specie vel numero secundum formam, sed
+          potius secundum materiam. Et ideo quia bos idem visibile suscipit quod suscipit homo, hoc
+          ideo est, quia oculus bovis componitur ex aqua lucida pura tenente formas sicut oculus
+          hominis et non oportet propter hoc quod idem sit medium commixtionis oculi, vel ejusdem
+          speciei virtus visiva. Sic ergo consideratur anima ut anima.</p>
+        <p xml:id="admda-l1t2c15-d1e213">Hujus autem adhuc sunt duae rationes efficaciter hoc probantes, quarum una est, quod
+          scimus organicum corpus esse <cb ed="#B5" n="b"/>
+          <!-- 186 b --> perfectum ab anima, ut in sequentibus patebit : et nos videmus diversitatem
+          figurarum in omnibus organis diversorum animatorum in specie et genere : ergo etiam ipsae
+          vires erunt diversae in specie, quia eadem virtus in specie et genere quaerit organum
+          ejusdem figurae quo suam exerceat operationem in specie et genere : et inducendo hoc
+          probatur tam in artibus, quae sunt virtutes mechanicae, quam etiam in naturalibus :
+          alterius autem figurae sunt organa architecti quam panificis, et alterius figurae sunt
+          aures asini quam hominis, et alterius organa plantae quam animalis : et ideo dicentes
+          vires diversarum specierum ejusdem speciei, sunt incidentes in errorem Pythagoricorum
+          dicentium omnes animas posse ingredi corpus quodlibet, sicut si tectonica instrumenta
+          tibicines sibi coaptarent ad fistulandum. Secunda ratio est ab effectu sumpta : quoniam
+          nutritiva in ligno nutrimentum alterat ad naturam ligni, et nutritiva in bruto ad carnem
+          bruti, et in homine ad speciem carnis hominis. Cum ista igitur differant specie et genere
+          quae sic perficiunt, oportet et ipsas virtutes specie et genere differre. Haec igitur
+          dicta sint ad confutationem erroris quorundam nostrorum sociorum, qui se dicunt naturas
+          scire, et absque dubio nesciunt opiniones et positiones Peripateticorum, sed detinentur
+          erroribus Pythagorae et Platonis.</p>
+        <p xml:id="admda-l1t2c15-d1e221">Tertia vero animae consideratio est prout comparatur ad suas potestates naturales, quas
+          ipsa in eo quod secundum potestatem completam et actum animae habet vitam ab ipsa : et
+          secundum hoc una est in homine anima in substantia, et diversa virtutibus cognitivis et
+          appetitivis et motivis secundum locum et vegetantibus corpus : et ideo falsum est quod
+          illud quod est potentia vegetativa in uno, per locum et substantiam separatur ab ipso. Sed
+          id quod est anima vegetativa, quae ut anima non est nisi in plantis, separatur secundum
+          esse et locum ab eo quod est anima sensitiva quae est <pb ed="#B5" n="187"/> <cb ed="#B5" n="a"/> in brutis : et ideo quaerit diversum genere corpus in quo sit : quoniam diversae
+          in genere et specie formae diversorum sunt in genere et specie corporum formatorum :
+          nunquam enim anima vegetabilis est pars animae sensibilis, sed potentia vegetabilis potest
+          esse pars animae sensibilis, sic et sensibilis pars est intellectualis animae. Quae autem
+          una numero et substantia est anima, diversas habet potestates, sicut superius diximus :
+          quoniam in hoc differt anima a forma quae tantum est forma naturalis corporea, quod anima
+          potestatibus pluribus plura agit per se, ita quod nullum eorum per accidens, et non agit
+          secundum potestatem naturae corporeae, sed ultra terminum naturae elevatur in agendo, eo
+          quod anima agit in naturam, et intelligentia in animam, sicut supra diximus : et illarum
+          potestatum quaedam viciniores sunt naturae, sicut potestates sensibilis : quaedam autem
+          omnino sunt sicut resultatio luminis intelligentiae, sicut potestates rationalis : et ideo
+          secundum diversitatem temporis manifestantur in corpore quando formatur : quoniam prius
+          manifestantur quaedam opera vegetabilis, et postea quaedam opera sensibilis : et ad
+          manifestationem intellectus qui secundum prudentiam dicitur, exigitur experimentum et
+          tempus. Anima tamen una est secundum substantiam in omnibus istis potestatibus, licet non
+          secundum quamlibet potestatem simul tempore sit actus primus vel secundus : quia actus
+          primus est qui potest agere, nec potest impediri quando voluerit, sicut habitus scientiae
+          considerat quando voluerit. Et ideo dicit Philosophus, quod non est vivum et animal simul
+          intelligens secundum quod est actus completus organi : tunc enim anima inest ut artifex,
+          et non sicut actus. Animam enim inesse sicut artificem, est inesse animam secundum quid et
+          non simpliciter, hoc est, secundum virtutem <cb ed="#B5" n="b"/>
+          <!-- 187 b --> et rectitudinem formativae virtutis, quae format organa : sicut si
+          intelligamus speciem domus quae est in mente architecti, egredi de ipso et intrare ligna
+          et lapides, et sic formare domum sine manibus architecti. Sic enim adhuc figura domus
+          inducta secundum esse differt a specie formante lapides in domum, eo quod species formans
+          simplex est et nullius figurae : figura autem inducta non est simplex, cum dicimus speciem
+          domus esse in lapidibus et lignis, quae in domus figuram convertuntur. Et sic Philosophus
+          vult quod species animae sit in semine formans et figurans organa, quae virtus formativa
+          vocatur : et hoc est animam inesse secundum quid, hoc est, secundum speciem et virtutem
+          animae quae formativa vocatur : sed non inest secundum quod est actus et substantia
+          quaedam animati corporis, nisi in corpore organico completo. Iste est igitur intellectus
+          <name ref="#Aristotle">Aristotelis</name>, et nos determinabimus hoc in libro de
+          Animalibus : quia per hunc modum ibi <name ref="#Aristotle">Aristoteles</name> explanat
+          seipsum, et sui Commentatores, sicut dictum est, exponunt eum. Per hoc igitur patet
+          qualiter animae vires adveniunt secundum temporis diversitatem. Si autem dicamus partem
+          vegetabilem secundum substantiam alteram esse a sensibili, propter hoc quod diverso
+          tempore inducitur ut est actus organi : tunc etiam oportet nos dicere motivam secundum
+          locum esse diversam in substantia a sensibili, quia motiva secundum locum diverso tempore
+          perficitur ut actus primus vel secundus. Adhuc autem et generativam dicemus alteram a
+          nutritiva et augmentativa, eo quod longo tempore post perficitur ad actum. Quod autem
+          obiciunt de diversa complexione organorum, Platonis doctrina est, sed erroneum : quoniam
+          licet omnia membra sint diversarum complexionum, tamen omnia diriguntur et convertuntur ad
+          unum quod est cor, vel id quod est cordis loco : et <pb ed="#B5" n="188"/> <cb ed="#B5" n="a"/> ideo tota corporis diversitas refertur ad unum uniens omnia alia : et sicut se
+          habet ad suas partes corpus, ita se habet perfectio corporis ad suas particulares
+          potestates : et ideo substantia una est animae, cujus actus est vita cordis, et
+          particulares potestates exercet in aliis membris. Sic igitur dicemus totam partium animae
+          diversitatem in uno corpore esse unitam aliquo quod est anima.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

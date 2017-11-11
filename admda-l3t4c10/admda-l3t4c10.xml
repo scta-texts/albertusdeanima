@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT X.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT X.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t4c10">
+        <head xml:id="admda-l3t4c10-Hd1e128">CAPUT X.</head>
+        <head xml:id="admda-l3t4c10-Hd1e131" type="question-title">Et est digressio declarans suas diversitates secundum Platonicos
+          et Theologos.</head>
+        <p xml:id="admda-l3t4c10-d1e134">Si vero nos dicamus omnia moventia quaecumque movent spiritus operabilium circa quae sunt
+          motus hominum, tunc multa diversitas est in moventibus : tunc enim non determinabimus
+          partes tantum animae motivas subjecto ab aliis partibus differentes, sed accipiemus omnem
+          partem moventem, quaecumque potentia cum habitu suo uno nomine vocatur : et ab illa
+          habituali potentia differt tam in habitu quam in actu, licet sit eadem illi in subjecto,
+          et quamvis circa idem operetur : et hoc est dividere moventia potius per virtutes quam per
+          partes : una enim pars secundum subjectum animae multas habere potest virtutes, quibus
+          perficitur ad opus et ad motum : et quando habitualiter potentia sumitur, hoc est cum
+          habitu uno nomine nominatur, tunc differt a seipsa secundum quod alio habitu nominatur :
+          et secundum hoc cum duae sint moventes tanquam decernentes motum, et potentia intellectus
+          et phantasia, plures accipiemus sub intellectu et plures sub phantasia. Sub intellectu
+          autem accipiemus omnes illas quae quocumque modo habent speciem moventem, quae est species
+          operabilium per nos : contingit enim haberi habitus operabilium universales, quae sunt
+          quasi ipsa principia morum, circa quae quasi nunquam incidit error, et quae sunt quasi
+          regentia prima in moribus, quae non accepimus a doctore, sed sunt congenita nobis, sicut
+          non esse furandum, nulli esse injuriandum, quod mihi nolo alii ne faciam, et caetera
+          hujusmodi : et pars in<cb ed="#B5" n="b"/>
+          <!-- 409 b -->tellectus conjuncta hujusmodi habitui, ab antiquis Platonicis synderesis
+          vocata est : dictum enim est ab eis quod nunquam errat per seipsam : vocata autem est a
+          quibusdam posterioribus naturale judicatorium, eo quod judicium ejus de moralibus per
+          naturam detur nobis, sicut et primae dignitates scibilium contemplationum : sunt enim haec
+          instrumenta intellectus practici, quibus et alia operabilia cognoscit. Et quia ab
+          universalibus est decursus ad particulare, sub istis universalibus assumit ratio quasi
+          minorem propositionem conferens et componens universale ad particulare, dicens hoc vel
+          esse fornicationem, vel furtum, vel moechiam, vel hac vel illa justitia esse vivendum, vel
+          hac vel illa veteri actione Deum esse colendum : et jam circa istud plurimus est error :
+          quoniam et tyrannus universaliter bene accipit leges esse custodiendas, sed mentitur in
+          hoc quod dicit hoc esse legem, quod in nocumentum populi statutum est. Quod autem ex
+          duobus, synderesi videlicet proponente et ratione cognitiva assumente quasi conclusum
+          vocari consuevit conscientia, ideo conscientia accusat vel excusat apud rectorum : quia
+          quasi ex quadam obligatione syllogistica obligat agentem. Non est tantum jus naturale ex
+          quo principaliter procedit <choice> <orig>syderesis</orig> <reg>synderesis</reg>
+          </choice>, sed est divinum positivum humanum, et hoc est variatum secundum consuetudinem
+          et statuta viventium.</p>
+        <p xml:id="admda-l3t4c10-d1e150">Et ex his etiam habemus habitus in operabilibus regentes, et illa quidem quae informata
+          jure divino regit, in operibus vocata est superior portio rationis, eo quod superiori jure
+          perficitur, quod similitudo quaedam est aequitatis et rectitudinis divinae : vocatur autem
+          a quibusdam ratio sapientiae, eo quod dicunt <choice> <orig>sapien tiam</orig>
+          <reg>sapientiam</reg> </choice> esse rationem et cognitionem divinorum, quae altissima
+          sunt et rectissima : et quia haec non tantum habet ut in se considerata, sed etiam
+          particularibus comparata, ideo non est sine peccato in moribus, sed tamen peccata morum
+          non inci<pb ed="#B5" n="410"/> <cb ed="#B5" n="a"/>piunt non ex parte illa qua ad
+          inferiora comparatur : pars autem quae informatur jure humano, quod positum est et
+          consuetudine approbatum, nihil habet perpetuo : rectum potius particulare est totum et
+          locale et temporale et secundum casus variatum id ex quo ipsa regit opera, sicut variatur
+          regula Lesbiae aedificationis, sicut diximus superius : et hanc vocant inferiorem
+          portionem rationis. Vocatur autem a naturalibus ratio scientiae, eo quod scientiam non
+          vocant effectum demonstrationis, sed potius habitum ex humanis regentem opera, et est
+          habitus docens bene conversari inter parvos ex his quae moribus congruunt secundum jus
+          positivum et consuetudinem civium : portio autem rationis superior et inferior sub
+          quibusdam una est, licet habitibus et actibus et officiis sint divisae. Sciendum autem
+          est, quod sicut devenitur ab universali hujus juris naturalis praeponentis assumptionem ad
+          conclusionem quae vocatur conscientia, ita etiam ex ratione superiori proponente id quod
+          est juris divini, et per rationem cogitativam hoc particulare comparante, devenitur ad
+          conclusionem quae iterum conscientia vocatur. Et simile est quando proponit ratio inferior
+          aliquid quod est juris humani, et confertur illud cogitativo ad operabilia, venitur in
+          quoddam quasi conclusum, quod idem vocatur conscientia propter similem obligationis modum,
+          quod videlicet in omnibus obligatio est quasi ex syllogismo, sed tamen cum proponitur ex
+          ratione inferiori, non perfecta est argumentatio, sed imperfecta propter defectum
+          universalis propositionis. Nihil enim in humanis statutis adeo universale et verum est
+          quam quod semper et ab omnibus faciendum sit. Sciendum autem est, quod sicut in motoribus
+          sphaerarum est semper quod superior ordinat inferiorem, ita est etiam in istis : quoniam
+          naturalia et divina ordinant humana : et ideo verissime jus humanum est, quod ex casibus
+          hominum habet varietatem, et tamen quantum potest attingit jus divi<cb ed="#B5" n="b"/>
+          <!-- 410 b -->num et jus naturale exemplum quoddam juris divini. De istis autem in
+          Civilibus est determinandum.</p>
+        <p xml:id="admda-l3t4c10-d1e170">Sicut autem diximus de motivis decernentibus motum in homine, ita est de appetitivis :
+          <choice> <orig>quodiam</orig> <reg>quoniam</reg> </choice> appetitus, sicut diximus,
+          commune aliquod est, et dividitur in appetitivam rationalem, et in appetitivam sensibilem
+          : et illa quidem est quae rationalis voluntas proprie vocatur. Illa autem quae est
+          sensibilis pars animae, vocatur desiderium. De voluntate autem superius dictum est :
+          quoniam ipsa libera est ad volendum, et est quasi facultas omnium aliarum : quoniam non
+          cogitamus nisi quando volumus : et hoc modo quasi motor est aliarum virium ad actum vel
+          actus, et hoc modo dicimus, quando per voluntatem domini sumus nos nostrorum actuum, et
+          sumus liberi : quia liberum vocamus, quia causa sui est et non causa alterius : et hoc
+          significamus, cum dicimus quod facimus sponte id quod facimus, significantes quod causa
+          actus non est aliunde nisi a nobis. Quoniam tamen haec potentia quae voluntas vocatur, ut
+          ordinata a ratione deliberante accipitur, et tam deliberatio quam appetitus in idem
+          feruntur, tunc facultas talis sic utroque ordinatim procedens liberum arbitrium vocatur :
+          arbitrium quidem propter rationem deliberantem et arbitrantem, et liberum propter
+          voluntatis libertatem, et ideo dicitur optime, quod liberum arbitrium est facultas
+          rationis et voluntatis. Ratio enim, ut dicit <name ref="#Aristotle">Aristoteles</name> in
+          VI Ethicorum, in contingentibus est operabilibus, et libertas facit nos causam istorum.
+          Nascitur autem ex arbitratione et libertate facultas, quae recte est hominis ad opera :
+          quia solus homo arbiter sui constitutus est, quod arbiter libere eligit ad opus vel
+          dimittit : et ideo etiam hoc solum accusat vel excusat apud rectorem. Quia si homo arbiter
+          suus non esset de agendo vel non agendo, et liber non esset, non puniret vel praemiaret
+          actus ejus legislator : cum autem dico hominem esse arbitrum sui, est arbiter sui iste
+          assimi<pb ed="#B5" n="411"/> <cb ed="#B5" n="a"/>latus arbitro, cujus arbitrium non est
+          vallatum poena, sed in potestate libera habet pronuntiare quod voluerit : et ideo
+          arbitrium saepe perversum est, cujus tamen perversitatis sola causa est libertas : et ideo
+          perversitatis operum principalior causa est voluntas a qua est libertas, quam ratio cujus
+          proprius actus est arbitrium.</p>
+        <p xml:id="admda-l3t4c10-d1e190">Quaeret autem forte aliquis, quid vocatur facultas, quando dicimus liberum arbitrium esse
+          facultatem rationis et voluntatis ? Dicimus ad hoc, quoniam facultas est potestas facilis
+          tam rationis quam voluntatis : rationis dico arbitrantis, et voluntatis libere volentis
+          unum vel aliud : neque est facultas arbitrii quo arbitratur ratio de operabilibus tantum,
+          sed potius arbitrii quo quis suus arbiter constituitur ad eligendum quod voluerit : et
+          ideo liberum arbitrium non est separatum a ratione et voluntate, cum sit potestas
+          habitualis et facilis utriusque, nullo indigens ad opus nisi seipsa. De eligentia autem et
+          consilio in Ethicis erit determinandum : vires autem animae sensibilis secundario moventes
+          multum sunt valde, et sub phantasia quidem comprehenditur aestimativa, de qua superius
+          diximus in secundo libro. Est etiam movens sensus sicut primo nuntians delectabile vel
+          triste sensui per accidens : et quia omne movens habet aliquid desiderii, ideo sensualitas
+          vocatur ille motus animalium qui afficit ipsa ex quinque sensibus corporis. Et quia talis
+          motus nullo secundum se regimine gubernatur, sed inclinatur ad omne delectabile oblatum,
+          ideo dicitur sensualitas perpetuae esse corruptionis : ideoque omnis legislator et mores
+          quaerens instruere, avertit a delectabilibus sensualitatis quantum potest. Desiderativa
+          autem est animae sensibilis pars, appetitiva dividitur in concupiscibilem et irascibilem a
+          Platone, qui concupiscibile in hepate quidem ponit, et irascibile in cista fellis :
+          vocavit autem concupiscibilem virtutem desiderativam eorum quae afficiunt secundum
+          delecta<cb ed="#B5" n="b"/>
+          <!-- 411 b -->tionem quae vocatur mulcebris, eo quod demulcendo, et emolliendo trahit
+          appetitum, sicut est delectatio tactus in cibis et potibus et venereis, et ejusdem
+          potentiae erit tristitia his opposita. Irascibile autem vocavit virtutem animi quae
+          insurgit in arduum quod est in ausu et gloria et victoria, et in omni eo quod collocat in
+          gloria et in gradu quodam sublimitatis et altitudinis secundum seipsum et ejusdem
+          tristitias his oppositas : propter quod ponit Plato in concupiscibili temperantiam, in
+          irascibili fortitudinem. Istae autem duae sicut et omnis potentia animae sensibilis,
+          formalitatem quamdam habent in homine, quam non habent in aliis animalibus : in homine
+          enim sunt rationales, et in aliis sunt actae a natura. Rationale enim dupliciter dicitur,
+          scilicet quod secundum essentiam rationale est, vel quod participat aliqualiter rationem
+          in hoc quod regimen ejus participat : et sic rationale est persuasibile a ratione : et hoc
+          modo concupiscibilis et irascibilis sunt rationales voluntate : et hoc simile est
+          motoribus sphaerarum, sicut diximus, in quibus virtus superioris motoris remanet in
+          inferiori, ordinans et movens eumdem. Sunt autem qui dicunt voluntatem quae rationalis est
+          per essentiam, eo quod est pars animae rationalis, in concupiscibilem et irascibilem
+          dividi : sed hoc omnino absurdum est, quia concupiscibile et irascibile a passionibus
+          corporeis nomen accipiunt, et penes illas non potest dividi vel denominari aliqua pars
+          animae rationalis, quae universaliter corporis actus existit : sed potius cujus voluntas
+          sit simpliciter appetitus, illa indivisibilis permanere debet : desiderium autem quod est
+          appetitus sensibilium, quae multa sunt, dividi habet per passiones in genere differentes,
+          quae ex ipsis sensibilibus oriuntur : et hae passiones in genere sunt duae, neque
+          connaturales nobis, et illatae extrinsecus : et circa primas quidem est concupiscibilis,
+          et circa alias irascibilis.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

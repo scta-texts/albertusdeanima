@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT I.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT I.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t3c1">
+        <head xml:id="admda-l3t3c1-Hd1e128">CAPUT I.</head>
+        <head xml:id="admda-l3t3c1-Hd1e131" type="question-title">De intellectu indivisibilium diversimode dictorum.</head>
+        <p xml:id="admda-l3t3c1-d1e134">His autem sic pertractatis de natura intellectuum animae rationalis, videamus de actibus
+          intellectus possibilis : quia sic melius adhuc declarabitur de natura ejus. Et quia prior
+          est actus intellectus super indivisibilia, quam super composita, ob hoc primo de actibus
+          intellectus super indivisibilia est perscrutandum : omne enim quod intelligitur, ut unum
+          intelligitur : quia scire plura possumus simul et semel, sed intelligere minime : omne
+          ergo quod intelligitur, intelligitur unum. Est autem unum quod dicitur indivisum, quando
+          compositioni opponitur, et illud est incomplexum. Est etiam unum quod multitudini
+          dividentium oppositum est et illud est continuum : et est unum sicut ratione unum, et hoc
+          est unum forma : et est unum quod simpli<cb ed="#B5" n="b"/>
+          <!-- 368 b -->citer est unum, quod est impartibile secundum rem, et illud privatione
+          partium est unum. Intellectus autem unus actus, cum sit unum, de omnibus istis unus
+          est.</p>
+        <p xml:id="admda-l3t3c1-d1e141">Indivisibilium quidem igitur quae sunt incomplexa intelligentia sive intelligere quod est
+          actus intelligendi, in omnibus his est circa quae non est falsum eo quod, sicut inferius
+          ostendemus, nunquam accidit error intelligibilium in talium intellectu. Hic autem
+          intellectus vocatur apud Arabes informatio : eo quod intelligere talia est informari
+          intellectum possibilem naturis formalibus eorum : intellectus autem complexorum, qui est
+          enuntiationis vel compositionis, vocatur fides per assensum intellectus ad talia. In
+          quibus igitur intellectibus jam falsum est et verum, quia enuntiatione alicujus de aliquo
+          jam necessarium est esse compositionem alicujus de aliquo : quia unum incomplexum cum
+          altero componitur et aliud affirmatur de ipso vel negatur ab eo : talis enim intellectus
+          est de eo quod inest secundum quod inest praedicatum subjecto : verum enim et falsum non
+          sunt nisi in respectu compositionis ali<pb ed="#B5" n="369"/> <cb ed="#B5" n="a"/>cujus
+          cum alio, vel divisionis alicujus ab aliquo. Est autem prior intellectus incomplexorum
+          quam compositionis, quodammodo causa ejus qui compositionis est, quemadmodum et Empedocles
+          dixit de natura, inquiens, quod capita secundum naturam germinaverunt et secundum germinum
+          naturam et sibi congruentium fuerunt primo sine cervice, quae postea per amicitiam suis
+          germanis cervicibus associata sunt, quando amicitia commisit res germanas sibi in
+          generationem rerum. Sic enim et haec separata et incomplexa primo intelliguntur, et postea
+          germana suis germanis componuntur per per intellectum : et ab his qua non sunt germana,
+          dividuntur per negationem hujus ab hoc. Verbi gratia, incomplexum quod est asimetros, et
+          incomplexum quod est diametros, conjungitur, cum dicitur quod diameter est asimeter : et
+          horum compositorum est etiam intellectus unus, quoniam non simpliciter accipiuntur ut
+          plura, sicut dicit enuntiando, sed ut unum in altero, vel unum ab altero. Et haec non sunt
+          enuntiata ut plura, sicut dicit enuntiando, ita intelligit. In his quae sunt incomplexa
+          cum intelliguntur, nullum confingitur tempus vel differentia temporis. Omnium enim talium
+          intellectus est per rei simplicem speciem, quae denudata est a conditionibus materiae,
+          quarum una est motus, et altera tempus : et ideo talium intellectus abstrahit ab omni
+          differentia temporis. Cum autem per compositionem unum de altero signetur, licet in re non
+          sit compositio, sed unio unius cum alio nisi secundum modum cujusdam esse quod habet unum
+          in alio, et hoc esse significatur per verbum notans compositionem : et quia signatur in
+          actione esse, ideo oportet quod figuret differentiam aliquam : esse enim talis mensurat
+          tempus.</p>
+        <p xml:id="admda-l3t3c1-d1e148"> <cb ed="#B5" n="b"/>
+          <!-- 369 b --> Et ideo intellectus intelligens factorum sive praeteritorum et futurorum
+          falsum esset, ut si non album albo componitur : verum autem quando componit cum eo quod
+          secundum veritatem est album : et hoc contingit secundum quamlibet differentiam temporis.
+          Non enim solum falsum et verum est secundum praesens tempus, ut si dicatur quoniam Cleon
+          est albus vel non est albus : sed etiam quia erat albus, et quia erit albus, vel non erat
+          albus. In omnibus autem his compositionibus, licet verum et falsum a re causetur, tamen
+          compositio pro certo in anima est componente : quia tria sunt in compositione, scilicet
+          subjectum, et praedicatum, et compositio media : et tantum duae sunt in re res, videlicet
+          cui aliquid inest, et quod inest : et unum inest alteri sine medio : et ideo nihil in re
+          respondet compositioni nisi ipsa unitas duorum unitorum : sed compositio est in anima
+          uniente quae accipit primo divisa, et postea componit falsum esse verum, cum sint
+          relationes uniuscujusque relativorum : et ideo sunt in re sicut in causa efficiente, in
+          anima autem sunt sicut in subjecto. In anima autem dico esse quod est in compositione quam
+          facit anima : in voce autem sunt sicut in signo. Quidquid autem de his sit, sciendum est
+          ic quod quaecumque contingit dicere componendo, contingit etiam dicere dividendo : sed cum
+          componit anima, tunc componit divisa, et cum dividit, tunc dividit composita, et ideo ante
+          omnem animae compositionem est divisio, et ante omnem divisionem est compositio. Est autem
+          et in divisione compositio, quae divisio notatur, quando unum negatur ab altero : et sic
+          et divisio et compositio adveniens, composita et divisa referuntur, et in illo ut unum vel
+          unita intelliguntur : et inde unum compositum facit intellectus componens in unoquoque
+          diversorum prius, <pb ed="#B5" n="370"/> <cb ed="#B5" n="a"/> et postea compositorum.
+          Indivisum autem unumquodque aliquando vocatur indivisibile, sicut continuum est unum, eo
+          quod est indivisum.</p>
+        <p xml:id="admda-l3t3c1-d1e160">Indivisum enim dupliciter dicitur, potentia videlicet, et actu. Indivisum enim actu est
+          continuum, licet potentia sit divisum : et hoc tale intelligibile nihil prohibet una
+          simplici actione intellectus intelligi, sicut indivisibile : et hoc quando intelligit
+          longitudinem. Et illius causa est, quoniam non intelligit longitudinem per partes quae
+          potentia sunt in ipsa accipiendo eam, licet potius per unam simplicem speciem longitudinis
+          quae est forma unius quae unit omnes partes longitudinis faciendo eas unum in esse in actu
+          : actualiter enim una longitudo indivisibilis est : et ideo in tempore uno vel momento uno
+          totam per speciem longitudinis intelligit. Quod similiter est in intellectu continuorum,
+          sicut temporis et aliorum : quia tempus similiter est indivisibile actu, et potentia
+          divisibile est, sicut et continua longitudo : unde licet utramque partem habeant ante et
+          post, tamen quia intellectus non accipit continuum per partes, sed per speciem totius,
+          quae nec partium quaedam est, nec partes omnes, sed quidditas unius in actu divisi
+          existentis, ideo una et simplici actione intellectus intelligitur. Non enim contingit
+          dicere quod per utrumque istorum intelligitur per medium, quia id quod intelligitur per
+          medium sui sicut per partem, hoc est divisum in actu : non enim habet medium actu nisi
+          divisum in actu : sed illud continuum non est divisum, ita quod partes ejus sequestratae
+          sunt seorsum, nisi potentia : res autem per quod est in potentia, non intelligitur, sed
+          per id quod est in actu. Si autem intellectus est utrumque intelligens seorsum, hoc est,
+          per partem extra partem, tunc etiam tempus intelligendi unum, dividitur a tempore <cb ed="#B5" n="b"/>
+          <!-- 370 b --> intelligendi alterum. Quoniam quando intelligit partem unam, tunc in eodem
+          momento non intelligit alteram : tunc enim intelligere est in tempore quod est sicut
+          intellectus est : in longitudine autem divisa divisum est intelligere : ergo et in tempore
+          diverso perficere et intelligere est unius et alterius partis. Si autem intelligit
+          longitudinem sicut unum actu, quod est ex utrisque partibus, quae sunt in ea potentia
+          solum, tunc etiam intelligere est in unico tempore, quod proportionatur intellectui
+          longitudinis ex utrisque partibus composito : et hoc est unicum et indivisum tempus
+          intelligendi.</p>
+        <p xml:id="admda-l3t3c1-d1e167">Quia vero non solum est aliquid indivisum quantitate, quod actu est quantitas una : sed
+          aliquid dicitur specie indivisum, quod formaliter est unum, sicut caro, vel lignum, licet
+          sit indivisibile non potentia et per se sicut quantum, sed per accidens, eo quod est forma
+          ejus quod indivisibile est per se, et illo diviso accidit illud dividi, sicut diviso ligno
+          species et forma dividitur per accidens : tamen illud quod per accidens sic divisibile est
+          species et forma, indivisibile est secundum quod ipsum est indivisibile, sic unica
+          intellectus actione intelligitur et in specie indivisibili et unica. Hanc autem unicam
+          intellectus actionem quidam vocant indivisibilem animam : eo quod in tali, ut ita dicam,
+          intellectione animae per diversos actus non dividuntur talia : cum sint divisibilia per
+          accidens divisione sui subjecti, et non in quantum sunt hoc quod sunt per formas suas,
+          sicut quae sunt quidditates subjectorum talium : hoc igitur quod intelligit subjectum, est
+          divisibile : et si dividatur, tunc etiam tempus intellectivae dividitur, quia in pluribus
+          temporibus intelligit partita et divisa secundum actum, sed non intelligit ea sic, sed
+          potius in quantum forma et species : hoc tamen non est separabile ab eis : quia tales
+          species phy<pb ed="#B5" n="371"/> <cb ed="#B5" n="a"/>sicae secundum rationem non
+          separantur ab eis, cum materiam in sua ratione concipiant, et hoc indivisibile facit talia
+          unum : et intellectum eorum facit unicum et indivisum : et tale indivisibile quod est
+          forma, facit in longitudinem unam, licet sit divisibilis potentia : tale enim uniens quod
+          est forma et species, secundum similitudinem unam est in omni continuo, sive illud
+          positionem habeat in partibus, ut longitudo : sive non habeat positionem in partibus,
+          sicut tempus. Licet autem talis forma secundum esse non sit separabilis a materia quam
+          unit, et sit indivisibilis per accidens divisione subjecti : tamen simpliciter conceptus
+          ejus est universalis, nec est divisibilis, nec separabilis a materia : omne enim quod
+          intelligitur, denudatum est a materia secundum quod ipsa est individuans : sicut omne
+          universale separatur a particulari : potest tamen ratio diffinitiva esse in se concipiens
+          materiam : sed illa non erit individuans, sed erit quasi differentia constituens ipsam
+          formam : quia non est solum materia, sed potius causa ejus, sicut quando diffiniens
+          carnem, dico quod est medium in tactu ex calido, et frigido, et humido, et sicco, et sic
+          proportionabiliter nominando commixtum calidum et frigidum et humidum et siccum, non dico
+          simplicem materiam, sed etiam causam effectivam commixtionis carnis : multitudinem ergo
+          intelligit componibilium intellectus unus univoce compositionis, et multitudinem
+          potentialem accipit intellectus unicus univoce actus et multitudinem partium materiae, et
+          sibi accidit unicus intellectus univocae speciei et formae.</p>
+        <p xml:id="admda-l3t3c1-d1e174">Id autem quod simpliciter est indivisum est, sicut punctum et unitas : omne enim punctum
+          divisio est, et non divisibile : divisio enim semper fit in puncto, et tamen nunquam
+          dividitur : omne autem hujusmodi indivisibile secundum quod est in<cb ed="#B5" n="b"/>
+          <!-- 371 b -->divisibile, nomine privativo monstratur esse indivisibile : sicut dicimus
+          quod punctum est, cujus pars non est, et sic est in omnibus aliis simpliciter
+          indivisibilibus, sicut unitas est, et sicut est nunc. Quando enim illa sumuntur ut
+          privatio suarum quantitatum, tunc non accipiuntur in se, sed in suis quantitatibus quas
+          principiant, sicut punctum est terminus lineae, et unitas in aggregatione numeri, et nunc
+          in continuatione praeteriti et futuri, et tunc non nosceretur nomine ratione privata.
+          Quando autem secundum se accipiuntur, privationis nomine monstrantur, et tunc etiam ut
+          privationes per suos habitus oppositos intelliguntur : et haec sunt intelligibilia quasi
+          reflexa, et una et similis ratio est in intellectu omnium illarum privationum : nisi enim
+          ita diceremus, quomodo possemus dicere quod intellectus cognoscat malum, quod privatio
+          est, et ignorantiam, quae etiam est privatio, sicut alibi monstratum est. In omnibus
+          intelligibilibus oportet intellectum potentia primum esse cognoscentem, et cognoscibile
+          postea esse in ipso secundum actum ipso intellectu eodem remanente. Quoniam, sicut supra
+          ostendimus, intellectus possibilis diversificatur per intelligibilia, sicut materia
+          diversificatur per formas : et ideo accipiendo cognoscibile, accipit aliquid extra
+          seipsum. Si autem alicujus intellectus nullum habet omnino contrarium, secundum
+          intelligibilia, oportet quod ille per aliquid cognoscat quod non habet contrarium : et hic
+          est intellectus ille qui ratio et causa est intelligibilium, et ille cognoscit seipsum, et
+          cognoscendo se cognoscit alia, et illud intelligere nullo modo egreditur extra se : et cum
+          sit ratio omnium sicut ars artificiatorum, oportet ipsum esse separatum ab omnibus : et
+          erit semper in actu, et nunquam in potentia : eo quod intelligere suum nunquam egreditur
+          extra se : sibi enim semper est praesens : et hic est intellectus intelligibilium
+          substantiarum separatarum, et maxime intellectus causae primae.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

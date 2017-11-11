@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT X.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT X.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c10">
+        <head xml:id="admda-l2t3c10-Hd1e128">CAPUT X.</head>
+        <head xml:id="admda-l2t3c10-Hd1e131" type="question-title">Et est digressio declarans errorem eorum qui dicunt lumen esse
+          corpus indivisibile.</head>
+        <p xml:id="admda-l2t3c10-d1e134">Sed secta eorum qui se nostro tempore erexerunt in sententia de lumine, plura continet
+          figmenta et plures errores. Isti enim dicunt lumen esse corpus, cujus esse est continue
+          generari et fieri : et dicunt esse corpus formale et spirituale, cujus dicunt esse
+          convenientiam tam cum corpore quam cum incorporeo spiritu. Cum corpore quidem convenit, ut
+          dicunt, quia situaliter implet mundum : cum incorporeo autem, quia est indivisibile. Ut
+          melius intelligatur, etiam subjiciunt exemplum, dicentes materiam primam es<pb ed="#B5" n="251"/> <cb ed="#B5" n="a"/>sentiales habere partes, quae sunt substantiae, quas non
+          confert ei quantitas, sed habet eas ante quantitatem, sed quantitas addita materiae
+          discindit partes inventas in materia, et dat eis situm, ita quod una est juxta aliam in
+          situ, et una ante aliam, et una subtus, et alia supra, quorum nihil habuerunt partes
+          materiae ante quantitatem, sed tunc habuit unam partem quasi sub alia et non juxta aliam.
+          Ita dicunt quantitatem perspicui sive perspicui corporis se habere ad substantiam quae est
+          lux vel lumen, quae quidem substantia corporea est, ut dicunt, sed situm et quantitatem
+          non accipit nisi ex eo in quod descendit : in se autem substantia indivisibilis est. Si
+          autem objicitur istis quod corpus est quod habet tres dimensiones, sicut dicit Euclides,
+          dicunt quod hoc est corpus in genere quantitatis, sed ante illud est corpus in genere
+          substantiae, de quo etiam diximus in libro Physicorum, quod est subjectum in physicis,
+          quod non habet dimensiones terminatas, sed potest habere quascumque : et in genere
+          corporis naturalis primum secundum esse, licet secundum rationem non sit primum, est lux
+          et lumen, ut dicunt isti : et quia sic simplex corpus est, dicunt quod cum quolibet alio
+          corpore potest esse, et est in eodem loco propter suam formalitatem. Et si quaeratur ab
+          his, quae sit necessitas hujus corporis in naturis, dicunt quod quemadmodum necessarium
+          est esse in naturis unum primum, quod movetur tantum, quod est materia prima, quae non
+          movet aliquid, sed movetur ab omnibus quae movent in natura : sic etiam necessarium est
+          esse unum corpus movens, et hoc est coeleste corpus. Cum autem secundum se non tangat
+          materiam, oportet ab ipso fieri corpus progrediens ex ipso continue, quod agit in materiam
+          tangendo eam : et cum movens et mobile sint diversae essentiae, oportet quod istud corpus
+          diversae sit essentiae ab omni materia generabilium et corruptibilium : et hac ratione
+          dicunt lucem pri<cb ed="#B5" n="b"/>
+          <!-- 251 b -->mum esse in genere substantiae et esse corpus simplicissimum, quemadmodum
+          formae cum quolibet corpore est in eodem loco.</p>
+        <p xml:id="admda-l2t3c10-d1e145">Addunt autem adhuc dicentes corpus non effici nisi a corpore, et cum suppositum sit lucem
+          esse moventem ad generationem corporum, dicunt oportere ipsam esse corpoream substantiam :
+          quia aliter corpus causaretur a non corpore, quod est inconveniens in physicis. Adhuc
+          autem dicunt nihil secundum esse figurari nisi corpus : videmus autem figurari lucem in
+          figura sphaerae. Amplius radii egredientes a corpore luminoso distincti videntur : nihil
+          autem distinctum cernitur in natura nisi corpus. Adhuc autem quod procedit a corpore, aut
+          est corpus, aut non est corpus. Si est corpus, habetur propositum. Si vero non est corpus,
+          tunc oportet quod sit forma corporis. Aut ergo forma accidentalis, aut substantialis. Et
+          si diceretur forma substantialis esse, tunc sequeretur formam substantialem egredi extra
+          suam propriam materiam, quod est absurditas. Si autem accidentalis forma, aut est accidens
+          per se, vel accidens per accidens. Et si est accidens per se, tunc est inseparabile a suo
+          subjecto : et hoc non videmus, quoniam nos invenimus in pluribus subjectis. Si vero sit
+          accidens per accidens, tunc oportet ad hoc quod reducatur ad aliquid quod est per se
+          subjectum : quia accidens per accidens reducitur ad accidens per se : et tunc sequitur id
+          quod prius. Praeterea accidens secundum hoc movebit ad esse omnium quae physice
+          generantur, quod est valde absurdum : ergo relinquitur quod sit corpus. Haec et hujusmodi
+          inducere consueverunt quidam lucem esse corpus dicentes. Adhuc autem dicunt lucem
+          multiplicatam divaricare et disgregare aerem et calefacere et ignire, sicut in speculis
+          apparet, quae omnia non nisi corpus efficere potest.</p>
+        <p xml:id="admda-l2t3c10-d1e148">Nos autem istam opinionem plenam esse erroribus reputamus, nec fuit inventa <pb ed="#B5" n="252"/> <cb ed="#B5" n="a"/> propter veritatem rei, sed potius propter amorem defendendi
+          quosdam Antiquos qui radios corpora esse dixerunt. In contrarium autem hujus opinionis
+          est, quod dicunt lucem esse corpus simplex : et tunc oportet quod sit aliquod simplicium :
+          et quodcumque est, illius motum habebit : et hoc non est verum, cum videamus ipsum nec
+          circulariter moveri, sed recte ad diametrum diffundi : et cum movetur recte, movetur in
+          omnem partem ad quam recta linea trahi potest a luminari primo, quod non facit aliquod
+          simplicium quae habent motum rectum : nisi forte velint fingere, quod sex sunt corpora
+          simplicia.</p>
+        <p xml:id="admda-l2t3c10-d1e156">Adhuc autem fabulosum est quod dicunt, hoc corpus esse indivisibile : aut enim est
+          indivisibile habens situm, aut non habens situm. Et si habet situm, nulla est differentia
+          sui ad punctum : indivisibile enim mobile necessario habet situm : et hoc necessario est
+          punctum, sicut supra et in Physicis propositum est. Si autem non habet situm, tunc nec
+          corpus est, nec corporis aliquid : quia omne illud quod est corpus vel aliquid corporis,
+          situm habet. Adhuc autem unde venit ei quantitas qua diffunditur per totum hemisphaerium ?
+          Si dicatur quod ab aere, tunc non habet quantitatem nisi alienam, sicut habet forma
+          situalis quantitatem sui subjecti : et tunc per hoc non probatur quod sit corpus, sicut
+          nec albedo corpus est habens longitudinem et latitudinem per accidens in subjecto. Si
+          autem habet quantitatem potentia quae reducitur in actum quando implet hemisphaerium, tunc
+          quaeratur quid educat eam de potentia ad actum : illud enim aliud erit ab ipso : et si
+          fingendi detur licentia, non erit fingere quid sit educens. Adhuc autem cum lumen habens
+          quantitatem implentem hemisphaerium, iterum in indivisibile colligitur : quaeratur et quo
+          agente fit istud ? non enim amittit quantitatem quam habuit nisi aliquo redigente ipsum ad
+          indivisibilitatem. Isti etiam dicunt lumen esse corpus quod partem habet sub <cb ed="#B5" n="b"/>
+          <!-- 252 b --> parte, et partem in parte, et non partem juxta partem. Et hoc figmentum non
+          est intelligibile, quia cum dicit quod habet partem sub parte, praepositio notat situm
+          unius partis sub alia : et si habet situm, non est indivisibile, et hoc contra hypothesim.
+          Dicere autem quod habet partem in parte, nihil omnino est : quia pars non potest intelligi
+          esse in parte, nisi per identitatem essentiae unius cum alia : sic idem erit in seipso,
+          quod in nulla re intelligi potest vel esse potest, sicut probatum est in IV Physicorum.
+          Adhuc tota lux est indivisibilis : et pars est minor toto : ergo aliquid est minus
+          indivisibili : et sic indivisibile erit divisibile necessario. Visus autem testatur
+          errorem istius non opinionis, sed fatuitatis : eo quod nos videmus lumen implere totum
+          hemisphaerium : et hoc est omnino concedendum. Ista autem stultitia multa reputat non esse
+          inconvenientia, quae in tota philosophia impossibilia sunt, sicut quod duo corpora sint in
+          eodem loco, et quod aliquid sit indivisibile, et quod totum sit essentiale parti, et multa
+          alia irrationalia quae ab istis asseruntur.</p>
+        <p xml:id="admda-l2t3c10-d1e163">Quod autem isti dicunt de materia, nos determinasse meminimus in primo Physicorum, ubi
+          diximus quod materia ante quantitatem nullam habet partem nisi in potentia, neque habet
+          partem in parte, nec partem juxta partem. Et quod dicunt de primo movente, ridiculosum
+          est. Primum enim movens materiam generabilium et corruptibilium est coelum, cujus lumen
+          est qualitas instrumentalis : et, sicut superius diximus de calore naturali, quod prout
+          est instrumentum animae vegetabilis, habet multas virtutes ex anima quas non habet ex
+          propria natura, ita dicimus quod lumen multas habet virtutes in quantum est instrumentum
+          corporis coelestis moti per intelligentiam : et ideo in talibus virtutibus existens
+          efficit corpora generabilia et corruptibilia : et sic corpus non efficitur a non corpore,
+          sed a corpore coelesti per instrumentum quod non est corpus, sed habet in se vir<pb ed="#B5" n="253"/> <cb ed="#B5" n="a"/>tutem corporis et intelligentiae quae movet corpus.
+          Et quod dicunt lucem figurari sphaerice, dicendum quod hoc est verum : quia quod generatur
+          a sphaerico, necesse est in forma sphaerica generari, sicut etiam diximus in III
+          Meteororum : lumen autem egreditur a corpore luminoso sphaerico, et a quolibet puncto
+          ejus, et ideo habet sui generantis formam : habet tamen eam in perspicuo cui innititur, et
+          non in propria essentia. Et quod dicunt radios esse distinctos secundum formam vel visum,
+          dicendum quod radius materialiter est rectitudo illuminata, quae est perspicui pars
+          quaedam. Unde illud perspicuum super quod manat lumen, dicitur radius : et si radius
+          vocatur linea visualis quae est aer cum lumine, tunc corpus est, sed non est corpus, quod
+          sit habens materiam distinctam a materia perspicui : haec enim positio fere sumit semper
+          aliquid inconvenientius ad probandum illud quod probare intendit. Aliud autem quod dicunt,
+          quod illud quod procedit a corpore, aut est corpus, aut non-corpus : dicimus quod lumen
+          non est corpus, sed est forma et qualitas corporis : et est comparabile hoc ad duo
+          subjecta, quorum unum est subjectum ejus et causa : in illo semper est : et hoc est corpus
+          luminosum. Aliud autem est subjectum ejus tantum, et hoc est pervium : et ideo illud
+          aliquando est sine lumine, sicut calidum comparatur ad ignem sicut ad subjectum et ad
+          causam, et alia calida sicut ad subjectum tantum. Et quod dicunt de divaricatione sive
+          disgregatione, ridiculosum est : quia etiam color divaricat et disgregat, et tamen non est
+          corpus : per quam autem naturam lumen eliciat calorem, diximus in libro Coelo et Mundo.
+          Ista igitur sufficiant ad hujusmodi fatuitatis confutationem.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

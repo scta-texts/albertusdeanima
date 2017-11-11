@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT III.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT III.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t5c3">
+        <head xml:id="admda-l3t5c3-Hd1e128">CAPUT III.</head>
+        <head xml:id="admda-l3t5c3-Hd1e131" type="question-title">Qualiter sit animalis corpus, utrum simplex aut
+          compositum.</head>
+        <p xml:id="admda-l3t5c3-d1e134">Quia autem supra diximus reprehendendos esse eos qui de anima dicunt et de corpore nihil
+          determinant, ideo quaedam universaliter dicemus de corporibus animatis : subtiliter enim
+          haec in libris de Plantis et Animalibus determinabimus.</p>
+        <p xml:id="admda-l3t5c3-d1e137"> <pb ed="#B5" n="416"/> <cb ed="#B5" n="a"/> Dicemus igitur quod manifestum erit ex his
+          quae dicemus, quod impossibile est quod aliquod simplicium corporum sit corpus animalis
+          sensibilis, sicut quod corpus animalis alicujus sit igneum, aut aereum, vel ex aliquo uno
+          alio elemento. Nullius enim animati potest esse tale corpus, eo quod anima multa
+          essentialiter operatur, in quo etiam differret a natura : et ideo est endelechia corporis
+          organici : organicum autem est, quod est ex multis compositum : simplicium autem nullum
+          compositum est ex multis, neque potest esse organicum. <choice> <orig>Et</orig>
+          <reg>Est</reg> </choice> tamen hoc specialiter verum in corporibus animalium : quia, sicut
+          jam saepe dictum est, nullum animal est quod non habeat tactum : omne enim animatum
+          sensibile est corpus possibile tangere et <choice> <orig>tactivisq ualitatibus</orig>
+          <reg>tactivis qualitatibus</reg> </choice> ad sensum, immutari : quia aliter non
+          salvaretur in esse animalis. Alia autem sensibilia per altera et extrinseca media faciunt
+          sensum omne per alterum non conjunctum faciens sensum, facit sensus per medium quod
+          intercidit, et distantiam facit sensibilis a sentiente : tactus autem est sentiens in
+          tangendo sensibilia sine medio distantia faciente, ex hocque sortitus est nomen quod
+          tactus vocatur : tamen etiam alii sensus tangunt tangibilia vel sensibilia non
+          simpliciter, sed quodammodo, sed tactus ille est per alterum quod est medium faciens
+          distantiam non speciei sensibilis, sed rei sensatae secundum esse quod habet in materia.
+          Sentiunt autem alii sensus et aliter tactus : eo quod tactus est fundamentum omnium
+          sensuum : et ideo quando stupescit frigido nervus visivus, qui opticus fuit vocatus a
+          Graecis, tunc oculus nihil videt : et quando resolvitur per calidum complexionis, redditur
+          visus. Cujus signum est, quod frigiditas in somno ligat sensus, cum tamen frigiditas non
+          immutet nervos sensibiles, nisi in quantum tactus est in eis. Oportet ergo in quolibet
+          sensu prius disponi organum tactus, quasi possit agere comparationem sensus alterius : et
+          sic sensus alii agunt tactu, eo quod fundati sunt omnes in <choice> <orig>tactus
+          icut</orig> <reg>tactu sicut</reg> </choice> <cb ed="#B5" n="b"/>
+          <!-- 416 b --> in primo fundamento. Licet autem sic omnes tactu sentiant, tamen non
+          perficitur sensus in eis secundum actum, nisi per altera membra non conjuncta per
+          essentiam sentientibus, sed solus tactus et sentit per seipsum, et non indiget alio sensu
+          ad sentiendum, et sentit per medium essentialiter conjunctum sentienti : et medium ejus
+          conjunctum necesse est esse, sicut demonstratum est superius, nam impossibile est aliquid
+          simplicium elementorum esse corpus animatum anima sensibili : et ideo fatuum est quod
+          quidam dicunt corpus animalium esse terrenum : licet enim diximus in libro Peri geneseos
+          terram dominari in animatis, hoc tamen intelligitur secundum medietatem quae vocatur
+          arithmetica : quia videlicet plus quantitatis terrae et aquae dominatur in corporibus
+          animatorum quam aliorum elementorum. Secundum autem medietatem quae vocatur geometrica,
+          nullum dominatur plus altero in animalium corporibus. Omnium enim eorum quae tanguntur,
+          haec est differentia. Tangibilium tactus est sensus susceptivus sicut medietas commixta
+          geometrice, sicut jam alibi diximus : non est igitur medietas tantum qualitatum terrae
+          quibus ipsa differret ab aliis elementis, sed et calidi et frigidi et humidi et sicci : et
+          dicitur etiam mollis et multorum aliorum generum superius enumeratorum tangi possibilium.
+          Hujus autem signum est, quia in aliquo membro excellenter dominatur terra, sicut ea quae
+          coagulata sunt calido et sicco, sicut sunt pili, et ungues, illo membro non sentimus, eo
+          quod terrea sunt : et ideo operationes vitae sensibilis non perficiuntur in eis, sed
+          vegetabilis tantum : et haec est causa quare planta non habet sensum : quoniam in veritate
+          terreae sunt, et vires habent a terra et nutrimentum : et ideo operationes vitae
+          sensibilis in eis nullo modo perfici possunt. Quia autem, ut dictum est, in tactu fundatur
+          omnis sensus, ideo impossibile est aliquem aliorum sensuum esse sine tactu : sed actus
+          potest esse sine aliis. Tactus <pb ed="#B5" n="417"/> <cb ed="#B5" n="a"/> enim neque
+          terrae simplicis est, neque alterius corporis de numero corporum simplicium.</p>
+        <p xml:id="admda-l3t5c3-d1e180">Manifestum est igitur quod solo sensu tactu privato, cum sit fundamentum aliorum sensuum,
+          animalia mori et corrumpi necesse est : et hujus causa est, quia impossibile est quod
+          aliquod habet sensum, quod non est animal : et cum aliquid sit animal, non est necesse
+          habere alium sensum quam istum : ei ideo posito hoc solo sensu ponitur animal, et
+          destructo solo eo destruitur : et per hoc excellentiae aliorum sensibilium non corrumpunt
+          animal : sensum autem forte unum corrumpunt ut color et sonus et odores nisi per accidens,
+          sicut sonus corrumpere dicitur animal, quando cum sono est depulsio aeris et ictus : et
+          tunc percutiens tactum corrumpit. Similiter autem odores inficientes aerem et convertentes
+          ad venenum naturam corrumpunt, non in eo quod odores, sed in eo quod venenum vel aer
+          venenosus ad interiora tangendo ingreditur per poros occultos et manifestos. Sed
+          excellentia eorum quae sentiri possunt tactu calidorum et frigidorum et durorum et aliorum
+          sensibilium his secundum seipsam et essentialiter remanet et corrumpit animal.</p>
+        <p xml:id="admda-l3t5c3-d1e184">Sicut enim saepe dictum est, omnis superflua excellentia sensibilis corrumpit sensum :
+          ergo et superflua excellentia tangibilium corrumpit tactum : animal autem determinatur et
+          diffinitur tactu. Demonstratum est enim quod animal non est sine tactu, et quod solus
+          tactus sufficit ad animalis constitutionem. Ex quo igitur solus tactus positus ponitur
+          animal, et peremptus solus perimitur animal, tactus erit non tam sensus quam forma
+          constituens essentialiter animal : et ideo tangibilium excellentiae corrumpentes tactum,
+          <cb ed="#B5" n="b"/>
+          <!-- 417 b --> per consequens totum animal corrumpunt et non solum sensum, salvo in esse
+          animali. Hujus autem causa jam dicta est, quia neque animal ad hoc quod sit animal necesse
+          est habere solum hunc sensum tactum, alios autem sensus, sicut saepe dictum est, habet
+          animal perfectum, non propter esse, sed propter bene esse, ut visum habet humiditas in
+          aere et aqua, quatenus lucentia per se quae non indigent medio nisi diaphano solo : aliter
+          quando iterum habet visum humiditas in aere et aqua, ut in lucido secundum actum
+          illuminato videat colores : et per hoc eminus apprehendat conveniens vel nocens. Gustum
+          quoque habet secundum quod medium saporum est, et distinguitur a tactu ut discernat dulce
+          vel amarum : et per hoc conveniens cognoscat alimentum, et desiderio moveatur vel
+          removeatur ab ipsum vel ab ipso. Olfactum autem habet ut remotius cognoscat alimentum
+          conveniens sibi : quia odor est sequela saporis linguae prout est non ad esse, sed ad bene
+          esse, ut per ipsam aliquid alteri significet : sed hoc modo multas habet virtutes et
+          operationes ad bene esse determinatas.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

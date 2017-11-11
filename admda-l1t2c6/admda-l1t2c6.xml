@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VI.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VI.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l1t2c6">
+        <head xml:id="admda-l1t2c6-Hd1e128">CAPUT VI.</head>
+        <p xml:id="admda-l1t2c6-d1e131">Et est digressio declarans difficultates quae oriuntur ex praedictis de motu animae.</p>
+        <p xml:id="admda-l1t2c6-d1e134">Sunt autem qui ea quae dicta sunt, calumniantur dicentes, quod non est necessarium quod
+          si aliquid movet motum, quod moveat eo motu quo ipsum movetur. Illud enim quod movetur
+          localiter, potest movere alterando, sicut sol accedens et recedens : et id quod movetur
+          secundum alterationem, potest movere motu locali, sicut phantasia et concupiscentia
+          alteratione delectabili vel tristabili movente alias motu processivo, et illud est in
+          aliis multis. Similiter autem dicunt quidam, quod non sunt tantum quatuor genera motus,
+          secundum quae aliquid movetur, sed multo plura : et ideo dicunt nos forte non sufficienter
+          probasse, quod non movetur anima cum moveat. Sed ad omnia haec solvenda sufficiens habetur
+          doctrina ex libro Physicorum ultimo : quoniam in ordine illo quo distinguuntur movens
+          tantum, et movens et motum, et motum tantum, necessarium est quod illud quod est movens
+          motum, moveat eo motu quo ipsum movetur : et haec fuit positio eorum qui dixerunt animam
+          movere motam : et hoc apparet ex rationibus eorum. In Phaedro enim ponuntur rationes
+          istae, quod movens per se non movet nisi secundum substantiam suam : est autem anima
+          movens per se : movet igitur secundum substantiam suam : sed de cujus substantia est
+          motus, illud movetur : ergo movens per se movetur : non autem movetur ab alio cum sit
+          movens per se : oportet igitur quod moveat seipsum. Adhuc nihil dat alii quod non habet,
+          sed dat quod habet : <cb ed="#B5" n="b"/>
+          <!-- 151 b --> dat autem movens motum ei quod movetur : ergo habet motum in seipso : et
+          cui inest motus, illud movetur : movetur ergo omne movens per seipsum. Adhuc omnis forma
+          quae est in alio ab alio, prius est in alio per se quod est causa quare forma illa existat
+          in alio, sicut calidum quod est in frigido ab alio, oportet quod prius sit in igne qui est
+          causa caloris in frigido. Similiter motus est in corpore, sicut in recipiente formam motus
+          ab alio. Oportet igitur quod sit in alio prius sicut in causa : haec autem est anima :
+          ergo animae inest motus : cui autem inest motus, illud movetur : ergo anima movetur in eo
+          quod movet, et motu quo movet. Adhuc omnis causa motus quae est inter primum movens et
+          ultimum motum, movet mota : anima est talis causa motus : ergo movet mota. Adhuc motus est
+          actus moventis et actus mobilis : ergo sicut motum est subjectum ejus et movetur : ita et
+          movens est subjectum ejus et movetur. Adhuc autem quidquid ex harmonicis movet numeris,
+          componitur ex motore et mobili : anima autem movet ex harmonicis numeris : ergo componitur
+          ex motore et mobili : sed quod componitur ex motore et mobili, movet motum : anima igitur
+          movet mota : componitur autem anima ex harmonicis numeris, quemadmodum supra ostensum
+          est.</p>
+        <p xml:id="admda-l1t2c6-d1e141">Haec et his similia in Phaedro colliguntur, ubi Plato hoc dicit sparsim, non per verba,
+          sed per sensum, quorum quaedam Macrobius ponit super Somnium Scipionis, et quaedam
+          dimittit. Et sunt ad solvendum facillima si quis bene in memoria habeat quae diximus in
+          libro Physicorum. Ibi enim diximus quod quidquid movet motum per se, est corpus, et quod
+          movens primum in ordine motus est immobile, et ab ipso est motus et non in ipso : et hoc
+          ideo quod ipsum per essentiam suam, quae non est motus, movet efficienter et non
+          formaliter : et hoc ignorabat Plato. Unde licet anima sit inter primam causam moven<pb ed="#B5" n="152"/> <cb ed="#B5" n="a"/>tem et ultimum motum quoad productionem in esse,
+          tamen ipsa in ordine motus corporis est primum movens, et non ordinatur ad illud quod
+          ultimo movetur in corpore animato. Et cum Plato dicit quod ignis est causa calidi, non
+          sumit ipse nisi causam compositam : sed calor est prima causa caloris per substantiam suam
+          formalem : et similiter anima est causa motus, non quidem formalis, sed efficiens : et
+          ideo haudquaquam movetur ex hoc quod movet. Et si objiciat Macrobius, si corpus movetur
+          propter animam : ergo anima magis movetur : quoniam propter quod unumquodque tale est,
+          illud est magis tale, est irrisorium : quoniam illud non est in efficientibus et
+          effectivis, sed in participantibus eamdem formam.</p>
+        <p xml:id="admda-l1t2c6-d1e148">Sed hoc solum quod dicit de harmonicis numeris, movet plus secundum Platonem quam aliquid
+          aliorum : quia constat quod secundum harmoniam aptatur corpori, et secundum harmoniam est
+          ipsa movens et cognoscens ea quae cognoscit. Quoniam non nisi sibi proportionatum movet,
+          et non nisi sibi proportionatum cognoscit. Proportio autem primum in numeris est : et ita
+          videtur esse secundum harmonicos numeros instituta anima, et secundum illos habet in se
+          plura, quorum unum est movens et alterum motum : et sic videtur esse movens mota : plura
+          enim ut moventia tantum, ad idem constituendum non conveniunt : neque etiam plura ut mota
+          tantum. Si ergo plura conveniunt ad ejusdem rei constitutionem, oportet quod quoddam
+          istorum sit movens, et quoddam motum. Sed dicendum ex harmonicis numeris formalibus non
+          constitui animam, sed ex harmonicis numeratis, sive numeris materialibus. Hi autem habent
+          proportionem sicut est proportio potestatis secundae ad partes et subjecta <cb ed="#B5" n="b"/>
+          <!-- 152 b --> et ad potestatem praecedentem in ordine naturae : sic enim proportionatur
+          anima intelligentiae ut recipiens illuminationes ejus, et proportionatur viribus suis ut
+          partibus suis potestativis, vel sic potestativis, et proportionatur corpori et organis
+          corporis sicut subjectis potestati suae. In tali autem proportione movetur quidem anima ab
+          intelligentia et causa prima, sed isto motu non movet corpus : et movet una potestas
+          aliam, quando superior movet inferiorem : sed hoc est per imperium, et non sicut anima
+          movet corpus : sed comparando eam ad corpus, omnes partes ejus movent corpus organicum et
+          partes ejus ad prosequenda desiderata et fugienda ea quae constant : et hoc modo non
+          movetur : servatur tamen in omnibus illis proportio, sicut in sequentibus istius libri
+          manifestabitur. Sed haec proportio non est in harmonicis numeris, sed potius in his quae
+          harmonice sunt composita et numerata. Et si dicat aliquis proportionata in numero numerato
+          esse ordinata a proportione quae est in numero numerante : et sic oportet adhuc juxta
+          sententiam Platonis principia animae et aliorum principia esse numeros formales et
+          proportionem quae est in istis : dicemus quod non sunt principia rerum secundum quod
+          numerata sunt et sub proportione numeri existunt, sed potius secundum quod connaturalia
+          sunt unicuique generi quod constituit : et ideo materia et forma non constituunt
+          substantiam secundum quod numerata sunt, aut in proportione numeri existunt, sed potius
+          secundum quod sunt prima principia connaturalia substantiae : et simile est de
+          constituentibus quantitatem et quodlibet genus. Et his accidit numerari, et in proportione
+          numeri esse. Et hoc Platonem decepit : quia etiam sapientes decipiuntur secundum accidens,
+          quod inevitabiliter sequitur nume<pb ed="#B5" n="153"/> <cb ed="#B5" n="a"/>ros esse prima
+          principia rerum, si posset haberi quod principia rerum constituerent eas, secundum quod in
+          proportione numerali existunt : et hoc quidem modo dictum multum valet ad intellectum
+          omnium sequentium, ubi agetur de opinionibus Platonis.</p>
+        <p xml:id="admda-l1t2c6-d1e160">Si autem aliquis nobis objiciat, quod nos ipsi superius concessisse videmur animam movere
+          se, quando agit se in universum corpus : dicemus non esse illud proprie movere seipsam :
+          et ideo revera sic movet se anima et alii motores per effectus ratione effectuum qui ab
+          ipsis sunt, et tamen simpliciter manent immobiles. Et hoc etiam modo primus motor in
+          quolibet ordine inducit motum immobilem : quia motus est actus moventis ut a quo est
+          motus, et non ut in quo est sicut in subjecto, et est actus mobilis sicut in quo est sicut
+          in subjecto. Et ideo motor non movetur, sed mobile quando inest ei motus, tunc movetur.
+          Licet igitur multi sint modi quibus aliquid movetur per accidens in quolibet genere
+          praedicamenti, tamen motus per se non est nisi in tribus generibus : et quia in quantitate
+          non est contrarietas nisi secundum quod quantitas est terminus physicorum corporum, in quo
+          convenit ei perfectum et imperfectum esse, ideo duos oportet esse motus in quantitate, et
+          in utroque aliorum generum tantum unum secundum genus : et ita sunt quatuor generales
+          motus : et omnes illos ab anima per rationes necessarias seclusimus, sicut patet ex
+          praedictis. Est igitur necessario concedendum animam physico motu per se vel per accidens
+          proprie nequaquam moveri : et sic manifesta est solutio omnium eorum quae inducta sunt ex
+          Platonis opinionibus.</p>
+        <p xml:id="admda-l1t2c6-d1e163">Sed id quod omnino destruere disputationem istam videtur, est quod ab antiquo Trismegisto
+          et Socrate et nunc a divinis et incantatoribus convenienter asseritur, quod scilicet in
+          corpore existentes quos angelos vel daemones vocant, et animae exutae a corporibus,
+          moveantur de <cb ed="#B5" n="b"/>
+          <!-- 153 b --> loco ad locum : cujus etiam veritatem nos ipsis sumus experti in magicis.
+          Sed de his nos disputabimus in scientia de Natura deorum, quae philosophiae primae pars
+          quaedam est, et ab Aristotele edita. Quod si tales substantiae moventur, motus erit omnino
+          aequivocus ad motum physicum : tales enim substantiae non sunt proportionales spatio per
+          quod est motus per aliquam quantitatem vel indivisibile quantitatis quod sit in eis. Et
+          ideo neque mensura motus ipsarum, neque motus ipse ex principiis physicis causari potest.
+          Hic autem de physicis loquimur tantum ostendentes physice immobilem esse animam contra eos
+          qui ex principiis quae ipsi physica esse dicebant, causare voluerunt motum animae, et
+          dixerunt animam movere seipsam.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

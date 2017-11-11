@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XXXV.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XXXV.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c35">
+        <head xml:id="admda-l2t3c35-Hd1e128">CAPUT XXXV.</head>
+        <head xml:id="admda-l2t3c35-Hd1e131" type="question-title">Qualiter se habet tactus ad tangibilia.</head>
+        <p xml:id="admda-l2t3c35-d1e134">Nunc autem ea quae tangi possunt quae tangibilia vocamus differentiae corporis physici
+          secundum quod est corpus physicum : dico autem illas esse differentias tales quales eas
+          qualitates quae elementa ad invicem distinguunt et determinant, scilicet calidum, et
+          frigidum, et humidum, et siccum, de quibus prius in secundo Peri geneseos diximus, ubi
+          tractatum est de elementis. Id autem quo sentimus sicut organa in quo situs est sensus qui
+          vocatur tactus, primo est poten<pb ed="#B5" n="292"/> <cb ed="#B5" n="a"/>tia hujusmodi
+          pars : post alterationem autem a sensibili factam est actu hujusmodi.</p>
+        <p xml:id="admda-l2t3c35-d1e141">Sentire est enim quoddam pati : et ideo faciens et agens sensum ad similitudinem suae
+          speciei est actu, et patiens est potentia habens formam agentis : et cum oporteat omnes
+          partes animati corporis esse mixta ex tangibilibus differentiis, necesse est quod organum
+          et medium in tactu aliquo modo habeant istas qualitates, et secundum quod habet eas non
+          suscepit eas : quia nihil suscipit id quod jam habet. Cum igitur habet eas ad aequalitatem
+          medii reductas : hoc modo non suscipit eas : et ideo nullus omnino tactus sentit
+          qualitates sibi per omnia similes : sed tactus privatus est excellentia illarum
+          qualitatum, ideoque in potentia est ad illas excellentias et illis immutatur a
+          tangibilibus : et ideo tactus simile sibi calidum et frigidum et durum et molle et reliqua
+          non sentit, sed excellentias tanquam ipse sensus existat in medietate quadam complexionis
+          inter sensibiles contrarietates, et ideo non discernit sensibilia tactus : quia medium
+          neutrum est extremorum, et cum privatum sit, utroque modo potentia est utrumque : et ideo
+          discretivum est ipsorum : ad utrumque enim ipsorum comparatum est sicut alterum, quia
+          medium comparatum extremo, est extremum etiam : cum extremo fit privatio quae potest
+          immutari ad sum oppositum hoc modo consideratum, id quo tangimus, potest immutari ad
+          sensum ab extremorum utroque.</p>
+        <p xml:id="admda-l2t3c35-d1e144"> <cb ed="#B5" n="b"/>
+          <!-- 292 b --> Et oportet esse in tactu sicut est in visu. Id enim quo sentimus in visu
+          album et nigrum, nec album nec nigrum est in actu, sed utrumque potentia, et similiter est
+          in omnibus aliis sensibus : et ita est in tactu, quod id quo sentimus, nec frigidum, nec
+          calidum est excellenter, sed medium quod est in potentia utrumque et actu neutrum.</p>
+        <p xml:id="admda-l2t3c35-d1e152">Amplius autem, sicut visibilis et invisibilis erat visus modo quodam diverso, sic facit
+          in omnibus sensibus sicut determinatum est : ita etiam tangibilis et non tangibilis est
+          tactus. Non tangibile autem dicitur multipliciter, quod scilicet habet parvam differentiam
+          et minorem quam sensum movere possit, sicut passus est aer, quia non sentitur tactu.
+          Dicitur etiam non tangibile excellens quod corrumpit tactum, sicut ignis. Non tangibile
+          autem quod nullam habet tactus differentiam, nullum omnino est corpus : quia, sicut
+          diximus, tactus differentiae corpora physica determinant : et quia ex solis qualitatibus
+          tactus corpus animatum constituitur : ideo sola illa per se corpori animato conveniunt,
+          contrariantur : et ideo sensibilis delectatio et sensibilis tristitia non est nisi in
+          tactu : in aliis autem sunt in quantum vicinius vel distantius tactus indicant
+          delectationes. Hoc autem in libro de sensu et sensato certificabitur. Sic igitur dictum
+          sit figuraliter, hoc est, superficietenus de unoquoque propriorum sensuum.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

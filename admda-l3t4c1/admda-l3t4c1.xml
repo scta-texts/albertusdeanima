@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT I.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT I.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t4c1">
+        <head xml:id="admda-l3t4c1-Hd1e128">CAPUT I.</head>
+        <head xml:id="admda-l3t4c1-Hd1e131" type="question-title">Quae pars animae sit motiva.</head>
+        <p xml:id="admda-l3t4c1-d1e134">Quoniam autem, sicut ab initio diximus, anima secundum duas diffinita est potentias,
+          quibus animatum videtur differre ab inanimato : dico autem animam quae animalium est, quia
+          plantae habent partem partis animae potius quam animam : nam in plantis neutra est illarum
+          potentiarum quibus animatum ab inanimato differre videtur : duae autem potentiae sunt,
+          discretivum, et motivum secundum locum. Discretio autem in communi dicta est opus tam
+          intelligentiae quam sensus, et de utroque istorum jam habitum est. De movente autem
+          speculandum est nunc, quid sit animae : et hoc est quaerere, utrum movens in animalibus
+          sit una quaedam pars animae, quae separabilis sit ab aliis partibus magnitudine, et
+          subjecto sui organi, sicut visus separatur ab auditu, sicut dixit <cb ed="#B5" n="b"/>
+          <!-- 394 b --> Plato animam in vires dividi : aut tantum separatur ab aliis tantum ratione
+          potentiae, et virtutis, et conveniat cum eis subjecto : aut etiam ipsum sit tota anima, et
+          non aliqua pars alicujus animae, sicut dixerunt quidam, quod sicut vegetabilis est una
+          tota anima, et sicut sensibilis est una tota anima, ita motivum secundum locum sit una
+          tota anima perficiens illud quod movetur secundum locum. Quia autem ex omnibus
+          divisionibus his pars vera est, quod sit pars potentialis animae, sicut patet ex
+          praehabitis, ideo supposito illo quaerendum est, utrum sit propria quaedam pars separata
+          ab his quae consueta sunt dici partes animae. Et quae dicta sunt et determinata sunt a
+          nobis, aut est harum aliqua quae sunt determinatae.</p>
+        <p xml:id="admda-l3t4c1-d1e141">In hac autem quaestione res quaesita mox ingerit dubitationem, secundum quem modum
+          oporteat dicere animae partes, et quot numero. Non enim sunt integrales neque essentiales,
+          sicut in praehabitis determinatum, sed sunt actuales sive potentiae partes, in quibus
+          inferior semper in suo superiori salvatur. Quot autem <pb ed="#B5" n="395"/> <cb ed="#B5" n="a"/> oportet dicere partes, multum est dubitabile : modo enim quodam infinitae
+          videntur. Etsi enim vellemus vocare partes quibus species motorum inferunt passiones,
+          infinitae esse videntur : quia tunc multiplicabuntur potentiae passivae secundum formas
+          suorum activorum. Et secundum hoc tot erunt appetitus, quot sunt appetibilia, et tot
+          sensus, quot sunt sensibilia specie et forma differentia : et hoc procedit in infinitum
+          numerum. Et secundum hunc modum quidam Philosophorum determinant et dividunt animam in
+          ratiocinativam, et eam quae ab animositate vocatur animativa, quam quidam vocant
+          irascibilem : et eam quae ab animositate vocatur animativa, quam Platonici concupiscibilem
+          esse dixerunt : hanc enim divisionem secundum solas species objectorum dividunt Platonici,
+          et non secundum differentias corporum animatorum. Si autem sufficienter dividunt animam,
+          ut jam dictum est, tunc quaelibet species objecti faciet partem animae specialem, et tunc
+          erunt partes infinitae : penes enim species objectorum inveniuntur ibi aliae partes, quae
+          magis differunt quam tres inductae differentes, sicut in genere boni actualis : et nos
+          possumus invenire formas objectorum in diversis generibus existentes : hoc autem evidenter
+          ostenditur per hoc quod dividitur anima ab istis in rationalem, et irrationalem, et
+          irascibilem, et concupiscibilem. Et est insufficiens divisio, quia partes animae
+          principales sumptae sunt secundum diversionem generis animatorum, et illae sunt
+          vegetabilis et sensibilis : et licet vegetabilis aliquo modo dici possit irrationalis,
+          tamen sensibilis neque rationalis neque irrationalis dici potest : quia, sicut dicetur in
+          fine primi Ethicorum, rationalis non est per essentiam, neque irrationalis est : quoniam
+          participat aliquo modo ratione, eo quod persuadetur ei ratione et subjacet ordini
+          rationis. Idem autem est de phantasia quae ab omnibus dictis altera est : quoniam
+          rationalis nec irascibilis nec concupiscibilis esse videtur : haec <cb ed="#B5" n="b"/>
+          <!-- 395 b --> autem sequentia demonstrabunt. Si autem irrationalis in animositatem, sive
+          irascibilem appetitum, sive concupiscibilem dividatur penes objectorum differentias, tunc
+          secundum habitam rationem infinitae partes animae videntur esse : et hoc etiam est
+          inconveniens.</p>
+        <p xml:id="admda-l3t4c1-d1e152">Habet igitur magnam quaestionem, cui harum virtutum phantasia et sensitiva eadem sit, vel
+          a qua earum sit altera, et praecipue si quis animae partes separatas loco et diffinitione,
+          et non ponit unam in alia virtualiter, sicut inferior potestas continetur in superiori.
+          Adhuc autem appetitiva est una earum quae secundum Platonem secundum ratione et potentiam
+          relatam ad actum, altera videtur esse a rationali : cum tamen inconveniens esse videatur
+          hanc sequestrare ab utraque, vel ab altera, eo quod in utraque videtur contineri. Et quod
+          contineatur in ratiocinativa, patet : quia voluntas non fit nisi in rationali, eo quod
+          omnis voluntas est ratiocinativae potentiae, et voluntas sit appetitus quidam. Similiter
+          autem non sequestratur ab irrationali : quia in irrationali fit desiderium, et animus ab
+          animositate dictus, qui irascibilis vocatur : et utrumque ipsorum est appetitus quidam
+          concupiscibilis : concupiscibilis enim appetit delectabile secundum sensum, et irascibilis
+          appetit arduum in quo est gloria, sicut vindictam, vel gloriam, vel victoriam, aut aliquid
+          hujusmodi : quinimo si anima est illa tria quae dixit Plato, videbitur esse in unoquoque
+          dictorum trium : quia ratio etiam appetit discernere id quod appetendum est secundum
+          rationem rectam, sicut est honestum et partes ejus. De his autem quaestionibus hic non est
+          intentio : forsitan enim de his alibi determinabimus in sequentibus istius tractatus.</p>
+        <p xml:id="admda-l3t4c1-d1e156"> <pb ed="#B5" n="396"/> <cb ed="#B5" n="a"/> Sed de quo nunc ratio existit ad quaerendum,
+          hoc est, quid sit movens secundum locum animal quod habet motum secundum locum. Secundum
+          enim augmentum et decrementum quod movetur, mutat aliquo modo locum : quia augmentum
+          crescit in locum majorem, et decrementum decrescit in locum minorem. Sed motor hujus motus
+          in omnibus est animatis, eo quod augmentum et decrementum insunt omnibus animatis : et
+          ideo constat motorem in hoc motu esse vegetationi per cibum, et generationi, sicut diximus
+          in secundo istius voluminis libro. De spiratione autem et inspiratione, quae etiam motu
+          quadam parte corporis secundum locum perficiuntur : similiter autem de somno et vigilia,
+          in quibus fit motus sensus et spirituum ab exterioribus ad interiora, sicut in somno quae
+          non sunt sine motu locali, post hunc librum in propriis locis dicemus. Non enim hic non
+          quaerimus de omni motu locali animati corporis, sed de motore istius motus tantum, quo
+          animal procedit de loco ad locum : et hoc per organa et haec a natura formata.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

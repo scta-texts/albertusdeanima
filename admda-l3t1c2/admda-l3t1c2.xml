@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT II.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT II.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t1c2">
+        <head xml:id="admda-l3t1c2-Hd1e128">CAPUT II.</head>
+        <head xml:id="admda-l3t1c2-Hd1e131" type="question-title">Et est digressio declarans ea quae conveniunt ex
+          aestimatione.</head>
+        <p xml:id="admda-l3t1c2-d1e134">Ea autem potentia quae aestimativa dicitur, ab imaginatione differt in ipsa specie quae
+          comprehenditur : quoniam, sicut in praelibatis est determinatum, ista elicit intentiones
+          quae in sensu non sunt scriptae. Nec potest dici quod hoc sit sensus officium secundum
+          quod determinavimus sensatum per accidens in superioribus : quoniam nunquam contingit
+          cognoscere quod iste est filius Dionis, nisi habeatur notitia filiationis secundum quod
+          est in isto : nec unquam lupus miseretur nato suo, nisi habeat cognitionem et hujus
+          individui, et quod hoc <choice> <orig>individum</orig> <reg>individuum</reg> </choice> est
+          natus ejus : oportet ergo aliquam esse virtutem animae elicientem hujusmodi intentiones,
+          et quod non potest esse imaginatio nec penitus separata ab ea. Quod enim non sit
+          imaginatio, patet, quoniam ad imaginem rei solam non sequitur motus, vel affectus vel
+          laetitiae vel tristitiae, vel fuga, vel insecutio : ad aestimationem autem mox sequitur
+          istorum quoddam, vel quodlibet : separata autem ab ipsa penitus esse non potest : quoniam
+          hujusmodi intentiones non accipit secundum rationes communes et universales, sed potius in
+          hac imagine vel illa nihil continens de communi : oportet igitur quod sicut intellectus
+          practicus se habet ad speculativum, ita se habeat aestimativa ad imaginationem : et ideo
+          haec virtus non penitus apprehensiva, sed et motiva est, per hoc quod determinat ad quid
+          movere debet animal, et quo fugere. Propter quod quidam Philosophorum hanc opinionem esse
+          dicebant, quod tamen non congruit : quia opinio rationalis animae <cb ed="#B5" n="b"/>
+          <!-- 317 b --> quidem habitus est, aestimatio autem omnium est quorum est sensus, sicut
+          jam ostendimus : superius enim diximus omnia quae habent sensum, habere motum dilatationis
+          et constrictionis ad minus : et cum ista aliquo modo motus moveantur ad cibum, oportet
+          imaginationem cibi esse apud eam : sed imaginatio sola non movet, ut dictum est : oportet
+          igitur ista talia omnia habere aestimationem qua moveantur. Tres ergo istos inferiores
+          sensus, sensum communem scilicet et imaginationem et aestimativam habet omne animal, quod
+          aliquem vel aliquos habet de sensibus exterioribus : propter quod supra diximus quod omne
+          habens sensum, habet desiderium cibi quod est fames : et omne habens desiderium, habet
+          imaginationem et aestimationem quae non substantia, sed secundum esse differt ab
+          imaginatione, sicut jam diximus. Est autem aestimativa magis activa quam imaginativa :
+          quoniam elicere intentiones est aliquid agere, et magis perfectum est quam speculari
+          imagines solas, sicut si speculum animatum imagines sibi impressas diceremus speculari :
+          omnes tamen vires animae aliquo modo activae sunt : eo quod omnes agunt aliquod opus
+          vitae, sicut superius diximus, cum de diffinitione animae secundum suam substantiam
+          loqueremur. Licet autem plus actionis habeat aestimativa quam imaginativa, tamen
+          proprietatem passivae potentiae habet in hoc quod non agit per se, sed per intentionem
+          quam elicit a forma acquisita. Est autem adhuc advertendum, quod ista virtus animae in
+          homine, sicut et caeterae, aliquando conjungitur rationi : et tunc juvatur a ratione, et
+          suadetur ad imitandum quod aestimat vel fugiendum : et ob hanc similitudinem sui in homine
+          ad opinionem Philosophorum quidam, sicut Plato, eam opinionem quamdam asserebant, non
+          differre in homine et in brutis, nisi per magis esse obumbratam in brutis, et minus in
+          hominibus : sed falsum est quod dicunt, quia opinio est de communi prout est in pluribus :
+          aestimatio <pb ed="#B5" n="318"/> <cb ed="#B5" n="a"/> autem secundum quod hujusmodi non
+          recedit ab hoc individuo secundum quod hoc est : et ideo in homine adjuta ratione non
+          juvatur nisi prout est circa hoc vel illud, et tunc dicitur proprio nomine aestimatio. Si
+          autem compositio alias opiniones similes de pluribus particularibus secundum unam
+          intentionem in eis inventam acceperit, jam hoc non est aestimationis, sed cognitionis
+          experimentalis quae rationis est : sed tamen ipsa ministrat sibi sensus et aestimatio.
+          <choice> <orig>Quiaa utem</orig> <reg>Quia autem</reg> </choice> ista virtus sic conjuncta
+          est imaginationi, ideo organum ejus etiam aut idem est cum organo imaginationis, aut
+          propinquum est unum alteri substantialiter idem existens, et secundum esse dispositionis
+          differens, sicut supra diximus.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

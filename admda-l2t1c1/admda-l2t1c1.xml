@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT I.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT I.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t1c1">
+        <head xml:id="admda-l2t1c1-Hd1e128">CAPUT I.</head>
+        <head xml:id="admda-l2t1c1-Hd1e131" type="question-title">Quae sit libri intentio, et qualiter diffinitionem animae venari
+          contingit.</head>
+        <p xml:id="admda-l2t1c1-d1e134">Haec igitur quae dicta sunt, tradita sunt a prioribus Philosophis de anima, in quibus
+          quia nihil est conveniens substantiae animae, vel ejus partibus, oportet nos omnia ea, ut
+          ostendimus, abjicere. Redeamus autem iterum tanquam ex principio quod supra nobis
+          praefiximus, ad <cb ed="#B5" n="b"/>
+          <!-- 191 b --> inquirendum primo de substantia, et postea de partibus et operibus et
+          accidentibus ejus. Et quaeramus determinare quid est anima ratione communi et figurali
+          sive superficiali, et etiam quae utique sit ipsius essentialis et propria diffinitio, quae
+          non dicit tantum quid est anima, sed etiam dicit causam propter quid unumquodque operum et
+          accidentium inest : quia, sicut diximus superius in prooemiis, si per diffinitionem non
+          conjecturatur facile de accidentibus, dialectica erit et vana. Venantes autem
+          diffinitionem primo quae tantum quid est anima dicit, dicamus quod nos non disputamus
+          utrum anima sit in generibus accidentium : quoniam scitum ab omnibus est accidens partem
+          substantiae non esse, <pb ed="#B5" n="192"/> <cb ed="#B5" n="a"/> neque perficere
+          substantiam. Anima autem compositi ex anima et corpore pars essentialis et dignior est, et
+          anima perficit corpora : et ideo supponimus animam in generalitate substantiae
+          contineri.</p>
+        <p xml:id="admda-l2t1c1-d1e145">Dicamus igitur unum esse genus entis, quod est substantia : hujus autem generis aliud
+          quidem est sicut materia, quae secundum se accepta non est hoc aliquid quod est compositum
+          individuum substantiae, eo quod non dat ei nomen neque esse : sed substare ab ipsa primo
+          est. Alterum autem in eodem genere substantiae acceptum est forma et species, secundum
+          quam dicitur jam formata res naturae hoc aliquid, eo quod formando ipsum et specificando
+          dat ei esse et rationem diffinitivam. Et tertium in genere eodem est est ex istis
+          compositum duobus quod est res in natura producta, quam ipsa natura intendit : haec autem
+          materia quaedam est potentia, quae subjicitur generationi et formae. Species autem est
+          endelechia : hoc autem Latine sonat actus vel perfectio, quae dat esse specificum
+          substantiale, secundum quod homo vel asinus dicitur aliquid. Et hoc est duplex, quorum
+          unum sequitur alterum : unum est enim actus primus qui est esse : et aliud est actus
+          secundus, qui est actio essentialis secundum illud esse : sicut si dicerem quod lux
+          lucentis est esse et actus primus, et lucere est actus essentialis ejus secundus, eo quod
+          haec est actio ejus, quae suae formae diffusio quaedam est essentialis : omnis enim
+          essentia propriam et essentialem habet operationem qua nunquam destituitur, quando est
+          essentialis, sicut lux non destituitur a lucere quod est ejus actio. Hujus autem exemplum
+          in accidentalibus est scientia in sciente, quae dat ei esse scientis secundum quod sciens
+          est : et hujus actio essentialis secundum scientiam est considerare scita quae scit per
+          scientiam. Ita enim est in omni forma <cb ed="#B5" n="b"/>
+          <!-- 192 b --> naturali, quod ipsa in habitu habita est actus primus dans esse materiae in
+          qua est et composito : quia autem ipsa est principium essentialium et naturalium sibi
+          actionum, ideo etiam non per aliquid aliud sibi acquisitum est actus secundus : sicut enim
+          sciens nihil ulterius acquirit quo consideret, sed ipsa forma quae est scientia in eo, est
+          principium considerationis per seipsam : ita etiam est de omni forma naturali et
+          substantiali, quod est principium ipsa suarum operationum essentialium per seipsam, et non
+          per aliud sibi additum.</p>
+        <p xml:id="admda-l2t1c1-d1e152">Movet autem fortassis aliquem, quod dicimus substantiam esse genus continens materiam et
+          formam, cum sint principia substantiae, et principia generis non sint in genere, sed ante
+          ipsum. Adhuc autem forte mirabitur aliquis, quomodo dividimus substantiam per tria quae
+          non aequaliter respiciunt rationem et nomen substantiae, et inter quae non est oppositio :
+          cum duo prima sint partes tertii quod dicitur substantia composita. Sed de his determinari
+          habet in prima philosophia : sed quantum ad hoc negotium attinet, sciendum est quod
+          commune quod vocamus substantiam hic tria continentem, est commune secundum analogiam,
+          prout distinguitur in VIII philosophiae primae : et ideo primo convenit uni, et aliis
+          convenit per illud. Adhuc autem substantia dupliciter accipitur : uno enim modo accipitur
+          secundum quod substat accidentibus, et est ipsorum accidentium universale subjectum, in
+          quo ipsa accidentia habent esse : et sic non accipimus eam hic, quia hoc modo cadit in
+          coordinatione praedicabilium. Alio autem modo accipitur ipsa natura substantiae secundum
+          quod opponitur accidentali naturae : et sic est in proposito, et dicitur substantia res
+          per se existens, et accidens res non per se existens, et quando sic dicitur, tunc continet
+          sub se materiam et formam et compositum : et principaliter quidem hoc modo substantia est
+          forma, qua existit quidquid per se existit : et secundo modo <pb ed="#B5" n="193"/> <cb ed="#B5" n="a"/> dicitur compositum : tertio autem materia quae non habet per se existere
+          in natura, nisi per formam : et isti modi sunt tres, penes quos dividitur substantia in
+          tria. Neque oportet quod talis divisio sit opposita, cum non sit divisio analogi, nisi
+          explicatio modorum quibus analogum sub se continet quaedam.</p>
+        <p xml:id="admda-l2t1c1-d1e160">Jam igitur patet qualiter dividimus hic substantiam. Inter ea autem quae sunt substantiae
+          per se existentes, nulla ita videntur esse substantiae sicut corpora : licet enim
+          substantiae separatae verius sint substantiae, tamen non ita videntur ad sensum. Omnes
+          enim cognoscimus ad sensum quod corpora sunt res per se existentes. Inter corpora autem
+          adhuc magis videntur esse substantiae physica corpora, quam artificialia : quia nos
+          videmus quod physica corpora sunt principia artificialium corporum. Figura enim quam
+          inducit ars, accidens est, quod non esset nisi physicum corpus sustineret ipsam, sicut
+          patet in ligno in quo est forma lecti, quae non esset nisi lignum esset : et sic ad per se
+          existendum principiatur artificiale a physico. Est igitur physicum corpus quod physica
+          forma ad aliquam speciem physici corporis est determinatum, magis substantia quam
+          artificiale. Inter physica autem corpora quaedam habent vitam, et quaedam non habent
+          vitam, sed alia forma determinantur ad speciem physicam, sicut elementa, vel etiam
+          commixta tantum, ut lapides et metalla secundum sua genera : vitam enim dicimus secundum
+          principium alendi et augendi et diminuendi : quia ista sunt secundum quae primo
+          manifestatur vita, sicut inferius probabimus. Erit igitur omne corpus physicum participans
+          vitam essentialiter, substantia in illo modo substantiae quo diximus substantiam esse
+          compositum.</p>
+        <p xml:id="admda-l2t1c1-d1e163"> <cb ed="#B5" n="b"/>
+          <!-- 193 b --> Quia vero tale corpus physicum habet vitam, et habens vitam corpus, nec est
+          ipsa vita, nec causa vitae, non potest esse quod corpus physicum sit anima : eo quod
+          corpus cum sit habens animam et vitam per animam, non est in alio a se, sicut in subjecto,
+          eo modo quo dicimus substantialem formam esse in subjecto, non quidem sicut accidens, quod
+          cum sit in aliquo non est in eo velut quaedam pars : quia anima est potissima pars ipsius
+          quod est esse compositi. Magis autem corpus physicum est subjectum in illo modo, quo
+          diximus materiam et hyle esse generationis subjectum primum in primo libro Peri geneseos.
+          Constat autem quod etiam anima non est compositum ex anima et corpore. Oportet igitur quod
+          anima sit substantia sicut speciem et formam diximus esse substantiam corporis physici
+          vitam participantis potentia habituali, hoc est, forma, quae forma potest agere
+          operationes vitae secundas. Cum enim potentia sit duplex : una quidem materialis, quae est
+          qua potest aliquid fieri, et est imperfecta, non est anima perfectio corporis physici
+          vitam per talem modum potentis habere a corpore : quia tale corpus vitam non habet, neque
+          participat vitam, licet vitam habere et participare possit per sui transmutationem, sicut
+          quaelibet materia transmutatur ad suam formam per generationem. Sed anima est perfectio
+          ejus quod habet vitam sic, quod actiones vitae exercere potest : et ideo secundum alium
+          modum potentiae habet vitam, qui est modus potentiae formalis, sicut dicimus scientem esse
+          potentem considerare cum voluerit, et ignorantem dicimus considerandi habere impotentiam.
+          Sic igitur habemus ea quae exiguntur ad illam animae diffinitionem quae simpliciter et
+          universaliter dicit quid est anima. Est enim anima substantia quae est forma corporis non
+          artificialis, sed physici, et non cujuslibet physici, sed potentia habituali vitam
+          habentis.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

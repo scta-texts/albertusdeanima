@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XV.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XV.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t2c15">
+        <head xml:id="admda-l3t2c15-Hd1e128">CAPUT XV.</head>
+        <head xml:id="admda-l3t2c15-Hd1e131" type="question-title">Quo probatur quod intellectus non est mixtus corpori per hoc
+          quod sua passibilitas non est similis passibilitati sensus.</head>
+        <p xml:id="admda-l3t2c15-d1e134">Redeuntes ergo ad propositum, secundum <name ref="#Aristotle">Aristotelis</name>
+          introductionem dicimus, quod ex omnibus quae dicta sunt, non est rationale intellectum
+          possibilem dicere esse mixtum cum corpore : oportet enim quod si esset mixtus cum corpore,
+          quod duorum alterum fieret. Si enim esset virtus cum corpore, hoc est corporea, tunc esset
+          complexionalis : et tunc esset qualitas corporalis, aut simplex quae est calor, vel frigus
+          : aut alia quae sequitur ex mixtione illarum : aut esset virtus addita complexioni, sicut
+          anima organica : et tunc oporteret, quod uteretur corpore, sicut faciunt virtutes animae
+          sensibilis. Nunc autem ex praedictis patet quod neutrum illorum est : et ideo Antiqui
+          sapientes quoad hoc bene dixerunt, quod anima non est materia sed locus est specierum :
+          praeter hoc solum quod non tota est locus : quia sensibilis quae est virtus, cum corpore
+          transmutatur : et hoc non est loci. Similiter ipsa est subjectum formae : et hoc iterum
+          loco non convenit. Sed secundum intellectum est ipsa locus specierum : quia secundum
+          intellectum non essentialiter sed per accidens transmutatur ex speciebus, sicut diximus
+          supra : et hoc est secundum id quod extra intellectum est, et hoc est phantasma a quo
+          elicitur universale, et non secundum ipsum intellectum possibilem. Et ideo si esset
+          aliquis intellectus qui nihil extra se intelligeret, is omnino esset intransmu<pb ed="#B5" n="357"/> <cb ed="#B5" n="a"/>tabilis, sicut est intellectus substantiarum separatarum, et
+          praecipue intellectus causae primae : sed de his in prima philosophia erit determinandum.
+          Aliud autem in quo loco assimilatur : quia speciebus non subjicitur sicut subjectum earum,
+          sed potius formare se habet ad ipsas, sicut patet ex prius habitis. In his ergo duobus
+          similis est intellectus loco et species locato : tamen intellectus non est ipsa species in
+          actu, sed in potentia sola quando est possibilis intellectus.</p>
+        <p xml:id="admda-l3t2c15-d1e144">Quoniam autem non sit similis impassibilitas sensui et intellectui, manifestum est ex
+          organis et sensus secundum actum. Diximus enim supra impassibilem esse sensum a formis
+          sensibilibus, eo quod est circa ipsas sicut forma una terminata ad ea sicut ad quinque
+          materialia : et similiter est intellectus circa intelligibilia : formale autem non est
+          passibile a materiali. Et ideo impassibilis est sensus, et impassibilis est intellectus :
+          verumtamen non simili <choice> <orig>impassibilitare</orig> <reg>impassibilitate</reg>
+          </choice> : et hoc convenit, eo quod sensus est virtus in organo : intellectus autem non.
+          Et hoc evidenter ostenditur signo quod supra diximus : sensus enim post valde sensibile
+          sicut post intensam et lucidam albedinem, minus sensibile sive minus coloratum sicut
+          virorem vel aliquid aliud non potest videre. Et hujus causa est, quia forma fortis
+          sensibilis reddita organo tenetur ab ipso aliquamdiu : et tunc sub forma illius primi
+          sensati sentitur secundum : et ideo videns aliquamdiu intensam et claram albedinem, et mox
+          convertens se ad virorem, videt viride sicut tectum panno albo tenui. Similiter autem de
+          eo est et eadem de causa qui post magnum sonum audivit debiliorem : et ideo illis qui diu
+          habitarunt in multarum rotarum, videtur etiam postquam inde recedunt, non recedere sonum
+          molendinorum in auribus : et ideo non facile audiunt suaviter loquentes. Similiter est de
+          his qui habent linguam infectam <cb ed="#B5" n="b"/>
+          <!-- 357 b --> sapore forti, sicut amaritudine vel dulcedine mellis, postea alios sapores
+          sentiunt quasi mixtos illis : et ideo vina non sapiunt post gustum mellis, et infirmis
+          omnia amara videntur. Hoc autem non est ita mirabile in gustu sicut in aliis tribus
+          sensibus, qui sunt per medium extrinsecum : quia gustabile per substantiam conjungitur
+          gustui, et alia sensata conjunguntur per speciem suam tantum. Idem autem est in odoribus.
+          Sed in intellectu totum est contrarius : quia post valde intelligibile, sicut sunt divina
+          et principia demonstrationum, non minus intelligit minus intelligibile, sicut sunt
+          conclusiones, sed etiam magis ex illo, quia valde intelligibile principium est ad minus
+          intelligibile : et hoc esse non posset nisi ideo quod intellectus est virtus non organica,
+          et ideo formae rerum materialiter nullo modo conjunguntur ei : propter quod receptio unius
+          cum simplex sit et depurata ab esse materiali, non impedit receptionem alterius :
+          sensitivum enim non est sine corpore organico, intellectivum autem est separatum.</p>
+        <p xml:id="admda-l3t2c15-d1e160">Cum autem possibilis intellectus fiat speculativus, et sciat unumquodque intellectivum
+          secundum actum, tunc talis intellectus secundum actum factus dicitur sciens : fit enim
+          intellectus possibilis ipsum intellectum, sicut fit potentia actus, quando ad actum
+          mutatur : sed hoc potissimum est in intellectu, eo quod intellectus et intellectum sunt
+          idem formaliter, sicut patet ex dictis : hoc autem tunc accidit quando potest operari per
+          se, ita quod non indigeat aliquo motore : et hoc est quando jam habet formam : et hunc
+          intellectum quidam vocant adeptum : et tunc similiter est in potentia quodammodo, sicut
+          dicimus in potentia esse habentem habitum, et non considerantem, qui non indiget mutari
+          nisi de otio ad agere, et non indiget quod recipiat aliquid : et ideo <choice>
+          <orig>dissimis</orig> <reg>dissimilis</reg> </choice> modus potentiae est iste et <pb ed="#B5" n="358"/> <cb ed="#B5" n="a"/> ille quo in potentia esse dicebatur ante addiscere
+          vel invenire. Istis enim duobus modis adipiscitur scientia, quia omne quod quis scit aut
+          discens aut inveniens novit : et tunc etiam per se potest intelligere, quia omnis potentia
+          receptiva potest operari quando reducta fuerit ad actum : et tunc etiam intelligit seipsum
+          : sicut enim sentimus nos videre et audire una potentia quae est sensus, ita intelligimus
+          nos intelligere eadem potentia quae est intellectus : in omnibus enim intelligibilibus
+          secundum actum intellectus intelligit seipsum, quia intelligit ea esse in seipso : hoc
+          enim est intelligere speculari ea scilicet in seipso, quod non esse potest si seipsum non
+          speculetur prout est subjectum intelligibilium : et intellectus illi qui nihil intelligunt
+          extra seipsos, illis essentiale est magis intelligere quam hominibus : et hoc maxime est
+          in intellectu primo. Quod autem hic dicimus intellectum esse subjectum intelligibilium,
+          non ita oportet accipi, quod sit vere subjectum : quia sic conversio ejus in seipsum, non
+          esset vere intelligere, sed est subjectum formale sicut commune et indeterminatum
+          subjectum determinantis ipsum : et ideo diximus superius quod forma intellectus non
+          operatur aliquid in intellectu nisi determinatione, sed potius e contrario intellectus
+          operatur circa formam intellectam discretionem et judicium et resolutionem et alias multas
+          operationes : ob quod etiam patet quod non est species intelligibilis in intellectu sicut
+          forma in materia : et in hoc erravit Avicebron et multi alii praecipue Latinorum errant in
+          illo.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

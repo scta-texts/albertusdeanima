@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT IV.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT IV.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t3c4">
+        <head xml:id="admda-l3t3c4-Hd1e128">CAPUT IV.</head>
+        <head xml:id="admda-l3t3c4-Hd1e131" type="question-title">Quod eadem est analogia phantasmatum ad intellectum, quae est
+          sensibilium ad sensitivum.</head>
+        <p xml:id="admda-l3t3c4-d1e134">Est autem eadem prorsus analogia et idem numerus sensibilium plurium comparatorum ad
+          sensitivum unum quod facit inter ea comparationem, et phantasmatum plurium ad intellectum
+          unum quod facit inter ipsa per rationes comparationem : nihil enim omnino differt opponere
+          ab aliquo dicente et quaerente, qualiter judicat ea quae sunt similia genere, alias
+          dissimilia, sicut ea quae sunt unius generis et potentiae, quomodo idem judicat album et
+          nigrum, dicemus quod judicat ea sicut ultima virtus ad quam terminatur motus albi et
+          nigri. Et similiter si quaerat aliquis quomodo idem est judicans id quod est ex
+          phantasmate albi, et ex phantasmate nigri, dicemus similiter sicut unus et idem terminus
+          ad quem ultimi proveniunt motus utriusque : quoniam sicut se habent res sensibiles ad
+          sensitivum ultimum, ita se habent diversa phantasmata ad intellectivum unum ultimum. Sit
+          enim D sicut dulce et C amarum, quoad hoc quod sit similitudo et species dulcis et amari C
+          in phantasia : A autem <cb ed="#B5" n="b"/>
+          <!-- 375 b --> sit res sensibilis alba, et B sit res possibilis nigra, et C in phantasmate
+          se habet ad D et A aut ad B : tunc oportet quod cum sit phantasma amari et D, quod sicut A
+          C et D dulcis, A et B se habent movendo sensitivum ultimum unum : ita C et D se habeant,
+          quod moveant intellectum idem et commutabiliter : sic est et quodam modo quoad hoc quod
+          sicut se habent species in phantasmate moventes intellectum, ita se habent sensibilia
+          moventia sensum. Et adhuc sicut se habent species quorumdam sensibilium ad ipsa, et e
+          converso : et hoc contingit propter hoc quod phantasia est motus a sensibili secundum
+          actum factus : et ideo oportet quod in phantasmatibus sic sit sicut in sensibilibus, et e
+          converso. Si enim sunt sensibilia eadem in genere vel diversa, ita erunt etiam phantasmata
+          moventia intellectum. Si ergo C et D quae sunt phantasmata composita, sunt ejusdem generis
+          et ejusdem sensus : sic se habent movendo intellectum sicut A et B movendo eumdem sensum :
+          et tunc oportet quod sint unum et idem quoad hoc, et ab eadem virtute apprehendantur,
+          licet esse virtutis illius secundum quod refertur ad hoc phantasma et illud, non sit idem,
+          etiam, sicut diximus, quod est primi sensitivi non est idem quando convertitur ad unum
+          sensibile et aliud, sicut diximus quod esse centri non est idem secundum quod refertur ad
+          unam lineam et ad aliam. Hoc autem modo patet similitudinem esse unam in omnibus
+          phantasmatibus et in sensibilibus, et in numero et in analogia. Eadem autem ratio est si
+          accipiantur sensibilia et phantasmata diversorum generum : diversorum autem generum sunt,
+          sicut supra ostendimus in secundo, quae sunt diversorum sensuum : si A quidem sit dulce, B
+          vero sit album : ergo ex his apparet quod intellectum intelligit et accipit species quae
+          sunt in phantasmatibus.</p>
+        <p xml:id="admda-l3t3c4-d1e141"> <pb ed="#B5" n="376"/> <cb ed="#B5" n="a"/> Hoc autem non tantummodo verum est de
+          phantasmatibus quae a sensu sunt accepta, sed etiam de intentionibus convenientis et
+          inconvenientis, quae cum sensibilibus accipiuntur, quae nata sunt movere appetitum : sicut
+          enim in phantasmatibus determinatur de convenienti et inconvenienti per rationem, sic
+          decernitur imitabile vel <choice> <orig>senisbile</orig> <reg>sensibile</reg> </choice>.
+          Et ideo homo extra sensum secundum actum exiens, quando videlicet sensibile non sit
+          praesens cum sit in phantasmatum motibus, tunc movetur per terrorem vel gaudium, non
+          tantum somniando, sed etiam vigilando aliquando : et hujus signum est, quod quando aliquis
+          est sentiens secundum rerum praesentiam quod est fugiendum, verbi gratia quod videlicet
+          quia ignis est incendens aedificia in quibus habitat : hoc enim ut fugiendum cognoscit
+          communiter omnis homo videns illud, quia omnis videns illud fugit : propter quod dicitur
+          in Horatio :</p>
+        <p xml:id="admda-l3t3c4-d1e157">Nam tua res agitur, paries dum proximus ardet : hoc enim in quantum videns movetur ad
+          fugam. Similiter autem quicumque videt hostes et sentit, quoniam praelia sunt, sive
+          resistendo, sive fugiendo movetur. Etiam sicut se habet in sensibilibus et sensu, sic se
+          habet in phantasmatibus et intellectu in homine vel in phantasia ratiocinatur tanquam
+          videt ea coram oculis suis, et deliberando determinat futura bona vel mala ad praesentia
+          phantasmata, sicut praecipue faciunt melancholici et dormientes in somnis. Sicut enim in
+          somnis ad imagines mulierum moventur membra ad coitum, et perficitur delectatio ac si
+          esset res praesens, propter quam species tales imprimantur in corpora : quandocumque enim
+          in phantasia est conveniens forma vel disconveniens corpori, statim virtutes quae sunt
+          affixae membris, movent corpus ad inducendum illam.</p>
+        <p xml:id="admda-l3t3c4-d1e161"> <cb ed="#B5" n="b"/>
+          <!-- 376 b --> Et ideo aliqui facti sunt leprosi et aliis infirmitatibus detenti, quod
+          imaginationibus leprae frequenter detinentur vel alterius infirmitatis, cum in
+          phantasmatibus dicat determinando anima aliquid esse tanquam laetum vel tanquam triste :
+          et si non sit secundum esse, tamen fugit tunc a tristi, aut imitatur laetum. Et
+          universaliter sic est in omni actione : et actionem voco actuale potest agi per nos, sic
+          sunt omnia quae ad delectationes vel tristitias pertinent, vel ac communicationem vitae
+          animalium inter se. Si autem verum et falsum accipiatur sicut actu, ita quod non sint
+          accepta in rebus <choice> <orig>actualibus</orig> <reg>actibilibus</reg> </choice> per
+          nos, quae dicuntur praeterita : tunc adhuc sunt in eodem genere : quoniam sunt cognitiones
+          in phantasmatibus acceptae : sicut et bonum et malum actibilia et praeterita : sed in eo
+          quod simpliciter est verum et falsum, differt a bono et malo quoad genus cognitionis :
+          quoniam simpliciter verum non est in his quae semper et ubique sunt vera quae sunt
+          universalia : et haec non sunt in phantastica cogitatione vel cognitione, sed in
+          intellectuali potentia. Similiter autem de contrario quod simpliciter est falsum : quia
+          hoc est quod ubique et semper est falsum sine hic et nunc. Differunt autem verum et falsum
+          a bono et malo quae in quodam sunt, quod sit agibile per nos, erit quidem verum vel falsum
+          in phantastica cognitione, sed non bonum et malum. Patet igitur quod in omnibus quorum
+          species est in phantasmatibus, sicut in physicis et ethicis, analogia est inter sensibilia
+          et sensum, et phantasmata ad intellectum phantasticum comparata.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

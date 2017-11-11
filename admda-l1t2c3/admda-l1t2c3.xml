@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT III.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT III.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l1t2c3">
+        <head xml:id="admda-l1t2c3-Hd1e128">CAPUT III.</head>
+        <head xml:id="admda-l1t2c3-Hd1e131" type="question-title">De opinione quae et motivo et cognoscitivo animam dicit
+          diffiniendam : in quo etiam est de opinionum collatione.</head>
+        <p xml:id="admda-l1t2c3-d1e134">Habitis autem his quae moverunt Antiquos ad dicendum quod anima diffinien<cb ed="#B5" n="b"/>
+          <!-- 142 b -->da erat per motivum : itemque habitis eis ex quibus aliis videbatur quod
+          esset diffinienda per cognoscitivum, fuerunt quidam utrumque istorum complectentes et
+          diffinientes animas per utrumque, dicentes animam esse numerum seipsum moventem. Dicebant
+          autem ipsam esse numerum propter Platonis rationes : quia numerum ponebant esse principium
+          omnium rerum, ut ex illo potentiam cognoscitivam omnium haberet : et per seipsum moventem
+          dicebat, ut ex illo moverentur corpora per rationem superius introductam. Et in hanc
+          animae diffinitionem plurimi consenserunt antiquorum Stoicorum : quia ex ista videbatur
+          eis quod animam probarent immortalem esse, sicut inferius ostendemus. Licet autem omnes
+          conveniant in hoc quod omnia sunt ex principiis primis, tamen differunt in duobus, quorum
+          unum est quae sint illa principia prima, et secundum quot sint numero. Maxime autem
+          differunt in hoc quod dicunt quidam ex eis principia rerum esse corporea. Quidam autem
+          dicunt ea esse incorporea et miscent principia ex his : et ad haec utraque referenda
+          dicunt esse principia. Et in multitudine principiorum differunt : quoniam quidam eorum
+          dicunt esse unum, et quidam plura his principiis quae ponunt, tradunt animam esse
+          corpoream vel incorpoream, et unum, vel plura.</p>
+        <p xml:id="admda-l1t2c3-d1e141">Quod enim dicunt, quod natura principiorum est motiva, non est irrationabile, sicut nos
+          superius ostendimus : et quia quidam putabant quod primum motivum omnium et incorporeum
+          est ignis, ideo dixerunt quod anima est ignis quidam : hoc enim est subtilissimum corporum
+          specie secundum partes suas, et inter omnia elementa maxime est incorporeus et
+          spiritualis, et movet alia, sicut videtur, cum ipse sit maxime mobilis.</p>
+        <p xml:id="admda-l1t2c3-d1e144"> <pb ed="#B5" n="143"/> <cb ed="#B5" n="a"/> Sed licet Democritus falsum posuerit, tamen
+          dulcius caeteris dixit : quia expositione sua cuncta cavit, quando retulit propter quid
+          est unumquodque operum animae generalium. Dixit enim animam quidem et intellectum idem
+          esse, sicut superius diximus : et cum intellectus sit essentia prima quae capacitate ambit
+          omnes alias, dixit quod habet ex eo quod atomi rotundae prima sunt principia rerum, et
+          sunt motiva sicut anima, eo quod habent figuram quae omnibus figuris nobilior est, et
+          propter partes subtilissimas : figura autem haec est forma rotunda : talem autem dicit
+          esse intellectum et animam, eo quod velociter transit ab uno in aliud : et ignem dicit
+          esse ejusdem speciei rotundae : et ideo animam esse ignem vel ex igne.</p>
+        <p xml:id="admda-l1t2c3-d1e152">Anaxagoras autem licet melius posuerit quam Democritus, tamen non adeo dulciter secundum
+          philosophiam dixit, quod minus certificavit. Alicubi enim videtur quidem alterum dicere
+          animam et intellectum, sicut superius diximus : alicubi autem videtur utrisque uti sicut
+          una natura : et ideo et intellectum posuit omnium esse principium maxime, et solum eumdem
+          dicit esse inter omnia quae sunt, simplicem et immixtum et purum. Et nos jam ostendimus
+          quare dixit ipsum esse principium, quoniam scilicet in eo est omnium capacitas sicut in
+          principio primo materiali. Simplicem autem dixit esse, eo quod non extenditur corporeitate
+          et contrarietate. Immixtum autem, eo quod non commixtus est organo alicujus corporis per
+          suam operationem, sed remanet separatus. Purus autem est, eo quod capit essentias puras
+          rerum et non esse ipsarum in materia et materiae appendiciis. Et haec positio in paucis
+          peccat, sed non certificat : quia dicit quod ab eodem habet cognoscere et movere, eo quod
+          dicit intellectum omnia movere. Et hoc esse non potest, quia idem <cb ed="#B5" n="b"/>
+          <!-- 143 b --> eodem modo se habens, non potest esse materiale et efficiens : est autem
+          materialis et passiva potentia cognoscitiva et motiva eorum quae sunt efficiens.</p>
+        <p xml:id="admda-l1t2c3-d1e159">Ex antiquis autem Philosophis Italicis, de quibus exstat parva reminiscentia, fuit
+          Melissus, qui opinatus est animam per motivum esse diffiniendam : quia dixit magnetem
+          habere animam per quam ferrum trahit. Diogenes autem, sicut et alteri quidam dixerunt
+          animam esse aerem quemdam, eo quod cognitivo et motivo dicebant eam diffiniri : et aerem
+          dixerunt principium omnium, et ita esse principium cognitionis in anima : et eumdem
+          dixerunt esse subtilissimum, et ita esse in anima eumdem aerem principium motus quo movet
+          anima. Heraclitus autem civis Ephesius omnium principium dixit esse vaporem, et ex ipso
+          constitui omnia alia, et eumdem dixit esse incorporalissimum et mobilissimum, eo quod
+          semper fluat : et dixit quod nihil entium est, quod non continue moveatur : et ideo cum
+          cognitio sit per assimilationem, eo quod cognoscens omnia sit mobilissimum : et ideo ipse
+          et multi alii fumum cordis et vaporem dixerunt esse animam. Similem autem his causam
+          inducentem habuit Alcmaeon, qui a quibusdam Thales, qui unus de septem sapientibus fuisse
+          creditur : hic enim licet non diceret animam esse vaporem vel fumum, tamen dixit quod est
+          quoddam divinum, quod movetur semper movens seipsum : et ideo etiam immortalem dixit esse
+          animam, quia sit principium movens primum. Si enim daretur non moveri, tunc etiam non
+          moveret, sicut dixerunt. Si autem primum non movet, tunc nihil secundorum movet vel
+          movetur, sicut habitum est in VIII Physicorum : et sic cessat motus jam in tota natura,
+          quod est inconveniens : oportet igitur quod se semper moveat. Est igitur immortalis. Haec
+          autem ratio <pb ed="#B5" n="144"/> <cb ed="#B5" n="a"/> scripta est in Phaedro Platonis.
+          Et ideo dixit Thales animam comparari diis coelestibus immortalibus, qui sunt
+          intelligentiae moventes, quia movere inest animae sicut intelligentiis immortalibus : quia
+          ex se moventur coelestia, sicut et animalia. Moveri enim vidit omnia divina continue ex
+          seipsis, sicut solem, lunam, et astra, et coelum totum. Alcmaeon autem talem dedit de
+          anima Philosophiam, propter hoc quod vidit animam movere per intellectum, sicut et coelum
+          movetur : et ideo animam dixit esse principium motus primum, et non posse non moveri et
+          non movere, sicut neque prima possunt a motu cessare. Diximus autem rationem hujus in
+          Physicorum libro ultimo. Magis autem grossi non adeo efficaces rationes habuerunt
+          inducentes eos ad ponendum. Hippus quidam vulgaris Philosophus dixit animam esse humorem
+          aqueum, et videtur sibi quod hoc persuaserit a semine generationis : quia semen omnium
+          generatorum est humidum aqueum, quod cito recipiat membrorum effigies. Fuit autem causa
+          dicti, quia vidit virtutem formativam esse in humido retentam per viscositatem spermatis,
+          quae format membra omnia : et hanc putavit esse humidi naturam in semine, quod nullam
+          causam consideravit nisi materialem. Dixit ergo primo humorem formare in seipso organum,
+          et postea humorem seminalem radicaliter illis organis imbibitum esse animam animalium : et
+          ideo redarguit eos qui sanguinem dixerunt esse animam, dicens quod humor spermatis non est
+          sanguis : sperma autem generationis primam dicit esse animam, quae format omnia membra et
+          infundit, sicut prius dictum est. Adhuc autem grossiores sanguinem esse animam dixerunt.
+          Illa ratione inducti dixerunt sentire magis esse proprium animae, et per illud dixerunt
+          animam esse diffiniendam, quemadmodum dixit Critias : et cum viderent corpus exsangue
+          propter frigiditatem obstupescere in sensu, et ad reditum sanguinis redire <cb ed="#B5" n="b"/>
+          <!-- 144 b --> sensum, putabant vim sensitivam sedem habere in sanguine, et esse sanguinem
+          : et quia sensum et animam dixerunt idem esse, ideo dixerunt animam esse sanguinem. Et ut
+          breviter dicatur, omnia elementa judicata sunt esse anima ab aliquo Antiquorum praeter
+          terram. Hanc enim nulli retulerunt solam esse elementum vel animam, nisi forte aliquis
+          diceret eam esse ex omnibus elementis, aut omnia elementa, quemadmodum Empedocles. Hujus
+          autem causa fuit, quia cum duo sint in quibus convalescit vita, calor scilicet et humor,
+          neutrum est in terra : et ideo etiam a paucis elementum esse terra ponebatur, sed
+          dicebatur esse faex distillans ab omnibus aliis elementis, et sic ex aliis esse composita.
+          Unde etiam illi qui sanguinem animam esse dicebant, primas operationes animae vegetabilis
+          et sensibilis in sanguine vel humore esse, quem loco sanguinis esse dicebant vel videbant.
+          Est enim ultimum nutrimentum sanguis intra venas, ex quo est cibus et augmentum et
+          generatio et in anima sensibili sensus. Quoniam etiam spiritus animalis in quo deferuntur
+          formae ad vires animae apprehensivas, resolvitur a sanguinis humore : et ideo sanguinem
+          priorem esse dicebant illo. Et quoniam tam sanguis quam sperma operationes quas habent, in
+          humido habent, quod formatur ad membra corporis, sive in generatione, sive post, et causas
+          formales et efficientes videre non poterant, ideo animam primum humidum et omnium
+          humidorum principium esse dicebant. Animam enim propter potentiam quae est in ea ad omnia
+          quodammodo, materiale et primum principium esse credebant, sicut superius dictum est.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

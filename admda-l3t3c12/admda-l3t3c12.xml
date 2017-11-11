@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t3c12">
+        <head xml:id="admda-l3t3c12-Hd1e128">CAPUT XII.</head>
+        <head xml:id="admda-l3t3c12-Hd1e131" type="question-title">Quomodo anima est omnia quodammodo quae sunt.</head>
+        <p xml:id="admda-l3t3c12-d1e134">Hunc autem ad propositum revertentes dicamus recapitulando dicta de anima quoad potentias
+          cognitivas, quod ex his quae dicta sunt, sequitur quod anima quodammodo est omnia. Dico
+          quodammodo, quoniam ipsa non est omnia secundum esse materiale, sed secundum esse
+          intentionale specierum. Species enim rerum uniuntur animae, sicut receptum unitur
+          recipienti, licet haec unitas neque sit proprie subjecti et accidentis, neque materiae et
+          formae : large tamen accepto subjecto quod subjectum dicatur id quod quocumque modo
+          recipit aliud, a quo non habet esse materiale, sed quo perficitur ad agere secundum
+          potentiam naturalem, quod in anima etiam intentiones quae sunt in ea, sunt unum cum
+          subjecto. Quod autem sic sit omnia, patet per divisionem : quoniam omnia quae sunt, aut
+          sunt sensibilia quae sunt conjuncta cum materia aut sunt intelligibilia sicut separata a
+          materia : et anima secundum sensum efficitur idem cum sen<pb ed="#B5" n="389"/> <cb ed="#B5" n="a"/>sibilibus, et secundum intellectum efficitur idem cum intelligibilibus, eo
+          modo quo eadem actu dicuntur, quorum idem est actus, licet esse sit differens.</p>
+        <p xml:id="admda-l3t3c12-d1e141">Oportet autem quaerere ad hoc demonstrationem : quoniam per partes divisionis inducta
+          probatio non est sufficiens. Accipiamus igitur istam propositionem, quod quorum divisio
+          est in eodem, ipsa sunt eadem : res autem et anima sunt ejusdem divisionis : ergo anima
+          est quodammodo omnis res : secatur enim scientia intellectiva et sensus in ea quae sunt
+          res quodammodo : quoniam id quod est dans esse et essentiam totam, est forma universalis
+          vel particularis : materia enim non assumitur ad esse conferendum, sed potius ut sit
+          subjectum esse et essentiae : et si sine subjecto tali subsistere posset, non quaereretur
+          materia a natura, quam aliquid recipiat ab ipsa : esse autem rerum est potentia vel actu
+          et separatum a sensibus, vel non separatum : et haec eadem sunt in sensu et intellectu,
+          quando haec duo animae, scilicet sensitivum, et scire potens, sunt haec potentia primo, et
+          postea sunt haec actu : quoniam sensus primo est, et postea omnia sensibilia : et hujus
+          est maxime sensitivum primum quod est sensus communis. Id autem quod scire ponitur post
+          intellectum, est potentia omnia scire, et post adeptum intellectum secundum actum sunt
+          scita omnia, sicut diximus superius. Cum autem sensitivum et intellectivum sint sicut
+          potentia omnia, hoc est necesse fieri altero duorum modorum : aut enim sunt potentia et
+          actu ipsae res extra animam, secundum esse materiale, secundum quod dixerunt multi
+          Philosophi, de quibus in primo libro fecimus mentionem : aut sunt potentia et actu species
+          rerum. Non autem potest esse quod sint ipsae res : non enim hic lapis <cb ed="#B5" n="b"/>
+          <!-- 389 b --> demonstratus in esse materiali extra animam, est in anima, sed species
+          lapidis est in anima, et anima est species ejus, sicut diximus esse sensum speciem
+          sensibilium, et intellectum esse potentia speciem intellectorum. Anima igitur secundum
+          sensum et intellectum, est sicut manus quaedam quae est in aliis organis corporis : manus
+          enim non est organum uni officio tantum, sed juvat quodlibet organum ad officium suum :
+          porrigit enim ori cibum, et expedit pedem, et purgat et deobturat autem, et sic de aliis
+          actibus ipsius : et ideo manus est organum organorum, habens figuram et compositionem
+          quasi activam ad omne organum : et ita est sensus potentia species sensibilium, et
+          intellectus potentia species intelligibilium. Per quem modum hoc sit, superius diximus :
+          quoniam sicut necesse est quod manus sit formalior organis, ita necesse est quod primum
+          sensitivum sit formalius quam sensibilia, et primus intellectus sit formalior speciebus
+          intelligibilibus. Haec autem sufficienter probata sunt in ante habitis.</p>
+        <p xml:id="admda-l3t3c12-d1e148">Quoniam nulla omnino sunt sensibilia quae sunt separata a magnitudine corporum : quia
+          omnes formae sensibiles sunt formae sibi situm in corporibus determinantes, et in
+          majoribus majores, et in minoribus minores : et quia species intelligibiles sunt in
+          sensibilibus quocumque modo, sive sint abstractive dicta, sicut mathematica, sive habitus
+          et formae et passiones et proprietates ipsorum sensibilium, sicut naturalia et moralia,
+          ideo contingit quod nihil omnino sentiens, nunquam aliquod potest addiscere vel scire :
+          quoniam, sicut diximus, ante adeptum intellectum, est acceptio scientiae ex <choice>
+          <orig>phantasmatibns</orig> <reg>phantasmatibus</reg> </choice> : phantasmata autem non
+          habet, nihil omnino accipiens per sensum : et si in toto periret aliquis sensuum, pe<pb ed="#B5" n="390"/> <cb ed="#B5" n="a"/>riret in toto scientia quae de sensibili illius
+          sensus deberet elici : cum enim quis speculetur accipiendo scientiam, tunc necesse est
+          simul in eo esse phantasmata eo quod phantasmata : intellectuum sunt sicut sensibilia
+          sensuum, excepto hoc solo quod phantasmata abstracta a praesentia materiae sunt : sed
+          sensibilia exigunt materiam esse praesentem. Est autem phantasia secundum quam phantasma
+          in nobis fit, et differt ab affirmatione et negatione : quoniam naturae affirmationis est,
+          et naturae negationis est intellectus complectens intelligibilia : et haec complexio est
+          aut vera, aut falsa : et ideo forte quaereret aliquis quid differt illud quod primum est
+          intellectus complectens particularia per cogitationem ab esse nunc phantasmate in anima :
+          principium enim intellectus in nobis est cogitativus : numquid enim ipsa phantasmata non
+          sunt alia ab intellectu : constat autem quod non, sed non licet non sint phantasmata cum
+          cogitativo intellectu, tamen intellectus cogitativus non est sine phantasmate : et ideo
+          etiam in dubium venit, sicut superius diximus, utrum intellectus secundum quod est in
+          nobis conjunctus imaginationi et sensui posset aliquid separatum intelligere : intellectus
+          enim post mortem constat quod intelligit separata. Et nos diximus in illa quaestione quod
+          nobis videbatur : quoniam nobis videtur quod in hac vita continuatur cum agente
+          formaliter, et tunc per agentem intelligit separata, quia aliter felicitas contemplativa
+          non attingeretur ab homine in hac vita : et hoc est contra omnes Peripateticos, qui dicunt
+          quod fiducia contemplativa est ut formam attingere intellectum agentem : est enim, sicut
+          diximus superius, respectu status nostri intellectus, scilicet in potentia et in
+          perfectione potentia ad actum, et in adeptione : in potentia autem existens nullo modo
+          attingit agentem sicut formam, sed dum perficitur, tunc movetur ad conjunctionem cum
+          adepto : et tunc quantum habet de intellectu, tantum est conjun<cb ed="#B5" n="b"/>
+          <!-- 390 b -->ctus : et quantum caret, tantum non est conjunctus. Habitis autem omnibus
+          intellectibus, tunc est conjunctus et vocatur adeptus, et sic sunt differentiae
+          intellectus nostri quatuor, quorum primus est possibilis vocatus intellectus, secundus
+          autem universaliter agens, et tertius speculativus, et quartus adeptus. Accessus autem ex
+          naturae habitudine ad adeptum vocatur subtilitas : et expeditus usus adepti in actu,
+          vocatur sollertia : subtilitas autem causatur ex splendore intelligentiae super possibilem
+          ex natura : solertia autem est bona dispositio velociter inveniendi causas multas.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

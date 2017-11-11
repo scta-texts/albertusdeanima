@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XIV.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XIV.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l1t2c14">
+        <head xml:id="admda-l1t2c14-Hd1e128">CAPUT XIV.</head>
+        <head xml:id="admda-l1t2c14-Hd1e131" type="question-title">Et est digressio declarans causam dicti Antiquorum, quo dixerunt
+          simile simili cognosci.</head>
+        <p xml:id="admda-l1t2c14-d1e134">Est autem adhuc inquirendum, utrum simile simili cognoscatur, quia hoc dixerunt illi qui
+          animam per cognitivam omnium diffiniendam esse censuerunt. Videbatur enim hoc omnibus fere
+          Antiquis : quoniam, ut inquiunt, aut anima aliquid simile apud se habet unde rem
+          cognoscat, aut non habet. Si autem habet aliquid simile apud se, tunc habetur propositum,
+          quod simili quod habet apud se cognoscit quidquid cognoscit. Si autem apud se simile rei
+          cognitae non habet cognitiva, ergo rem se cognoscere nescit : quia non habet aliquid ad
+          quod cognitionem rei examinet. Cum enim quaerit rem et invenit, scit se invenisse. Aliquid
+          autem est principium apud se, quod regit eam in inquirendo, quia aliter per incerta
+          quaereret : et hoc non est verum : oportet igitur quod principio aliquo formali regatur in
+          inquirendo : et haec est aliqua rei similitudo : oportet igitur quod similitudo sit apud
+          animam ex qua cognoscat anima. Adhuc autem cum invenit rem, et scit quod haec est res quam
+          invenit post inquisitionem, aliquid iterum habet quod certificat eam esse rem quam
+          invenit, quia aliter quaereret in infinitum. Constat autem quod hoc iterum est aliqua
+          rerum similitudo : et ideo oportet in anima esse similitudines rerum : et ita cognoscit
+          simile simili. Adhuc autem nihil appetit et quaerit nisi quod est sibi simile : et nihil
+          movetur ad aliquid, ut dicit Boethius, nisi per hoc quod est simile illi. Nec enim un<pb ed="#B5" n="181"/> <cb ed="#B5" n="a"/>quam materia vel potentia materialis movetur ad
+          aliquam formam cujus apud se non habet aliquam similitudinem. Est autem cognitiva potentia
+          naturalis et mota ad rerum species quodammodo : oportet igitur ipsam cum eis habere
+          similitudinem. Adhuc autem agens semper est nobilius anima. Videtur igitur quod nulla
+          rerum exteriorum ei imprimat ei suam speciem nec ad cognoscere perficit ipsam : cum autem
+          cognoscat, oportet quod per assimilationem cognoscat : oportet igitur ut apud se rerum
+          habeat similitudines, et non acquirat ab extra.</p>
+        <p xml:id="admda-l1t2c14-d1e141">Omnes autem dictae rationes Platonis sunt et Augustini et Boetii Platonicorum, qui
+          dixerunt Platonis musam in hoc verum personare, quod dicebat quod quisque discit, immemor
+          recordatur : et quod omnium scientia et cognitio est naturaliter apud animam, sed occupata
+          sensibus et gravata carne, haud potest mox redire ad se ut statuat oculum considerationis
+          in seipsa, et videat ea quae habet apud seipsam : per studium autem elevatur supra molem
+          carnis et per speciem rei extra, vel per auditum excitatur ad videndum hoc quod in se
+          habet : et per hoc venit in reminiscentiam eorum quae habet apud se. Et hujus dicunt esse
+          simile in eo qui longo tempore est oblitus rei alicujus, et subito occurrit ei simile
+          simili : tunc enim ad visum illius venit in memoriam prius obliti : et ita dicunt fieri de
+          omni rerum scientia. Hujus autem signum est, quod dicunt in pueris, qui primo res non
+          distinguunt, omnem virum vocantes patrem, et omnem foeminam matrem : postea autem excitati
+          per visum et auditum frequenter, discernunt ex seipsis unum ab alio, quando ad se redire
+          possunt. Menon autem Pythagoricus et universaliter omnes Platonici, et multi Stoicorum
+          istam opinionem semper defenderunt. Haec igitur fuit ratio qua Antiqui inducti sunt ad hoc
+          quod dixerunt simile simili cognosci, et in hoc omnes convenerunt. Causas autem hujus
+          volentes assignare diversas vias diver<cb ed="#B5" n="b"/>
+          <!-- 181 b -->terunt : et alii quidem causam hujus assignantes animam ex elementis esse
+          dixerunt : eo quod putabant species omnium esse species elementorum sic vel aliter
+          commixtorum, et mixtum nullam omnino habere speciem praeter eam quae est elementarium
+          specierum congregatio quaedam. Alii autem dixerunt animam esse imaginem separatarum
+          intelligentiarum, et esse plenam formis et rationibus rerum, et sub illis formis habere
+          rerum scientiam : neque exigebatur secundum eos ad scientiam, nisi quod habitae formae in
+          anima ad res determinarentur. Et alii dixerunt, quod anima est materia prima in qua sunt
+          omnes formae per aliquem modum latentes tamen : sed cum additur super potentiam animae lux
+          intelligentiae agentis, tunc videt eas in se. Materia autem corporali, eo quod non additur
+          talis resplendentia lucis super eam, non potest eas in se videre. Et iste fuit Anaxagoras
+          et quidem alii.</p>
+        <p xml:id="admda-l1t2c14-d1e148">Sed haec omnia melius infra determinabuntur, quando de intellectu possibili et agente
+          habebitur tractatus : sed quantum hic sufficit, sciendum est quod in materia sunt omnes
+          formae per inchoationem, et non per coadunatum habitum, quarum illa potentia susceptibilis
+          est : et ideo potestate illa habituali imperfecta omnes habet, et actu distincto et
+          determinato nullam habet omnino : et haec est causa quod quaerit perfici, quia imperfectum
+          aliquid habens unde ordinetur ad perfectionem, illud quaerit. Sed id quod nullum habet in
+          se habitualiter ordinans ad perfectionem, nullam omnino quaerit perfectionem : quia non
+          habet unde percipiat eam : potentia enim nata fieri aliquid, non fit illud nisi per
+          privationem, quia subjicitur motui ad illud : et quia jam inchoatum est in ipsa potentia
+          quae perficitur, ideo scit se invenisse quod quaerit, quando videt illud in se reduci ad
+          actum determinatum et distinctum, et agens in illa reductione est species cognita a rebus
+          extra accepta : per illud etiam habet similitudinem incom<pb ed="#B5" n="182"/> <cb ed="#B5" n="a"/>pletam ad illud ad quod movetur quando quaerit. Si enim haberet
+          similitudinem completam, jam non quaereret ulterius, sed quiesceret in similitudine illa :
+          et sic intelligitur id quod Philosophi dixerunt, quod non movetur aliquid ad aliquid, nisi
+          per hoc quod est simile illi. Quid autem sit faciens pueros distinctam rerum habere
+          cognitionem, determinavimus in principio Physicorum nostrorum. Per dicta ergo satis patet
+          qualiter falsum est scientiam rerum esse apud nos et rerum omnium similitudines, et
+          ostensa est erroris causa Antiquorum. Relinquitur autem determinare utrum possibilitas
+          materiae eadem sit cum possibilitate cognoscentis animae, eo quod utraque est potentia
+          omnia et actu nihil : sed non potest bene determinari nisi prius sciatur possibilis
+          intellectus : et ideo usque illuc differatur.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

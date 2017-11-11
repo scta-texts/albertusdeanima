@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT V.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT V.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t2c5">
+        <head xml:id="admda-l3t2c5-Hd1e128">CAPUT V.</head>
+        <head xml:id="admda-l3t2c5-Hd1e131" type="question-title">Et est digressio declarans opinionem Theophrasti et Themistii,
+          et improbationem ejusdem.</head>
+        <p xml:id="admda-l3t2c5-d1e134">Theophrastus autem et Themistius viri in secta Peripateticorum clarissimi, aliam secuti
+          sunt viam, dicentes in anima non esse nisi intellectum agentem, et nullum intellectum
+          possibilem in ratione possibilis, qui sit pars animae rationalis. Dicebant autem hoc per
+          unam praecipue rationem, quae est ista, quod scilicet in omnibus in quibus est prima
+          perfectio et secunda, ita se habent ad invicem, quod si prima est intransmutabilis et
+          aeterna, quod secunda est intransmutabilis et aeterna. Prima autem perfectio hominis est
+          intellectus. Secunda est intelligere : et ideo si intellectus est immixtus separatus et
+          impassibilis et aeternus, intelligere erit similiter intransmutabile et aeternum : constat
+          autem quod intellectus agens est aeternus hoc modo quo dicimus aeternum esse
+          intransmutabile : agente autem uno modo se habente erit id in quo agit uno modo se habens,
+          quod aliter agens esset otiosum : et sic id quod vocatur intellectus possibilis, erit
+          aeternum et actum est aeternum. Sic enim probatum est in octavo Physicorum, quod motore
+          existente aeterno et moto, motus necessario est aeternus. Similiter autem isti viri
+          videntur dicere quod actum ab agente est speculativus intellectus, et intelligere nihil
+          aliud est quam denudare formas, et hoc est opus intellectus agentis. Sed hoc omnino stare
+          non potest, quia factum secundum suum nomen ostendit, quod ipsum non est semper, nec
+          aeternum nec necessarium : speculativus autem factus est : igitur non potest esse aeternus
+          et necessarius. In alio autem <pb ed="#B5" n="338"/> <cb ed="#B5" n="a"/> loco isti viri
+          dicunt, quod intellectus materialis est pars animae, sed non perficitur nisi ab agente, et
+          non ab intelligibili : et ideo cum tam agens quam possibilis sint intransmutabiles, factum
+          per compositionem ex utroque erit intransmutabile et aeternum : propter quod negant etiam
+          intellectum possibilem esse ut possibilem ante actum, licet concedant eum esse in anima
+          prout est subjectum luminis agentis. Si autem quaeratur ab ipsis de dictis <name ref="#Aristotle">Aristotelis</name>, qualiter intelligantur quae dicit de natura
+          possibilis intellectus, dicunt quod intelliguntur de eo quod est subjectum agentis luminis
+          : et illud lumen habitum ab ipso est speculativus intellectus. Cum autem dicitur quod
+          potentia est omnia intelligibilia et actu nullum, dicunt quod hoc sic est : quia lumen
+          ejus aliquando est super intelligibilia, et tunc ipsa denudatio est actu intelligere, quod
+          vocatur speculativus intellectus, qui dicitur adeptus : illi enim ponunt quadruplicem
+          intellectum in anima, agentem scilicet qui denudat formas, et possibilem qui recipit lumen
+          agentis, et tertium compositum ex utroque sicut diaphanum lucidum, quem vocant
+          speculativum : et quartum qui fit splendore luminis habiti super intelligibilia, quem
+          vocant adeptum : et haec opinio multum rationabilior est quam Alexandri et aliorum
+          Peripateticorum quorumdam.</p>
+        <p xml:id="admda-l3t2c5-d1e144">Si autem quaeratur ab eisdem de hoc quod dicit <name ref="#Aristotle">Aristoteles</name>,
+          intellectum sic se habere ad intelligibile, sicut sensus ad sensibile se habet : et ita
+          cum sensus sit susceptivus specierum sensibilium, erit et intellectus susceptivus
+          specierum intelligibilium : et sic intelligere non est solum denudare, sed etiam
+          intelligibilia recipere. Amplius per se agens sine possibili potest denudare. Si ergo hoc
+          sufficit ad intelligere, non oportet ponere aliquem intellectum possibilem vel
+          speculativum, sed tantum agentem et speculativum adeptum. Sed ad hoc illi respondent
+          agentem absolutum nullum esse in anima : quoniam intelligentia absolute agens non <cb ed="#B5" n="b"/>
+          <!-- 338 b --> potest esse pars animae, sed lumen agentis in possibili agentem vocari vel
+          vocant : et quando distinguitur intellectus in agentem et possibilem et speculativum, est
+          talis divisio sicut substantia dividitur in materiam et formam et compositum : non fit hoc
+          ideo quod forma divisum esse habeat a composito, vel a materia, sed ut ostendatur
+          componentia esse diversarum naturarum, et a composito differre per modum simplicitatis
+          eorum. Haec autem opinio ponit animam rationalem secundum nullam sui partem esse subjectum
+          intelligibilium, et non esse species intelligibiles in anima, nisi sicut in agente eas :
+          sicut colores actu existentes sunt in luce, quae est hypostasis eorum. Et esset simile,
+          quod si a visu procederet lumen dans esse formale coloribus, et hoc esset videre : sic
+          volunt dicere, quod lumen agentis in possibili intellectu intellectualitatis formam
+          <choice> <orig>dansi ntelligibilibus</orig> <reg>dans intelligibilibus</reg> </choice>,
+          sit intelligere et hoc sit esse intelligibilia in anima.</p>
+        <p xml:id="admda-l3t2c5-d1e163">Et si vellemus recedere a dictis <name ref="#Aristotle">Aristotelis</name>, non esset
+          ista via abjicienda : nunc autem quia expresse dicit <name ref="#Aristotle">Aristoteles</name> quod sicut sensitivum se habet ad sensibile, sic intellectivum se
+          habet ad intelligibile, sicut diximus, non videtur haec opinio cum verbis <name ref="#Aristotle">Aristotelis</name> consonare. Movit autem Theophrastum praecipue hoc,
+          quod si esset possibilis in anima intellectus separatus, et non hoc aliquid distinctum,
+          quod ille a materia prima non differret : quoniam utrumque potentia est omnia et nihil
+          actu : et ideo materia prima deberet cognoscere similiter formas sibi advenientes, sicut
+          intellectus possibilis : quod omnino est absurdum. Non igitur taliter possibilis vocatus
+          intellectus est sicut in anima. Adhuc autem taliter possibilis intellectus non fit
+          intelligibilia sine transmutatione et tempore : ergo iste intellectus possibilis est et
+          transmutabilis et mixtus intellectus in anima, sicut ex supra dictis est manifestum : ergo
+          in anima non est taliter possibilis vocatus intellectus : et <pb ed="#B5" n="339"/> <cb ed="#B5" n="a"/> ideo ista opinio dubitavit in quaestione illa qua quaeritur, qualiter
+          contingit possibilem esse intellectum et recipere intelligibilia, quando supponitur esse
+          impassibilis et intransmutabilis et immixtus.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XIV.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XIV.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c14">
+        <head xml:id="admda-l2t3c14-Hd1e128">CAPUT XIV.</head>
+        <head xml:id="admda-l2t3c14-Hd1e131" type="question-title">Qualiter color in lumine videtur, et non sine lumine, et de
+          quantitate visorum.</head>
+        <p xml:id="admda-l2t3c14-d1e134">Licet autem color visualis sit in lumine, ut diximus, tamen non omnia in lumine sunt
+          visibilia quae videntur : sed illud quod videtur in lumine, hoc solum est uniuscujusque
+          proprius color. Quaedam enim in lumine non videntur, in tenebris autem videntur : et hoc
+          non est dictum ideo quod tenebrae aliquid faciant ad visibilitatem eorum, cum sit privatio
+          pura, sicut jam ante dictum est : sed lucentia cum habeant lucem, in propria luce
+          videntur, eo quod quidquid videtur, videtur secundum actum lucidi : sed quaedam quae non
+          habent lucem in sua propria compositione, videntur in luce aliena sibi conjuncta, sicut
+          colores. Quae autem in tenebris faciunt sensum, sunt sicut illa quae sunt ignea et alia
+          lu<cb ed="#B5" n="b"/>
+          <!-- 258 b -->centia : et hoc cum sint multis modis participantia lucem, non habent unum
+          nomen commune, sicut quercus putrefacta, et quaedam cornua, et ossa, et capita quorumdam
+          piscium, et squamae, et oculi animalium quorumdam, et vermiculi qui vocantur noctiluca.
+          Sed habent magnam differentiam, quoniam quaedam eorum faciunt lucidam totam perspicui
+          materiam, sicut sol : et quaedam non ita, sicut luna, quae non facit lumen sub tectis : et
+          ignis minus lucet quam luna : et ea quae nominata sunt, superveniente lumine non videntur
+          sub lucis actu, sed sub forma coloratorum. Et hoc generale est, quod semper majus lumen
+          superveniens opprimit minus : et ideo noctiluca totum lumen amittit in die, et retinet
+          colorem album. Propter quam causam autem haec in tenebris visibilia sunt, alia ratio est
+          quae superius est expedita, et in libro de Animalibus prolixius tractanda.</p>
+        <p xml:id="admda-l2t3c14-d1e141">Nunc autem hoc manifestum est, quod in lumine videtur color, et quod sine lumine non
+          videtur : diximus enim superius, quod hoc erat esse et diffinitio coloris quod movet visum
+          secundum actum lucidi : perfectio autem lucidi sive perspicui lumen est, et sine hoc color
+          non videtur. Hujus autem signum est, quia si quis ponat id quod coloratum est super
+          oculum, non videbit ipsum : et hujus causa est, quia coloratum secundum tactum non agit in
+          aliquid nisi actione physica, quae est per principia materialia ipsius : color autem non
+          fit in visu per actionem physicam, sed per actionem formalem et spiritualem, sicut diximus
+          superius : et ideo indiget corpore in quo prius efficiatur spiritualis antequam in oculo
+          generetur : et haec est necessitas quare oportet medium esse in sensu visus : oportet
+          igitur quod color secundum actum moveat prius lucidum quod actu lucidum est : et hoc
+          quando <pb ed="#B5" n="259"/> <cb ed="#B5" n="a"/> continuum est, usque ad videntem
+          interposito terminato corpore movetur oculus quo sentitur coloratum.</p>
+        <p xml:id="admda-l2t3c14-d1e148">Sed tunc est dubium, quia secundum hoc non debet aliquod visum majus quantitate aciei
+          oculi videri : quia illud quod imprimitur oculo de colore, non potest esse majus suo
+          subjecto : nunquam igitur perpendetur motuum magnitudo. Adhuc autem videtur quod omnis res
+          inversa videri debet, quia anterius formae visibilis venit ad oculum : et id quod est
+          interius in colorato, est exterius in oculo. Adhuc autem omnis res dupla videri debet,
+          quia una forma visibilis in uno sigillatur oculo, et alia in alio : et duae formae in
+          oculis duobus duo debent apparere visibilia. Adhuc autem dextra debet videri sinistra, et
+          e converso, quia dextra rei visae est contra sinistram partem oculi, et e converso : ergo
+          dextrum sigillatur in sinistra oculi parte e converso.</p>
+        <p xml:id="admda-l2t3c14-d1e152">Sed ad omnia haec respondentes supponimus visum esse intus suscipiendo, et non extra
+          mittendo : tamen hoc probabitur in scientia libri de sensu et sensato. Licet autem dicamus
+          quod videmus intus suscipientes et nihil extra mittentes, tamen dicimus quod lux abstrahit
+          colores, et facit eos fieri in lucido secundum rectas lineas, ita quod processus colorum
+          ad visum est, sicut procedens abstrahit eos lux : et ideo nisi color directe in oculos
+          procedat, non videtur, licet enim color sphaerice in circuitu generetur in lucido, tamen
+          color qui est post nos, non videtur, eo quod lux quae est post nos et abstrahit eum, non
+          procedit in oculos, et per consequens ipse color non procedit ad oculos, sed ab oculis :
+          unde licet color directe sit ante nos in aere, tamen non fit in oculis ex dicta causa.
+          Cujus tamen et altera est causa, quia scilicet color non movet visum sine praesentia
+          materiae, et materia per directam lineam non est praesens <cb ed="#B5" n="b"/>
+          <!-- 259 b --> oculis. Quando autem directe procedit in oculos, tunc fit processus ejus
+          sub duobus radiis luminis, quorum unus unum finem colorati attingit, et alter alterum, ita
+          quod figuratur triangulus vel pyramis, cujus basis est res visa, et angulus concluditur
+          versus oculum. Sit enim res visa A B : et ducam unam lineam ab A in C, et aliam a B in C,
+          et ponam C oculum esse, et oculum propinquiorem rei visae ponam esse D : et ducam lineas
+          radiales luminis A D et B D : et adhuc propinquius ponam esse oculum G, ducamque lineas A
+          G et B G : et dico tunc quod immutatio oculi fit in puncto, in quo concluduntur lineae
+          radiales, et generatio coloris est sphaerice per triangulos tales vel pyramides in
+          circuitu rei visibilis. Et ideo non est aliqua quaestio de quantitate formae colorati in
+          oculo : quia illud quod sigillatur in puncto, est indivisibile secundum quod hujusmodi :
+          nec hoc est inconveniens, cum in oculo et in medio sit prius rei intentio quam res, sicut
+          diximus supra : judicium autem quantitatis rei visae fit per quantitatem anguli ejus qui
+          concluditur in oculo : et iste quanto est propinquior rei visae, est major : et quanto
+          remotior, est minor : et ideo eadem res prope visa, videtur majoris quantitatis, et longe
+          visa, videtur quantitatis minoris : et quia lineae radiales quanto plus procedunt a re
+          visa, tanto magis coeunt, si contingat quod concludantur antequam perveniant ad oculum,
+          res omnino non videbitur : et haec est causa, quod tantum potest distare res, quod omnino
+          non videbitur.</p>
+        <p xml:id="admda-l2t3c14-d1e159">Nihil autem est quod objicitur de inversione rei : quia jam ostendimus quod intentio non
+          generatur nisi a forma rei, secundum quod forma, et illa non habet anterius et interius,
+          sed suam intentionem generabit in oculo. Similiter autem de dextro et sinistro dicendum
+          est, quod intentio non movet visum sine rei prae<pb ed="#B5" n="260"/> <cb ed="#B5" n="a"/>sentia : et ideo licet dextrum visi sit contra sinistrum intuentis, non tamen perversum
+          fit judicium, eo quod ad rem terminatur, sine cujus praesentia nullo modo potest movere
+          visum : cum enim oculus sit sicut speculum animatum convexum, omnino necessarium est quod
+          dextrum rei in se sit in sinistra parte oculi, et e converso. Et hoc apparet quando duo
+          homines inspiciunt oculos suos ad invicem : tunc enim vident suas imagines stare in
+          oculis, et dextram esse sinistram, et e converso : et non impedit sensum verum propter
+          materiae praesentiam, sicut diximus.</p>
+        <p xml:id="admda-l2t3c14-d1e166">Quod autem videtur probari, quod una res debeat videri duae, solvit bene <name ref="#Avicenna">Avicenna</name> dicens virtutem visivam esse in nervo qui vocatur opticus,
+          hoc est, visivus, infra quem discurrit spiritus visivus accipiens formas in oculis
+          depictas : est autem iste nervus cancellatus in anteriori parte cerebri, et facit quasi
+          triangulum, et in puncto illo uniuntur formae oculorum, et ibi fit judicium de re visa :
+          et quia ibi conveniunt, ideo unum videtur quod est unum, et duo quae sunt duo. Signum
+          autem hujus est, quia si aliquis exprimat parumper oculum, digitum supponens oculo, nervus
+          collimitatus oculo recidit a nervo qui alteri oculo collimitatur : et tunc unum duo
+          videbitur ab habente duos oculos et non a monoculo : formae tamen duplices in oculis
+          aliquantulum impediunt rectitudinem visus ad rem, et ideo illi qui recte dirigunt
+          sagittas, alterum oculorum claudunt. Similiter faciunt qui rectitudinem alicujus rei
+          volunt deprehendere. Haec autem omnia liquide constabunt quando modus videndi
+          demonstrabitur in libro de sensu et sensato.</p>
+        <p xml:id="admda-l2t3c14-d1e172">Scias autem oculum componi praecipue ex humoribus aqueis diversis, ad hoc quod bene
+          recipiat species visibilium, et etiam retineat : et ideo humores illi sunt puri et spissi.
+          Et ideo quando aliquando humor est multus in oculis, videntur in eis formae moveri,
+          quan<cb ed="#B5" n="b"/>
+          <!-- 260 b -->do movetur humor, et prolongari. Sicut etiam de stellis videtur et formis in
+          aqua, quando aqua fuerit mota. Et hoc praecipue contingit homini evigilanti post somnum,
+          digestione non adhuc completa post ebrietatem vel crapulam : tunc enim humidum fluens ab
+          anteriori parte cerebri, ad hoc fluit ad oculos quod movet calidum digestivum : et ideo
+          moveri videtur ei quidquid videt, et habere formas longas motas non stantes. Similiter
+          autem et ille qui diu vectus est in navi vel in alio vehiculo, in humido oculi retinet
+          species motus, quod fuit unum de sensatis per se, sed commune : et videntur ei ea quae
+          videt, moveri.</p>
+        <p xml:id="admda-l2t3c14-d1e179">Sunt autem quidam non videntes eminus, sed de prope juxta oculum clare vident : et ideo
+          situs oculi humorum peccat, et non oculi compositio : habent enim illi oculi glacialem
+          multum interiori parte versus nervum opticum, et propter myringas quae sunt spissae ante
+          oculi speculum, non penetrat visibile ad speculum nisi sit prope, et a longe non vident
+          nisi indistincta et confusa visione : et hoc fit propter causam quam diximus : quia in
+          exteriori polito oculi debiliter sigillatur forma quae usque ad interiora non pervenit
+          nisi confusa. E contra autem quidam non vident nisi eminus, et isti debilem habent visum,
+          et sunt praecipue senes. Contingit autem hoc ideo, quia diximus supra quod lux incorporea
+          secundum actum est color : et hoc quando prope est, vincit oculum debilem et intus
+          dispergit ipsum, et ideo tunc oculus non videt nisi confuse : quando eminus est res visa,
+          tunc proportionatur virtuti oculi et non dispergit ipsum : et tunc videt distincte. Omnino
+          eadem est causa quare quidam in clara die non vident, et in crepusculo vel in lumine lunae
+          clarius et distinctius vident : diximus enim supra quod lumen fortius confundit et superat
+          minus forte. Hi autem qui lippientes habent oculos, non vident aliquid nisi sub rubore ob
+          humorem influentem in pupillam, cui cum <pb ed="#B5" n="261"/> <cb ed="#B5" n="a"/>
+          admiscetur lumen, facit ruborem : et hoc in tertio Meteororum habitum est. De omnibus
+          autem istis diversitatibus oculorum magis in libro de Animalibus erit dicendum. Scias
+          autem quod omnino eadem causa est quare quaedam animalia venantur in nocte cibum,
+          sequentia visum, et quaedam de die. Dico sequentia visum, quia forte sequuntur aliquando
+          odoratum.</p>
+        <p xml:id="admda-l2t3c14-d1e186">Est autem et aliud mirabile de visu, quod scilicet quando aliquis in nocte juxta terram
+          est deponens oculos suos, longius videt quam stans erectus. Cujus causa est, quia
+          diaphanum terminatum, licet minus capiat de lumine quam non terminatum, tamen fortius
+          tenet et ad modicam distantiam aliquantulum illuminat lumine debili : et cum talia sint
+          juxta terram, juvant visum aliquantulum in nocte. Hujus autem et alia causa est, quia
+          lumen modicum quod tunc est in aere ex stellis, reflectitur reflexione debili a corpore
+          solido juxta terram, et multiplicatur, et ideo aliquid juvat visum. Et tertia causa est,
+          quia vapores elevati obscurantes aerem natant non juxta terram, sed in aere : et ideo in
+          aere impediunt plus visum quam juxta terram. Ex his omnibus constat quod oportet per
+          medium visum esse, et sine medio nihil videri omnino.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

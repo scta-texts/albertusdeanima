@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XI.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XI.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c11">
+        <head xml:id="admda-l2t3c11-Hd1e128">CAPUT XI.</head>
+        <head xml:id="admda-l2t3c11-Hd1e131" type="question-title">Et est digressio dicens defectum aliarum quatuor opinionum
+          superius enumeratarum de luce et lumine.</head>
+        <p xml:id="admda-l2t3c11-d1e134">Qui autem dicunt lumen esse formam substantialem ex qua substantificatur omne quod
+          generatur, habent debiles pro se rationes : visum enim est eis, quod lux sit forma
+          substantialis primi corporis luminosi, cum enim hoc sit movens, videtur quod per formam
+          sibi propriam movens sit : et haec est essentialis forma. Adhuc autem si esset
+          accidentalis, tunc haberet ante se aliam substantialem, et non esset forma prima movens.
+          Adhuc autem accidens non est forma substantiae, sed potius e converso : multae autem
+          substantiae fiunt per lucem.</p>
+        <p xml:id="admda-l2t3c11-d1e137">Similiter autem et illa opinio quae dicit lucem esse substantiam spiritualem, in multis
+          consentit illi opinioni quae dicit ipsam esse corpus spirituale, quod cum quolibet alio
+          corpore est in eodem loco : et in multis rationibus inductis pro illa opinione innititur.
+          Causa autem specialis quare sic isti dicunt, est quia vident visum esse continuum, ut
+          dicunt, usque ad coelum : in quo spatio sunt corpora diversa : oportet igitur quod aliquid
+          sit continuans inter ea : hoc autem dicunt esse substantiam spiritualem superioris
+          corporis, quae non est alterius naturae quam sit lux. Isti idem dicunt naturam diaphani
+          quae est in aere et in aqua, et in coelesti corpore, esse quoddam de natura superioris
+          corporis, et quoad hoc dicunt, quod coelum est corpus quod penetrat in omne corpus, et
+          continuat inter ea. Dicunt autem hoc fore <name ref="#Aristotle">Aristotelis</name>
+          sententiam, qui dicit quod natura diaphani est in igne et in aere et in aqua ex <pb ed="#B5" n="254"/> <cb ed="#B5" n="a"/> communicatione cum perpetuo superiori corpore : eo
+          quod non posset habere communicationem cum corpore coelesti aliquid inferiorum corporum,
+          nisi aliquid superioris esset in inferioribus, eo quod probatum est coelestis corporis nec
+          esse unam materiam, neque unam formam, neque unum motum. Cum igitur communicent cum eo
+          inferiora, oportet, ut inquiunt, et sic communicare, quod aliquid superioris corporis sit
+          in inferiori : de hoc enim superiori dicit <name ref="#Aristotle">Aristoteles</name> quod
+          unum et idem est in natura perspicui cum inferioribus. Cum autem isti dicant de lumine,
+          quod sit substantia spiritualis, dicunt tamen quod est in genere corporis : sed propter
+          hoc dicunt quod est spiritualis substantia, quia proprietatem et naturam habet incorporeae
+          substantiae in hoc quod penetrat per corpora, et corpora non cedunt ei. Hujus autem causam
+          esse dicunt, quod deprehensum est nihil esse lucem per essentiam, nisi nobiliores partes
+          diaphani congregatas : diaphanum autem est substantia spiritualis in genere corporis : et
+          ideo etiam lucem talem substantiam fore oportet. Haec igitur opinio etsi verbi differat ab
+          illa quae secundo inducta est, in re tamen prorsus est eadem. In tantum autem jam isti
+          extenderunt dicta sua, quod dicunt spiritus praecipue animales qui sunt in animalibus,
+          esse de ipsa natura corporis coelestis, quemadmodum et lumen, eo quod moventur in omnem
+          corporis partem, sicut lumina in mundo. Dicunt etiam isti quod media sensuum habent duas
+          operationes : operationem scilicet naturae, sicut quando aer commotus scindit ligna : et
+          operationem animae, quoniam spiritualiter recipit sensibilium formas et immutat organa
+          sensuum ad sentire. Et hanc operationem spiritualem in omni medio sensuum attribuunt
+          substantiae spirituali, quae est lux orbis immixta elementis. Hujus autem rationem esse
+          dicunt, quia sensibilia circulariter fiunt, sicut sphaera luminis : et quia esse non
+          potest quod duae differentes operationes elementi alicujus ad <cb ed="#B5" n="b"/>
+          <!-- 254 b --> unum principium reducantur : operationes autem sensibilium spirituales non
+          potest aliquis reducere ad qualitates primas activas et passivas, quae sunt in elementis :
+          et ideo, ut aiunt, oportet eas reduci ad aliquid orbis quod est in eis in quantum sunt
+          media sensuum. Adhuc dicunt hujus aliquam esse causam et rationem : quia scilicet nulla
+          qualitas elementalis agit, nisi ad esse materiale formae, et agit unum per se tantum :
+          medium autem habet formas sensibilium secundum esse spirituale, et non habet unam tantum,
+          sed omnes : oportet igitur quod agens hoc sit substantia corporis naturalis et
+          spiritualis, quae multa agit et secundum esse spirituale, ut dicunt.</p>
+        <p xml:id="admda-l2t3c11-d1e154">Quarta vero opinio, quae magnorum fuit, scilicet Avempacis et suorum sequacium, et quae
+          penitus his contraria, est quod lux nihil omnino esset secundum esse, sed esset quidam
+          color formalior et nobilior inter colores : et ideo vocavit ipsam esse coloris evidentiam,
+          sive coloris manifestationem. Causa autem dicti fuit, quod unius sensus qui vere unus est,
+          unum oportet esse sensibile secundum genus proprium vel proximum : hoc autem genus est
+          color in visu : oportet igitur lumen esse colorem vel aliquid colorem concomitans : et in
+          tantum processerunt isti, quod dixerunt solem esse coloratum, et colorem suum tantae esse
+          evidentiae et manifestationis quod vincit visum, et similiter lumen esse colorem diaphani
+          non-terminati. Adhuc autem in diaphano non terminato lumen esse coloris ostensionem, non
+          quidem in comparatione ad visum tantum : quia sic lumen non haberet esse nisi
+          comparationis, sed etiam simpliciter. Ex his autem quae nos superius duximus, satis
+          improbantur opiniones hic recitatae, et praecipue ex his quae diximus in capitulis de
+          sensibilibus in communi inductis.</p>
+        <p xml:id="admda-l2t3c11-d1e158">Ultima autem opinio quae dicit lumen esse coloris manifestationem et esse aliquid
+          coloris, improbatur per hoc quod si est aliquid coloris, aut erit coloris in <pb ed="#B5" n="255"/> <cb ed="#B5" n="a"/> specie, aut in genere. Et si est aliquid coloris in specie,
+          tunc haberet contrarium, quia omnis color in specie habet contrarium : et concomitans unum
+          colorem in specie, essentialiter est contrarium ei quod concomitatur alium colorem in
+          specie : sicut concomitatur album disgregare visum, et hoc est contrarium ad congregare
+          visum, quod concomitatur nigrum. Si autem est aliquid coloris in genere, cum color in
+          genere secundum esse non differat a colore in specie, color enim genus in albedine est
+          albedo, et in nigredine est nigredo, oporteret quod lux esset secundum esse color in
+          specie : et tunc sequeretur id quod prius. Adhuc autem alia est manifestatio albedinis, et
+          alia nigredinis : ergo alia et alia lux, ut videtur. Haec igitur et similia sunt, quae de
+          luce ab antecessoribus nostris dicta sunt.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

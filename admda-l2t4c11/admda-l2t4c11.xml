@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XI.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XI.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t4c11">
+        <head xml:id="admda-l2t4c11-Hd1e128">CAPUT XI.</head>
+        <head xml:id="admda-l2t4c11-Hd1e131" type="question-title">In quo declaratur qualiter sensus communis est unus et
+          indivisibilis, et qualiter diversus.</head>
+        <p xml:id="admda-l2t4c11-d1e134">At vero objiciet forte aliquis, quod ea quae dicta sunt, esse vera non possunt, quia idem
+          numero in uno indivisibili tempore non potest simul moveri contrariis motibus. Constat
+          autem quod judicans de sensibus oportet moveri ab ipsis sensibus : judicans igitur de albo
+          et dulci, vel de albo et nigro, quoniam eadem vel altera sunt, oportet quod simul moveatur
+          motu formae utriusque : hoc autem impossibile videtur : si enim dulce sic, hoc est,
+          secundum proprietatem formae suae movit sensum et intelligentiam, amarum movebit utroque
+          modo vel motu contrario, et album iterum movet secundum aliam : formationis autem
+          diversitas oritur a formarum contrarietate : et sic idem numero et indivisibile movetur in
+          tempore indivisibili motibus contrariarum formarum, quod est impossibile. Et licet hoc uno
+          verbo solvere possemus dicentes, quod formae non habent contrarietatem nisi prout sunt in
+          materia per esse materiale : et intentiones contrariorum in anima acceptae non sunt
+          contrariae, et ideo in eodem esse possunt : tamen quia intendimus ad plenum declarare
+          qualiter sensus communis unus et non unus sit, aliter solvimus inductam dubitationem : et
+          primo volumus dare solutionem ad hominem, <cb ed="#B5" n="b"/>
+          <!-- 310 b --> postea autem solutionem veram quae demonstrat veritatem naturae sensus
+          communis. Dicimus igitur primo, quod sensus communis est quoddam inseparatum, et
+          indivisibile est judicium ejus, et in tempore indivisibili secundum suum subjectum : esse
+          autem suum est divisum et separatum : contingit igitur dicere, quod quodammodo inseparatum
+          et indivisibile sentit diversa et separata : et contingit dicere, quod divisum et
+          separatum quodammodo, alio modo est illud quod sentit divisa et separata : dicimus enim,
+          quod nullius sensibilis judicium perficitur in organo proprii sensus qui recipit illud
+          sensibile, sed omnes particulares nervi qui ad organa propriorum sensuum diriguntur, et
+          concavi sunt ut in eis discurrat spiritus qui est vehiculum virtutis sensitivae,
+          diriguntur ad anteriorem cerebri partem, quae medietas quaedam est, et symphoniace
+          composita ad omnia sensata propria, et nullum habet sensum potentem omnes suscipere, et
+          ibi est organum sensus communis : et ab illius unitate sensibilis virtus quae est sensus
+          proprii, eo quod est finis sensuum, est una loco et subjecto, sed pluralitate formarum
+          particularium sensuum est plures. Omnes enim proprii sensus emanant ex ipso.</p>
+        <p xml:id="admda-l2t4c11-d1e141">Et dicemus tunc solventes inductam dubitationem, quod non est inconveniens quod id quod
+          est uno modo unum et alio modo plura, sentiat diversa et contraria. Ista autem solutio
+          licet impediat objectionem quoad hominem, non tamen solvit inductam dubitationem quoad
+          materiam sensus communis. Idem enim subjecto et indivisibile est potentia habens contraria
+          : et si intelligatur divisum per subjectum, adhuc potentia habet contraria : et ideo
+          contraria potentia insunt ei quod est indivisum subjecto, et ei quod est divisum : sed
+          esse ejus quod actu habet contraria, non potest <pb ed="#B5" n="311"/> <cb ed="#B5" n="a"/> esse indivisum subjecto, sed oportet divisum subjecto sit. Contraria enim actu non
+          possunt in subjecto eodem esse : et ideo in eo quod agit aliquid per formas contrariorum,
+          oportet quod sit divisum : igitur impossibile est album et nigrum esse simul in eodem
+          subjecto : ergo non potest aliquid pati per receptionem speciei eorum actu unum et
+          indivisibile subjecto : sed secundum prius habitam solutionem sic se habent sensus
+          communis et intelligentia, quoniam vel quando habent species contrariorum et diversorum.
+          Dictum est enim quod sunt unum subjecto, et plures secundum formas derivatas ab ipsis :
+          non ergo conveniens fuit dicta solutio. Convertemus ergo sermonem et dicemus, quoniam
+          sensus communis est sicut terminus sensuum particularium : et quia terminus est forma,
+          apprehensio enim diversorum sensatorum est ad hoc finaliter ut discernatur convenientia et
+          differentia quae est inter ea : et quia terminus talis et finis est forma, ideo dicemus
+          sensum communem essentialiter et formaliter unum et indivisibilem esse, et per subjecta
+          particularia ad quae dirigitur virtus ejus, esse plures.</p>
+        <p xml:id="admda-l2t4c11-d1e148">Eo modo quo mathematici quidam dicunt punctum in circulo quo dicitur esse centrum unum in
+          substantia et forma, non in quantum duo sunt, quia sic in se indivisibile est et non ex
+          diversis compositum : et hoc modo non discernit nisi unum quod est medium circuli. Per hoc
+          autem quod ipsum substantialiter est medium circuli, est ipsum principium aequalitatis
+          linearum protractarum ab ipso ad circumferentiam. Sic uno et unum et multa discernuntur.
+          Oportet enim unum esse per substantiam et formam per quod judicatur in omnibus aequalitas,
+          et oportet ipsum esse plura per hoc quod est plurium quibus sua medietas dat aequalitatem
+          : et sic dividitur quodam<cb ed="#B5" n="b"/>
+          <!-- 311 b -->modo per attributionem et influentiam, et non per substantiam et formam,
+          quoniam substantia una est : et forma medians, quae est causa aequalitatis, una est :
+          secundum tamen quod dividitur, non unum est : quia et sic bis utitur eodem signo : hoc
+          enim modo significat divisionem diametri in puncto quod est centrum : et est attribuens
+          uni semidiametro aequalitatem per hoc quod est ejus principium : et aequalitatem attribuit
+          alteri per hoc quod est ejus finis : et in quantum sic uno termino ut duobus utitur :
+          judicat enim duo, quia judex est aequalitatis duarum semidiametrorum, et sic separata
+          sunt, ut quodam separato dijudicata. In quantum vero est unum in forma et substantia
+          mediationis, fit judicium unius et multorum unitorum uno quodam et simul. Unius enim
+          totius circulationis judicium est unum centrum, et multarum linearum aequalium est
+          judicium per unicam centri mediationem : eo quod illa causa universalis est omnis
+          aequalitatis, quae est in lineis ab eodem centro ad circumferentiam protractis. Sic omni
+          eodem modo dicimus sensum communem formaliter principium omnium sensuum particularium, et
+          esse formam a qua est influentia in omnibus propriis sensibilibus, et esse unum in
+          substantia et forma sensibilitatis, sed distinctum per hoc quod influit particularibus
+          organis particulares sensus, et prout dirigit sensum huic vel illi proprio organo : et sic
+          judicium diversorum sensibilium per hoc quod dicit esse ea altera vel eadem ad invicem,
+          est per unum in forma et substantia et per diversa, per hoc quod illud unum aliquid
+          attribuitur diversis, et influentiam habet super diversa : et hoc non dicitur diversum
+          nisi per hoc quod est diversorum, simpliciter tamen unum et indivisum est.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

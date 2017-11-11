@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XVI.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XVI.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t2c16">
+        <head xml:id="admda-l3t2c16-Hd1e128">CAPUT XVI.</head>
+        <head xml:id="admda-l3t2c16-Hd1e131" type="question-title">Quod unus intellectus est qui distinguit inter sensibile et
+          intelligibile.</head>
+        <p xml:id="admda-l3t2c16-d1e134">Sicut diximus superius, quod oportet, quod comparans duo ad invicem distinguendo vel
+          componendo sit idem in sensibilibus quod est sensus communis, ita etiam est in
+          intelligibilibus : comparans enim intelligibile ad sensibile, vel unum intelligibile ad
+          alterum, et dicens quod est alterum vel idem affirmando vel negando, oportet quod non sit
+          duo sed unum per rationem eamdem quam induximus supra ad probandum, quod primum sensitivum
+          operans inter sensata est unum et idem.</p>
+        <p xml:id="admda-l3t2c16-d1e137">Videmus enim in intelligibilibus hanc operationem fieri : quoniam scimus quod aliud est
+          magnitudo ipsa in universali, et aliud esse magnitudinis secundum materiam et in
+          particulari apud naturam. Similiter autem videmus quod aliud est aqua, et aliud aquae esse
+          secundum naturam et particulare : et sic est in multis alteris, quia in omnibus his in
+          quibus est compositio quae ex natura communi formae, et ex natura materiae particularis et
+          individuantis formam communem. Sed hoc non est in omnibus, quod particulare secundum quod
+          particulare, non habet aliud particulare : nec commune secundum quod commune habet aliud
+          commune : aliter enim procederetur in infinitum hic : et ideo in quibusdam idem est hoc et
+          esse ejus : quia commune secundum quod commune idem est hoc et esse suum : quia non habet
+          esse nisi communis et similiter particulare in eo <pb ed="#B5" n="359"/> <cb ed="#B5" n="a"/> quod particulare, idem est hoc et esse suum : quia non habet esse nisi
+          particularis. Sicut verbi gratia, idem est haec caro et esse ejus : licet enim ab hac
+          carne possit extrahi universale, quia aliter non esset scientia de carne, tamen caro haec
+          et esse hujus carnis est idem : et exemplum particularis et sensibilis convenientius
+          ponitur in carne quam in alio : quia caro nominat materiam ultimam et propriam quae nullo
+          modo habet communitatem : quod non facit magnitudo quae univoce est in omni natura : et
+          ideo commune quidem est magnitudo. Similiter autem et aqua principium est omnium
+          compositorum ex elementis : et ideo commune est : sed caro dicit ultimo mixtum quod
+          minimae communitatis habet. Hanc autem distinctionem habet ponere intellectus et dicere :
+          quoniam ista altera sunt ad invicem, alterum scilicet magnitudo et magnitudinis esse, et
+          alterum aqua et aquae esse, et alterum caro in universali, et alterum in particulari : et
+          quia alterum est magnitudo caro, et aqua alterum ab utroque istorum per rationem
+          communitatis. Dicamus igitur quod universale et particulare in anima aut alio et alio, aut
+          eodem aliter se habente discernit : et quidem discernendo sensibile per se et
+          intelligibile per se absque dubio alio et alio discernit : quoniam unum discernit sensu,
+          et alterum intellectu : ponendo autem comparationem per convenientiam et differentiam
+          inter ea, absque dubio eodem utrumque discernit, aliter tamen se habente : cum enim
+          discernit carnem, cum ratio carnis concipiat materiam sensibilem, eo quod dicit formam,
+          quae non est nisi in hac materia, sicut simum concipit nasum in sua diffinitione, et extra
+          materiam illam non dicitur caro nisi aequivoce, oportet quod intellectus juvetur
+          sensitivo.</p>
+        <p xml:id="admda-l3t2c16-d1e144">Sensitivo enim discernit mixtum calidum, et frigidum, et humidum et sic<cb ed="#B5" n="b"/>
+          <!-- 359 b -->cum, et illorum ratio quaedam et proportio temperamenti medians in tactu est
+          caro : caro igitur in ratione sua qua concipitur vel intelligitur, concipit materiam
+          sensibilem extra quam non potest intelligi : et sic carnis intellectum oportet esse
+          reflexum ad sensibile quod est anima, et quod concipit ratio carnis in se quando
+          diffinitur caro : et dicitur quod medians in tactu proportionabiliter commixtum ex calido
+          frigido humido et sicco est caro : intellectus autem in eo quod separatum est a tali
+          materia et non concipit eam in diffinitione sua, sicut est intellectus substantiae in eo
+          quod substantia alio modo intelligit : rationem enim illius intellectivam accipiens non
+          indiget reflecti ad sensibile aliquid : et ideo cum extensa ad sensibile carnis esse per
+          rationem diffinitivam discernit, habet se sicut circumflexa ad seipsam : quia primo
+          egreditur a se ad sensibilem materiam in qua est esse carnis, et regyrat in seipsam
+          trahens universalem rationem ex intellectu communi carnis : hoc autem non oportuit eam
+          facere, si separatum invenit per propriam rationem intellectum quod intellexit.</p>
+        <p xml:id="admda-l3t2c16-d1e152">Licet autem non sit adeo magna reflexio in separatis quibusdam sicut est in conceptis cum
+          materia sensibili, intellectus tamen et in his reflexio est quae mathematica et in
+          abstractione sunt secundum rationem. Rectum enim sicut omnis passio mathematicorum
+          diffinitur, quod esse suum sit in subjecto quodam, sicut simum hoc in hoc : sed in hoc est
+          differentia, quia simum est in eo quod est nasus, quod est physicum cum materia sensibili
+          conceptum : rectum autem concipit subjectum imaginabile, quod est continua longitudo :
+          rectum igitur non intelligitur nisi in hoc : et sic oportet esse reflexionem in suo
+          intellectu : et ideo quandocumque intellectus alicujus est alterius quod est ejus
+          principium, sicut caro prin<pb ed="#B5" n="360"/> <cb ed="#B5" n="a"/>cipiatur a calido et
+          frigido et humido et sicco, et rectum quod principiatur a continuo, sicut omnis propria
+          passio principiatur a suo subjecto : tunc oportet intellectum primo egredi ad principium,
+          sive illud sit sensibile, sive imaginabile, sive etiam intelligibile : et tunc reflectitur
+          ad intellectum ejus quod intelligit, sicut in intellectu recti primo venit in continuum
+          habens principium medium et finem, et tunc venit in intellectum recti per hoc quod videt
+          medium non exire ab extremis : sic autem non indiget egredi in intellectu magnitudinis :
+          quoniam licet aliud habeat esse, et aliud sit ipsa : esse tamen suum quod habet in
+          materia, non est de intellectu ejus : et ideo in intellectu ipsius non egreditur
+          intellectus in aliud quoddam. Similiter autem est de aqua : quia illa simplex et primum
+          est, et non habet se principians aliquid ad quod egredi oporteat intellectum quando
+          accipit naturam aquae intelligendo : quandocumque igitur diffinitio dicit quod quid erat
+          esse, est aliorum quorumdam principiantium id quod intelligitur, sicut recti esse est
+          quorumdam aliorum, et carnis esse est quorumdam aliorum : tunc fit quaedam dualitas
+          intellectorum, et tunc oportet quod aut altero, aut eodem aliter se habente talia
+          discernat : et si ea quae principiant, sensibilia sint, vel imaginabilia, tunc per se
+          altero discernuntur : quoniam discernuntur potentia animae sensibilis. Quando autem
+          comparantur, tunc discernuntur eodem aliter se habente : quia discernuntur intellectu
+          reflexo ad seipsum postquam fuerat reflexus ad sensibile vel imaginabile. Et universaliter
+          loquendo per modum quo res intellectae in suis diffinitionibus sunt separatae vel
+          conceptae cum materia, ita etiam oportet quod differenter intellectus sit de ipsis : sed
+          aliquando diversitas haec est in solis intelligibilibus, aliquando inter intellecta et
+          imaginata, et aliquando inter intellecta et sensata : si enim intelligi quaerantur
+          passiones divinae, sicut intelligentiarum et entis vel substantiae, se<cb ed="#B5" n="b"/>
+          <!-- 360 b -->cundum substantia erit aliud esse, et aliud quod ipsa sunt, quia aliorum
+          sunt in quibus habent esse : et tamen ibi intellectus non egreditur extra se, sed in suis
+          intelligibilibus regyrat ab uno in alterum, sed separata omnino in quorum intellectu nihil
+          accipitur, sicut prima principia intelligit intellectus stans in seipso : prima enim
+          communissima principia habet apud seipsum, et alia accipit ab imaginatione et cum ipsa, et
+          alia a sensu et cum ipso, sicut patet ex inductis exemplis : et inde est, quod cogitativa
+          indiget intellectus, quae dicitur sic : quia cogitat particularia ad eliciendum ea quae
+          sunt in ipsa : et illa non est sine ratione : sed ratio in ea egreditur et juvatur
+          sensibilibus potentiis : et ideo lassitudo contingit excogitando quae nunquam accideret
+          intellectui si solus staret in seipso, et non egrederetur extra seipsum, sicut patet ex
+          jam inductis : omne igitur quod intelligit intellectus possibilis, aut intelligit
+          intelligentia simplici, sicut ea quae sunt aliud quod ipsa sunt et aliud esse eorum : et
+          illius causa est, quod illa intellectum suum nulli debent, quia sunt prima, sive sint
+          naturalia, sive mathematica, sive divina : aut intelligit intelligentia circumflexa, sicut
+          ea quae idem sunt et esse ipsorum, quia intellectum suum debent aliis. Et hoc tripliciter
+          variatur, quia quandoque debent intellectum suum sensibus, et quandoque imaginationibus,
+          et quandoque intelligibilibus : et ideo triplicem oportet esse intellectus egressum et in
+          seipsum reflexionem : et egressus quidem vocatur extensio : reflexio autem circumflexio
+          vocatur, quia terminatur intellectu a quo incipit prima extensio.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

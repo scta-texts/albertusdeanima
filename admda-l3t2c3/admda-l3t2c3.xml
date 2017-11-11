@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT III.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT III.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t2c3">
+        <head xml:id="admda-l3t2c3-Hd1e128">CAPUT III.</head>
+        <head xml:id="admda-l3t2c3-Hd1e131" type="question-title">Et est digressio declarans dubia quae consequuntur ex dictis de
+          intellectu possibili.</head>
+        <p xml:id="admda-l3t2c3-d1e134">Expedire autem nobis videtur dubia primus tangere, et postea videre solutiones
+          Peripateticorum posteriorum in solutione eorum : quia tunc congruentius ostendetur quod
+          nobis verum esse videtur. Dubia autem quae oriuntur ex dictis istis, insurgunt ex quatuor
+          quae Aristote<pb ed="#B5" n="333"/> <cb ed="#B5" n="a"/>les dicit de intellectus
+          possibilis natura, ex quibus determinat talem, qualis dicta est fore naturam ejus. Et in
+          his quatuor necesse est ut omnis homo consideret, qui non adversus veritatem vult
+          protervire. Unum autem de quatuor est, quod intellectus possibilis immixtus est, hoc est,
+          non mixtus corpori alicui. Secundum autem est, quod ipse est separatus. Tertium autem, est
+          quod est impassibilis, licet sit receptivus intelligibilium. Quartum autem, quod non est
+          hoc <choice> <orig>aliquid,</orig> <reg>aliquid.</reg> </choice> Quare autem sit immixtus,
+          jam dictum est satis quantum spectat ad hanc intentionem, Separatus autem est ab
+          intelligibilibus, et in seipso. Ab intelligibilibus quidem ut sit susceptivum omnium eorum
+          : quod non esset si esset alicui eorum vel pluribus conjunctus, sicut patet ex dictis ; et
+          ideo ex his duobus concluditur, quod ipse est potentia omnia intelligibilia tanquam omnium
+          susceptibilis. Quod autem susceptibile est omnium, nihil habens eorum hoc aliquid non est
+          specificatum in natura in aliquod ens mundi, et sic ex his tribus sequitur quod non est
+          hoc aliquid nec aliqua natura, nisi illa quae est similis materiae primae, quae vocatur
+          potentia omnia quae sunt, et nihil eorum est actu antequam actualiter illud
+          intelligat.</p>
+        <p xml:id="admda-l3t2c3-d1e150">Accipiamus igitur dubia quae sequuntur ex primo. Si enim est immixtus et impassibilis et
+          intransmutabilis, tunc videtur nunquam fieri eorum aliquid quae sunt secundum esse hoc
+          modo aeternum quo intransmutabile est aeternum : ergo non fit aliquod intelligibile : et
+          sic intellectus speculativus in eo non est factus. Amplius in quo omnino nihil fit, illud
+          non est potentia quae praecedat actum : est autem talis omnino intransmutabilis
+          intellectus possibilis : igitur omnino nihil fit nec est factum aliquid in ipso : et sic
+          intellectus speculativus omnino non est factus. Adhuc autem agens intellectus <cb ed="#B5" n="b"/>
+          <!-- 333 b --> magis est intransmutabilis quam possibilis : et sic uterque intellectus,
+          tam agens scilicet quam possibilis, sunt hoc modo aeterni, sicut sunt aeterna necessaria
+          et intransmutabilia : quandocumque autem agens est necessarium et non factum agens, sed
+          semper agens, et passivum est necessarium et intransmutabile, tunc etiam factum ab agente
+          in eo quod patitur, est semper et intransmutabile : ergo speculativus intellectus qui fit
+          ab agente intellectu, in eo qui vocatur possibilis, semper est et nunquam factus : ut
+          videtur tali factione quae sit terminus ejus, quod est fieri, et quam praecedat potentia
+          secundum generationem et tempus. Et has dubitationes de hoc verbo eliciunt Theophrastus et
+          Themistius.</p>
+        <p xml:id="admda-l3t2c3-d1e157">Separatus autem potentia ab omnibus Peripateticis intellectus possibilis, secundum quod
+          separatum duo importa, quorum unum est, sicut separatum dicimus denudatum esse a
+          specificantibus et individuantibus, sicut prima universalia dicimus fore separata.
+          Secundum autem est, sicut dicimus separatum id quod est potentia aliquid antequam habeat
+          illud. Plato autem tertium modum separati posuit, secundum quem separata dicimus quae sunt
+          divisa subjecto et loco : et hoc modo intellectivam animam separabat a sensitiva et motiva
+          secundum locum et vegetativa : sed hoc modo non curarunt loqui de separato Peripatetici,
+          quod certum fuit apud eos animam esse substantialiter unam et diversificatam esse secundum
+          vires. Ratio autem demonstrativa quae induxit <name ref="#Aristotle">Aristotelem</name>
+          intellectum possibilem posuit separatum primo modo separationis, fundatur super duo
+          necessaria : quorum unum est, quod omnis cognitio animae secundum congruentiam aliquam
+          existit ei : et ideo congruentiam harmonicam oportuit esse sensus ad sensibile, et
+          imaginationis ad imaginabile : et sic ergo cognitio universalis erit se<pb ed="#B5" n="334"/> <cb ed="#B5" n="a"/>cundum congruentiam aliquam animae : specificatum autem et
+          individuatum non habet aliquam congruentiam ad universale, sed potius oppositionem in modo
+          : cum ergo cognitio universalis sit secundum possibilem intellectum, oportet ipsum fore
+          separatum hoc modo quo universale est separatum. Secunda autem propositio est, quod certum
+          est universale secundum quod universale est, non esse in re : quia quidquid est in re,
+          secundum esse in ipsa est : et hoc est divisum et particulare, et non universale, nisi
+          secundum potentiam : non ergo est universale nisi prout est in anima : per esse ergo quo
+          est in anima, oportet ipsum esse universale : hoc autem esse habere non potest in
+          conjuncto subjecto, sed separato tantum : ergo erit ejus subjectum separatum.</p>
+        <p xml:id="admda-l3t2c3-d1e168">Huic autem adhuc duas adjungemus rationes : unam quidem Averrois, et alteram <name ref="#Avicenna">Avicenna</name>e. Averrois quidem est ista : quoniam si intellectus
+          possibilis non esset separatus a materia et appendiciis materiae, tunc esset aut forma
+          corporis, aut forma operans organice in corpore : et quocumque modo diceretur, sequitur
+          quod id quod foret in ipso, individuaretur per ipsum, sicut quaelibet forma individuatur
+          per suum subjectum individuum : et sic universale non esset in ipso, sed particulare :
+          particulare autem non nisi secundum potentiam est intelligibile : sequeretur ergo quod
+          actu intellectum ab ipso non esset, nisi secundum potentiam intellectum, quod est
+          impossibile : ergo impossibile est intellectum possibilem non esse denudatum a materia et
+          appendiciis materiae.</p>
+        <p xml:id="admda-l3t2c3-d1e174"> <name ref="#Avicenna">Avicenna</name> autem fortius id conatur probare dicens, quod id
+          quod est universale, oportet quod sit alicujus et in aliquo. Dico autem alicujus, quoniam
+          est illius de quo praedicatur : et est in aliquo, quoniam est in intellectu. Aut igitur
+          quod est universale habet ab ipsa re cujus est universale, aut habet ab eo in quo est. Si
+          autem habet ab eo cujus est, hoc est, a <cb ed="#B5" n="b"/>
+          <!-- 334 b --> re : ergo universale prout est ab ipsa re sumptum, actu est universale :
+          sed actu esse aliquid non indiget agente ut agat universale sibi prout est rei universale
+          de qua praedicatur, per se ipsum potest agere et movere intellectum possibilem, et
+          perficere ipsum : ergo ad hoc quod agat, non indiget intellectu agente, quod est contra
+          omnes Peripateticos est : quia omnes illi posuerunt intellectum agentem concorditer, licet
+          eorum quidam negaverunt intellectum possibilem, sicut patebit in sequentibus : non ergo
+          universale quod universale sit, ab ipsa re habet de qua praedicatur. Adhuc autem
+          universale prout est in re, non est nisi potentia universale ; si ergo a re ipsa habet
+          quod esset actu universale, oportet quod idem per se esset in potentia et in actu : quod
+          impossibile est, quoniam id quod est in potentia, non fit in actu nisi per id quod est in
+          actu : relinquitur ergo quod habeat esse universale in actu per intellectum in quo est :
+          et ideo oportet intellectum esse separatum et universalem, quia aliter individuaretur id
+          quod est in ipso : separatum igitur dicitur, sicut diximus prius, sicut potentia ab actu
+          quando nihil eorum est quae aptus est intelligere : et haec separatio similis est
+          separationi qua dicimus tabellam rasam et bene planatam et praeparatam esse separatam ab
+          omnibus his quae pingi in ipsa et scribi possunt, et ideo habilem ad omnis scripturae et
+          picturae receptionem. Istos duos modos separationis omnes Peripatetici concorditer
+          intellectui possibili et animae rationali attribuerunt. Stoicorum autem philosophia via
+          hac non incessit : sed de hac minus curamus, quia non quaerimus hic dicere nisi tantum
+          Peripateticorum opinionem : de aliis autem, Deo glorioso favente, in prima philosophia
+          <choice> <orig>diceptabimus</orig> <reg>disceptabimus</reg> </choice>. Istis ergo
+          rationibus et causis possibilis vocatus intellectus, impassibilis et immixtus et separatus
+          vocatus est.</p>
+        <p xml:id="admda-l3t2c3-d1e193">Ex his autem sequitur quartum quod ei attribuitur, quod scilicet non sit hoc aliquid
+          unum, sicut determinatum est, et <pb ed="#B5" n="335"/> <cb ed="#B5" n="a"/> unum ens in
+          natura : quod enim est hoc aliquid, nullo modo potest esse separatum, cum ipsum in sua
+          compositione jam habeat materiam per quam particularizatur et individuatur forma ejus, et
+          habet formam et est hoc aliquid, et non potest esse ab illa forma separatum. Haec igitur
+          quatuor sunt quae intellectui possibili attribuuntur.</p>
+        <p xml:id="admda-l3t2c3-d1e200">Et videtur sequi ex isto, quod intellectus possibilis est unus numero in omnibus
+          hominibus qui sunt, qui fuerunt, et erunt : separatum enim praedicto modo non habet
+          aliquid in se, per quod efficiatur istius vel illius, cum separatum non individuatur :
+          denudatur autem a materia et individuantibus sit separatum, et intellectus possibilis
+          secundum id quod est, et sic ergo separatus : erit ergo unicus in omnibus quorum dicitur
+          esse intellectus. Adhuc autem id quod in natura sua commune est, non efficitur proprium
+          nisi per aliquid proprium sibi adjunctum : sed simpliciter separato nihil est adjunctum de
+          propriis : ergo simpliciter denudatum nunquam efficitur proprium : est autem intellectus
+          possibilis secundum id quod est simpliciter denudatum quid : nunquam igitur efficitur
+          proprius : erit ergo unus communis omnibus, et nulli de se proprius. Hoc autem deliramento
+          videtur esse simile : quoniam quod est unum in omnibus, unicam habet perfectionem :
+          scientia autem perfectio est intellectus possibilis : in quocumque ergo accipiat scientiam
+          in omnibus habebit eam : et sic sequitur quod me acquirente scientiam aliquam, omnis homo
+          habebit et acquiret eamdem : quod experimento falsum esse probatur, quod philosophia
+          habita a multis non ob hoc alii sciverunt eamdem.</p>
+        <p xml:id="admda-l3t2c3-d1e203">Est autem adhuc dubium in his dictis : quia si separatus esse dicatur intellectus
+          possibilis sicut potentia ab actu sicut praeparata tabula a picturis : tunc non videtur
+          habere relationem et proportionem ad intelligibilia nisi sicut materia ad formas : quorum
+          autem una est ratio et proportio <cb ed="#B5" n="b"/>
+          <!-- 335 b --> potentiae passivae et receptivae, ipsa sunt eadem : et sic igitur videtur
+          non esse differentia aliqua inter primam materiam et intellectum possibilem : et haec est
+          objectio Theophrasti contra <name ref="#Aristotle">Aristotelis</name> positionem.</p>
+        <p xml:id="admda-l3t2c3-d1e213">Redeunt igitur omnia ista dubia difficilia ad tria problemata, quorum primum est,
+          qualiter hic simul verificentur de intellectu possibili, quod sit impassibilis et
+          intransmutabilis, et tamen sit in potentia susceptiva perfectionis et suscipiat eam ab
+          agente movente ipsum. Secundum autem est, qualiter haec stent simul, quod ipse sit ab omni
+          individuante omnino denudatus : et tamen unusquisque homo habeat suum intellectum
+          proprium. Et tertium, qualiter haec simul verificentur, quod ipse sit quod est, et sic
+          vocatur possibilis ad omnia quae sunt, et tamen non sit materia prima. His autem dubiis
+          primo <choice> <orig>vulumus</orig> <reg>volumus</reg> </choice> aptare responsionem
+          Philosophorum quorumdam, et postea adjungere quod nobis videtur dicendum de his.
+          Conveniunt autem omnes Peripatetici in hoc quod <name ref="#Aristotle">Aristoteles</name>
+          verum dixit : quia dicunt quod natura hunc hominem posuit quasi regulam veritatis, in quo
+          <choice> <orig>summan</orig> <reg>summam</reg> </choice> intellectus humani perfectionem
+          demonstravit : sed exponunt eum diversimode prout congruit unicuique intentioni.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT III.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT III.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t3c3">
+        <head xml:id="admda-l3t3c3-Hd1e128">CAPUT III.</head>
+        <head xml:id="admda-l3t3c3-Hd1e131" type="question-title">Quod est idem intellectus componens et dividens intelligibilia,
+          sicut est idem sensus communis.</head>
+        <p xml:id="admda-l3t3c3-d1e134">Cum autem determinatum est aliquid esse conferens sive laetum, aut aliquid esse
+          inconveniens sive triste, tunc est sensus per accidens, aut intellectus per <pb ed="#B5" n="374"/> <cb ed="#B5" n="a"/> accidens : quia tunc aliquid firmat aut negat componendo
+          unum cum altero vel dividendo unum ab altero : et tunc aut mutatur per appetitum et motum,
+          si determinat aliquid laetum, aut fugit propter appetitum et motum, si determinant aliquid
+          triste : conferentia autem facientia laetitiam et inconvenientia facientia tristitiam sunt
+          communia, et sunt circa sensibilia tantum.</p>
+        <p xml:id="admda-l3t3c3-d1e141">Et ideo oportet quod duae passiones animae secundum quas est laetari et tristari sit
+          quoddam agere appetitus et motus quidam appetitus animae, qui motus fit sensibili
+          mediante, quod sit aut bonum aut malum, aut aliquid hujusmodi conveniens vel inconveniens
+          ad laetitiam vel ad tristitiam, quae est secundum sensibilem animam : et ideo Plato dixit
+          quod omnis delectatio et tristitia sunt generationes factae in sensibilem animam : et
+          verum est quod dicit de delectatione habente contrarium. Si autem est aliqua delectatio in
+          contemplatione, ejus quod diameter est asimeter costae, illa non habet contrarium, et non
+          est animae sensibilis. Et de illis in Ethicis erit quaerendum. Sed hoc quod hic est
+          sciendum, est quod laetitia et tristitia in sensibilibus sequitur fuga et appetitus, et
+          per appetitum motum : fuga autem et appetitus ideo sunt in prima radice sua secundum
+          actum, quoniam una pars quae est appetitiva sive motiva pars, agitatur : una enim pars
+          animae est, quae praesens delectabile appetit, et tristabile praesens fugit : praesens
+          autem est appetitus universalis fuga secundum actum, quia contraria sunt ejusdem potentiae
+          : et ideo ejusdem est fugere et persequi, et non alterum appetitivum et fugitivum : neque
+          ab invicem omnia ista sunt altera nec a sensitivo. Quod autem idem est esse appetitivum et
+          fugitivum, dico in communi, quia utrumque appetitivae animae et utrumque est pars animae
+          sensibilis. Sed esse istarum virium ali<cb ed="#B5" n="b"/>
+          <!-- 374 b -->quando differens est, sicut differunt partes appetitus, quae sunt
+          irascibilis et <choice> <orig>cupiscibilis</orig> <reg>concupiscibilis</reg> </choice>, de
+          quibus nos inferius persequemur, cum de motivis partibus animae tractabimus.</p>
+        <p xml:id="admda-l3t3c3-d1e157">Sed hoc quidem notandum est, quod animae intellectivae sunt phantasmata moventia
+          intellectum, sicut sensibilia movent sensum. Cum autem se extendit cogitans intellectus,
+          et determinat affirmando vel negando bonum vel malum, tunc sequitur fuga vel persecutio :
+          intellectus autem appetibile determinans se habet in ratione utentibus sicut aestimativa
+          in non utentibus ratione. Et hoc apparet, quod in talibus nequaquam anima rationalis
+          intelligit sine phantasmate ex quo universale elicitur : et est unus intellectus comparans
+          et dijudicans omne quod movet cum in phantasmatibus.</p>
+        <p xml:id="admda-l3t3c3-d1e161">Sicut enim diximus superius, quod aer immutatus a medio hujus fecit pupillam agendo in
+          eam speciem sensibilem quam recipit a re ipsa : et pupilla alterum est ab aere a quo
+          movetur. Et similiter auditus habet suum motivum, et similiter omnis sensus : sed alterum
+          sensitivum quod ultimum dicitur, quia ultimo venit ad ipsum : primum autem dicitur, eo
+          quod ibi est fons et origo sensibilis virtutis est unum formale ad quod terminantur sensus
+          particularis, et quod unum sensitivum est una medietas omnium sensibilium : sicut etiam
+          ostendimus superius : sed plura est secundum esse particularium sensuum qui ad ipsum
+          terminantur : prius enim dictum est quod uno et eodem discernit, et quid est illud quod
+          discernit, et quid differt dulce et calidum. Sed nunc dicendum est, quia est unum aliquid
+          quod est primum et ultimum sensitivum, quod est sic unum, sicut terminus ad quem diversa
+          terminantur, est <pb ed="#B5" n="375"/> <cb ed="#B5" n="a"/> unum, sicut punctum centri
+          est unum ad quod lineae terminantur a circumferentia venientes. Et similiter intellectus
+          est unus ad quem omnis motus phantasmatum terminatur, et est formalis respectu phantasiae,
+          sicut et phantasia formalis est respectu sensus communis, et sensus communis respectu
+          sensuum particularium. Haec autem vera sunt de intellectu, sive phantasmata ipsa moveant,
+          sive moveant intentiones boni vel mali ex phantasmatibus elicitae.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

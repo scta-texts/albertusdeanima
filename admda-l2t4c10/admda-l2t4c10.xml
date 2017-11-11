@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT X.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT X.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t4c10">
+        <head xml:id="admda-l2t4c10-Hd1e128">CAPUT X.</head>
+        <head xml:id="admda-l2t4c10-Hd1e131" type="question-title">De probatione sensus communis per hoc quod componit et dividit
+          inter sensata diversorum sensuum.</head>
+        <p xml:id="admda-l2t4c10-d1e134">Sed nunc volentes redire ad inquirendum subtiliter de sensu communi, praemittimus ea quae
+          determinata sunt, quod unusquisque sensus proprius est sibi subjecti sensibilis, qui
+          sensus sicut in organo est in eo quo organice sentiunt animalia secundum quod sentiunt
+          secundum actum : et ille sensus discernit sibi subjecti sensibilis differentias, sicut
+          dicimus album quidem et nigrum esse visus, dulce vero et amarum diximus esse gustus :
+          similiter autem se hoc habet in aliis.</p>
+        <p xml:id="admda-l2t4c10-d1e137">Quoniam autem non solum sic sentimus sensibilia, sed etiam sentimus, quia differunt vel
+          conveniunt album et dulce, sic de unoquoque sensibilium : in omnibus enim ponimus
+          convenientias et differentias comparando et componendo et dividendo sensata diversorum
+          sensuum, necesse est ut unoquoque sensu hoc faciamus. Non enim alia virtute superiori quae
+          non sit sensus, hoc facere possumus. Quia omne judicium quod est circa sensibilia, re
+          sensibili potestate est judicium sensus. Judicium autem quo dicimus album esse dulce, vel
+          non esse album dulce, est circa sensibilia et sensibiliter : et ideo virtus cujus est hoc
+          judicium, necessario est sensus. Hoc autem judicium non possumus facere aliquo sensibilium
+          propriorum. Si enim aliquo fieri posset, tunc videretur hoc debere fieri per tactum, quia
+          tactus plures est, sicut superius diximus.</p>
+        <p xml:id="admda-l2t4c10-d1e140"> <pb ed="#B5" n="309"/> <cb ed="#B5" n="a"/> Sive autem caro sive aliud dicatur esse
+          instrumentum tactus, manifestum est quod illud instrumentum tactus non est ultimum ad quod
+          referuntur sensibilia diversorum sensuum : si enim sic esset, tunc oporteret quod quando
+          discernens discernit album esse vel non esse dulce, tangeret substantia album et dulce :
+          quia supra ostendimus quod tactus non discernit aliquod sensibile, nisi tactu substantiali
+          tangibilis : hoc autem videmus fore falsum, quia album esse vel non esse dulce discernimus
+          non tangentes ipsum. Nec potest dici quod duobus sensibus fiat judicium illud, quia in
+          separatis per organa et per formas virtutibus non contingit discernere album esse vel non
+          esse dulce : sed oportet una quadam virtute utrumque manifestam esse, quae dicit album
+          esse vel non esse dulce, et alterum esse dulce ab albo. Si enim duo sensus hoc dicerent,
+          hoc esset simile ei quod ego sentirem album et tu dulce : per hoc autem neuter nostrum
+          sciret dare convenientiam vel differentiam inter album et dulce. Duo enim sensus
+          particulares forma et subjecto differunt : quia subjecta eorum sunt duo organa : et formae
+          sunt sicut visus et auditus : sicut duo homines differunt suis formis et suis subjectis,
+          et non est quod uniendo vel dividendo comparet unum alteri : quod tamen necessarium est,
+          quando dicitur album alterum vel idem esse dulci. Oportet igitur quod alicui uni
+          manifestum sit, quoniam altera vel eadem ad invicem sunt album et dulce : oportet igitur
+          quod unum numero sit quod ponit alteritatem vel identitatem inter ea : et dicat quoniam
+          altera vel eadem sunt, et quodammodo altera vel eadem : quoniam eadem sunt aliquando
+          subjecto, et altera formis sensibilibus. Id ergo quod dicit sic judicando de albo et
+          dulci, est idem : et sicut dicit unum solum judicium quod est alteritas vel identitas
+          duorum sensibilium, ita oportet quod sit in intellectu non componente vel dividente duo
+          sensata, qui ha<cb ed="#B5" n="b"/>
+          <!-- 309 b -->beat aliquo modo utrumque. Patet igitur ex dictis quod non est possibile
+          judicare separata sensibilia separatis sensibus particularibus, sed oportet quod unico
+          communi sensu fiat. Ex isto autem sequitur et quod adhibitum est ei quod non sit judicium
+          illud in separato tempore : sicut enim idem est quod dicit alterum esse bonum et malum vel
+          album et dulce, ita etiam idem momentum est quando dicit sic judicando. Quaecumque enim
+          componuntur vel dividuntur vel comparantur, et hoc patet, quia in eodem momento sunt
+          composita vel divisa secundum rem. Judicium autem est secundum quod res est. Oportet
+          igitur quod judicium sit in eodem momento, et non ita quod prius sentiat unum et judicet
+          de illo, et postea alterum et tunc de illo ponat judicium. Est igitur idem et in eodem
+          momento judicans, quoniam alterum et alterum bonum et malum, vel album et dulce, quando
+          ipsa secundum rem altera sunt. Nec volo dicere quod idem sit momentum secundum accidens,
+          scilicet quod est idem continuum tempus quod habet partes priores et posteriores : hoc
+          enim non est idem nisi per accidens, scilicet quia adjicimus uni motui continuo : sed volo
+          dicere, quod in uno indivisibili momento ponitur alteritas inter duo quando altera sunt,
+          vel identitas quando eadem sunt. Est enim alteritas et identitas relatio quae est simul in
+          indivisibili momento duorum secundum rem. Et judicium animae ad rem refertur. Intendit
+          ergo in uno momento facere judicium. Dico igitur alterum esse bonum a malo, vel album a
+          dulci ut nunc : dico enim, quoniam unum alterum est ab alio : et non dico quod alterum sit
+          nunc in quo est alteritas unius ad alterum, et alterum in quo est alteritas reliqui ad
+          istud. Sed potius anima dicit sic altera et in eodem nunc dicit ea altera esse : igitur
+          utriusque ad alterum simul est. Oportet igitur quod dicens illud sit unica et
+          indivisibilis virtus, et dicat judicium in uno et indivisibili tem<pb ed="#B5" n="310"/>
+          <cb ed="#B5" n="a"/>pore. Istud autem quod dictum est, verum est de intellectu et
+          phantasia et sensu communi et de omni potentia animae componente et dividente et
+          comparante diversa.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

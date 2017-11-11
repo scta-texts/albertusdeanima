@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT IX.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT IX.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t4c9">
+        <head xml:id="admda-l3t4c9-Hd1e128">CAPUT IX.</head>
+        <head xml:id="admda-l3t4c9-Hd1e131" type="question-title">Quid est movens in animalibus perfectis, et quando unum movet
+          aliud, et e converso.</head>
+        <p xml:id="admda-l3t4c9-d1e134">Secundum autem praedicta oportet considerare de imperfectis animalibus, quae non sunt
+          imperfecta secundum suas species, ita quod aliquid desit eis de necessariis ad speciem,
+          sed sunt imperfecta in genere animalium, quod videlicet non habent quosdam sensus quos
+          habent ea animalia quae perfecta sunt. Haec autem sunt quae non habent nisi unicum sensum
+          qui est tactus : et gustum quidem non secundum quod judicium sapientium est, id est,
+          saporum, sed secundum quod ipse est quidam tactus : haec enim ad delectabile non moventur
+          nisi tangentia ipsum, quando est praesens, et secundum veritatem non moventur de loco ad
+          locum, sed in eodem loco moventur motibus dilatationis et constrictionis : in his dubium
+          est quid sit movens. In his enim non videtur esse nisi solus sensus, eo quod non nisi
+          praesente delectabili moventur. Et ideo quaerendum est, utrum phantasiam contingat inesse
+          talibus. Quod enim desiderium in<pb ed="#B5" n="407"/> <cb ed="#B5" n="a"/>sit eis,
+          videtur ex hoc probari : quia passiones proprie desiderativae potentiae talibus insunt,
+          quae sunt laetitia et tristitia : haec enim talibus inesse probantur, quia non dilatantur
+          nisi in delectatione, et non contrahuntur nisi in tristitia, cum delectatio sit motus
+          mutationis delectabilis, et contristatio sit motus fugae tristabilis : oportet igitur
+          desiderium esse in talibus : desiderium autem est appetitus sensibilis. Sed quaeritur,
+          quomodo phantasia erit in talibus ? quia sine hac non perficitur motus, ut diximus
+          superius, et talibus non videtur inesse : quia, sicut diximus in antehabitis, phantasia
+          accipit rem non praesente ea in sensu, et talis imaginatio non perficitur in talibus
+          animalibus, ut videtur, cum nunquam nisi ad praesens moveantur. Dicimus autem ad hoc, quod
+          talia non habent motum diffinitum : et voco diffinitum, qui est ad locum determinatum per
+          phantasiam et appetitum vel appetibile determinatum : et ideo etiam habent phantasiam
+          indeterminatam. Cujus causa est, quia sicut superius habitum est, sensus communis formalis
+          est et secundum locum distinctus a sensibilibus propriis, et respectu sensus communis
+          formalis est imaginatio et phantasia : et sic semper superior formalis est respectu
+          inferioris, et sunt illae vires distinctae in animalibus perfectis et perfectam figuram
+          capitis habentibus. Ubi autem perfecta figura capitis non est, ibi nec sensus proprii
+          perfecte insunt, neque superior vis bene distincta est ab inferiori, sed organa sibi
+          invicem sunt permixta phantasiae, et sensus communis, et sensus proprii, et hoc praecipue
+          in animalibus imperfectis quae non habent aliquem sensum formalem, sed materialem habent,
+          qui sunt sensus tactus et gustus,secundum quod est tactus quidam : et quia organa permixta
+          sunt, eo quod talia animalia neque cerebrum neque caput habent, sed aliquid loco cerebri,
+          et aliquid loco capitis, ideo phantasiam habent permixtam cum sensu communi et sensum
+          communem permixtum cum sensu <cb ed="#B5" n="b"/>
+          <!-- 407 b --> proprio : cujus signum est, quod phantasia in talibus non movet nisi motu
+          sensus, qui est ex praesentia rei, et haec permixtio adducit confusam et permixtam et
+          determinatam phantasiae apprehensionem, et haec causat indiffinitum et confusum motum.</p>
+        <p xml:id="admda-l3t4c9-d1e145">Sic igitur patet quod omnibus sensibilibus inest phantasia, sed phantasia aliquando
+          ordinabilis est a ratione deliberante, ut in homine, et hic ordinans deliberatio
+          phantasiam et appetitum in solis est rationativis. Cum enim sic proceditur ad motum, quod
+          prius deliberatur utrum hoc prius vel aliud agendum sit, hoc jam rationis est opus
+          ordinantis phantasiam et appetitum : mens autem quae ratio est, et cujus meditari est
+          proprius actus a metiendo dicitur : eo quod anima ipsa uno quodam quod est potentia ejus
+          unita, mensurat et numerat phantasmata comparando ea ad invicem : eo quod ipsa imitatur
+          melius : quia est melius apud ipsam et magis amatum, quod potest efficere eligendo ex
+          pluribus phantasmatibus : et cum sensus et praeamatum vocatur opinio : et ideo opinio
+          acceptio ejus est, quod pluribus rationibus aliis praeponitur : et causa hujus est, quia
+          opinio non habet imitari phantasiam, sed potius e converso debet imitari opinionem a
+          ratione elicitam : phantasia enim non habet opinionem ex syllogismo, sed potius opinio ex
+          syllogismo habet phantasiam : quoniam opinio est de universaliter agendo, et phantasia est
+          de particulariter agendo. Syllogismus habet particulare sub universali, et non e converso
+          universale sub particulari : et ideo sub discursu syllogistico habet opinio phantasiam, et
+          non e converso : et ideo cum appetitus sit particularium boni ut nunc et hic, non
+          universaliter habet appetitus opinionem, sed universaliter habet phantasiam : et ideo in
+          quibus utrumque eorum est, in illis secundum <pb ed="#B5" n="408"/> <cb ed="#B5" n="a"/>
+          ordinem movent ratio et opinio phantasiam, et ordinant appetitum : tamen aliquando
+          vincitur opinio ab appetitu et phantasia : et tunc deliberativa movetur a phantasia et
+          appetitu, eo quod umbratur vel obumbratur ex concupiscentia appetitus et phantasiae, sicut
+          incontinentibus accidit. Aliquando autem fit e converso, quia phantasia movetur a
+          deliberativa ratione et opinione : haec habent se sicut fit in sphaera coelesti. Sicut
+          enim in sphaeris sphaera inferior movetur a motore primae sphaerae secundum motum diurnum,
+          et tamen inferior habet motum proprium qui exit a suo motore proprio : ita se habet ad
+          invicem ratio, phantasia, et appetitus : aliquando enim omnia haec moventur motu rationis,
+          sicut apparet in actibus continentis et abstinentis : aliquando autem non sequitur
+          phantasiae et appetitus rationem : sed movent per se, sicut apparet in actibus continentis
+          et secundum naturae ordinem motus superioris motoris semper est principalior : et quando
+          motus egreditur ab illo, tunc semper opera ordinata sunt. Quando autem vincit inferior,
+          tunc egreditur opus perversum, eo quod inferior superiorem non habet ex syllogismo, sed
+          sophistice procedit ex bono ut nunc tanquam sit bonum per se et essentialiter. Movet autem
+          iste superior tanquam in tres vires : quoniam primo decernit universale decretum motus,
+          scilicet quod omne tale faciendum est, et postea sub ipso simili mensurat phantasma
+          particulare, et tertio non quidem concludit decernendo, sed conclusio sua est impulsus ad
+          opus per appetitum : et de hoc in Ethicis est declarandum. Similiter enim appetitus
+          incontinentis non habet conclusionem nisi impetum ad opus : fit igitur iste motus sic
+          vicissim, ut dictum est.</p>
+        <p xml:id="admda-l3t4c9-d1e152">In tali autem motu scibile universale non movet, sed quasi quiescens est, et <cb ed="#B5" n="b"/>
+          <!-- 408 b --> fixum, et hoc praecipue verum est de scibili speculativo : de practico
+          autem etiam verum est, sicut inferius ostendemus. Quoniam enim alia est universalis opinio
+          de operabilibus et similiter ratio, et alia est opinio et ratio particularis quae est in
+          phantasmate : tunc patet quod universalis quidem dicit, quod hoc hujus semper et ab omni
+          et unicuique, alias ubique, agendum sit : et hoc non movet, quia hanc secundum
+          similitudinem habent continens et incontinens. Omnes enim dicunt a nullo et nunquam esse
+          furandum : particularis autem dicit, quod hoc nunc conceptum est hujusmodi : ideo ergo
+          etiam sine hujusmodi, et hoc non similiter est apud omnes. Quia enim ego concipio tale
+          delectabile ut nunc esse hujusmodi, ideo etiam ego prosequor hoc per affectum et appetitum
+          : eo quod in particularibus est motus et opus : et ideo ista movet appetitum et non movet
+          opinio secundum quod particularis et propria : nisi forte, quod aliquis dicat quod
+          utrumque movent : sed universalis quidem movet ut quiescens magis et fixa secundum
+          rationem certam motus : particularis autem movet ut mota et quasi fluens per hoc
+          desiderium : et in hoc delectabile quod ut nunc est conceptum, sed universalis non fluit
+          in ipsum : quia aliter omnis talem habens acceptionem de operabilibus, jam eo ipso
+          deflueret in hoc quod concipit, quod non est verum. Haec igitur de movente in animalibus
+          secundum Peripateticorum peritiam diffinita sunt.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

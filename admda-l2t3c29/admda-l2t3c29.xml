@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XXIX.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XXIX.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c29">
+        <head xml:id="admda-l2t3c29-Hd1e128">CAPUT XXIX.</head>
+        <head xml:id="admda-l2t3c29-Hd1e131" type="question-title">De differentiis saporum secundum speciem, et qualiter se habent
+          ad gustum.</head>
+        <p xml:id="admda-l2t3c29-d1e134">Licet autem in libro de sensu et sensato proprium sit dicere de generatione saporum,
+          tamen propter doctrinae bonitatem aliquid hic dicemus. Dicimus autem quod species saporum,
+          sicut et in coloribus et in aliis sensibilibus, primae quidem et extremae sunt simplices
+          et contrariae, et hae, dulce et amarum : consequentes autem et proximae mediis quae
+          propinquiores sunt extremis, sunt pinguis qui proximus est dulci, et salsus qui proximus
+          est amaro : qui autem magis distant ab extremis versus medium per aeque distantiam
+          sumptum, sunt sicut acer, et austerus, et ponticus, et acetosus, et acutus. Istae enim
+          fere videntur saporum omnes differentiae, et est in eis magna diversitas inter Auctores :
+          quoniam in veritate Galenus et <name ref="#Avicenna">Avicenna</name> volunt, quod causa
+          saporum sit calidum et frigidum diversimode vincentia humidum a sicco passum : et si
+          calidum et frigidum essent causa contrariorum et mediorum saporum, tunc oporteret quod
+          maxima contrarietas in saporibus oriretur a calido et frigido : et nos videmus quod hoc
+          non est verum, quia calidum et frigidum causant in diversis saporem eumdem : amarum enim
+          causatur aliquando a calido terrestri combusto, et tunc causa ejus est calidum : aliquando
+          autem causatur a frigido, sicut in saporibus plantarum quae cum pepanae sunt, dulcescunt :
+          illarum enim omnium fructus ut multum in principio est amarus. Et similiter licet dulce
+          frequenter causetur a calido in humido subtili bene admixto cum sicco subtili, tamen
+          potest etiam causari aliquando a frigido, sicut in plan<cb ed="#B5" n="b"/>
+          <!-- 283 b -->tarum fructibus, quae cum pepanae sunt, fiunt amari : illi enim a principio
+          sunt dulces vel insipidi. Constat igitur quod calidum et frigidum nec essentialiter nec
+          generaliter causant contrarios et extraneos sapores. Et adhuc etiam hoc constat alia
+          ratione : quoniam multa sunt calida complexioni hominis, quae inter omnes est aequalior,
+          quae tamen non necessario sunt in se et simpliciter calida, vel etiam alii complexioni
+          calida, sicut aliquid calidum homini frigidum est leoni qui calidior homine est. Et ideo
+          si forte Galenus et <name ref="#Avicenna">Avicenna</name> experimentis probant amarum
+          universaliter operari calorem in homine, non est propter hoc probatum, quod amarum in se
+          et simpliciter sit calidum, vel cuilibet sit calidum. Et si omnia haec non curemus, tamen
+          constat quod agens de generatione sensibilis causas dare debet, quae sunt essentiales, ut
+          formae quaedam in illo sensibili de quo agit : et ideo secundum proprietatem istius
+          scientiae dicimus nos, quod extremi simplices sunt sapores, dulcis et amarus : et quia
+          duplex est medium, scilicet per aeque distantiam, et per vicinitatem ad unum contrariorum
+          sumptum, dicimus quod dulcis propinquiorem juxta se habet salsum : alii autem quinque sunt
+          magis remoti : et videtur quod omne illi sint versus amarum, qui sunt acer, et acutus, et
+          acetosus : et alii qui sunt austerus, qui idem vocatur stipticus, et ponticus, videntur
+          esse magis versus dulcem. Isti autem medii sunt causati ex diversis viis quibus movetur
+          dulce in amarum, vel e converso : licet enim plura media habeant aliqua contraria, tamen
+          non semper per illa omnia moventur quando fit motus de contrario in contrarium : quando
+          enim movetur album in nigrum, vel e converso, non semper prius venit in colorem extremum,
+          sed aliquando in illum medium, et aliquando in viridem, aliquando autem in croceum,
+          secundum diversitatem ejus quod alteratur. Ita est etiam in <pb ed="#B5" n="284"/> <cb ed="#B5" n="a"/> saporibus, quod alteratio quae est de dulci in amarum, aliquando est per
+          pingue et ponticum, aliquando per acre et acutum, secundum diversitatem naturae ejus, et
+          sic quod alteratur : et cum in omni motu sint multa facta, sicut in Physicis est
+          determinatum, ubicumque timetur motus antequam sit in extremo simplici, ibi constituet
+          medium compositum ex utroque extremorum : et haec generatio mediorum est propria et
+          formalis, cum nos jam in tertio Physicorum ostendimus quod motus alterationis non nisi
+          forma post formam est secundum continuum fluxum potentiae ad actum. De numero autem
+          saporum et caetera secundum speciem generatione dicemus in libro de sensu et sensato.
+          Organum autem gustativum est potentia quaelibet differentia saporis : et sapor qui est
+          gustabilis, est illud quod facit gustum actu hujusmodi esse qualis est sapor.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

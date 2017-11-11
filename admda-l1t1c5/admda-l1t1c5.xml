@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT V</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT V</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l1t1c5">
+        <head xml:id="admda-l1t1c5-Hd1e128">CAPUT V</head>
+        <head xml:id="admda-l1t1c5-Hd1e131" type="question-title">Quo ordine oportet procedere quaerentem de his quae spectant ad
+          scientiam de anima.</head>
+        <p xml:id="admda-l1t1c5-d1e134">Inquisitis autem his omnibus quae de subjecto scientiae hujus et diffinientibus animam
+          inquirenda esse videntur, etsi consentiatur in hoc quod in unoquoque corpore hominis vel
+          alterius animalis non multae sunt animae, sed una in substantia, et plures in partibus
+          potestativis : tunc videndum erit de ordine quaestionum, utrum scilicet prius oportet
+          inquirere de tota anima secundum se, vel de partibus prius. Cum autem multae sint partes,
+          difficile erit determinare differentias partium ad invicem quales aptae natae sunt habere
+          : quia inferior semper claudi videtur in superiori, sicut minor potestas in majori
+          clauditur ejusdem generis potestate, sicut potestas praesidis et tribuni clauditur in
+          potestate Caesaris sive Imperatoris. Est tamen in hoc magis difficile quam in aliis.</p>
+        <p xml:id="admda-l1t1c5-d1e137">Dubium autem iterum est, utrum partes animae quae sunt potentiae prius quaerendae sunt,
+          aut opera sive actiones potentiarum, verbi gratia utrum prius quaerendum sit de
+          intelligere et sentire quae sunt opera sive actiones potentiarum, vel de intellectiva et
+          sensitiva potentia prius sit inquirendum. Similiter autem et in aliis. Et si constiterit
+          quod de operibus potentiarum prius sit inquirendum, tunc iterum dubitabit aliquis an
+          oportet primo quaerere de oppositis, hoc est, objectis circa quae sunt opera, aut de ipsis
+          operibus prius, et postea de objectis. Verbi <cb ed="#B5" n="b"/>
+          <!-- 125 b --> gratia, quoniam possumus quaerere utrum de sensibili prius sit quaerendum
+          quam de sensu et sentire et de intelligibili prius quam de intellectu et intelligere, vel
+          e converso.</p>
+        <p xml:id="admda-l1t1c5-d1e144">Hae enim quaestiones necessariae sunt propter duas causas, quarum una est, quia in
+          quibusdam magis est nobis nota natura totius quam partis, et notior est nobis potestas
+          quam actus ejus, et quam id circa quod operatur, sicut in corporibus quae sensui
+          subjiciuntur, se habet. Nos enim scimus naturam ignis in toto, et per eam discimus
+          potentiam partis et operationis, et ejus circa quod operatur. Quaedam autem super quae non
+          cadit sensus, sunt occulta nobis in substantia et partibus, sed sunt manifesta nobis ea
+          circa quae operantur, et per illa devenimus in opera, et per opera in potentias
+          particulares, et per illas potentias conjecturamus de toto, sicut nos investigamus
+          substantias separatas, etiam ipsam animam.</p>
+        <p xml:id="admda-l1t1c5-d1e148">Alia autem causa est, quia etiam in ipsis quae spiritualia sunt et non sunt subjecta
+          sensibus nostris, duo sunt genera potentiarum partialium : et unum quidem genus est
+          activae potentiae, aliud autem potentiae passivae. Activae quidem sunt factivae formarum
+          et motivae, sicut intellectus activus, et potentiae moventes cor et organa motus. Passivae
+          autem sunt receptivae formarum, ut sensus, et intellectus possibilis. Et in activis quidem
+          scimus quod potentia causatur ab essentia formae, et operatio non dat speciem, sed
+          operatio specificatur a forma, sicut dicimus operationem lucis esse lucere : et si agit in
+          aliquid quod objicitur actioni suae, illi etiam imprimit speciem et formam suam, sicut lux
+          lucendo illuminat, et dat speciem lucis illuminatis : et in talibus rectus ordo doctrinae
+          est incipere a forma totius agentis, et devenire in partem et in operationem, et sic in
+          objectum circa quod est operatio. In passivis autem ordo naturae est e converso : quoniam
+          passiva per se carent specie, <pb ed="#B5" n="126"/> <cb ed="#B5" n="a"/> sed objectum
+          agit in eis speciem suam, sicut nos videmus oculum nullam habere visionis speciem, sed
+          esse potentia ad omnia visibilia. Sed cum videt in actu, tunc coloratum illuminatum
+          immutat ipsum et imprimit ei speciem. Et in talibus secundum rationem diffinitivam objecta
+          quae primo dant speciem operationi et potentiis passivis, sunt secundum naturam praevia
+          actibus et actus potentiis, et postea visio, et postea visus, et deinde potentia tota
+          sensitiva : et hoc patet per diffinitionem ab Aristotele datam de visu, quod visus est
+          susceptivum coloris secundum actum lucidi, ubi visus diffinitur per colorem.</p>
+        <p xml:id="admda-l1t1c5-d1e155">Cum igitur utrumque genus potentiarum istarum in anima inveniatur, oportet quaerere de
+          utraque viarum praedictarum in doctrina de Anima. Non solum autem oportet hoc inquiri, sed
+          etiam de accidentibus inseparabilibus, quaecumque sunt propria animae vel partibus
+          ejus.</p>
+        <p xml:id="admda-l1t1c5-d1e158">Non solum enim videtur utile esse in doctrina ut cognoscamus substantiam per essentialia
+          ipsius, quae sunt quidditas ejus, ut per illam cognoscamus causas eorum quae accidunt per
+          se subjectis illis, quorum quidditates accepimus : sed etiam e converso cognitio eorum
+          quae per se accidunt alicui substantiae, multum confert ad sciendum quidditatem
+          substantiae. Sicut verbi gratia, si volumus cognoscere quot numero anguli trianguli
+          rectilinei sunt aequales rectis, utile est nobis ut cognoscamus tam quidditatem
+          substantiae quam quidditatem passionis, ut verbi gratia, sciamus quiditatem recti et
+          quidditatem obliqui, quae sunt passiones : et quidditatem lineae et quidditatem plani sive
+          superficiei, quae sunt subjecta in geometria : tunc bene concluderemus, quod triangulus
+          qui est plane trigonum rectilineum, habet tres numero angulos aequos duobus rectis et non
+          pluribus. Et sic est in multis, quod <cb ed="#B5" n="b"/>
+          <!-- 126 b --> aliquando posteriora sunt magis nota nobis quae sunt accidentalia rei, et
+          aliquando e converso substantialia sunt magis nota quae sunt priora. In omnibus enim
+          mathematicis priora in natura et re sunt magis nota, et ex illis certificamus posteriora :
+          et ideo scientiae illae certissimae sunt. In physicis autem frequenter sunt occulta nobis
+          quae priora sunt secundum naturam et rem, et accidentia nobis magis manifestantur : et
+          oportet nos tunc ex posterioribus incipere, et venire in principia : et ideo scientiae
+          physicae in quibusdam non habent veram certitudinem sicut habent mathematicae. Sed quando
+          incipimus ab accidentibus, oportet quod illa accidentia sint per se convenientia et nota
+          nobis ad sensum et phantasiam et imaginationem : quoniam in illis primo accipimus physica
+          : et ideo quandocumque bene et expedite sciverimus tradere rationem accidentium, ad
+          phantasiam et imaginationem nobis notorum et cognitorum, tunc etiam expediti erimus ad
+          tradendum rationem de substantia et de eo quod est quid est : quia per accidentium
+          cognitionem statim devenimus in rationem et cognitionem substantiae. Sed cum procedemus a
+          priori in posterius, tunc procedemus per demonstrationem. Omnis autem demonstrationis
+          principium est sicut medium ipsa diffinitio dicens rei quidditatem.</p>
+        <p xml:id="admda-l1t1c5-d1e165">Utrum autem illa sit diffinitio subjecti vel passionis, determinatum est in Posterioribus
+          : quoniam cum medium debeat esse secundum naturam medium in demonstratione, et debeat esse
+          posterius primo, et prius secundo, videtur debere esse diffinitio passionis quae probatur
+          de subjecto. Et si aliquando per diffinitionem subjecti scitur passio, oportet quod illa
+          diffinitio non sit data de subjecto tantum, in quantum est substantia quaedam vel
+          subjectum, in communi ratione subjecti, sed in quantum est causa et subjectum passionis,
+          hoc est, quod fluit ex ipso talis passio : per illam enim scietur qualiter et quare passio
+          inest <pb ed="#B5" n="127"/> <cb ed="#B5" n="a"/> subjecto. Sicut verbi gratia, si
+          diffiniatur anima in quantum absolute substantia intellectualis incorporea, non
+          cognoscentur accidentia ejus et opera et objecta. Similiter autem si diffiniatur secundum
+          totum et non secundum partes, et diffinitio totius detur secundum quod animatum corpus, ut
+          dicatur perfectio corporis physici potentia vitam habentis, non cognoscuntur sufficienter
+          passiones et opera et objecta : quia partium opera et accidentia et objecta ignorantur. Si
+          autem dicatur anima esse principium sensus et motus in toto, et in partibus corporis
+          secundum congruentiam componentium unumquodque membrum, cognoscentur omnes operationes et
+          accidentia partium et objecta, quando fuerit diffinitio aptata cuilibet parti, sicut in
+          secundo libro declarabitur. Similiter autem est in diffinitione accidentium, quae sunt
+          principium demonstrationis, sicut diximus. Si enim detur de essentia passionis tantum per
+          ea quae formalia sunt in ipsa, non dicent causam quare sunt accidentia, aut accidant
+          talibus subjectis : sicut si diffiniendo dicam, eclipsis est defectus luminis : adhuc
+          autem si apponam subjectum et dicam, eclipsis est defectus luminis in luna : adhuc autem
+          non dicit diffinitio quare hoc lunae accidit, et quomodo soli lunae convenit per se. Si
+          autem dictatur sic, eclipsis est defectus luminis in luna, ex terrae interpositione ad
+          rectam diametrum inter solem et lunam, ex motu ipsius in capite vel in cauda draconis,
+          infra gradus eclipticos proveniente : tunc diffiniendo dico quid est passio, et cujus est,
+          et propter quid inest, et quare soli lunae convenit : et per hanc diffinitionem scitur
+          passionem inesse subjecto : ideo hoc certificant, et hoc est principium demonstrationis.
+          Et similiter est in passionibus animae. Si enim dicam sic, ira est <choice>
+          <orig>appetus</orig> <reg>appetitus</reg> </choice> contrarii doloris ex accensione
+          sanguinis circa cor proveniens, dico et quid est, et cujus est, et propter quid inest :
+          quia cordi inest, et propter hoc quod sanguis accensus est ex <cb ed="#B5" n="b"/>
+          <!-- 127 b --> molestia, protenduntur spiritus ad repellendam injuriam vel illatam, vel
+          opinatam, et ideo conturbantur passione. Et ideo sive subjectum diffiniatur, sive passio,
+          et per diffinitionem non scitur quod passio est propria passio, hoc est, cui inest, et
+          quare inest, vel ex diffinitione haec de facili conjecturari non possunt : sic
+          diffinitiones dantur ex communibus essentialibus subjecto vel passioni, quae communia sunt
+          per intentiones dialecticas collecta, et sunt vanae, eo quod non inducunt ad certitudinem
+          veram demonstrationis.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VIII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VIII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t2c8">
+        <head xml:id="admda-l3t2c8-Hd1e128">CAPUT VIII.</head>
+        <head xml:id="admda-l3t2c8-Hd1e131" type="question-title">Et est digressio declarans opinionem eorum qui dixerunt nullam
+          partem animae esse intellectualem, et errorem eorumdem.</head>
+        <p xml:id="admda-l3t2c8-d1e134">Quaerunt autem nonnulli Anaxagoram sequentes quos in aliquo videtur sequi Algazel, et in
+          aliquibus dictis suis Avi<cb ed="#B5" n="b"/>
+          <!-- 343 b -->cenna, qui propter dictas dubitationes dixerunt nullam partem animae esse
+          intellectum. Dixerunt autem quod omnis natura intellectiva est separata, et nulli habet
+          aliquid commune, et ideo non est intellectualis naturae homo, sed intellectivae. Sunt
+          intelligentiae tantum, et has ponunt in decem ordinibus cuilibet coelo, quos novem esse
+          dicunt, attribuentes unum ordinem, decimum scilicet, toti sphaerae activorum et
+          passivorum, quae movet omnia illa ad formas, et omnibus generabilibus et corruptibilibus
+          formis attribuitur, secundum modum quo possunt illas recipere. Dicunt autem isti
+          splendorem intelligentiarum dari formas : et ideo quia anima hominis nobilior est aliis,
+          ideo plus splendoris intelligentiae resultat in ea quam in aliis, sicut plus splendoris
+          lucis resultat in claro colore quam in obscuro, et hunc splendorem intellectum esse in
+          nobis dicunt, et quod intellectus in nobis sit idem quod splendor alicujus intelligentiae
+          separatae in nobis.</p>
+        <p xml:id="admda-l3t2c8-d1e141">Hoc autem confirmant per duas rationes, quarum una est, quoniam ea quorum operatio
+          substantialis est eadem, sunt eadem in natura : operatio autem intelligentiae in nobis et
+          operatio intelligentiarum separatarum est una et eadem, quae est dare formas speculationis
+          et dividere eas : ergo quod est in homine de natura intellectuali, est aliquid
+          intelligentiae separatae. Alia autem est ea quae jam saepius inducta est : quoniam
+          intelligentiae non sunt nisi ut moveant subjecta sibi, et non ut moveantur ab ipsis : et
+          ideo dicunt quod intellectus moveri non potest a phantasmate, sed ipsemet habet formas et
+          dat eas sicut intelligentiae separatae. Sic igitur absolvunt omnia quae sunt inducta.</p>
+        <p xml:id="admda-l3t2c8-d1e144">Facile autem istud refellitur : quoniam secundum hoc homo diffiniri non potest
+          intellectuali et rationali, cum nihil sit de essentia sua : secundum hoc etiam vane et
+          falso vocavit <name ref="#Aristotle">Aristoteles</name> partem animae qua cognoscit et
+          sapit. Secundum hoc <pb ed="#B5" n="344"/> <cb ed="#B5" n="a"/> etiam animatum ab animato
+          non differret tribus, vegetativo scilicet, sensitivo, et rationali. Et secundum hoc in
+          rationali non esset sensitivum sicut trigonum in tetragono. Quae omnia sunt absurda.
+          Secundum hoc iterum non esset unquam aliquis secundum intellectum potentia sciens, sed
+          semper actu sciens : et hoc nullo modo est verum, nec secundum Stoicos, nec secundum
+          Peripateticos. Stoici autem quorum pater et princeps fuit Plato, eo quod viderunt secundum
+          superius inductas rationes possibilem intellectum esse separatum et impassibilem, dixerunt
+          ipsum non posse perfici aliquo corruptibili, et ideo dixerunt universalia esse
+          incorruptibilia et semper esse apud eum. Peripatetici autem hominem in potentia scientem
+          esse dixerunt dupliciter, potentia scilicet remota, et potentia propinqua. Potentia remota
+          propter privationem praeparationis ad sciendum, quando scilicet non habet habitum aliquo
+          modo. Potentia propinqua, quando habet habitum. Sed quia intellectus est in potentia in
+          phantasmate, sicut diximus, dixerunt potentia scientem qui non habet phantasma actualiter
+          in luce agentis intellectus movens : sententia enim eorum est intellectum nunquam esse in
+          actu, nec ante scientiam, nec post, nisi sit phantasma movens. Et in hoc secundo non
+          consentit <name ref="#Avicenna">Avicenna</name> nec Algazel : quia dicunt quod sicut via
+          non est amplius necessaria, quando est perventum ad domum in qua manendum est, et sicut
+          scalae non sunt necessariae ei qui jam exaltatus est in solio : ita phantasma non est
+          necessarium ei qui jam habet habitum scientiae : et ideo saepe intelligimus nihil omnino
+          de particulari curantes vel reminiscentes ista. Et quia inconvenientia undique videntur
+          sequi, videtur mihi fore per arduum veritatem attigere, et difficultatem in his esse, et
+          hoc probat nobis tam clarissimorum virorum tanta diversitatis dissentio.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

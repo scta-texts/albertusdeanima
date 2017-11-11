@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT I.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT I.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l1t2c1">
+        <head xml:id="admda-l1t2c1-Hd1e128">CAPUT I.</head>
+        <head xml:id="admda-l1t2c1-Hd1e131" type="question-title">De his qui diffiniebant animam per hoc quod ipsa est motivum
+          quoddam.</head>
+        <p xml:id="admda-l1t2c1-d1e134">Principium autem quaestionis est secundum artem demonstrationis in Posterioribus
+          Analyticis determinatam, quod apponimus in principio ea quae maxime convenire videntur
+          animae secundum seipsam : quia ex his manifestabuntur nobis ea quae sunt posterius, et
+          secundum aliquid convenientia. Animatum autem differt ab inanimato in hoc quod habet
+          animam duo operantem in ipso, quae sunt motus processivus secundum locum, et sensus :
+          vegetativa enim a quibusdam non dicuntur habere animam, sed partem animae, ut in libro de
+          Plantis habebitur. Anima autem rationalis non videtur quibusdam secundum eamdem rationem
+          nomen animae participare cum aliis. Animatum ergo quod perfectam habet animam, et quae
+          vere anima est, <cb ed="#B5" n="b"/>
+          <!-- 135 b --> differt ab eo quod non est animatum tali anima, in eo quod est motivum
+          secundum locum, et in eo quod est sensitivum. Et haec duo dicta de anima a progenitoribus
+          nostris qui patres nostri in philosophia fuerunt, accepimus.</p>
+        <p xml:id="admda-l1t2c1-d1e141">Dicunt enim quidam et maxime quantum ad communitatem omnis animae. Et primo quantum ad
+          substantialiter inesse omni animae : animam enim dicunt esse id quod movet secundum locum
+          totum corpus et membra, non quidem sicut natura movet ad unum et eodem modo, sed quod
+          movet ad plura et multis modis, sicut vegetativa ad digerere, nutrire, et augere, egerere,
+          et generare : sensibilia autem ad plura quae patent. Et hoc dixerunt qui existimabant quod
+          nihil movet aliud quod ipsum in seipso non moveatur : putabant enim non posse aliquid alii
+          dare dispositionem quam in seipso non habet, hoc est, qua non disponitur. Et ideo putabant
+          id quod non movetur in seipso, non posse movere aliquid alterum : et quia movet anima
+          corpus, arbitrati sunt animam esse aliquid de numero eorum quae mo<pb ed="#B5" n="136"/>
+          <cb ed="#B5" n="a"/>ventur a seipsis. Et quia eorum moventur, primi nisi causam materialem
+          et corporalem non viderunt, omnino nihil distinguentes de causa efficiente formali et
+          finali, ideo ponebant quod id quod maxime motivum est in corporibus, est anima. Est autem
+          hoc calor et ignis : et ideo Democritus animam dixit esse ignem quemdam aut calorem. Cum
+          enim iste ponat omnium principia esse atomos, quae sunt infinitarum figurarum, sicut
+          diximus in primo libro Peri geneseos, dicit illos atomos constituere animam, quae sunt
+          speciei sive formae rotundae et figurae. Et quia animam dicit esse ignem aut calorem, eo
+          quod vidit calorem naturalem esse instrumentum animae, ideo dicit quod illae atomi quae
+          sunt rotundae, constituunt ignem et calorem et animam. Atomi autem illae sunt sicut
+          descissiones minutissimae quae discurrunt in aere, quae videntur in radiis solis, quae
+          ingrediuntur per portas et fenestras domorum. Harum enim descissionum omne semen
+          Democritus dicit esse elementa omnium rerum naturalium. Idem autem dixit collega Democriti
+          Leucippus : et nos ipsorum rationes posuimus in primo libro Peri geneseos. Inter haec
+          autem illa quae sunt rotundae formae et figurae, dicunt esse animam propter id quod haec
+          figura omnino vel per omnia, ut asserunt, potest penetrare, praecipue quando
+          circumferentia est minima. Cujus sunt duae causae simul junctae. Una quidem, quia id quod
+          secundum punctum tangit, secundum minimum tangit et maxime penetrat. Circumferentia autem
+          sphaerici quocumque vertatur, non nisi secundum punctum tangit, sive tangat planum, sive
+          sphaericum in eo quod est circumferentia. Figurae autem aliae etiam secundum punctum qui
+          est in angulo, et secundum latus possunt tangere, et ideo non semper maxime penetrant.
+          Alia autem causa jungenda isti est, quod linea circularis citius obliquatur quam aliqua
+          linea recta versus eamdem partem protracta, ad quam curvatur circumferentia : et ideo
+          minus <cb ed="#B5" n="b"/>
+          <!-- 136 b --> resistit penetrationi. Quia igitur videbant animam ubique adesse corpori,
+          ponebant ipsam esse rotundum indivisibile penetrans per totum : et quia rotundum est
+          volubile de se, eo quod non est status alicujus super punctum, cum punctum non sit locus
+          alicujus, sed superficies, et rotundum quocumque volvatur, semper est in uno puncto
+          tantum, et ideo suum non est stare, sed perpetuo moveri, ponebant arbitrantes animam esse
+          rotundum perpetuo movens seipsum, et ideo potens movere omnia reliqua : et hoc dixerunt,
+          sicut diximus, quia arbitrati sunt quod anima est id quod adhibet animalibus motum localem
+          in toto et in membris.</p>
+        <p xml:id="admda-l1t2c1-d1e152">Propter quod dixerunt, quod terminus et distinctio vitae est per respirationem : quoniam
+          positio eorum fuit, sicut veritas est, quod omne animal habet cor vel membrum aliud quod
+          habet in corpore vices cordis : et hoc motu diastoles et systoles exsufflat ex se spiritum
+          vitalem : ex motu autem incenderetur, nisi esset spiritus refrigerans vel interius in
+          corpore existens vel exterius, sicut in respirantibus, tamen spiritum quocumque modo in
+          corpore hominis factum dicebant esse respirationem, animam hujusmodi spiritum esse
+          dicentes. Dicebant enim quod nullum aliud auxilium sit coelesti virtute ad vitam per quam
+          anima infundatur, nisi quod aer qui continet corpora animata, attractus in respiratione
+          conducit secum figuras sphaericas, per quas reprimit eas figuras quae interiora penetrant,
+          ne exeant quae praebent animalibus motum, sic principia per se mota, eo quod nunquam
+          contingit quiescere propter ipsas per seipsas motas, ut dictum est. Dicunt enim quod
+          ingredientibus in animalia hujusmodi figuris in respirando, prohibent illae quae
+          ingrediuntur illas, quae fuerunt disgregari : prohibent autem haec cooperantes, hoc <pb ed="#B5" n="137"/> <cb ed="#B5" n="a"/> est, opera sua facientes aerem conducentem atomos
+          rotundas et condensantem eas intus, ut undique impleant, et penetrent, et moveant. Dicunt
+          autem unumquodque animal vivere tamdiu, quousque haec potest perficere.</p>
+        <p xml:id="admda-l1t2c1-d1e160">Videtur autem quod id quod invenitur a Pythagoricis dictum de anima, eamdem habeat
+          intelligentiam quoad hoc quod ponunt substantiale esse motivum animae, et quod propter
+          illud habet diffiniri. Et ideo quidam Pythagorici ponentes principia prima esse
+          indivisibilia secundum quantitatem, aliquando dixerant quod anima erat atomi rotundae,
+          sicut et Democritus dicebat. Et hujus causa fuit, quia non poterant videre compositionem
+          aliquam in rebus, nisi eam quae est quantitatis : et cum illam in principia resolvere
+          vellent, putabant quod divisio staret in atomis. Alii autem posteriores Pythagorici
+          subtilius aliquid intelligentes viderunt utrumque : quia idem indivisibile non poterat
+          esse movens et motum : neque poterat esse quin multa moventia unius figurae rotundae
+          haberent quamdam unam materiam communem, quae moveret in omnibus eis : et videbant bene
+          quod hoc movens non fuit figura : et figura est de consequentibus naturam et esse secundum
+          rationem, licet concomitetur secundum tempus : et ideo quasi corrigentes dictum antiquorum
+          patrum suorum, dixerunt quod illud quod est per se movens omnes atomos rotundas, est anima
+          : tamen dixerunt convenientes cum Antiquis, quod prima moventia mota sunt atomi, eo quod
+          continue moventur etiamsi sit tranquillitas nimia. Hujus autem causa physica est, quoniam
+          atomi causantur ex reliquiis vaporum elevatorum dupliciter : quoniam quando elevantur
+          vapores, sunt quaedam minima minus commiscibilia propter terrestreitatem quam alia, et
+          illa evadunt in aerem, quando caeterae partes vaporum continue elevan<cb ed="#B5" n="b"/>
+          <!-- 137 b -->tur. Similiter autem quando resolvuntur vapores, terrestria magis sicca
+          separantur et manent in aere : et hoc quia habent in se calorem, elevantem a loco ubi
+          elevata sunt, moventur sursum : et per naturam gravis quae est ex terrestreitate, moventur
+          deorsum : et aliquando ex motu ipso calefiunt, et tunc velocius reascendunt sursum : et
+          sic habent motus incertos in aere.</p>
+        <p xml:id="admda-l1t2c1-d1e167">In idem autem feruntur quoad dicti causam omnes illi qui dicunt animam esse aliquid
+          motivum seipsum movens. Omnes enim isti conveniunt in hoc quod motivum esse magis proprium
+          et substantialius animae, et quod omnia alia moveantur propter animam, et animam moveri
+          per seipsam : eo quod supponebant quod nihil movet per se, nisi et ipsum moveatur : sicut
+          nihil calefacit per se, nisi et ipsum sit calidum : et ideo ponebant isti omnia corpora
+          physica esse plena animabus moventibus ea continue. Ratio autem istorum fuit quae posita
+          est in octavo Physicorum. Videbant enim omnia mota et moventia reduci ad unum movens
+          seipsum primum, et putabant quod esset in moventibus, sicut in aliis causis formalibus et
+          efficientibus, quae per se et univoce referuntur ad effectum. In omnibus enim illis eadem
+          est forma in causa et effectu secundum rationem et speciem : et ideo putabant quod motus
+          quem largitur primum movens ei quod movetur, esset per speciem et rationem in forma
+          moventis : et ideo dixerunt primum movens necessario moveri. Hoc autem non est necessarium
+          in his quae per essentiam suam totam movent, quoniam in illa essentia nihil potest esse
+          motum. Et est simile ac si diceremus calorem simplicem esse calefacientem, in ipso nihil
+          esset calidum neque disponeretur per calorem : et hoc illi discutere nesciverunt :
+          videbant autem quod movens seipsum non est nisi animatum, et ideo credebant quod anima
+          esset principium movens seipsum. Et qui primo ponebant numeros inter Pythagoricos,
+          quemad<pb ed="#B5" n="138"/> <cb ed="#B5" n="a"/>modum fecit Plato, qui dixit prima
+          continua et solida proportionibus numerorum fieri, sicut patet in secunda parte Timaei,
+          dicebant animam esse numerum seipsum moventem. Haec igitur positio Antiquorum verissimam
+          habuit causam dicti sui, licet falsa sit in eo quod dicit, sicut patebit in
+          sequentibus.</p>
+        <p xml:id="admda-l1t2c1-d1e174">Similiter autem et Anaxagoras animam dicit per se et essentialiter esse moventem omne
+          quod movetur, et cum Anaxagora convenit quicumque alius dixit, quod intellectus agens
+          purus et immixtus omne movet quod est in natura. Haec enim positio est Anaxagorae, et est
+          subtilior quam praehabita, licet minus sit certificata per determinationem dictorum
+          Anaxagorae. Non enim dixit Anaxagoras animam penitus idem esse cum intellectu, sicut dixit
+          Democritus. Democritus enim dixit idem omnino et penitus esse animam omnem quod
+          intellectum, eo quod ex eisdem atomis constituitur. Cum enim intellectus sit virtus
+          apprehendens et distinguens verum secundum quod verum est adaequatio rerum et intellectum,
+          dixit Democritus verum esse quidquid videtur et sentitur. Et cum idem objectum sit ejusdem
+          virtutis, erit secundum eum eadem virtus sensus et intellectus. Et ideo laudat Homerum, et
+          verum dicit eum dicere in heroicis, ubi dixit quod Hector sapiens jacet : quoniam, sicut
+          dicit <name ref="#Aristotle">Aristoteles</name> in libro de Problematibus, Hector
+          patiebatur aliquando usque ad sensus amissionem et amentiam : et tunc quia caruit etiam
+          intellectus usu. Et hoc dixit Democritus Homerum ideo dicere, quod sensus et intellectus
+          essent omnino idem. Non enim Democritus utebatur intellectu tanquam potentia quadam quae
+          est circa veritates simplices rerum abstractas a materia et materiae appendiciis, sed
+          omnino idem dicit esse animam et intellectum.</p>
+        <p xml:id="admda-l1t2c1-d1e180"> <cb ed="#B5" n="b"/>
+          <!-- 138 b --> Anaxagoras autem minus certificat de dictis suis quae sit sua intentio.
+          Multoties enim invenitur in dictis suis, quod causam veritatis et motus bene et recte
+          dicit intellectum simplicem, et alibi confundit sensum dictorum suorum, et dicit esse
+          intellectum idem cum anima sensibili : et hoc sequitur ex dicto suo, ubi dicit quod
+          intellectus est in omnibus animalibus magnis et parvis et honorabilibus, quae discernunt
+          honestum, et in honorabilibus quae de honesto in moribus nihil discernunt. Et ratio fuit
+          Anaxagorae, quia vidit omnem multitudinem quae est sub specie una, exire ex una natura
+          generis : et ideo posuit omne movens per scientiam et cognitionem exire ab uno movente
+          primo per intellectum, et non esse differentiam nisi tantum secundum esse quod habet in
+          hoc et in illo : et ideo dicebat sensum in substantia idem esse cum intellectu, sed per
+          esse differentem, et esse <choice> <orig>causam</orig> <reg>causa</reg> </choice>
+          adumbrationis ejus. Et peccabat iste, quia licet una natura prima sit ex qua exit, tamen
+          sunt differentiae huic naturae advenientes, et alias essentias constituentes : quia nos
+          videmus quod intellectus qui denominatur a prudentia, et informatur virtutibus
+          intellectualibus, non videtur omnibus animalibus inesse : et licet natura intellectualis
+          participetur ab hominibus, tamen virtus intellectiva ad actum relata, non aequaliter ab
+          omnibus participatur : quia videmus unum multo magis esse dispositum ad intelligendum quam
+          alium.</p>
+        <p xml:id="admda-l1t2c1-d1e196">Hoc igitur modo quicumque Antiquorum considerant quidditatem animae per id quod movetur,
+          dicunt animam esse aliquid quod maxime et primo et essentialius motum est, sive hoc sit
+          atomus, sive numerus, sive intellectus, sicut diximus.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

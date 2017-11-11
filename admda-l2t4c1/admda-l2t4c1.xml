@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT I.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT I.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t4c1">
+        <head xml:id="admda-l2t4c1-Hd1e128">CAPUT I.</head>
+        <head xml:id="admda-l2t4c1-Hd1e131" type="question-title">Quod omnis sensus est susceptivus specierum sensibilium.</head>
+        <p xml:id="admda-l2t4c1-d1e134">Communiter autem convenientia sensibus et de sensu communi dicendum est post hoc. Primum
+          autem quod communiter convenit omni sensui secundum quod est sensus, est, quod omnis est
+          in gradu illo apprehensionis quod accipit speciem sensibilem sine materia, materia tamen
+          praesente, sicut cera accipit figuram sigilli solam, absque eo quod aliquid de materia
+          sigilli confluat in ceram, accipit figuram annuli sive sigilli aurei vel ferrei, sine auro
+          vel ferro : et tamen accipit auream sive ferream figuram, hoc est, eam quae secundum esse
+          materiae fuerit, et est auri vel ferri et non alterius, nihil accipit tamen de auro vel
+          ferro : et similiter sensus accipit uniuscujusque sensibilis speciem, colorem scilicet, et
+          saporem, et sonum, et patiturque ab hujus<cb ed="#B5" n="b"/>
+          <!-- 293 b -->modi sensibilibus speciebus, non in quantum unaquaeque sensibilium secundum
+          esse materiale, sed in quantum unumquodque illorum est in esse intentionali et secundum
+          rationem, sicut prius in antecedentibus diximus. Videtur autem fortassis hoc de tactu et
+          gustu non fore verum secundum prius determinata : quia diximus sensibilia eorum secundum
+          esse materiale fieri in sentientibus. Sed ad hoc intelligendum est, quod nos vocamus hic
+          sensum virtutem sensibilem in primo organo sensitivo sitam : illi enim a medio non
+          redditur nisi species sola sensibilis secundum quod unaquaeque virtutum sensibilium judex
+          quidam est differentiarum sensibilium quae sibi objiciuntur : et hoc modo omni sensui
+          convenit ipsum esse susceptivum sensibilium specierum, sine omni materia et esse
+          materiali, materia tamen praesente.</p>
+        <p xml:id="admda-l2t4c1-d1e141">Id autem quod primum est quo sentimus, est id in quo sensibilium species solae sine
+          materia potentia sunt primo, et post in actu, quando jam habet eas : et sequitur ex isto
+          quod primum sentiens <pb ed="#B5" n="294"/> <cb ed="#B5" n="a"/> cum est in actu, est tale
+          quale quidem ipsum sensibile : sed alterum est esse ejus hinc et inde secundum quod est in
+          esse intentionali actus sensus, et secundum quod est in esse materiali magnitudo quaedam,
+          sive corpus subjectum sensibus : magnitudo enim materialis subjecta sensibus, non est id
+          quod sentitur secundum quod sensatum actus est sensus, sed quia esse sensitivum quod est
+          esse intentionale. Similiter autem nec ipse sensus secundum actum factus est magnitudo :
+          sed est ratio quaedam intentionalis ipsius sensibilis et sensus habens talem intentionem
+          in potentia sensibilis, quae judex est ipsius : omnis enim potentia alicujus et ratio
+          habet proportionem ad ipsum recipiendum : quae proportio si solvatur, non erit amplius
+          potentia : oportet enim potentias proximas per aliquid esse proximas, et praecipue
+          potentias habituales, quae sunt sicut esse primum harmoniam habentes ad actus secundos qui
+          eliciuntur ex ipsis. Diximus autem superius, quod sensitivi primi perfectio est a
+          generante et species sensibilium sunt in ipsis, sicut actus secundi harmonice : ergo
+          potentia sensitiva proportionatur sensibili quod accipit.</p>
+        <p xml:id="admda-l2t4c1-d1e148">Et ideo ex illo manifestum est propter quid excellentiae sensibilium corrumpunt sensum :
+          quoniam excellentiae excedunt harmoniam : et solvitur tunc proportio quoad sensibile
+          comparatum ad organum sentiendi, sicut in symphonia quando harmonice extensae sunt
+          chordae, si quis fortius quam harmonia permittat, percusserit chordas, corrumpit
+          harmoniam.</p>
+        <p xml:id="admda-l2t4c1-d1e152">Ulterius autem ex dictis manifestum est, quia plantae non habent sensum : licet enim
+          patiantur a tangibilibus quae agunt actione materiae et non tantum actione speciei, et
+          licet habeant quam<cb ed="#B5" n="b"/>
+          <!-- 294 b -->dam partem animae : tamen quia organa plantarum non sunt harmonice
+          proportionata ad solas sensibilium species recipiendas, non possunt sentire plantae :
+          carent autem hujusmodi harmonia in organis, propterea quia terrestres sunt : et ideo
+          actiones earum ab actionibus materialibus elevari non possunt, sed patiuntur passione
+          materiali, non formali, sicut diximus. Ideo dicentes plantas habere duos sensus, gustum
+          scilicet et tactum, absque dubio errant : quia licet trahant nutrimentum et alterentur
+          tangibilibus, tamen non judicant sapores, nec alterantur alteratione speciei tantum, sed
+          alteratione materiae. Hoc est igitur quod convenit sensui omni in quantum est sensus.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

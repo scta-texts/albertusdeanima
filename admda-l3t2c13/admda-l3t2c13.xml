@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XIII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XIII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t2c13">
+        <head xml:id="admda-l3t2c13-Hd1e128">CAPUT XIII.</head>
+        <head xml:id="admda-l3t2c13-Hd1e131" type="question-title">Et est digressio declarans solutionem duarum quaestionum
+          difficilium relictarum ex praedictis.</head>
+        <p xml:id="admda-l3t2c13-d1e134">Nunc autem duas quaestiones quae remanent, quantum possumus determinemus. Una autem
+          illarum est quae contingit ex hoc quod intellectum ponimus esse separatum, et similiter
+          universale separatum ab individuantibus, et quod separatum est idem apud omnes : et ita
+          videtur ad minus de intellectu speculativo, quod idem sit apud omnes, et sic me accipiente
+          scientiam etiam alius accipit eam, quod est omnino falsum. Altera autem contingit ex hoc
+          quod intellectus possibilis potentia est omnia, et similiter materia prima, et ex hoc
+          videtur intellectum fore idem cum materia prima, et materia prima deberet intelligere
+          formas quae sunt <choice> <orig>inipsa</orig> <reg>in ipsa</reg> </choice> sicut et
+          intellectus. Sed istas quaestiones determinare secundum inductam opinionem non est
+          difficile. Jam enim concessimus quod intellectus est separatus secundum se, et conjunctus
+          per hoc quod in eadem substantia existens communicat ei quod communicat corpori per se,
+          sicut sunt phantasia et sensus : et sic intellectus est hoc aliquid, licet non sit aliquid
+          intelligibilium, nisi quando intelligit seipsum : et de hoc inferius ex <name ref="#Aristotle">Aristotelis</name> dictis rationem reddemus. Et ideo concedendum est,
+          quod subjectum intelligibilium non est unum numero in omnibus : et in hoc discordamus ab
+          Averroe, et concordamus cum <name ref="#Avicenna">Avicenna</name> et Algazele et cum
+          Aristotele, ut videtur, ubi vocat intellectum quo cognoscit anima et sapit, partem animae,
+          quae quidem anima est perfectio corporis organici, et <cb ed="#B5" n="b"/>
+          <!-- 353 b --> non potest esse eadem numero in diversis : sed universalis est intellectus
+          secundum se, et ideo quod est in ipso secundum se, est etiam secundum actum universale, et
+          hoc oportet secundum Peripateticos concedi esse commune apud omnes et idem intellectum
+          universale in anima mea et in anima tua : aliter oporteret dicere quod hominem sedere et
+          hujusmodi est quoddam commune ad id quod est in anima mea et in anima tua. Licet enim
+          intellectus meus sit individuus et separatus ab intellectu tuo, tamen secundum quod est
+          individuus, non habet universale in ipso, et ideo non individuatur id quod est in
+          intellectu, sicut nec colores individuantur a luce abstrahente eos, sed potius a materia
+          et appendiciis materiae, quae sunt situs et figura et hujusmodi. Sic igitur universale ut
+          universale est ubique et semper idem omnino et idem in animabus omnium non recipiens
+          individuationem ab anima : non tamen scientia unius est scientia alterius, vel speculatum
+          ab uno est speculatum ab altero : quoniam speculatio perficitur ex motu phantasmatis.
+          Similiter autem scientia ex universalibus est, quae fiunt ex multis memoriis et
+          experimentis quae non sunt eaedem omnium. Et hoc est quod supra diximus, quod speculativi
+          intellectus sunt unus in eo quod speculativi intellectus sunt, sed sunt multi secundum
+          quod illorum vel illorum sunt, et hac in determinatione convenit nobiscum <name ref="#Averroes">Averroes</name>, licet in modo abstractionis intellectus parumper differat
+          a nobis.</p>
+        <p xml:id="admda-l3t2c13-d1e160">Quaestionem autem illam quam Theophrastus volens evitare, dixit intellectum possibilem
+          nunquam esse in potentia, et speculativum dixit perpetuum, facillimum secundum determinata
+          solvere est : quoniam formae nullo modo similiter sunt in materia prima et in intellectu
+          possibili : et est differentia quadruplex. Una quidem et principaliter, quia formae
+          intelligibiles sunt in intellectu possibili, sicut in magis formali per ipsas deter<pb ed="#B5" n="354"/> <cb ed="#B5" n="a"/>minato : formae autem sunt in materia prima sicut
+          in materiali in quo subsistere habent : et haec differentia patet ex dictis. Secunda est,
+          quod formae universales simplices sunt comparatae ad intellectum possibilem : formae autem
+          divisae secundum esse et particulare et hic et nunc existentes sunt comparatae ad materiam
+          : et ideo non intelligit eas materia sicut intellectus : omne enim ad quod comparantur
+          formae sicut universales et simplices et denudatae, habet discretionem formarum
+          comparatarum ad se, ut in sequentibus ostendemus : et omne id ad quod comparantur ut
+          individuae et divisae, habet esse in actu ab illis, et nullius earum discretionem et
+          intellectum : et hac differentia convenit nobiscum <name ref="#Averroes">Averroes</name>.
+          Tertia autem differentia est, quia potentia materiae non est determinata ad ens
+          intellectualis naturae secundum quod est primae materiae : potentia autem intellectus
+          possibilis determinata est ad ens intellectualis naturae : et ideo natura materiae non
+          illustrat sua luce super formas quae sunt in ipsa, sed remanet in tenebris privationis
+          omnis formae : natura autem possibilis intellectus super formas quae sunt in ipsa,
+          illustrat, et ideo omnes eas discernit : et in hac differentia convenimus cum Avicebron in
+          libro Fontis vitae. Quarta differentia est, quoniam formae quae sunt in intellectu
+          possibili, sunt in eo non individuatae, eo quod non omnino uniuntur sibi sicut subjecto,
+          nec sicut materiae : et ideo intellectus possibilis non obligatur alicui earum, sicut
+          materia et instrumentum in quo et per quod formas suas exerceat operationes, sed remanet
+          liber potens operari circa eas : materia autem formas quas recipit, sicut subjectum
+          recipit, et ideo dividitur in partes per formas, et efficitur per partes obligata cuilibet
+          formae, et illa exercet operationes suas in ea sicut in instrumento et subjecto. Si autem
+          ista subtilius considerantur, satis patet aequivoce dici potentiam passivam de materia et
+          intellectu possibili : et <cb ed="#B5" n="b"/>
+          <!-- 354 b --> tunc destructum est fundamentum super quod Avicebron in libro Fontis vitae
+          totam suam fundat intentionem. Utrum autem anima rationalis composita sit ex potentia et
+          actu, posterius inquiremus. Haec igitur dicta sint ad quaestiones solvendas a
+          Peripateticis de intellectu possibili inductas.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

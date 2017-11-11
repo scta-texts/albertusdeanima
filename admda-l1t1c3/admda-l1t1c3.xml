@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT III.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT III.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l1t1c3">
+        <head xml:id="admda-l1t1c3-Hd1e128">CAPUT III.</head>
+        <head xml:id="admda-l1t1c3-Hd1e131" type="question-title">De quaesitis quid sit subjectum hujus scientiae, et de
+          difficultate ipsius.</head>
+        <p xml:id="admda-l1t1c3-d1e134">Ea autem quae de anima cognoscere per demonstrationem, et considerare per signa
+          inquirimus, sunt natura ipsius qua ipsius animati corporis naturam constituunt, et
+          substantia ipsius qua ipsa est secundum se. Et hoc quaerimus de anima primo et
+          principaliter : eo quod unum istorum convenit animae secundum quod est forma, et alterum
+          secundum quod est substantia quaedam incorporea distincta a natura corporis. Post<pb ed="#B5" n="121"/> <cb ed="#B5" n="a"/>ea autem secundario inquirimus etiam cognoscere
+          quaecumque accidunt circa ipsam animam per se et non secundum accidens. Accidentia enim
+          per accidens sunt casualia, neque possumus per ea certificare : et animalibus inest
+          certificari per causam. Sed accidentia per se quocumque modo accidant, causas habent per
+          se determinatas, et ex his demonstrantur : et ideo quaerimus cognoscere illa. Accidentium
+          autem per se animae duo sunt genera. Quaedam enim ipsorum sunt propriae passiones animae
+          secundum quod ipsa in substantia consideratur non cointellecto corpore, sicut intellectus,
+          et voluntas, et ratio. Alia autem accidentia communia sibi et corpori quod habet animam,
+          tamen accidunt corpori non secundum quod est corpus tantum, sed potius ex eo quod ipsa
+          anima est in tali corpore animato quod est corpus animalium. Et illorum accidentium adhuc
+          sunt duo genera. Est enim passio quae incipit ab anima et expletur per corpus, sicut
+          visus, et auditus, et omnino sensus, et vegetatio omnis. Alia autem est passio quae
+          incipit in corpore et redundat ad animam, ut somnus et vigilia, quae incipiunt ab
+          evaporatione cibi, et efficiuntur ligamentum vel solutio virium animae. Haec autem duo
+          quaerimus cognoscere de anima, ut perfecte sciamus eam : quoniam sciendo naturam ipsius et
+          substantiam, scimus quid ipsa est : sed quid potest scimus ex passionibus et viribus ejus.
+          Cum autem propria passio dicatur dupliciter, hoc est, quae est recepta in proprio subjecto
+          quod est causa ejus, et quae solam propriam sibi formalem infert passionem animae, utroque
+          modo quaerimus cognoscere animae proprias passiones : [GREEK: pathein] enim Graece, Latine
+          sonat recipere. Quaecumque igitur subjecta sola et semper et ubique quasdam proprietates
+          recipiunt, sicut linea curvum et rectum, et numerus par et impar, illa dicuntur propriae
+          passiones <cb ed="#B5" n="b"/>
+          <!-- 121 b --> subjecti illius : et sic anima suscipit sensum, et imaginationem, et
+          phantasiam, et intellectum, et hujusmodi. Similiter autem quaedam sunt agentia actione
+          quae est propria suae formae, sicut lucis lucere : et horum formae activae necessario
+          fiunt in aliquo passivo sibi appropriato et non in alio, eo quod omnis actio transit in
+          passum. Et hoc est quod dicitur in secundo de Anima ab Aristotele, quod actus activorum
+          sunt in patiente : et talia agentia in animam inferentia ei passionem sunt, sicut color
+          agit in visum, et sonus in auditum et omnino sensibile in sensum, et intelligibile in
+          intellectum. Et de tali propria passione oportet etiam determinare in libro vel scientia
+          de Anima : quia absque talium scientia vires animae nescirentur.</p>
+        <p xml:id="admda-l1t1c3-d1e145">Cum igitur ista in genere cognoscere quaeramus de anima, omnino et penitus de numero
+          difficillimorum est, et quantum ad quaesita, et quantum ad modum inquisitionis accipere
+          aliquam fidem firmam et certam de ipsa anima. Cum enim, sicut in Logicis determinatum est,
+          sit una communis via et methodus ad sciendam substantiam, quae demonstratio est. Quare
+          quaerendum est si secundum scientiam istam quae quod est esse rei dicit, et vocatur
+          diffinitio, per quam methodum declaratur quaestio quae quaerit quid est esse rei in anima,
+          in multis alteris rebus, quarum diffinitiones quaerimus scire. Fortassis videbitur alicui
+          illa methodus sufficere de omnibus, tam de anima quam de aliis, de quibus quaerimus
+          diffinitionem quid est. Dicet autem illam methodum sufficere propter duas rationes, quarum
+          una est, quia cum multo plura dicantur de aliquo per accidens quam substantialiter,
+          sufficit una via quae docetur in secundo Topicorum, ad sciendum omne quod per accidens <pb ed="#B5" n="122"/> <cb ed="#B5" n="a"/> inest alicui. Multo ergo magis una via
+          diffinitionem venandi, quae docetur in secundo posteriorum Analyticorum, videtur sufficere
+          ad cognoscendum substantiam et diffinitionem omnium. Alia ratio est, quia proprium
+          quaecumque cognoscere volumus, una methodus quae est demonstratio passionis de subjecto,
+          sufficit : et tunc a simili iterum praedicta via et scientia videbitur sufficere ad
+          habendam scientiam quid est omnis res per diffinitionem. Si igitur dicat sic aliquis,
+          oportet quaerere si substantia et quod est esse ipsius animae sit secundum doctrinam
+          illius scientiae vel non : et hoc erit valde difficile : cum illa diffinitio sit per genus
+          et differentias componenda, et nobis occultum sit genus et differentiae spiritualium
+          rerum, difficillimum erit invenire diffinitionem animae secundum doctrinam illius
+          methodi.</p>
+        <p xml:id="admda-l1t1c3-d1e152">Si autem quis dicat, quod non est una communis scientia in secundo Posteriorum
+          determinata sufficiens, ut per eam cognoscatur omne illud cujus quaerimus quid est et
+          diffinitionem substantialem : tunc erit magis difficile negotiari ad venandum animae
+          diffinitionem : quia tunc oportet primo circa quodlibet genus rei invenire propriam viam,
+          quam difficile est invenire. Et cum manifestum sit, quod est aliquis modus proprius
+          cujuslibet rei ad sciendam substantiam ipsius, tunc quaerendum quis sit ille modus, utrum
+          ex prioribus ex quibus est demonstratio, sicut dixit Hippocrates : aut ex posterioribus
+          sicut procedit divisio, sicut dixit Plato : aut est aliqua alia via quae est collectio
+          diffinientium per divisionem et compositio eorum, sicut dixit <name ref="#Aristotle">Aristoteles</name> : quoniam multas habet dubitationes et errores, ex quibus propriis
+          principiis oportet quaerere animae quiditatem : quoniam rerum diversarum diversa sunt
+          principia essentialia, sicut alia sunt principia numerorum, et alia plana<cb ed="#B5" n="b"/>
+          <!-- 122 b -->rum superficierum, et secundum illa propriae variantur diffinitiones. Hoc
+          autem necessarium est potissimum in anima quaerere quae cum aliis nullam penitus videtur
+          habere convenientiam, sicut in sequentibus erit manifestum, ubi ostendetur quod neque
+          omnino in uno genere cum aliis est substantiis, neque omnino removetur a genere aliarum
+          substantiarum.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

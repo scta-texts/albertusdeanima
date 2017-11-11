@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l1t2c12">
+        <head xml:id="admda-l1t2c12-Hd1e128">CAPUT XII.</head>
+        <head xml:id="admda-l1t2c12-Hd1e131" type="question-title">Utrum cognoscatur simile simili, sicut dixit Empedocles.</head>
+        <p xml:id="admda-l1t2c12-d1e134">Isti autem duo concesserunt quae sunt incompossibilia : dixerunt enim quod impossibile
+          est simile a simili pati in natura, sed potius contrarium patitur a contrario semper : et
+          cum hoc dicunt, quod non cognoscit anima nisi sibi simile, cum tamen ipsi ponant, sicut et
+          rei <pb ed="#B5" n="173"/> <cb ed="#B5" n="a"/> veritas se habet, quod sentire est pati
+          aliquid et etiam moveri : omne enim sentire est recipere speciem sensibile, et passio
+          dicitur a [GREEK: pathein] Graece, quod est recipere. Si enim sentire quoddam pati est, et
+          sentire est simile simili : patitur ergo quoddam a suo simili : non igitur impossibile est
+          pati a suo simili, sed a contrario semper. Cum autem multas habeat dubitationes et
+          difficultates ita dicere, sicut est dictum Empedoclis, quod si omnia quae cognoscuntur,
+          per corporea elementa cognoscantur quae sunt principia omnium, et ad simile cognoscitur
+          omne quod cognoscit, unum quod nunc dictum est testatur quod contraria sibi ipsis dicunt :
+          testatur enim quod hoc ambigue et non secundum expressam veritatem dictum est. Quaecumque
+          autem membra sunt simplicia in terrea animalium corporibus, fere nihil sentiunt, sicut
+          ossa fere nihil sentiunt : quoniam nullum eorum sentit nisi dentes, qui quamdam habent
+          medietatem in tactu : nervi autem licet sentiant, tamen magni nervi qui sunt ligamenta
+          ossium ad invicem, nihil sentiunt quia sunt magis terrestres : pili autem universaliter
+          nihil sentiunt, et similiter ungues : et tamen talia conveniret sentire si vera diceret
+          Empedocles quod terram sentimus terra.</p>
+        <p xml:id="admda-l1t2c12-d1e141">Amplius cum omne principium quanto fuerit universalius et prius, tanto plura debeant
+          sciri per ipsum, sequitur secundum Empedoclem totum contrarium si elementa sunt principia
+          sciendi : quia sequitur quod ex uno elemento in anima non scitur nisi unum cui ipsum est
+          simile : ad omnia autem alia magis est causa ignorantiae propter dissimilitudinem : ergo
+          unumquodque principiorum secundum Empedoclem magis erit causa ignorantiae quam scientiae :
+          ergo elementa non sunt prima principia ad sciendum. Sequitur autem adhuc secundum
+          Empedoclem, quod coelum quod ipse dixit esse <cb ed="#B5" n="b"/>
+          <!-- 173 b --> Deum, sit insipientissimum : quia ipse dixit quod coelum non componitur
+          nisi ex quinque, hoc est, ex igne, aere, aqua, terra, et concordia : et ideo quia ex
+          discordia non componitur, ideo similitudinem ad discordiam non habet, et ignorat
+          discordiam. Mortalia autem omnia cognoscuntur, ex eo quod ex sex principiis quae sunt
+          elementa omnia componuntur. Ex quinque namque supra dictis et discordia composita sunt
+          omnia mortalia, ut asserit Empedocles.</p>
+        <p xml:id="admda-l1t2c12-d1e148">Universaliter autem quaerendum est ab Empedocle, quare non omnia habent animam tam
+          simplicia quam composita ? Si enim elementum est causa cognitionis in alio quod compositum
+          est, tunc multo magis erit cognoscitivum in seipso. Cum igitur omnia corpora secundum
+          Empedoclem, aut sint elementum, aut ex elemento : et si ex elemento sunt, aut sunt ex uno
+          aut ex pluribus, aut ex omnibus, videtur quod omnia corpora sint cognoscitiva aut unius
+          aut quorumdam aut omnium corporum : omnia igitur habere videntur animas.</p>
+        <p xml:id="admda-l1t2c12-d1e152">Dubitabit autem aliquis adhuc secundum Empedoclem, quid est quod unit et in unitate tenet
+          elementa in eo corpore quod dicimus animatum : ipsa enim elementa mixta vel simplicia
+          comparantur materiae : non autem convenit unire materiae, sed potius formae. Quaecumque
+          ergo est forma animatorum, illa unit corpora animata, et illa forma est nobilius et melius
+          quod desideratur a materia : sed omnes qui ponunt animam esse, dicunt quod nihil est
+          nobilius et antiquius quam anima. Nobilius quidem, eo quod ipsa est divinum quoddam et
+          optimum quod desideratur a materia. Antiquius autem, quoniam ipsa prior est diffinitione
+          et intentione efficientis. Et haec <pb ed="#B5" n="174"/> <cb ed="#B5" n="a"/> praecipue
+          conveniunt intellectuali animae, quae est substantia divina ens ante omnem corporeitatem
+          et contrarietatem secundum ordinem naturae, sicut supra probatum est. Et hujus causa est,
+          quia anima habet esse et nobilissimum et rationabilissimum secundum naturam.
+          Rationabilissimum quidem, eo quod in se continet rationes rerum ex quibus cognoscit ea
+          quae sunt, et dat rationem et esse corpori. Nobilissimum autem, eo quod ipsa est forma
+          ultima secundum ordinem naturae, ad quam sunt elementa et omnes elementorum mixtiones et
+          complexiones et compositiones. Proprium autem est, eo quod est incorporeum : et non est
+          vis in corpore anima intellectiva, sed separata in proprio esse consistens. Cum ergo sit
+          talis anima, et proprie sive praecipue intellectualis, et elementa dicantur esse ante ea
+          quae sunt ex ipsis, et illa non possint esse rationabilia vel nobilia vel in proprio esse
+          constituta, sed potius ab anima sunt accipientia rationem et nobilitatem, et proprii esse
+          distinctionem, non potest esse anima, et praecipue intellectualis ex elementis.</p>
+        <p xml:id="admda-l1t2c12-d1e159">Reprehenduntur autem omnes isti qui dicunt ex elementis esse animam, ex eo quod cognoscat
+          et sentiat ea quae sunt entia in natura. Et similiter illi qui dicunt eam diffiniri magis
+          per motivum esse, de eo quod insufficienter locuti sunt de anima : non enim omnia
+          sensitiva moventur secundum locum procedendo de uno loco ad alium, licet forte moveantur
+          motu dilatationis et constrictionis omnia quae habent animam sensibilem : hoc enim motu
+          nullum illorum caret, quae sensum tactus habent : et ille solus est, qui sufficit ad
+          constitutionem animalis sensibilem animam habentis. Similiter autem non omnia motiva sui
+          ipsorum secundum locum, sunt scientia : quia scire est habentium intellectum. Multa autem
+          moventur secundum locum, quae <cb ed="#B5" n="b"/>
+          <!-- 174 b --> scientiam et intellectum non habent. Animatorum autem omne esse motivum
+          secundum locum est, et quando anima diffinitur per motivum in loco, tunc de motu locali
+          processivo intelligitur : quia hoc solo motu videtur anima movere corpus : alteratione
+          enim movetur a qualitatibus primis : augmenti autem et decrementi causa est cibus qui
+          ingreditur, et non anima sola. Similiter autem etiam quicumque dicunt intellectum et
+          sensum esse ex elementis, non de omni dicunt anima : et hoc patet, quia plantae videntur
+          vivere, et non participare loci mutationem, neque sensum praecipue secundum quod sensus
+          est cognitio sensibilium. Quamvis enim dicat Isaac in libro de elementis plantas habere
+          sensum, ipse tamen dicit quod ille sensus non est nisi naturalis tactus, et tactus
+          elementi est sine cognitione. Et non verum forte dicit Isaac, quoniam non est tantum
+          gustus tactus et tactus alimenti, sed etiam nutritiva separata a sensibili tangit
+          nutrimentum per hoc quod ultimum radicis est infixum in nutrimento, et trahit ipsum ex vi
+          nutritivae calorisque quae sunt in radice : hoc tamen quia sine appetitu naturali non fit,
+          et quia radices sunt ori similes in trahendo nutrimentum, movet Isaac ad hoc quod dicit
+          plantas habere duos sensus naturales, qui sunt gustus et tactus. Adhuc autem illi etiam
+          qui sensum et intellectum dicunt causari ex eisdem elementis, diminute dicunt de anima :
+          quia videmus quod multa sunt animalium sensum quidem habentia, et non intelligentiam.</p>
+        <p xml:id="admda-l1t2c12-d1e166">Si autem aliquis intellectum et sensum segregaverit, ita quod sint diversae partes animae
+          ejusdem, et concesserit quod ista anima intelligens et sentiens habet suum intelligere et
+          suum sentire ex elementis ex quibus est, non adhuc sermo perfectus : iste enim sermo non
+          est de omni anima, quia non est de vegetativa : ne<pb ed="#B5" n="175"/> <cb ed="#B5" n="a"/>que est de tota anima, quia non est de mobilibus secundum locum, quod est omnis
+          animae habentis intelligentiam et sensum : neque est de una anima quaecumque sit illa,
+          quia nulla talis est anima quae tantum intelligat et sentiat et nihil aliud operetur. Hanc
+          autem eamdem reprehensionem sustinet opinio, quae tangitur in carminibus quae facit
+          Orpheus. Is enim dixit quod totum id quod non continet, hoc est aer, quod est plenum diis,
+          quos vocavit animas quae ingrediuntur et afferuntur ad nos respirantibus ventis per
+          anhelitum : dulciorem tamen esse animam zephyri quam aliorum ventorum, eo quod nubes
+          tollat et molliat auram : is enim non de omni anima dixit, sicut neque alii : quia non est
+          possibile hoc accidere plantis quod afferant sic animam, neque etiam multis animalibus
+          quae non respirant, quia non respirat nisi animal ambulans multum habens sanguinem. Hoc
+          autem latuit sic opinantes.</p>
+        <p xml:id="admda-l1t2c12-d1e173">Similiter autem ab alia parte reprehenduntur de superfluitate : sicut enim diminuti sunt
+          in doctrina animae, sic in causis quas ponebant, sunt superflui. Dixerunt enim causam
+          cognitionis omnium esse, quia anima est ex elementis omnibus habens in se omnium
+          qualitates elementorum : et hoc est superfluum, quia etiamsi concedatur quod oportet
+          dicere animam esse ex elementis, non oportet tamen quod constitui ex omnibus dicatur
+          elementis : quia cum contraria reducantur in privationem et habitum secundum causam, ut
+          nos diximus in libro Physicorum, sufficiens est altera pars contrarietatis, quae scilicet
+          est per modum habitus ad dijudicandum et cognoscendum seipsam, et oppositum quod est per
+          motum privationis. Et hoc in simili nos videre possumus : quia nos in geometricis per
+          recti diffinitionem scimus et ipsum quid est rectum, et quid obli<cb ed="#B5" n="b"/>
+          <!-- 175 b -->quum : canon enim, quod regulam sonat, est id per quod habetur judicium de
+          utroque : obliquum autem cum sit privatio recti, neque est principium sive judex suiipsius
+          cognitionis, neque alterius quod sibi opponitur per modum habitus. Et similiter est in
+          qualitatibus elementorum, sicut in antehabitis libris determinatum est.</p>
+        <p xml:id="admda-l1t2c12-d1e180">Sunt autem quidam Philosophorum, qui dicunt animam misceri in toto universo, tam in
+          elementis eam esse ponentes, quam in elementatis. Ex qua positione etiam Philosophus
+          Italus, qui de Italia fuit, Empedocles nomine, causam sumpsit suae opinionis, dicens omnia
+          esse plena diis, eo quod idem dicebat esse Deum et [GREEK: noun] et universorum materiam.
+          Hi autem habent quasdam speciales contra se dubitationes : quarum prima est, quod
+          quaeramus ab eis quam ob causam anima cum sit in elemento simplici quod est ignis vel aer,
+          non facit ipsum animal cognoscens et sentiens ? Hoc enim mirum videtur, cum videatur
+          simplicioris corporis quod est causa aliorum corporum, esse debere nobilior et melior
+          anima. Quaeret enim aliquis rationabiliter ex his, quia illi dicunt anima est principium
+          motus, quare anima quae est in elementis, secundum eos est melior et immortalior, cum non
+          constituat animal, quam ea quae est in animalibus, quae animal comprehendens et sentiens
+          constituit ?</p>
+        <p xml:id="admda-l1t2c12-d1e183">Accidit autem utrobique inconveniens et irrationabile in reprehensione istarum
+          quaestionum : namque dicere quod animal sit ignis vel aer, est maxime irrationabilium
+          hominum, quia dictum istorum est simile fatuorum dicto. Et dicere quod non sint animalia
+          cum insint eis animae, inconveniens est omnino : quia secundum hoc nulla erit differentia
+          inter <pb ed="#B5" n="176"/> <cb ed="#B5" n="a"/> esse animam in aliquo corpore, et non
+          esse animam in ipso in constitutione animalis.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

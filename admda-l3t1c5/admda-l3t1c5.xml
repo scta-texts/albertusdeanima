@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT V.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT V.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t1c5">
+        <head xml:id="admda-l3t1c5-Hd1e128">CAPUT V.</head>
+        <head xml:id="admda-l3t1c5-Hd1e131" type="question-title">De improbatione erroris Antiquorum qui dixerunt quod intelligere
+          et sentire sunt idem.</head>
+        <p xml:id="admda-l3t1c5-d1e134">Quoniam autem, sicut diximus superius, duabus differentiis quibus animatum differt ab
+          inanimato Antiqui praecipue diffiniunt animam, motivo secundum locum scilicet, et in eo
+          quod ipsa discernit et intelligit et sentit, videtur eis quod intelligere et sapere, quod
+          tamen simplicissimum intelligere est, sit corporalibus instrumentis perfectum, sicut
+          quoddam sentire. Dicebant enim quod intelligere est secundum phantasiam re non praesente
+          operari : et syllogizabant hoc ex duabus affirmativis in secunda figura, dicentes quod
+          sensui interiori convenit judicare et discernere aliquid entium cujus forma est apud ipsum
+          : et intellectui convenit idem : ergo intelligere est quoddam sentire. Et in hoc errore
+          fuit Empedocles, qui dixit voluntatem et appetitum augeri vel minui ad praesens
+          delectabile, tam in hominibus quam in animalibus aliis : voluntas autem et appetitus non
+          sunt nisi de aliquo apprehenso, cujus habetur jam notitia. Id ergo quod auget
+          praesentialiter voluntatem et mutat eam, est id quod semper sapere altera et altera
+          praestat : praesens ergo praestat sapere et intelligere : praesentia autem est secundum
+          formam corporalem, sicut jam ante ostendimus : ergo intelligere et sapere est secundum
+          praesentiam corporalem, sicut et sensus. Idem autem vult et illud dictum quod Homerus
+          dixit, qui dixit quod talis est intellectus in terrenis hominibus, <cb ed="#B5" n="b"/>
+          <!-- 321 b --> qualem in die ducit sive conducit pater deorum et virorum : pater enim
+          deorum coelestium, id est, planetarum est sol, eo quod attribuit eis lumen et motum, sicut
+          in libro de Coelo et Mundo ostendimus. Et idem est pater virorum, quia homo generat
+          hominem ex materia et sole. In die autem per lucem conducit sol calorem ab interioribus ad
+          organa sensuum exteriora, et perficit operationes sensibiles : et si talis est
+          intellectus, tunc intellectus est virtus corporea, sicut et sensus.</p>
+        <p xml:id="admda-l3t1c5-d1e141">Unde omnes hi opinantur quod intelligere sit perfectivum organo corporeo sicut et sentire
+          : et isti sunt qui dicunt quod non contingit sentire nec intelligere, nisi simile simili,
+          sicut declaravimus in primo libro ubi posuimus principia rationum disputationis istius de
+          animae natura. Et hoc mirum fuit de Antiquis : quia licet dicerent causam quare res
+          sentitur et scitur, non dixerunt deceptionis causam et ignorantiae, et hoc non fecerunt,
+          cum tamen error et ignorantia magis sint propria animalibus, cum pluribus animalibus
+          conveniant quam scientia. Et anima plus temporis perficit in errore quam in scientia :
+          quia infantia et pueritia et senium in errore perficiuntur, et a paucis quaedam pars vitae
+          parva adhibetur scientiae. Quidam autem videntes non causari scire nisi per hoc quod
+          dixerunt simile simili sentiri et intelligi, et concedentes animam esse compositam ex
+          omnibus quae sunt, dixerunt errorem et ignorantiam omnino nihil esse, sed omnia quae
+          videntur alicui, esse vera. In qua opinione fuerunt plurimi Philosophorum, in tantum quod
+          dixerunt contraria et contradictoria simul esse vera, quando uniuntur diversis : et hoc
+          oportuit eos dicere aut concedere, quod deceptio et <pb ed="#B5" n="322"/> <cb ed="#B5" n="a"/> ignorantia causabantur ex tactu corporali dissimilis alicujus ad animam : et tunc
+          sequebatur animam non ex omnibus componi, sed ex quibusdam : et quando illa ex quorum
+          similibus erat composita, tangebant eam, tunc habuit discretionem sensus et intellectus de
+          rebus illis, et quando tetigit eam aliquid cujus non erat similitudo apud eam, tunc
+          generabatur deceptio et ignorantia : quia hoc contrarium est illi dicto eorum, quo dicunt
+          quod simile simili cognoscitur : contraria autem causantur a contrariis secundum istos :
+          et ideo similitudo tangentis ad tactum causat scientiam, et dissimilitudo ejusdem tactus
+          causavit ignorantiam et deceptionem. Error autem dicti istius inde deprehenditur : quia
+          expressum in omnibus videtur, quod tam scientia quam deceptio sunt contrariorum eadem : et
+          sic falsum dicunt, quod similis sit scientia, et dissimilis ignorantia et deceptio.</p>
+        <p xml:id="admda-l3t1c5-d1e148">Quod autem falsum dicatur etiam in hoc quod idem dicunt sentire et sapere, manifestum est
+          ex his quae nunc inducemus : sentire enim est in omnibus aliquo modo animalibus,
+          intelligere autem in paucis de numero animalium. Sed nec etiam intelligere communiter
+          acceptum quod est quicumque actus rationis in quo est intelligere recte et non recte :
+          recte enim intelligere est secundum virtutes intellectuales, quae sunt sapientia, et
+          prudentia, et scientia, et opinio vera : non recte autem intelligere sive non vere
+          intelligere, est secundum habitus contrarios istis habitibus : et hoc intelligere
+          communiter dictum non est idem cum sentire : sensus enim propriorum sensatorum semper est
+          verus et inest omnibus animalibus, intelligi autem, sicut jam diximus, convenit et falso,
+          et nulli inest animali nisi cui inest ratio.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT X.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT X.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t3c10">
+        <head xml:id="admda-l3t3c10-Hd1e128">CAPUT X.</head>
+        <head xml:id="admda-l3t3c10-Hd1e131" type="question-title">Et est digressio declarans quorumdam modernorum
+          solutionem.</head>
+        <p xml:id="admda-l3t3c10-d1e134">Forsitan autem dicit aliquis consequens dicta antiquorum doctorum qui Peripateticos non
+          imitantur, quod intelligibilia sunt in nobis in habitu cum acquisita est scientia :
+          ridiculum enim videtur quod intellecta non sint in anima cum habitus sit qualitas, et
+          qualitas sit secundum quam quales nos esse dicimur. Separata autem sunt in anima per hoc
+          quod abstrahuntur a phantasmate, quod est eorum per accidens : cum enim acceperimus in
+          sensu motum, cognoscimus motorem per hoc quod circa motum profundatur anima et
+          ratiocinatur de motore et substantia ipsius. Est autem duplex scientia ex phantasmate :
+          quaedam enim est ex phantasmate, ita quod ipsa forma intellecta est forma habens esse in
+          par<pb ed="#B5" n="385"/> <cb ed="#B5" n="a"/>ticulari : quaedam autem sic, quod forma
+          intellecta non est secundum esse in particulari, sed in sensibili manifestantur opera ejus
+          : et per opera sicut per effectum venitur in causam per intellectum : et sic cognoscimus
+          separata. Haec est via quam fere sequuntur omnes moderni Latini : sed isti in principiis
+          non conveniunt cum Peripateticis : si enim scientia sit qualitas in anima, tunc scientia
+          non est universale quod est in intellectu, quod est ubique et semper. Peripatetici
+          concorditer dixerunt, quod universale secundum actum non est nisi in anima, et quod
+          universale continuatur intellectu separato. Et haec est objectio <name ref="#Avicenna">Avicenna</name>e, in quam omnes concordaverunt. Amplius sit, quod quocumque modo anima
+          veniat in conjunctione substantiarum separatarum, semper hoc verum est quod in fine
+          cognoscit illas substantias : oportet quod ergo per aliquid habeat virtutem cognoscendi
+          eas : constat quod per intellectum conjunctum cum continuo et tempore non habet virtutem
+          tales substantias cognoscendi : ergo habebit hanc virtutem per aliquem alium intellectum :
+          et tunc remanet quaestio ut prius, et quid sit ille, et qualiter copuletur cum anima ?
+          Adhuc si per addiscere dicta, acquireret anima facilem aptitudinem convertendi se ad
+          intellectum agentem, quam aptitudinem non habuit ante addiscere, tunc scientia erit scire,
+          cum homo voluerit ex aptitudine talis conversionis per studium acquisita : et hoc quidem
+          dicit <name ref="#Avicenna">Avicenna</name>. Sunt tamen et alia ex quibus est scientia in
+          anima : sed haec emanant ab intellectu agente in intellectum possibilem quotiescumque
+          voluerit ille qui habet habitum sciendi : et sic universalia sunt quaedam apud omnem
+          intelligentem eadem, et tamen non sunt per seipsa sicut res exteriores. Adhuc autem,
+          potentia bene tenendi et potentia bene suscipiendi non causantur ab eisdem principiis,
+          sicut superius est ostensum est. Si ergo istae duae potentiae ponantur in intellectu
+          pos<cb ed="#B5" n="b"/>
+          <!-- 385 b -->sibili, quando ponitur suscipere intelligibilia speculata et tenere ea, tunc
+          videtur intellectum esse compositum ex principiis causantibus potentias illas : et hoc est
+          absurdum : et ideo antiqui dixerunt Philosophi concorditer omnes, quod intellectus
+          possibilis non est tenere species intelligibiles, sed suscipere tantum : intellectus
+          quidem faciens eas de seipso est intellectus agens : et cum facit eas, tunc resultant in
+          intellectu possibili sicut forma objecta speculo resultat in speculo : et ex omnibus his
+          patet, quod difficillima quaestio est ea quae est superius inducta. Et Latini quidem usque
+          huc neglexerunt quaestionem illam : et hujus causa est, quia non convenerunt in
+          positionibus suis, et in dictis Peripateticorum : sed diverterunt in unam quamdam alteram
+          viam, et induxerunt alia principia et alias positiones.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

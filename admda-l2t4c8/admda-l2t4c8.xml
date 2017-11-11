@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VIII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VIII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t4c8">
+        <head xml:id="admda-l2t4c8-Hd1e128">CAPUT VIII.</head>
+        <head xml:id="admda-l2t4c8-Hd1e131" type="question-title">De eo quod sensu communi nos sentimus videre et audire, et
+          secundum alios operari.</head>
+        <p xml:id="admda-l2t4c8-d1e134">Dicamus igitur quod quia nos sentimus, quia videmus quando videmus et sentimus, quia
+          videmus quando videmus et sentimus, oportet quod virtus qua hoc sentimus, sit aliqua
+          virtus animae sensibilis. Quaeramus igitur utrum visus sit illa virtus qua videmus nos
+          videre, aut altera a visu ? Similiter autem quaeritur de virtute qua sentimus nos audire
+          et olfacere, et sic de aliis utrum fiat hoc per sensum proprium cujus est operatio illa,
+          aut per aliquam aliam virtutem ? Si autem detur quod sensus quo sentimus nos videre quando
+          videmus, sit alter a visu, tunc <pb ed="#B5" n="305"/> <cb ed="#B5" n="a"/> oportet quod
+          ille sensus sit visus, eo quod illo videmus nos videre : et oportet quod ille etiam sit
+          coloris qui subjicitur visui : quia non videmus nos videre, nisi per hoc quod videmus nos
+          in visu speciem coloris habere : et qui videt speciem coloris in visu, videt colorem : et
+          ex hoc sequitur, quod duo sensus sint ejusdem sint subjecti sive objecti, scilicet visus,
+          et ille quo videmus nos videre, quod est impossibile : quia non multiplicatur proprium
+          patiens ex ejusdem speciei agente. Si autem daretur quod est idem visus quo videmus
+          colorem, et quo videmus nos videre colorem, tunc visus erit suiipsius sicut objecti : et
+          cum objectum sit agens, et sensus patiens, sequeretur eumdem sensum esse agens et patiens,
+          quod iterum est impossibile. Si autem propter hoc iterum diceretur, quod esset sensus
+          alter, tunc quaeramus de illo altero, utrum videat se videre, an non ? Et si non, tunc
+          cognitio sui sensibilis est incerta comprehensio : quoniam quando videt, non comprehendit
+          se videre : tunc eadem ratione alio sensu videt se videre sicut et in principio : et tunc
+          iterum de illo quaeretur, et procedet hoc in infinitum : aut oportet dicere, quod ille
+          alius sit suiipsius judex : cum autem eodem sensu videat se videre, et videat visibile :
+          et hoc in principio dicendum fieri, eo quod natura nunquam abundat superfluis, sed explet
+          opera sua per necessaria : ergo relinquitur quod eodem sensu videamus visibilia, et
+          videamus nos videre.</p>
+        <p xml:id="admda-l2t4c8-d1e141">Hoc tamen adhuc dubitationem habet : constat enim ex praemissis, quod nihil est videre
+          secundum actum nisi visu sentire colorem secundum actum : quoniam nos supra probavimus
+          quod species objecti quando est in sensu, perficit ipsum secunda perfectione quae est
+          agere : oportet igitur, ut videtur, ex hoc sequi, quod videns se videre, nihil aliud sit
+          ni<cb ed="#B5" n="b"/>
+          <!-- 305 b -->si videns colorem, aut visum habere colorem : et ita primum videns quo
+          videmus nos videre, habebit colorem sicut et pupilla : primum autem videns dicimus quod
+          influit oculo visum : illo enim videmus nos videre, sicut diximus supra. Si autem hoc
+          detur, tunc sequitur quod quando videmus nos videre, quod videre sit color vel coloratum,
+          quod est valde inopinabile.</p>
+        <p xml:id="admda-l2t4c8-d1e148">Dicamus igitur solventes hanc quaestionem, quod manifestum est quod non omnino est unum
+          et uno modo dictum sentire per visum. Et hujus signum quidem est, quia etiam quando
+          videmus res exteriores, non videmus uno modo : nec uno modo judicamus per visum
+          discernendo tenebras et lumen : et similiter possumus dicere quod visus sit diversorum
+          sicut colorati est aut objecti, et est operationis aliter quam objecti : et tunc non
+          sequitur quod videre sit aliquid coloratum vel color. Amplius autem aliter solventes
+          inductam dubitationem aliqualiter possumus aliquo modo concedere conclusionem, quod
+          scilicet videre videntis secundum actum est tanquam coloratum, licet non sic simpliciter
+          sit coloratum. Id enim quo sentimus, est susceptivum sensibilis formae, et informatur ea,
+          sed suscipit eam sine materia, ut supra diximus. Cujus signum est, quia etiam abeuntibus
+          sensibilibus rebus a potentia sentientium, adhuc insunt sensus, id est, formae sensibiles
+          et phantasiae, quibus sensibiliter operantur animalia quando imaginantur et rememorantur,
+          sicut supra diximus : actus enim sive perfectio rei quae sentitur, et sensus secundum
+          actum factus est unus : quia una forma perfectio est utriusque : sed alterum est esse ejus
+          in sensibili, et alterum in sensu : quia esse spirituale et intentionale habet in sensu,
+          materiale autem et naturale habet in re sensata. Hoc autem dico de sensu et sensibili
+          secundum actum acceptis, ut quan<pb ed="#B5" n="306"/> <cb ed="#B5" n="a"/>do accipitur
+          sonus secundum actum, et auditus secundum actum : tunc enim in unius formae actu sunt
+          sonans et auditus : quae forma est sonus alterum esse habens in sonante, et alterum in
+          auditu. Contingit enim aliquando quod id quod habet auditum, non audit secundum actum : et
+          contingit quod id quod habet sonum in potentia, non sonat secundum actum : et tunc non
+          sunt in unius formae actu audiens et sonans. Cum autem id quod possibile est audire,
+          operetur et actu aliter audiat : et cum id quod potest sonare actu, aliter sonat : tunc
+          secundum actum audiens, et secundum actum sonans sunt simul in una forma secundum actum :
+          sed prout est in audiente vocatur auditio, et prout est in sonante vocatur sonatio,
+          propter diversum esse quod habet in auditu et sonante, sicut diximus : et similiter est de
+          visu et caeteris sensibus. Sicut igitur auditio est soni quaedam perfectio secundum
+          auditum, ita visio est coloris aliquo modo : propter quod videns se videre, judex est ejus
+          quod est circa coloris actum in visu. Est igitur determinatio quaestionis hujus totius,
+          quod videmus nos videre, et sentimus nos audire, et secundum quemlibet sensum operari
+          sensu <choice> <orig>ommuni</orig> <reg>communi</reg> </choice>, qui aliquo modo est idem
+          cum particulari, et aliquo modo diversus. Sunt omnes sensus unum in forma virtutis
+          sensitivae, quae fons est virtutem sensuum particularium : et ipsi particulares sensus
+          sunt sicut rivi ex communi fonte derivati : et hoc sensu communi est judicium circa
+          particulares actiones quae sunt sensuum particularium : et hoc modo reflectitur virtus
+          sensitiva super se, quando judicat de seipsa : sensus enim communis qui formalis est,
+          reflectitur super particularem judicando sensibiliter de actione et operatione ejus. Et
+          hoc modo nihil prohibet quando idem sit activum et passivum : agere enim quoddam est
+          judicare et componendo et dividendo, et hoc est communis sensus, qui est formalis :
+          recipere autem et habere formas sensibiles <cb ed="#B5" n="b"/>
+          <!-- 306 b --> est pati, et hoc est sensuum particularium. Nos tamen ad hanc quaestionem
+          inferius in sequenti capitulo redibimus subtilius de eadem disceptantes.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

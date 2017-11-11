@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XVIII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XVIII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c18">
+        <head xml:id="admda-l2t3c18-Hd1e128">CAPUT XVIII.</head>
+        <head xml:id="admda-l2t3c18-Hd1e131" type="question-title">Qualiter sonus generatur in aere et aqua.</head>
+        <p xml:id="admda-l2t3c18-d1e134">Amplius autem auditus fit in aere et in aqua, licet minus fit in aqua quam in aere. Sed
+          non est sonus istorum elementorum proprie, ita quod nihil exigatur amplius ad ejus
+          generationem : oportet enim solidorum planorum esse percussionem ad invicem, ad hoc quod
+          fiat auditus : haec enim solida plana <choice> <orig>percutentia</orig>
+          <reg>percutientia</reg> </choice> ad invicem, percutiunt etiam aerem : propter quod etiam
+          aer per se vel aqua, non est proprium subjectum soni, sed potius aer percussus et expulsus
+          a superficie percussi solidi plani, primum est subjectum soni : et ideo diversitates
+          specierum in acuto et gravi recipit ex diversitate percussorum. Videmus enim quod aliter
+          sonat metallum, et aliter lignum : quas differentias sonus non haberet, si esset aer solus
+          subjectum ejus. Ob quod oportet imaginari duas percussiones in quolibet sono fore
+          necessarias, a quarum secunda fiunt adhuc aliae duae percussiones. Una quidem est
+          percussio primi percutientis : secunda autem est repercussio percussi solidi plani, et ex
+          illa percutitur aer. Aer autem percussus et expulsus alium percutit : et dum percutit, est
+          necessarium ut aliqua pars aeris intra percutiens et percussum constringatur : et illae
+          faciunt sonum. Fit autem sonus in aere sic percusso quando manet percussus aer continuus
+          et unes indivisus, et non solvitur : est enim aer valde divisibilis : etsi paulatim
+          impellatur, dividitur et solvitur et non manet unus et continuus, et ideo tunc non sonat :
+          cum autem velociter percutitur, resistit et repellit percutiens, et constringitur aliquid
+          ejus intra percutiens et aerem resisten<pb ed="#B5" n="266"/> <cb ed="#B5" n="a"/>tem : et
+          tunc sonat. Hoc autem in aqua magis apparet, eo quod aqua corporalior est aere : si quis
+          enim baculum paulatim ducat per aquam, non resistit ei aqua, sed dividitur : fortiter
+          autem et velociter ducens eamdem aquam, videbit fortiter resistere et moveri : et idem est
+          in aere leviter et fortiter percusso. Unde si velociter et fortiter percutiatur, sonat :
+          oportet enim motum recipientis et percutientis pertingere aerem continuum et unum, et non
+          solum antequam dividatur, si debet fieri sonus. Hoc autem patet, quia si etiam male
+          sonantia aliquis fortiter percutiat, sonabunt, sicut quando percutitur cumulus arenae, in
+          quo sunt multi lapilli, qui in se quidem densi sunt : tamen velociter percussi
+          pertinguntur antequam separentur, et tunc faciunt sonum. Similiter autem fit quando
+          aliquis percusserit solum aerem velociter : tunc enim constringitur pars ejus inter
+          percutiens et percussum aerem resistentem, et sonat fortis, sicut auditur quando aurigae
+          percutiunt fortiter aerem flagellis vel flagris et taureis : contingit autem hoc quando
+          aer impulsus percutit aerem, sicut est sonus in ventis.</p>
+        <p xml:id="admda-l2t3c18-d1e150">Fuerunt autem quidam Antiquorum, qui omnino sonum esse negabant prout est in medio,
+          dicentes sonum non esse nisi ipsam aeris generationem et nihil aliud, qui levi ratione
+          convincuntur : quoniam ostendimus supra illud fore sensatum proprium, quod uno tantum
+          sensu sentitur : commotio autem multis sentitur sensibus, et ideo commotio proprium
+          sensatum sensus esse non potest. Et ad hoc dixerunt quod sonus nihil est in medio, sed
+          tantum in aure : sonus enim nihil aliud est nisi perceptum per auditum ex aere commoto :
+          et quando non est in auditu, tunc dicunt sonum non esse nisi ipsam aeris commotionem, qua
+          potentialiter percipitur sonus, quando pertundit vel percutit auris tympanum. Sed hoc
+          citius refellitur si ad memoriam revocetur, quod audiens sonum percipit ex qua parte soni
+          ad ipsum deveniant : <cb ed="#B5" n="b"/>
+          <!-- 266 b --> percipimus enim utrum sonet ante vel retro, vel a dextris, vel a sinistris
+          : et hoc non fieret si sonus tantum in aure generaretur. Si autem dicunt hoc fieri, non
+          propter sonum, sed propter commotionem ab illa vel illa parte ad aurem venientem, hoc ideo
+          falsum est, quia ut frequentius sentimus sonum nihil omnino percipientes de commotione :
+          licet enim sonus non sit sine commotione, eo quod ejus esse est in fieri : et oportet
+          aliquid generantis secum habere ad hoc quod sit, tamen sonus est primum sensibile auris :
+          et ideo ipsum sic afficit tympanum auris, quod afficit sine sensu commotionis : afficit
+          enim secundum esse spirituale per formam simplicem soni, sine esse materiali, quod habet.
+          Patet igitur falsitas istius sententiae.</p>
+        <p xml:id="admda-l2t3c18-d1e157">Scias autem, quod cum sonus sit in aere et in aqua, est tamen magis in aere quam in aqua
+          : quoniam in aqua non est, nisi sicut in medio per quod venit ad auditum secundum esse
+          spirituale, quod agitur a simplici forma sonantis secundum quod est sonans : et ideo
+          auditur sub aqua, sed in aere est sicut in materia et sicut in medio : in materia quidem
+          sicut in aere commoto et percusso : in medio autem quando ipse sonus intentionem suam
+          solam facit in aere, sicut et coloratum, licet non omnino sit ita spirituale sensibile
+          intentio soni sicut intentio coloris, ut supra diximus. Quando autem sonus fit in aqua ita
+          quod generatur in ipsa, oportet quod aer sit tangens, aut percutiens, aut percussum, aut
+          utrumque : audimus enim sonum de sub aqua, ut si quis immisso aliquo ferrato ligno
+          fortiter tetigerit fundum aquae durum, propter hoc quod percutiens tangit aerem et secum
+          habet aliquid aeris, quod significant ampullae elevatae in superficie aquae. Similiter
+          autem sonant naves quando fundo tangunt arenas vel lapillos sub aqua : eo quod tunc fundus
+          aquae percutit fundum navis, qui tangit aerem. Et ideo aqua non est propria materia soni,
+          sed potius medium tantum, in quo <pb ed="#B5" n="267"/> <cb ed="#B5" n="a"/> sonus est
+          sicut in via, et non sicut in subjecto in quo habet generari : cujus signum est, quod
+          pisces sub aqua aquam natando <choice> <orig>percutenties</orig> <reg>percutientes</reg>
+          </choice>, et pinnulis moventes, nullum omnino faciunt sonum : statim autem quando
+          percutiunt in superficie aquae, sonant. Sicut igitur unumquodque sensibilium habet
+          materiam unam in qua generatur, sic etiam habet sonus aerem percussum secundum quod supra
+          dicto modo percussus est : et sicut unumquodque sensibile praeter materiam habet medium,
+          quod est via ejus ad sensum, sic habet sonus et aerem et aquam per quamdam naturam
+          communem utrique, de qua infra dicemus.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT II.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT II.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t3c2">
+        <head xml:id="admda-l3t3c2-Hd1e128">CAPUT II.</head>
+        <head xml:id="admda-l3t3c2-Hd1e131" type="question-title">Et quis intellectus est semper verus : et quis aliquando verus,
+          aliquando falsus : et quod actus sensus et intellectus sunt actus perfecti et motus
+          simplices.</head>
+        <p xml:id="admda-l3t3c2-d1e134">Amplius autem intelligibilia invenimus diversificata, quoniam quaedam sunt composita :
+          quia aliud dicitur de aliquo, quam compositionem in eis facit intellectus, licet faciat
+          eam secundum rei congruentiam : et quando aliquid dicitur de aliquo sicut affirmatio, vel
+          dividitur unum ab alio sicut negatio, oportet quod omnis talis compositio sit vera aut
+          falsa. Sed non omnis intellectus est verus aut falsus, quia sicut sensum invenimus variari
+          circa sensibilia, ita intellectum circa intelligibilia : sensus enim quando est sensibilis
+          per se, quod de natura sua facit sensum et est causa sensibilitatis, aliter est quam
+          quando est sensibilis per accidens, quod de natura sua non facit sensibilitatem. : ita est
+          etiam de intellectu intelligibilium : intellectus enim speculativus qui de natura sua
+          speculativus est, aliter se habet quam ille qui est intellectus per accidens : universale
+          autem simpliciter de natura sua est intellectus speculativus : quoniam hoc est motivum
+          intellectus possibilis, sicut sensibile proprium est motivum sensus. Compositio autem
+          intelligibilium accidit ex convenientia rerum : et hoc non movet intellectum secundum quod
+          hujus est : et ideo intellectus qui simplex conceptus est, est ejusdem quod est res et
+          formae substantialis qua aliquid erat esse, hoc est, qua erat esse semper et perpetuo esse
+          aliquid : quia per formam substantialem omne quod est aliquid, aliquid et substantialiter
+          est. Et hic intellectus qui proprie et per se intellectus est, <cb ed="#B5" n="b"/>
+          <!-- 372 b --> semper est verus veritate rei : secundum quod verum dicimus id quod vere
+          est, et veram habet essentialitatem : et non decipitur intellectus circa id, et hic
+          intellectus non est aliquid de aliquo, sed simplex rei conceptus per formam suam. Sicut
+          enim videtur quod proprium objectum visus semper est verum, et non decipitur visus circa
+          id : sed non semper verum est quando visibile componitur cum aliquo, sicut fit in visibili
+          per accidens vel communi : non enim semper est verum quod album quod videtur sit homo, vel
+          non sit homo, quando visus dicit album esse hominem, vel quando dicit non esse hominem.
+          Similiter est de intellectu quando intellectus qui nihil <choice> <orig>hahet</orig>
+          <reg>habet</reg> </choice> nisi simplicem conceptum mentis, semper verus est : componens
+          autem non semper est verus, quando accidit intellectui intelligibile per accidens, sicut
+          sensui sensibile per accidens : et ideo in illo falsificatur intellectus ipsarum.
+          Quaecumque autem sine materia sunt, sicut substantiae separatae, intelligunt res per
+          simplices rerum quidditates : et ideo non falsificatur intellectus ipsarum. Quaecumque
+          autem unum realiter in esse aliquando accipiuntur, non oportet quod hoc fiat per
+          acceptionem rerum et differentiarum et convenientiam ipsarum vel eorum particularem. Et
+          hoc accidit intellectui per extensionem sui ad sensitivas virtutes, et in tali
+          compositione et divisione frequens incidit mendacium.</p>
+        <p xml:id="admda-l3t3c2-d1e150">In talibus autem separatis quae non habent contrarium in suis intelligibilibus, eo quod
+          intelligibile nullum ex se recipiunt, idem est secundum actum scientia eorum cum re scita
+          : et hoc maxime in intellectu causae primae est verum, quod illa omnino simplex est, et
+          suum intelligere et suum intelligibile cum suo intellectu sunt idem omnino : in aliis
+          autem intelligentiis quae sunt inferioris ordinis, etiam verum est : sed plus differentiae
+          est inter suum intelligere et suum intelligibile ad <pb ed="#B5" n="373"/> <cb ed="#B5" n="a"/> suum intellectum : haec autem differentia in parte superius posita est, sed ad
+          plenum etiam subtiliter habet dici in scientia divina. Scientia autem nostri intellectus
+          est prius in potentia quam in actu : et sicut diximus superius, quod in individuo quolibet
+          prior est potentia quam actus : universaliter autem loquendo et simpliciter, tunc prior
+          est scientia in actu quam in potentia et tempore, sicut superius diximus quod est in
+          potentia nunquam fit in actu nisi ex eo quod est in actu : et ideo in intellectu mortalium
+          etiam prior est intellectus agens et habitus primorum principiorum quae scimus per naturam
+          in quantum terminos cognoscimus : haec enim principia sunt quasi instrumenta quibus
+          intellectus agens educit possibilem de potentia ad actum. Et haec instrumenta determinata
+          ex determinatione sensibilium oriuntur experimentis et memoriis moventibus possibilem
+          intellectum, et sic acquirit hanc scientiam et illam : in tali autem motus intellectus qui
+          est simplex receptio intelligibilium, sine motu et transmutatione, consideratione dignum
+          est qualiter differt ab aliis motibus physicis.</p>
+        <p xml:id="admda-l3t3c2-d1e157">In sensu enim expresse videtur, quod sensibile est agens sensitivum ex potentia existente
+          in hoc quod sit actu ens : et videmus quod id quod est sic agens in actu ipsum sensibile,
+          nihil patitur omnino, etiam quando recipitur a sensu, non abjicitur aliquid a sensu nec
+          progreditur de forma in formam fluendo, quemadmodum forma generata in materia. In motu
+          autem physico et agens patitur aliquid a patiente : et quando patiens recipit eam, quod
+          agens continue fuit de forma in formam quousque venit ad perfectionem perfectio motus : et
+          ideo diximus in Physicis quod motus physicus est imperfectus actus existentis in potentia
+          secundum quod est in potentia : unde quando sensibile movet sensum, oportet quod alia sit
+          haec species <cb ed="#B5" n="b"/>
+          <!-- 373 b --> motus a motu physico. Cum duo sint in diffinitione motus physici, cum
+          dicitur actus imperfectus, alterum eorum accidit motui, et non est de essentia sua, quod
+          videlicet est imperfecti : ex sua autem natura convenit ei esse actum :, et ideo quando
+          non est imperfecti, tunc est actus perfectus. Sic autem est quando est actus sensitivi a
+          receptione sensibilis. Ille enim est actus simplex, et ideo non fluens de forma in formam
+          : et ideo est actus perfecti, et nullo modo ulterius ad aliquid in potentia existens.
+          Multo magis autem hoc fit in intellectu, quoniam supra ostendimus quoniam impassibilitas
+          intellectus in receptione intelligibilium major est quam impassibilitas sensus in
+          receptione sensibilium. Et ideo sentire et intelligere simile est actui, qui est dicere
+          solum sive aliquid enuntiare verbis : quia in actione quae est dicere, statim est actio
+          completa, absque eo quod praecedat ipsum actio diminuta, sicut fit in motu physico, in quo
+          diminutus actus continue praecedit completum quousque compleatur totus motus : dicens
+          autem exprimit dictum simplici actione : et sic est sentire et intelligere plus quam
+          sentire : et hoc praecipue est verum de motu simplicis. Simplicem autem sensum et
+          intellectum voco sensum sensibilis per se, et intellectum per se, et non secundum accidens
+          intelligibile.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

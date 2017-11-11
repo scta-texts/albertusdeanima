@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT III.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT III.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t1c3">
+        <head xml:id="admda-l3t1c3-Hd1e128">CAPUT III.</head>
+        <head xml:id="admda-l3t1c3-Hd1e131" type="question-title">Et est digressio declarans naturam phantasiae.</head>
+        <p xml:id="admda-l3t1c3-d1e134">De phantasia post hoc determinantes dicimus ipsam esse potentiam componentem imagines cum
+          intentionibus, et intentiones cum imaginibus, et imagines et intentiones cum intentionibus
+          ad duplicem finem qui est in particularibus. Unus autem finis est cognitio particularium
+          major quam in sensibili anima haberi potest : et illius finis est scientia de hoc quod sit
+          id et de alio quod sit aliud : et sic de omni eo de quo sententia profertur per modum
+          affirmationis vel negationis. Secundus autem finis est opus quod intenditur ex hujusmodi
+          particularibus, sicut opus in habentibus rationem est finis artis : et quia talis cognitio
+          in pluribus animalibus expresse apparet, eo quod videmus ea quaedam eligere, et alia
+          quaedam quasi refutare : ad electionem autem et refutationem praeexigitur sententia et
+          de<cb ed="#B5" n="b"/>
+          <!-- 318 b -->cretum, et ideo multi dixerunt quod phantasia est aliquid rationis. Non
+          autem est intentio nostra veram electionem animae sensibilis, sed aliquid simile electioni
+          quod expresse videtur in quibusdam in brutis, et in uno plus et alio minus : nos autem
+          videmus ea per modum artis facere casas, et providere cibum in longum tempus : cujusmodi
+          operum oportet esse principium animae animae sensibilis potentiam aliquam : hoc autem esse
+          non potest, nisi illa virtus quae componit et dividit imagines et intentiones modo supra
+          dicto : haec etiam opera non in omnibus videmus in quibus est imaginatio, et aestimatio,
+          sed in quibusdam quae perfectiora sunt. Oportet igitur phantasiam secundum aliquid esse
+          differentem ab imaginatione et aestimativa : licet enim omnes istae potentiae passivae
+          animae sint et patiantur a formis individui, quae sunt principia cognitionis sensibilis,
+          quae formae eaedem esse videntur, tamen motus passionis non est idem, sed est secundum
+          differentem gradum abstractionis : propter quod et ipsae potentiae non penitus sunt eaedem
+          : sed, sicut superius diximus de sensu communi, videtur tota formalitas sensibilis
+          virtutis esse phantasia : et hoc materialiter differentiam habet secundum quod inchoat ab
+          organo unius motus ejus, vel ab organo alterius : et hoc modo videntur omnes istae vires
+          animae sensibilis esse interiores in una essentialitate communi et substantia, differentes
+          autem secundum esse materiale in diversis partibus cerebri, in quo organizantur istae
+          potentiae : quae omnes sunt organicae. Et haec est causa quare <name ref="#Aristotle">Aristoteles</name> plerisque in loci utitur istis virtutibus tanquam eisdem, et aequivoce
+          ponit nomen unius pro alterius nomine, sed si tamen subtiliter distinguantur, ut hic sunt
+          distinctae, sic habent distingui.</p>
+        <p xml:id="admda-l3t1c3-d1e144">Oportet autem non latere, quod quando hae potentiae conjunctae sunt rationi, sicut sunt
+          in homine, accipiunt ordinem agendi et operandi et regimen a ratione : et quia ratio
+          diversificatur secundum diversitatem eorumdem de quibus ratioci<pb ed="#B5" n="319"/> <cb ed="#B5" n="a"/>natio fit, ideo operationes etiam phantasiae multiplicantur valde : quando
+          autem sunt non cum ratione, tunc ipsae regunt ad instinctum naturae solum : et quia natura
+          uno modo est in habentibus speciem unam, ideo opera phantasiae in omnibus habentibus
+          speciem unam in irrationabilibus sunt uno modo : et ideo omnis hirundo uno modo facit
+          nidum, et omnis formica uno modo providet cibum, et sic de aliis secundum visa phantasiae
+          ad instinctum naturae operantibus. Homo autem non sic operatur propter diversa principia
+          operis de quibus inquirit per rationem. Et hoc est quod dixerunt Philosophi quidam in
+          philosophia naturali admodum excellentes, quod istae virtutes in brutis potius aguntur a
+          natura quam agant, in homine autem potius agunt quam agantur : quia in homine natura
+          instrumentaliter tantum subservit eis, in brutis autem secundum aliquid movet eas potius
+          quam moveantur ab eis : ita etiam vis est quae multum impedit intellectum, eo quod nimis
+          occupat animam compositione et divisione imaginationum et intentionum, quarum magna copia
+          est apud eam : et non tantum potest componere accepta a sensibus, sed etiam fingere his
+          similia : et quia intellectus conceptiones ut frequenter sunt similes imaginationibus et
+          fictionibus phantasiae, ideo quando miscet concepta imaginibus et intentionibus, plerumque
+          generat deceptionem et errorem, maxime autem quando aliquid de coelestibus et divinis
+          intellectui imprimitur. Haec est causa quod somnia quae sunt prophetiae futurorum,
+          plerumque applicata ad imagines, fiunt illusiones et deceptiones. Sed quando applicat
+          conceptibus intellectus imaginationes et intentiones congruas, tunc adhuc indigent
+          interpretationibus propter compositiones imaginationum et intentionum : eo quod non
+          conveniunt conceptibus divinis et coelestibus imagines sensibilium et intentiones, nisi
+          secundum metaphoram. De his autem in scientia de somno et vigilia dicemus. Multa vero sunt
+          animalium hanc potentiam non haben<cb ed="#B5" n="b"/>
+          <!-- 319 b -->tium : cujus causa est cerebri defectus in talibus animalibus vel diminutio.
+          Totum enim cerebrum talium parumper differt a medullosa natura fluida, in qua est sensus
+          et tenuis imaginatio : et ideo spiritus istorum non depurantur, et cerebrum eorum non
+          confortatur ad hujusmodi operationes animales perfectas.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

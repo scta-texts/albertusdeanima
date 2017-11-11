@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT IV.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT IV.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t2c4">
+        <head xml:id="admda-l3t2c4-Hd1e128">CAPUT IV.</head>
+        <head xml:id="admda-l3t2c4-Hd1e131" type="question-title">Et est digressio declarans opinionem Alexandri et ejus
+          improbationem.</head>
+        <p xml:id="admda-l3t2c4-d1e134">Alexander autem qui inter discipulos <name ref="#Aristotle">Aristotelis</name> aliquando
+          summus habitus est, dicit intellectum possibilem formam corporis et virtutem causatam ab
+          elementis, supra quam irradiat intelligentia agens quae non est pars animae hominis, sed
+          se<pb ed="#B5" n="336"/> <cb ed="#B5" n="a"/>parata. Dicit enim quod forma habita materiae
+          primam magnam in simplicibus operatur diversitatem : facit enim unum ignem, et alterum
+          aquam, et tertium aerem, et quartum terram : quando autem non solum unica forma operatur,
+          tunc facit mirabiliores diversitates. In compositis autem remanent secundum aliquem modum
+          formae elementales, et insuper adjiciuntur eis formae compositorum : et ideo quando
+          elementa per mixturam ab excellentiis recedunt, tunc in natura mirabiliora operantur : et
+          primus quidem recessus facit mineralia et lapides, quorum sunt formae naturales. Secundus
+          autem recessus animata perficit, quorum est potentior forma quam mineralium : et ita per
+          gradus majoris et minoris temperantiae et aequalitatis elementa venientia ad medium
+          secundum mixturam, tandem perficiunt formam quae vocatur intellectus possibilis, qui
+          potentia est omnia intelligibilia et actu nullum : hic autem intellectus est in corpore
+          hominis, ut dicit, sicut rasura et planatio in tabula, et non sicut ipsa tabula : sed
+          potius corpus est sicut tabula, et intellectus sicut praeparatio tabulae ad scripturam :
+          nec dicitur esse separatus a corpore, sed potius ab intelligibilibus, sicut privatio quae
+          dicit habilitatem ad recipiendum, separata est ab his quae recipit, sicut etiam rasura et
+          planatio separata sunt a scriptura, et sicut quaelibet privatio materiae : non tamen ipse
+          actus : et hoc dicit <name ref="#Aristotle">Aristotelem</name> sentire quando dicit
+          intellectum possibilem esse separatum.</p>
+        <p xml:id="admda-l3t2c4-d1e147">Habet autem adhuc rationes duas : unam quidem quam sumit ex <name ref="#Aristotle">Aristotelis</name> verbis, ubi dicit animam secundum substantiam universaliter esse
+          corporis organici endelechiam. Si enim hoc est verum, tunc univoce omnes animae partes
+          sunt endelechiae corporis. Oportet igitur intellectum esse corporis endelechiam sicut
+          formam corporalem, et sic erit causata forma ex elementorum mixtura. Amplius autem po<cb ed="#B5" n="b"/>
+          <!-- 336 b -->tentia materiae corporalis et physicae non perficitur nisi per formam quae
+          est in ipsa potentialiter et educitur de ipsa per motum et mutationem : stat autem quod
+          anima rationalis quae est intellectiva, est perfectio corporis hominis quod est materia
+          corporea : oportet igitur quod potentialiter sit in ipso semine corporis, et educatur de
+          ipso per motum et mutationem : igitur intellectus qui est perfectio hominis, est forma
+          corporis operans in corpore sicut aliae formae naturales.</p>
+        <p xml:id="admda-l3t2c4-d1e157">Sed illud quod magis irrationabile est in dicto isto, est hoc quod iste ponit, quod prima
+          perfectio quae est praeparatio ad secundam, hoc est, ad intelligibilia suscipienda, sit
+          facta ex complexione elementorum : quia apud Peripateticos omnes est ab antiquo vulgatum,
+          quod intellectus est ingrediens ab extrinseco, et non factus ex elementis : nec
+          potentialiter existens in eis : non enim aliquo modo probabile vel intelligibile est,
+          qualiter virtus incorporea quae discernit res omnino incorporeas et immateriales, educatur
+          ex elementis. Adhuc autem ex isto videtur sequi, quod materia secundum se compositionis
+          varietate faciat omnes formas, absque eo quod necessariae sunt aliae causae, sicut
+          dixerunt hi qui casum et fortunam moventia esse dixerunt, et negarunt causas per se
+          agentes, quod tamen Alexander dicere non intendit, quia alibi ponit causas agentes.</p>
+        <p xml:id="admda-l3t2c4-d1e161">Id autem quod demonstrative destruit dictum Alexandri, est quod omne quod recipitur in eo
+          quod est in corpore sicut forma corporis, est particulare et individuum, sicut probatur
+          per omnia quae sunt in virtutibus animae sensibilis : si ergo intellectus possibilis esset
+          hujusmodi forma, receptum in ipso esset particulare : et sic non esset intellectus
+          acceptivus universalis. Adhuc autem in physica doctrina parum faceret <name ref="#Aristotle">Aristoteles</name> si doceret nos praeparationem tantum ad
+          intelligibilia, <pb ed="#B5" n="337"/> <cb ed="#B5" n="a"/> et non determinaret nobis
+          subjectum illius praeparationis : non est ergo intentio <name ref="#Aristotle">Aristotelis</name> vocare intellectum possibilem solam praeparationem ad intelligibilia
+          suscipienda, sed potius id quod subjicitur tali praeparationi, vocat intellectum
+          possibilem. Et hae rationes Averrois contra Alexandrum tenendae : quia absque dubio
+          Alexander, etsi in multis bene dixerit, tamen in materia hac pejus omnibus determinavit :
+          et sequitur ex dicto ejus animam cum corpore perire, et animam alterari alterato corpore,
+          et multa alia, quae absurdissima sunt, et claro Philosopho minus digna : quam ob causam
+          abjicienda est penitus scientia ista, et extra genus hominum exterminanda tanquam error
+          pessimus, ex quo totius nobilitatis et perpetuitatis animae intellectivae sequitur
+          destructio.</p>
+        <p xml:id="admda-l3t2c4-d1e174">Rationes quas inducit, super falsas propositiones fundavit. Quod autem dicit <name ref="#Aristotle">Aristotelem</name> dicere, quod anima est perfectio corporis organici, et
+          quod perfectio secundum unam et eamdem rationem dicitur de vegetabili et sensibili et
+          rationali, omnino falsum est : quinimo dicit <name ref="#Aristotle">Aristoteles</name>,
+          sicut ex superioribus patet, quod intellectus nullius corporis est actus : et hoc est
+          repetere necessarium, cum de his ex superioribus satis constet. Similiter autem quod
+          dicit, quod intellectualis anima educatur de semine, falsissimum est omnino, sed potius
+          ipsa est ingrediens ab extrinseco a datore formarum in materiam, et est similitudo datoris
+          formarum qui est intelligentia prima, et non commixta corpori sicut commiscetur virtus vel
+          forma corporis : et ideo hoc etiam est falsum. Verum est tamen, quod ipsa est finis
+          generationis : sed iste finis non efficitur in materia virtute qualitatum primarum
+          transmutantium materiam, sed potius intelligentia dat quando materia est disposita per
+          principia naturalia. Et de hoc in libro de Animalibus, ubi de generatione tractabitur,
+          erit agendum. In tantum igitur dictum sit de opinione Alexandri.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

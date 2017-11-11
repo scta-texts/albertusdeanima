@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VIII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VIII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l1t2c8">
+        <head xml:id="admda-l1t2c8-Hd1e128">CAPUT VIII.</head>
+        <head xml:id="admda-l1t2c8-Hd1e131" type="question-title">De improbatione opinionis quae dixit animam esse harmoniam
+          corporis commixti.</head>
+        <p xml:id="admda-l1t2c8-d1e134">Alia autem quaedam opinio traditur de anima, quae et ipsa convenit cum aliis praehabitis
+          in aliquo, et illa multis fuit credibilis, neque habet minorem probabilitatem quam aliqua
+          dictarum opinionum : quia rationes directe physicas praebet inter omnes opiniones, quando
+          rationes omnium opinionum conferuntur in com<pb ed="#B5" n="161"/> <cb ed="#B5" n="a"/>muni. Dicunt autem isti quod contraria quae conveniunt, dupliciter se complectuntur :
+          aliquando enim complectuntur se non salvatis qualitatibus eorum quae complectuntur, sicut
+          faciunt miscibilia in mixto : et haec vocatur mixtio, sicut diximus in fine libri Peri
+          geneseos : aliquando autem complectuntur, ita quod salvantur species et qualitates
+          complexorum, sicut homogenia conveniunt ad heterogeniorum constitutionem, sicut os,
+          nervus, et hujusmodi in constitutionem manus. Dicebant igitur isti, quod harmonia et
+          proportio et temperamentum commixtionis et compositionis est anima : eo quod videbant
+          omnia commisceri et componi secundum medietatem geometricam, sicut alibi diximus : et hanc
+          medietatem rationem sive proportionem temperamenti et compositionis et mixturae animam
+          esse dicebant. Cujus sententiae Empedocles fuit defensor primus, qui nullam omnino formam
+          in entibus esse dicebat.</p>
+        <p xml:id="admda-l1t2c8-d1e141">Et licet ita dicat, tamen de facili improbatur, quia harmonia non habet in se nisi duo :
+          aut enim harmonia dicitur ipsa ratio proportionis, qua commiscentur et componuntur
+          commixta et composita : aut etiam ipsa mixtio vel compositio vocatur harmonia : anima
+          autem neutrum istorum est : quod de facili patet, cum anima habeat operationes quae non
+          sunt secundum numerum alicujus commiscibilium vel compositorum. Mixtio autem et compositio
+          non habent virtutem agendi aliquid quod non reducatur ad miscibilia vel composita in
+          communi vel in speciali. Adhuc mixtio autem et compositio non agunt aliquid nisi unum,
+          quod est secundum actum in quem mixta sunt vel composita : anima autem omnis agit multa.
+          Amplius autem movere localiter non est harmoniae, quia aliter omnia mixta ad harmoniam
+          haberent motum localem, quo ipsa seipsa moverent. Ani<cb ed="#B5" n="b"/>
+          <!-- 161 b -->mam autem maxime sensibilem videmus esse motivam secundum processivum motum.
+          Et ideo omnes fere Antiqui dixerunt animam esse diffiniendam per motivum esse : quia
+          viderunt plantas non habere animam, sed partem partis animae : animalium autem videbant
+          esse animas perfectas.</p>
+        <p xml:id="admda-l1t2c8-d1e148">Convenit autem magis de sanitate dicere, quod sit harmonia quam anima, et universaliter
+          de virtutibus et potentiis sive habitibus corporeis, qui sic sunt in corpore secundum quod
+          ipsum mixtum est ex contrariis vel compositum : illi enim sunt in corpore diffusi secundum
+          quantitatem corporum, et secundum componentium qualitates et quantitates est unus sanior
+          alio. Hoc autem modo non inest aliqua anima corpori, quod una sit animantior alio secundum
+          qualitatem et quantitatem mixtorum vel compositorum : quia licet anima vegetabilis et
+          sensibilis sint virtutes operantes in corpore et non explentes operationes suas, nisi in
+          corporis aliqua parte : tamen non sunt corporeae virtutes per modum, qui dictus est : et
+          ideo habitus corporalis virtus corporea est vel qualitas. Anima autem vegetabilis et
+          sensibilis secundum vires suas sunt quidem virtutes in corpore, sed non corporeae.
+          Intellectus nec virtus est corporea, nec virtus in corpore, sed separata, sicut nos in
+          multis locis ostendimus in physicis libris Physicorum et Coeli et Mundi. Hoc autem facile
+          manifestatur ei qui tentat reddere causas operationum et passionum animae, quare una sit
+          visiva, et altera auditiva, et tertia imaginativa, et quarta intellectiva. Causae illae
+          harmoniae non conveniunt, quia non possumus dicere quod ex abundantia phlegmatis super
+          choleram oculi compositio habeat visum, et quod abundantia cholerae super sanguinem in
+          aure sit auditus, et sic de aliis diversis harmoniis mixtorum et compositorum. Non enim
+          differt <pb ed="#B5" n="162"/> <cb ed="#B5" n="a"/> imaginatio a reminiscentia in hoc quod
+          plus habeat ossis quam carnis, vel e converso.</p>
+        <p xml:id="admda-l1t2c8-d1e156">Amplius autem nos scimus harmoniam non esse animam, si dividimus harmoniam in duo,
+          considerantes primo maxime ea quae sunt propria harmoniae : et hoc est ut videamus propria
+          magnitudinum quae habent motum et positionem sive situm, et consideremus compositionem
+          ipsius harmoniae, quae est ex talibus : quia illae tales magnitudines sic compositae
+          consonant : ideo non contingit accipere aliquod mixtorum vel compositorum proximum : quia
+          in tali compositione non est ignis juxta ignem proximus, ita quod non sit aliquid medium :
+          quia plurimum cujuslibet elementi cum plurimo alterius est : et ideo ubicumque ignis est
+          juxta aquam et caetera elementa, et e converso quodlibet cum quolibet : et haec est una
+          intentio, harmoniae, et est propria. Ab alia autem parte dicitur harmonia proportio quae
+          est in rebus miscibilibus et componibilibus antequam misceantur : oportet enim quod
+          proportionata sit quaelibet cuilibet, quia aliter neque misceri, neque componi possent ad
+          aliquid unum constituendum : et haec harmonia est in unoquoque miscibilium et
+          componibilium respectu alterius, et non est omnium simul mixtorum et compositorum : et
+          ideo non ita proprie dicitur harmonia sicut priori modo dicta.</p>
+        <p xml:id="admda-l1t2c8-d1e159">Sed neutro istorum modorum rationabile est animam dicere harmoniam esse. Mixtura enim et
+          compositio corporis multum facile investigatur qualis sit in quolibet membro simili vel
+          dissimili. Multae enim diversae sunt diversarum partium corporis compositiones, et insunt
+          : quia in osse scimus plus esse terrestreitatis, in carne autem plus esse sanguinis, et
+          sic de aliis. Quaeratur ergo cujus membri commixtio vel compositio est intellectus, et
+          cujusmodi alia com<cb ed="#B5" n="b"/>
+          <!-- 162 b -->mixtio vel compositio sit sensitiva potentia, et cujus sit appetitiva : et
+          non erit assignare.</p>
+        <p xml:id="admda-l1t2c8-d1e166">Similiter autem ex ista opinione sequitur, quod inconveniens est animam dicere esse
+          rationem et proportionem contemperamenti vel mixturae. Non enim una et eadem ratio
+          harmoniae est contemperamenti, secundum quam est os, et secundum quam est caro. Cum ergo
+          multae et diversae sint hujusmodi contemperamenti rationes in uno corpore animato,
+          multoties sequitur multas inesse animas in corpore eodem : ponitur siquidem anima esse
+          ratio et harmonia contemperamenti : corpus autem organicum in partibus dissimilibus multas
+          habet tales harmonias. Haec igitur communiter dicta sint contra eos qui harmoniam dicebant
+          esse animam.</p>
+        <p xml:id="admda-l1t2c8-d1e169">Sed specialiter ab Empedoclea opinione investigabit aliquis, quae harmonia specialiter
+          anima sit ? Dicit enim Empedocles quodlibet corporum mixtorum rationem et harmoniam esse
+          quamdam secundum formam. Quaeramus igitur ab eo, utrum anima sit illa proportio sive ratio
+          contemperamenti, quae est in singulis membris corporis, vel sit anima in mixtis corporibus
+          et membris ex tali mixtura, cum tamen alterum sit aliquid a mixtura et proportio ? Si enim
+          sit mixtura singulorum membrorum, tunc inevitabiliter sequitur multas esse animas in uno
+          et eodem corpore. Si autem sit alterum aliquid causatum a mixtura, ad minus ab Empedocle
+          differentia debuit assignari. Amplius autem si dicat Empedocles animam non esse mixturam
+          ipsam, sed causari ab ea in membris, tunc quaeremus ab eo, utrum concors mixtura
+          cujuslibet membri est causa animae, aut simpliciter aliqua quae est se<pb ed="#B5" n="163"/> <cb ed="#B5" n="a"/>cundum quamdam rationem et proportionem ? Et si concedatur quod
+          concors mixtura quaelibet est causa animae, tunc adhuc sequitur in uno corpore esse multas
+          animas. Si autem aliqua specialis est causa, tunc debuit illa assignari ab Empedocle.
+          Amplius autem si anima dicatur esse alterum a mixtura membrorum, tunc quaeramus de ipsa
+          anima, utrum ipsa sit ratio quaedam et proportio mixtionis cujusdam causata a mixtura
+          membrorum, aut est aliquid alterum extra rationem harmoniae ? Et siquidem dicat quod est
+          mixtura et ratio contemperamenti causata ab harmonia corporali membrorum, tunc est
+          consequens compositionem corporis secundum naturam et secundum esse. Et hoc non convenit,
+          quia anima est agens et movens et continens : corpus autem est patiens et motum et rectum
+          : agens autem et movens et regens in omnibus est ante patiens et motum et rectum. Si autem
+          dicat quod est alterum extra rationem membrorum harmoniae existens, tunc sibi ipsi
+          contradicet : et praeter hoc debuisset assignare quale quid est illud.</p>
+        <p xml:id="admda-l1t2c8-d1e176">Haec igitur opinio tales quales dictae sunt habet contra se oppositiones. Parvas autem et
+          paucae sunt rationes quae induxerunt Empedoclem, quod credidit animam esse harmoniam :
+          quarum una est, quod videbatur Empedocli mirum, quod si anima non est harmonia carnis et
+          ossis et hujusmodi, quare per subtractionem carnis et ossis anima deficit in animali.
+          Adhuc autem si dicatur anima non esse in qualibet parte, ita quod quaelibet partium habeat
+          animam, eo quod anima non est ratio et proportio compositionis vel mixturae, quae est
+          igitur causa quod ista membra corrumpuntur quando deficit anima et exspirat ? Hae autem
+          rationes indignae sunt ut solvan<cb ed="#B5" n="b"/>
+          <!-- 163 b -->tur, quoniam anima ideo deficit subtracta carne, aut aliqua tali parte :
+          quia destruitur organum ejus et propria materia in qua est : et ideo forma quae est anima,
+          salvari haud potest praeter intellectualem animam, quae habet aliquid praeter corpus
+          salvans ipsam, sicut infra patebit. Corrumpitur autem et solvitur harmonia corporis
+          egrediente anima, ideo quia anima continet corpus et mixturam ejus : et ideo continente
+          ablato necesse est solvi harmoniam commixtionis et compositionis.</p>
+        <p xml:id="admda-l1t2c8-d1e183">Quod quidem igitur non est possibile animam esse harmoniam, et quod non potest
+          circulariter moveri, est manifestum ex his quae inducta sunt. Secundum accidens autem,
+          sicut dictum est superius, contingit animam moveri et movere quodammodo seipsam. Movetur
+          enim corpus in quo est anima, et hoc corpus movetur ab anima : et ita movendo corpus movet
+          anima quodammodo seipsam : quia moventibus nobis necesse est moveri ea quae in nobis sunt.
+          Hoc autem quidam dicunt dubitationem habere de intellectu : sed de hoc inferius
+          disputabimus.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t4c7">
+        <head xml:id="admda-l2t4c7-Hd1e128">CAPUT VII.</head>
+        <head xml:id="admda-l2t4c7-Hd1e131" type="question-title">Et est digressio declarans quinque vires animae sensibilis
+          interiores.</head>
+        <p xml:id="admda-l2t4c7-d1e134">Volentes autem nunc inquirere de virtutibus animae sensibilis interioribus, propter
+          faciliorem intellectum primo enumerabimus eas, et postea sigillatim exsequemur de ipsis.
+          Dicamus igitur quod in omni natura quae pluribus communis est, oportet esse unum fontem ex
+          quo illa oriatur communitas oriatur : sensibilis autem cognitio est communicata quinque
+          sensibus : et ideo oportet esse unum fontem ex quo omnis sensus oriatur, et ad quem omnis
+          motus sensibilium referatur sicut ad ultimum finem : et hic fons vocatur sensus communis :
+          qui quaedam habet in quantum sensus est, et quaedam habet in quantum sensus communis est :
+          in quantum enim sensus est, habet quod recipit rerum species sine materia, et tamen
+          praesente materia, quod proprium est omnis sensus. In quantum autem communis est, habet
+          duo sine quibus sensibilis cognitio non perficitur : quorum unum est judicium sensibilis
+          operationis, sicut nos apprehendimus videre quando videmus, et audire quando audimus, et
+          sic de aliis. Si enim hoc judicium non esset in animalibus, non esset satis utile videre
+          et audire, secundum alios sensus apprehendere. Secundum autem est comparare sensata
+          diversorum sensuum per hoc quod invenit ea in uno communi <pb ed="#B5" n="303"/> <cb ed="#B5" n="a"/> sensato conjuncta vel distincta : hoc enim non potest facere aliquis
+          sensus propriorum : quia comparatio inter plura est : et oportet comparantem plura simul
+          habere apud se : et ideo sensus communis comparat sensata, dicendo citrinum esse dulce, et
+          unum dulcius alio, per hoc quod ad ipsum referuntur omnium propriorum sensuum sensata.
+          Haec igitur cogunt ponere sensum communem.</p>
+        <p xml:id="admda-l2t4c7-d1e141">Nos autem percipimus in nobis esse cognitionem sensibilium formarum etiam quando res non
+          est praesens : et haec cognitio est altioris abstractionis quam cognitio sensibilis, sicut
+          superius determinavimus : scimus enim quod altera est virtus quae bene tenet, et altera
+          est virtus quae bene recipit : quoniam bene tenens perficitur sicco frigido, et bene
+          recipiens perficitur humido : et cum sensibilis bene recipiat et non teneat re absente,
+          scimus sensibilem virtutem universaliter natura esse illam quae tenet imagines rerum apud
+          nos quando res ipsae non sunt praesentes.</p>
+        <p xml:id="admda-l2t4c7-d1e144">Nos autem in nobis circa sensibiles formas triplicem experimur in genere cognitionem,
+          quarum una est quae est circa formas acceptas per sensum hoc modo quo sensatae sunt : alia
+          autem quae est circa intentiones quae nunquam in sensum fuerunt, sed tamen a sensibilium
+          conditionibus non sunt separatae, sicut esse conveniens vel inconveniens, et amicum vel
+          inimicum, et esse filium et non filium, matrem et non matrem, sicut ovis noscit filium, et
+          illi et non alii porrigit ubera lactando, et fugit lupum ut inimicum, et canem sequitur ut
+          custodem : et utraque istarum cognitionum est de his quae sunt apud nos re non praesente.
+          Est autem et quaedam tertia quae agit tam in formis sensatis quam in intentionibus
+          componendo et dividendo quae est quasi communis virtus, ad quam referuntur tam formae
+          sensatae quam intentiones elicitae sicut sensata particularia ad sensum communem.</p>
+        <p xml:id="admda-l2t4c7-d1e148"> <cb ed="#B5" n="b"/>
+          <!-- 303 b --> Resumamus igitur duo principia, per quae distinguuntur vires istae,
+          dicentes quod activum quod est formale, non perficitur eodem quo perficitur passivum quod
+          est recipiens et tenens. Cum igitur quaedam virtus sit quae tenet et recipit formas prius
+          sensatas, illa erit passiva perfecta frigido sicco in complexione organi, cujus ipsa est
+          actus. Cum autem in nobis experiamur esse cognitionem intentionum elicitarum ex
+          sensibilibus formis, oportet esse aliquid quod eliciat et agat illas intentiones : et
+          illius erit quasi potentia activa agens intentiones illas ex sensibus, cujus perfectio in
+          complexione sui organi erit calidum spirituale et formale valde reservatorium : ergo
+          formarum sensatarum vocaverunt Peripatetici imaginem, alias imaginationem : et quibusdam
+          placuit quod vocitetur virtus formalis, eo quod servat apud nos formas : activum autem et
+          elicitivum intentionum vocarunt aestimationem. Quia vero etiam experimur apud nos iterum
+          teneri intentiones elicitas sicut tenentur formae sensatae : et non est ab eadem potentia
+          tenere et agere, sicut dictum est, nec idem tenens est quod tenet formas sensatas et
+          intentiones elicitas ex eis, eo quod altior gradus abstractionis est intentio quam forma,
+          sicut supra diximus, ideo coacti sunt invenire virtutem animae quae tenet intentiones
+          elicitas ab aestimativa virtute : et hanc vocarunt memoriam. Adhuc autem nos experimur nos
+          uti componendo et dividendo tam formis quam intentionibus, facimus enim hominem cum duobus
+          capitibus, et aliquid compositum ex multiplici forma sensata, et componimus haec cum
+          intentionibus quas elicitas habemus apud nos : et oportet quod faciens illud sit aliquid
+          commune ad quod tam formae quam intentiones referuntur sicut ad quoddam commune. Et hoc
+          vocarunt phantasiam, quae existens inter memoriam in qua sunt intentiones, et imaginativam
+          in qua sunt formae acceptae per sensum, utitur utrisque componendo et dividendo : et haec
+          ope<pb ed="#B5" n="304"/> <cb ed="#B5" n="a"/>ratur in somnis, sicut et in vigilia.
+          Phantasia autem ab apparitione dicta est : quoniam illa est major cognitio quam habet
+          anima sensibilis, et est ultimum virtutis ejus, et haec a vulgo in hominibus vocatur
+          cogitativa : cum tamen proprie cogitare rationis sit proprium. Haec autem phantasia
+          plurimum confert ejus recordationi quod oblitum est per haec quod movet intentiones ad
+          formas, et formas ad intentionem : per hoc enim venitur in simile aliquid ejus quod prius
+          scitum fuit, et per illud venitur in oblitum, sicut nos in libro de Memoria et
+          Reminiscentia ostendemus. Haec etiam est illa quae intellectualia assimilat corporalibus.
+          Intellectuales enim divisiones unius in multa assimilat divisioni arboris in multos ramos,
+          sicut id quod facimus in arbore Porphyrii de divisione praedicabilium, et resultatione
+          quam facit ipse intellectus posterioris in primus, assimilat scalis, sicut est id quod
+          tradidit Pythagoras de scala aurea. Secundum congruentiam autem operum Peripatetici
+          tradiderunt istis viribus situm : omnes enim organicas esse tradiderunt, eo quod sunt
+          circa particularia tantum : omnis enim forma particularis in materia aliqua est : quoniam
+          forma sine omni materia accepta est universalis, circa quam operatur intellectus : sensum
+          igitur communem in anteriori parte cerebri posuerunt in loco ubi concurrunt nervi
+          sensitivi quinque sensuum sicut in quodam centro, qui locus medullosus est et humidus,
+          post quem locum est durities major ex frigiditate cerebri proveniens : et illum dixerunt
+          thesaurum formarum in quo retinentur formae et immobilitantur, qui thesaurus imaginativa
+          vel formalis vocatur. In prima autem parte mediae cellae cerebri vel cellulae quae calida
+          est ex motu multi spiritus, ad ipsam posuerunt aestimativam quae elicitiva et activa est
+          intentionum. Thesaurum au<cb ed="#B5" n="b"/>
+          <!-- 304 b -->tem ejus reservantem intentiones, qui memoria vocatur, in posteriori parte
+          cerebri posuerunt, qui locus est siccus propter nervos motivos qui oriuntur ab ipso. Cujus
+          signum est, quia laesa illa parte perditur vel laeditur memoria in omnibus animalibus :
+          phantasiam autem quae convertit se tam super intentiones quam super formas, posuerunt in
+          medio mediae cellae tanquam centrum inter imaginativam et memoriam. Hujus signum est, quia
+          laesa media cella non habetur ab aliquo animali ordinatum regimen vitae, eo quod non
+          potest uti sensatis formis et intentionibus secundum quod oportet : et tunc efficiuntur
+          animalia furiosa et rabida. Haec igitur sunt quae praelibare volumus de istis virtutibus,
+          et modo prolixius determinabimus de unoquoque istorum, et primo de sensu communi.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

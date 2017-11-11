@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XXIV.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XXIV.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c24">
+        <head xml:id="admda-l2t3c24-Hd1e128">CAPUT XXIV.</head>
+        <head xml:id="admda-l2t3c24-Hd1e131" type="question-title">Qualiter odorum differentiae per analogiam ad differentias
+          saporum accipiuntur.</head>
+        <p xml:id="admda-l2t3c24-d1e134">Determinantes igitur species odorum et per analogiam ad sapores rationabiliter
+          determinabimus eas : quia odor sequela est saporis ut frequenter, excepto hoc solo, quia
+          odor sicci est, et sapor humidi terminati et complexionalis. Unde sicut sapor alius est
+          dulcis, et alius amarus : ita odor alius est dulcis, alius amarus : et plerumque est
+          dulcis odor resolutus a dulci sapore, et ab amato sapore plerumque resolvitur amarus odor.
+          Quaedam proportionabiliter habent odorem et saporem : verbi gratia dulcem habens saporem,
+          dulcem habet odorem. Alia autem non ita, sed contrarie habent sapores et odores. Et hoc
+          convenit per accidens : est enim aliquid dulcem habens saporem, quod cum exsiccatur a
+          calido adurente faciente ipsum evaporare odorem, accipit amarum odorem, et fit hoc multis
+          modis : aliquando enim ipsum calidum complexione terminando et digerendo humidum, facit
+          dulcem saporem : et quia non potest terminare humidum nisi aliquid de terrestri comburat,
+          ideo est in eo quoddam respersum amarum : quod quia siccius et calidius est, <pb ed="#B5" n="276"/> <cb ed="#B5" n="a"/> vincit odorem spargendo aliud : et ideo dulcem habens
+          saporem, amarum habebit odorem. Aliquando autem fit e converso, quod dulcem habens odorem,
+          acrem habet saporem : hoc autem contingit ex caliditate inaequaliter terminante humidum
+          complexionale : tunc enim in exterioribus ubi calidum a sole et calore loci sufficienter
+          terminatur, et interioribus adhuc est in eo cruditas propter frigidum : et quia exterius
+          calidius est, magis respergit odorem et est dulcis odor : quando tamen gustatur, propter
+          multitudinem acredinis interioris videtur acre. His ergo ex causis et multis aliis non
+          proportionales sunt odores saporibus.</p>
+        <p xml:id="admda-l2t3c24-d1e141">Sicut autem diximus de amaro et dulci saporibus et odoribus, ita est etiam acer sapor et
+          odor, et acutus sapor et odor, et austerus, et pinguis. Acer autem causatur a frigido
+          expellente calidum : tunc enim remanent partes quaedam intensae quae acredinem faciunt :
+          unde acredo est ex cruditate. Austerus autem est, qui provenit ex majori caliditate quam
+          acer. Acutus autem est ex caliditate omnino vincente. Pinguis autem ex caliditate
+          terminante et digerente, sed magis convertente quam consumente : in illa enim vincit
+          humiditas acris spumosa quae facit <choice> <orig>pinguidinem</orig>
+          <reg>pinguedinem</reg> </choice>. Haec autem superficialiter dicta sunt : sed in libro de
+          sensu et sensato subtiliter dicentur.</p>
+        <p xml:id="admda-l2t3c24-d1e153">Acceperunt autem odores nomina a saporibus : eo quod non multum in proprio genere
+          permanifesti sunt odores, sicut permanifesti sunt sapores, secundum rerum saporosarum
+          similitudinem : dulcis enim sapor est in melle et in croco : et ab his est etiam dulcis
+          odor. Alter autem sapor est in herba quae dicitur thymus, et in ea quae dicitur opthius :
+          et ab his est etiam alter odor, qui fere similis est sapori et odori serpilli : in aliis
+          autem plerumque similiter est. Forte autem alicui videbitur sapor et odor inductarum
+          herbarum magis esse acutus : sed ea quae hic dicuntur, exempli gratia dicuntur. Similiter
+          autem acutus sapor est <cb ed="#B5" n="b"/>
+          <!-- 276 b --> in allio, et in illo similiter est acutus odor, cujus causa jam dicta est :
+          quia sicut sapor sequela est complexionis siccae, vel humidae, combustae, vel frigidae,
+          vel secundum alios modos, quibus calidum in complexione vincere vel vinci potest. Sic
+          generantur pepana vel obsetica vel optetica vel oppositis indigestionibus indigesta : et
+          ex hoc constituuntur sapores. Sed odores sunt ex allatione taliter vel alio modo digesti
+          vel crudi : et ideo sicut sapores sequuntur complexiones, ita odores sequuntur sapores. Ex
+          hoc autem patet quod in simplicibus corporibus quae vere simplicia sunt, nec sapor, nec
+          odor esse potest : quia in eis sunt qualitates primae non contrariae : et ideo per suas
+          excellentias sunt in ipsis. In plantis autem praecipue sunt, eo quod in plantis praecipua
+          sunt agentia qualitates primae, cum non habeant nisi partem partis animae. In animalibus
+          autem non ita, quia ibi magis agitur ad operationes animae : et ideo non ita manifestantur
+          in eis primarum qualitatum actiones elementales. Haec autem plenius scientur in libro de
+          Vegetabilibus.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

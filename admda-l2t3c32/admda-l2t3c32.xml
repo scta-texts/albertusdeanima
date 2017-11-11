@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XXXII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XXXII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c32">
+        <head xml:id="admda-l2t3c32-Hd1e128">CAPUT XXXII.</head>
+        <head xml:id="admda-l2t3c32-Hd1e131" type="question-title">Utrum tactus indigeat aliquo medio extrinseco.</head>
+        <p xml:id="admda-l2t3c32-d1e134">His autem sic convenienter demonstratis, quaeramus an medium quod est in tactu actualis
+          pars tangentis, immutetur semper per tactum corporis cujus accipit qualitates, an etiam
+          indiget medio exteriori ? Hoc enim videtur : scimus enim tactivam virtutem habentia non
+          habitare nisi in aere vel in aqua. Scimus etiam quod nihil tangit in aqua nisi secundum
+          superficiem humidam vel humefactivam esse : humidam autem vel humefactivam habens
+          superficiem, habet <pb ed="#B5" n="288"/> <cb ed="#B5" n="a"/> aliquid corporis humidi
+          sibi in superficie adhaerentis. Sed omne corpus habet profunditatem, cum profunditas sit
+          tertia magnitudo sive dimensio corporis : ergo inter quaelibet se tangentia in aqua
+          intercidit medium profundum habens, in quo qualitas tangentis prius est quam in sensu
+          tactus : et sic cum omnium habitantium in aquis ultima repleta et infusa sint aqua, omnia
+          tangentia in aqua medio extrinseco utuntur in aqua per quod fit tactus ipsorum : eadem
+          autem necessitate sequitur hoc in aere, quia aer etiam humidus est, et replet et infundit
+          ultimas superficies se tangentium. Fit igitur tactus non tantum per medium intrinsecum.
+          Hoc autem est contra rationem tactus : quia illa se contingunt, quorum ultima sunt simul,
+          non intercidente aliquo alio corpore. Sic igitur verus tactus non potest esse habitantium
+          in aqua vel in aere : licet in aere magis lateat quam in aqua, eo quod nihil est aer :
+          sicut etiam animalia habitantia in aqua, ut pisces, magis nos latent quam in aere
+          habitantia : eo quod aer est magis pervius, et minus tegit ea quae sunt in ipso.</p>
+        <p xml:id="admda-l2t3c32-d1e141">Ex his igitur dubium oritur, utrum omnium sensibilium secundum unam similitudinem sit
+          sensus per medium extrinsecum, an quorumdam sensuum sit aliter quam in aliis, sicut gustus
+          et tactus videntur accipere sua sensata in eo quod tangunt sua sensibilia corporali tactu
+          secundum sua ultima ? Si enim omnis sensus est per medium extrinsecum, licet quidam cum
+          hoc tangunt sua sensata, et quidam non, sed sunt longe distantia ab ipsis, et redduntur
+          eis a mediis quae primo a sensibus immutata sunt, tunc omnia <choice> <orig>sentata</orig>
+          <reg>sensata</reg> </choice> sentimus per altera a nobis et extrinseca media : et tunc per
+          medium extrinsecum sentimus durum et molle et alia tangibilia, sicut et sonabile, et
+          visibile, et odorabile : et non erit differentia <cb ed="#B5" n="b"/>
+          <!-- 288 b --> in habendo medium extrinsecum istorum quinque sensuum, sed potius in
+          sentiendo per medium extrinsecum longe vel prope : et propinquitas sentiendi per medium
+          extrinsecum, erit causa quare latet quod quidam habent medium extrinsecum, cum tamen
+          habeant : sed quod latet, non erit causa non essendi media. Quoniam autem superius
+          diximus, si ponamus nos sentire per pellem membranae nobis superinductam, quae sit adeo
+          tenuis quod lateat nos omnino, quia prohibet sensum : eo quod percipi non potest si prius
+          sit qualitas sensata in pelle, et per pellem in carne, licet sic lateat, tamen procul
+          dubio pellis est media per quam sentimus, et est medium extrinsecum, sicut diximus de aqua
+          et de aere. Videmus enim nunc tangere omnia quae tangi possunt : et nihil in sensu tactus
+          videtur esse per medium, cum tamen inter ultima tangentium intercidat humidum aeris et
+          aquae, quo repleta sunt ultima tangentium, sicut diximus supra : videtur igitur medium
+          extrinsecum habere sensus tactus. Sed ad haec omnia dicimus solventes, quod in veritate
+          ita est, quod in humido aquae vel aeris se tangentia habent inter suas superficies
+          intercidens aliquod humidum corpus : sed tamen hoc non est medium necessarium ad sensum,
+          sed accidit. Et in veritate est adeo tenue et ita adhaerens se tangentibus, quod uno tactu
+          numero tangit illud medium et immutat sensum : et ideo tangit per illud, non sicut per
+          medium, sed sicut per aliquid accidentaliter sibi circumpositum.</p>
+        <p xml:id="admda-l2t3c32-d1e157">Et ideo differt hoc medium a medio quod est in speculativis secundum visum, et in
+          sonativis secundum auditum : quoniam in visu, in auditu, et olfactu fit sensus : ita quod
+          nos in eis facimus nobis medium aliquid quod agat in organum, et ab objecto agatur in
+          ipsum. Et ideo in illis sensibilibus medium aliquo <pb ed="#B5" n="289"/> <cb ed="#B5" n="a"/> modo secundum intentionem sensibilis agit in nos sensibile, quod ipsum egit forma
+          sensibili. Non quidem temporis prioritate : quia in momento praecipue in visu immutatur et
+          medium a visibili, et visus a medio : sed tamen est ibi prioritas causae, quoniam sensus
+          non immutatur, nisi causaliter immutatum sit medium : et hoc medium necessarium est ad
+          sensum. Sed quae sentiuntur vel sentiri possunt in gustu et tactu, non requirunt medium
+          extrinsecum propter esse sensus, sed per accidens, vel ad bene esse sensus : ad bene esse
+          quidem gustus, sicut diximus, et per accidens etiam tactus propter infusionem ultimorum ab
+          humido aquae vel aeris. Et ideo tangibilia non sentiuntur a medio, sicut fit in sensibus
+          visus et auditus et odoratus, sed potius sentiuntur simul cum medio quod infundit ultima.
+          Et hoc simile est clypeato qui percutitur : non enim sic percutitur clypeus, quod clypeus
+          percussus ulterius percutiat hominem, et reddat sibi percussionem : sed potius simul uno
+          ictu percutitur clypeus et clypeatus : et ita est in his quae se tangunt in humido aquae
+          vel aeris. Haec igitur quae hic dicta sunt, sententia est <name ref="#Aristotle">Aristotelis</name> secundum verum et subtiliorem intellectum eorum quae dicit in secundo
+          de Anima de tactu.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

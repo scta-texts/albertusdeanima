@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VIII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VIII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t1c8">
+        <head xml:id="admda-l2t1c8-Hd1e128">CAPUT VIII.</head>
+        <head xml:id="admda-l2t1c8-Hd1e131" type="question-title">Qualiter intellectus est alterum genus animae et separabilis :
+          et qualiter est umbra intelligentiae, et sensibilis est umbra intellectus, etiam
+          vegetabilis est umbra sensibilis.</head>
+        <p xml:id="admda-l2t1c8-d1e134">De intellectu autem et potentia perspectiva quae est speculativus intellectus, aut
+          speculativus, non est manifestum utrum sit anima, aut pars animae : eo quod, sicut
+          diximus, non est alicujus partis corporis, et ideo videtur alterum genus esse animae. Hoc
+          enim solum contingit separari a corpore sicut perpetuum a corporali. Quoniam jam
+          certificatum est, quod incorruptionis causa est esse per naturam ante corporeitatem et
+          contrarietatem, et quod intellectus est substantia ante utrumque per naturam existens : et
+          ideo habet esse perpetuum et incorruptibile, et aliam vitam necesse est substantiam istam
+          habere post mortem. Et ideo falsum est quod dixerunt Epicurei, intellectum extingui
+          corpore extincto, eo quod incipit esse cum corpore : quoniam etiamsi concedatur incipere
+          esse cum corpore, tamen non accipit esse a corpore, aut ab aliqua ejus commixtione, sicut
+          habitum est in Physicis : et quod non dependet ad corpus secundum suum esse, non oportet
+          quod corrumpatur propter hoc corrupto corpore. Propter quod etiam, ut diximus, alterum
+          genus vitae est aut animae : quoniam habet quasdam potestates vitae in corpore, et quasdam
+          sine corpore anima intellectualis, et est in horizonte aeternitatis et temporis, supra
+          naturam existens, et infra intelligentiam.</p>
+        <p xml:id="admda-l2t1c8-d1e137"> <pb ed="#B5" n="206"/> <cb ed="#B5" n="a"/> Propter quod eleganter dixit Isaac animam
+          rationalem esse creatam in umbra intelligentiae, volens dicere quod anima ipsa
+          intellectualis intelligentia est obumbrata, per hoc quod est anima corporis mortalis, quia
+          ex hoc lux intelligentiae obumbratur ejus animae : et quod intelligentia habet in simplici
+          rerum quidditate, anima habet per inclinationem ad continuum imaginabile et corpus, quod
+          est materiae mobilis et transmutabilis. Et ideo intellectus humanus cum continuo et
+          tempore intelligit, quod intelligit de conceptionibus rerum. Sicut autem anima hominis est
+          resultatio intelligentiae obumbrata, sic etiam sensibilis est obumbraculum quoddam animae
+          rationalis, et ideo obscuratur amplius et amittit cognitionem intellectualem, et
+          inquisitionem de rerum veritatibus, et discretionem amittit turpis et honesti, et
+          verecundi et inverecundi : et ideo est hoc, quod nullam habet potentiam quae non sit
+          infixa in carne : et ideo conceptiones deputatae ad veritatis intuitum, non possunt ea
+          quae solum habent sensibilem animam. Magis autem corpori immergitur vegetabilis, quae
+          nullam animae formam separat a materia, sed super materiam rerum per qualitates corporeas
+          operatur, sicut digerendo cibum per calorem, et similiter alias perficit operationes.
+          Corpus autem proximum huic substantiae est corpus coeli : et hoc ideo dicitur esse umbra
+          vegetabilis ab Isaac. Et sic patet qualiter anima rationalis est creata in umbra
+          intelligentiae, et est imago quaedam aeternitatis et supra tempus existens : et anima
+          sensibilis est umbra animae rationalis : propter quod potest super ipsius anima
+          rationalis, et operatur in ipsam aliquas suarum operationum aut conceptionum, sicut
+          intelligentia imprimit in animam rationalem. Vegetabilis autem est in umbra sensibilis et
+          operatur in eam : et ideo vegetabilis cum sensibili conjuncta, facit ad organum sensus
+          conveniens, et non ad organum vitae tantum, quoniam vegetabilis est ut instru<cb ed="#B5" n="b"/>
+          <!-- 206 b -->mentum sensibilis animae, sicut et sensibilis est ut instrumentum animae
+          rationalis, in attrahendo formas : et descendunt istae animae in diversa corpora, et
+          ignobilitantur secundum quod magis et minus immerguntur corpori, sicut si imaginemur
+          formam sigilli unius recipi in diversis materiis nobilioribus et ignobilioribus. Nulla
+          enim istarum habet formam secundum quod est in sigillo, et tamen quaelibet illarum
+          resultatio est quaedam ipsius sigilli magis et minus obscura, secundum materiae
+          diversitatem.</p>
+        <p xml:id="admda-l2t1c8-d1e148">Et haec fuit causa quare quidam dicebant unam numero esse animam in omni corpore, sed
+          tamen mole materiae esse impeditam, ne in quibusdam agat operationes vitae, sicut in
+          lapidibus, et in quibusdam plures ageret operationes vitae quam in aliis, eo quod
+          temperantia ipsorum magis est reducta ad aequalitatem et magis separata ab excellentiis
+          contrariorum, et ubi sit recessio a contrariorum excellentiis, quod aequalitas incipit
+          conformari coelestibus, sicut in hominibus, et in illis habet omnes operationes suas. Et
+          dant exemplum de igne, qui inflammatus in lignis bene cremabilibus, agit operationem
+          lucis, et in male cremabilibus facit flammam rubeam obscuram, in aliis autem fumat tantum,
+          et in aliis non facit nisi calorem : et videbatur ista antiquissima Stoicorum de schola
+          Socratis opinio esse, sicut apparet ex dictis quae scribuntur in eorum libris.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

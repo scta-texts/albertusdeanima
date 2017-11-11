@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XIV.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XIV.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t2c14">
+        <head xml:id="admda-l3t2c14-Hd1e128">CAPUT XIV.</head>
+        <head xml:id="admda-l3t2c14-Hd1e131" type="question-title">Et est digressio declarans propter quid intellectus est
+          separatus et immixtus.</head>
+        <p xml:id="admda-l3t2c14-d1e134">Quoniam autem in omnibus his opinionibus supponitur intellectum possibilem esse separatum
+          et immixtum, licet hoc jam probaverimus per demonstrationem, volumus tamen in hoc capitulo
+          breviter inducere decem, ex quibus hoc probaverunt Peripatetici, et praecipue <name ref="#Avicenna">Avicenna</name> in VI Naturalium suorum. Septem autem eorum quae inducemus
+          sunt signa et non causae : tria autem erunt causae, per quae demonstratur intellectum non
+          esse mixtum corpori, sed esse separatum. Quaedam autem eorum colliguntur ex jam habitis,
+          quaedam autem ex habendis : sed hic breviter volumus ea enarrare.</p>
+        <p xml:id="admda-l3t2c14-d1e140">Primum autem est, quod omnis virtus organica debilitatur et destruitur per se sine quodam
+          alio destructo : vel debilitatur quando aliqua occasio infirmitatis vel destructionis
+          accidit organo suo, sicut patet in sensibus interioribus et exterioribus et aliis
+          virtutibus organicis : intellectus autem nec debilitatur nec destruitur per se sine alio
+          ex debilitate vel alicujus organi ex destructione : ergo intellectus non est virtus
+          organica. Si autem destruitur vel debilitatur operatio ejus, hoc est quodam alio corrupto
+          interius, sicut jam ante determinavimus.</p>
+        <p xml:id="admda-l3t2c14-d1e143">Secundum autem est, quoniam nulla vir<pb ed="#B5" n="355"/> <cb ed="#B5" n="a"/>tutum
+          organicarum apprehendit se vel instrumentum suum : quoniam imaginatio nec se nec
+          instrumentum suum imaginatur : et sic est de omnibus aliis organicis. Et hujus causam
+          diximus esse superius, quia forma prout est conjuncta materiae suae per esse materiale,
+          non movet aliquam virtutem animae : et quia figurae organorum et vires animae quae sunt
+          substantiales formae organorum, conjunguntur animae per esse materiale et naturale, ideo
+          eas nullo modo apprehendere possunt : intellectus autem apprehendit seipsum et omne
+          instrumentum corporeum, sicut nos inferius ostendemus.</p>
+        <p xml:id="admda-l3t2c14-d1e151">Tertium est, quod virtus organica qualitatem perfecte assimilatam qualitatibus sui
+          organi, et etiam qualitates sui organi nullo modo discernit vel apprehendit : quod patet
+          in tactu, qui non apprehendit simile calidum, nec etiam calidum complexionale : et si
+          esset calor sibi assimilatus, sicut complexionalis, quamvis esset complexionem destruens,
+          non sentiret eum, sicut ethicus suum calorem non sentit. Intellectus autem omnem
+          qualitatem et suam et aliorum discernit et apprehendit : discernit enim suam
+          intellectualitatem quae est sua dispositio naturalis, et considerat scientiam quae in
+          habitu est conversa in ipso. Igitur ipse non est organicus. Et hoc est signum
+          evidentissimum et convertibile sicut causa quae est medium in demonstratione.</p>
+        <p xml:id="admda-l3t2c14-d1e154">Quartum est, quod nulla virtutum organicarum apprehendit seipsam sine alio quodam agente
+          instrumentaliter, sicut est spiritus vel calor : intellectualem autem naturam probavimus
+          jam seipsam apprehendere, quoniam in ipsa est agens separatum, et possibile separatum, et
+          factum, quod est speculativus intellectus, est etiam separatum, et ita non indiget spiritu
+          vel calore vel aliquo alio instrumento corporeo.</p>
+        <p xml:id="admda-l3t2c14-d1e157">Quintum est, quod inferius ad demonstrationem reducemus, licet hic eo signo utamur : quia
+          virtus corporea post forte objectum non apprehendit debile : sed <cb ed="#B5" n="b"/>
+          <!-- 355 b --> intellectus ex forti intelligibili melius apprehendit minus intelligibile
+          quam ante illud.</p>
+        <p xml:id="admda-l3t2c14-d1e164">Sextum signum est, quod omnis virtus corporea nobis communis est cum aliis animalibus
+          brutis : bruta autem quaedam habent omnes sensus et virtutes quae determinantur in tribus
+          cellulis capitis : anima autem rationalis cum suis viribus solis hominibus inest, in
+          quorum capitibus non determinantur nisi tres cellae : ergo anima rationalis cum suis
+          viribus non est virtus corporea.</p>
+        <p xml:id="admda-l3t2c14-d1e167">Septimum autem est, quod actiones organicarum virtutum post sexaginta annos in pluribus
+          debilitantur : et in illa aetate sapientia et scientia veniunt ad perfectionis statum, et
+          confortantur secundum intellectum.</p>
+        <p xml:id="admda-l3t2c14-d1e170">Octavum autem est demonstratio certa ducens ad impossibile : si enim intellectus esset
+          virtus operans vel mixta corpori, tunc non intelligeret formam nisi receptam in corpore :
+          quod autem recipitur in corpore, aut recipitur in puncto ex quo a quibusdam dicebatur
+          componi corpus : aut recipitur in ipsa corporis <choice> <orig>quantate</orig>
+          <reg>quantitate</reg> </choice> divisibili. Si autem recipitur in puncto, tunc oportet
+          quod punctum actu separatum esset a corpore, quia non potest esse subjectum formae nisi
+          actu ens : et hoc est falsum. Si autem diceretur quod reciperetur in puncto prout est in
+          compositione corporis, hoc est, secundum potentiam existendi punctum, tunc cum infinita
+          sint puncta, oportet quod esset ex infinitis, quod absurdum est. Si autem recipitur in
+          ipso corpore quanto, tunc efficitur divisibile : et sic forma intelligibilis divisibilis
+          esset per accidens, sicut albedo quae dividitur divisone corporis. Constat autem hoc esse
+          falsum, quoniam sunt conceptus quidam intellectus omnino indivisibiles, sicut conceptus
+          entis et unius et aliorum primorum. Si autem quaedam in rebus sunt divisibilia, sicut
+          denarius, et alii numeri : non tamen ratio eorum quae est in intellectu, est divisibilis.
+          Similiter autem licet diffinitio divisibilis sit, tamen diffinientia <pb ed="#B5" n="356"/> <cb ed="#B5" n="a"/> indivisibilia sunt. Et non potest dici, quod unum sit una parte
+          intellectus, et alterum in alia : quia tunc neutrum perfecte intelligeretur. Adhuc autem
+          quaecumque pars in se haberet alterum diffinientium, illa iterum foret divisibilis : et
+          tunc oportet non solum diffinitionem esse divisibilem, verum etiam quodlibet diffinientium
+          in infinitum. Adhuc autem cum diffinitio dividitur, nec sic dividitur sicut quantum in
+          media et medietatis media, sed dividitur penes ea quae exiguntur ad perfectum esse
+          alicujus quod diffinitur : intellectus ergo nullo modo est corpore utens.</p>
+        <p xml:id="admda-l3t2c14-d1e187">Nonum est etiam demonstratio certa per causam quae facit intelligibile : quoniam denudans
+          ipsum a mensura, situ, et figura, et aliis conditionibus materiae corporalis, facit ipsum
+          intelligibile : hoc autem esse non potest corporeum vel corpore operans, quoniam omne
+          corpus habet mensuram et quantitatem et figuram et situm : cum igitur intellectus
+          hujusmodi sit denudans formas intelligibiles, intellectus non potest esse utens
+          corpore.</p>
+        <p xml:id="admda-l3t2c14-d1e190">Decimum est, quo omnes Peripatetici concordanter probant eum esse separatum et
+          incorporeum : quoniam nihil utens forma infinita et indeterminata est nisi incorporeum,
+          cum omne corporeum utatur forma finita et determinata : universale autem est infinitum
+          potentia multitudinis et indeterminatam habens communitatem et non finitam quantitatem :
+          cum ergo intellectus intelligendo tali utatur forma, ipse est incorporeus, separatus, et
+          immixtus.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

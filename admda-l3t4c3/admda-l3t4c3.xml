@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT III.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT III.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t4c3">
+        <head xml:id="admda-l3t4c3-Hd1e128">CAPUT III.</head>
+        <head xml:id="admda-l3t4c3-Hd1e131" type="question-title">Quod nec intellectivus nec operativus secundum se sunt causa
+          motus secundum locum, sed duo horum vel tria simul.</head>
+        <p xml:id="admda-l3t4c3-d1e134">Sed neque ratiocinativum, scilicet pars animae quae ratiocinatur et deliberat de
+          operabilibus, nec etiam vis, quae vocatur intellectus speculativus, sunt secun<cb ed="#B5" n="b"/>
+          <!-- 397 b -->dum se causa efficiens hujus motus quem vocamus processivum. Hoc autem de
+          speculativo intellectu facile probatur : quoniam speculativus intellectus est, qui accipit
+          formas denudatas a materiis : et ideo nihil intelligit actuale per nos, quia omnis nostra
+          actio est in sensibilibus et materialibus : et ideo nihil decernit de fugiendo vel
+          prosequendo. Semper autem motus processivus omnis animalis, aut est actus fugientis
+          nocivum, aut prosequentis sive imitantis delectabile, sive conveniens. Cum enim
+          intellectus speculativus est de practicis, quaerens in eis rationem veri, non considerat
+          ea prout sunt practica, sed prout sunt speculativa, sicut est in scientia Ethicorum
+          doctrinali : tunc accidit, quod intellectus multoties intelligit id quod timendum est,
+          secundum rationem, licet non eodem modo intelligat quo timendum est, sed considerat
+          passiones ejus, differentias, et accidentia per se scientia doctrinali, sicut considerat
+          in aliis speculativis. Et similiter considerat aliquando id quod est laetum et delectabile
+          secundum rem, sicut quando ratiocinatur de delectatione venereorum quae est secundum
+          tactum, et non secundum visum, et quod ipsa est propter appetitum coitus ad generationem
+          ordinata : haec enim omnia speculativa sunt : et tunc non jubet intellectus timere vel
+          delectari, sed potius ostendit unum doctrinale, alias delectabile quod est in venereis :
+          propter rem tamen quae movet concupiscentiam, aliquando cor movetur, vel aliud membrorum,
+          sicut genitalia in quibus delectatio talis vel timor ostenditur : sed hoc non praecipit
+          intellectus, sed potius avertit ab illo : sed pronitas adjuncta facit hujusmodi motus
+          membrorum : et ideo non sequitur motus processivus ad rem illam, quae non est considerata
+          ut circa quae sit opus, sed ut ea circa quae est speculatio intellectus simplicis.</p>
+        <p xml:id="admda-l3t4c3-d1e141"> <pb ed="#B5" n="398"/> <cb ed="#B5" n="a"/> Amplius autem cum intellectus extendit se ad
+          particulare operabile, et decernit, et praecipit fugere aliquid aut prosequi sive imitari,
+          tunc adhuc non est sufficiens causa motus : quia saepe tale decretum intellectus practici
+          circa operabilia per nos, nullus sequitur motus processivus animalis : possibile enim est,
+          ut in Ethicis ostendetur, quod aliquis sanum habeat intellectum, et corruptum habeat
+          appetitum et desiderium : et ille bene praecipit intellectus de fugiendo turpi et de
+          imitando bono et honesto, ille tamen victus passione turpis, agit et movetur secundum
+          desiderium, et non movetur secundum intellectum : et talis vocatur in Ethicis quidem
+          incontinens. Potest autem vocari inabstinens, eo quod non abstinet ab his a quibus
+          intellectus praecipit abstinere. Hoc autem et argumento in simili videmus : quoniam
+          videmus quod habens artem medicinae infirmus, aliquando non sanatur : et hoc est ideo,
+          quia non movetur et operatur secundum medicinae praecepta : et hoc ostendit, quod alterius
+          quam intellectus et scientiae magis proprium sit agere et movere secundum scientiam et non
+          scientiae : quia etiam quando infirmus curatur, magis proprium movens habet quam scientiam
+          habet, licet secundum scientiam non moveatur : et similiter est in intellectu et scientia
+          practica, qui similiter se habet ad opera morum sicut scientia ad regimen corporis : et
+          ideo dicunt morales, quod scientia parum prodest ad opera, sed velle operari intellectum
+          multum prodest.</p>
+        <p xml:id="admda-l3t4c3-d1e148">Ex hoc autem forte aliquis crederet quod appetitus moveret. Et nos eodem modo ostendimus,
+          quod nec appetitus est sufficiens causa motus, nec sensus cum appetitu. Sunt enim quidam,
+          ut in Ethicis probatur, qui continentes vel abstinentes dicuntur, sicut religiosi et
+          eremitae, qui sentiunt motus passionum : <cb ed="#B5" n="b"/>
+          <!-- 398 b --> et tamen non consequuntur in opere : propter quod coguntur remanere in
+          regimine vero et honesto secundum quod praecipit intellectus : et tales sunt appetentes et
+          concupiscentes turpes delectationes, et tamen non sunt operantes ea quorum habent
+          appetitum et concupiscentiam, sed sequuntur intellectum. Licet ergo quodlibet istorum sit
+          imperfecta causa motus, tamen nullum istorum universalis est et sufficiens causa motus
+          animalium, qui vocatur processivus : oportet igitur quod sufficiens et universalis causa
+          motus, sit congregata ex duobus vel tribus, quorum unum discernat et praecipiat motum, et
+          alterum exsequatur. Et haec duo sunt in homine appetitus et intellectiva : intellectiva
+          enim operativa seu practica discernit et praecipit ad quid movendum est, et propter quid
+          et qualiter, et ubi, et quando, et quantum et caetera hujusmodi : appetitus autem sequitur
+          et perficit hoc quod praeceptum est ab intellectiva. Sic ergo duo in genere sunt moventia
+          in homine. Si autem dicuntur tria moventia, tunc erunt ista sic ordinata, quod duo sunt
+          sicut unum : haec autem tria sunt intellectus practicus, et appetitus, et phantasia, quae
+          est sicut intellectus, quoniam ipsa discernit motum et praecipit sicut intellectus : et
+          hoc dici oportet, quia multa animalia praeter scientiam intellectualem de particularibus
+          operabilibus sequuntur in motibus phantasias. In aliis enim animalibus praeter hominem aut
+          non est intellectiva, aut si abusive dicatur esse, in eis intellectus non erit ut ratio
+          ratiocinans quasi ex syllogismo, sed erit ut rectus a natura, sicut diximus in secundo
+          libro hujus voluminis : et ideo omnia quae similia specie similiter operantur. Haec igitur
+          sequuntur phantasiam. Dicamus igitur quod utraque haec sunt moventia secundum locum,
+          intellectus videlicet et appetitus, vel loco intellectus phantasia. Quotiescumque igitur
+          intellectui vel phantasiae appetitus consenserit motum praecipientibus, tunc erit motus et
+          erit talis motus qualis est <pb ed="#B5" n="399"/> <cb ed="#B5" n="a"/> consensus
+          appetitus ad intellectum vel phantasiam : consensus autem hujus ad phantasiam, est uno
+          modo et ad intellectum duobus modis : phantasia autem cum sit discretiva particularium
+          sensibilium, non praecipit motum nisi circa delectabile ut nunc praesens. Et ideo videmus
+          caetera animalia non esse continentia et abstinentia a delectabilibus in sensu, quae sunt
+          ut nunc delectabilia : intellectus autem practicus non ex conversione ad oculum, sed ex
+          syllogismo praecipit operabile : et ideo cum syllogismis non peccat, tunc est motus
+          abstinentis et continentis : Verbi gratia, cum dicat intellectus, quoniam turpe est
+          fugiendum, et accipiat fornicari cum Helena esse turpe, eo quod est alieni thori violatio,
+          appetitus exsequens hujusmodi motum est continens, alias continentis. Aliquando autem
+          syllogismus hic in minori propositione obnubilatur, alias obnubilatur, ex nimio aestu
+          concupiscentiae : et licet tunc bene universaliter praecipiat intellectus, tamen vis
+          concupiscentiae non sinit per beneplacitum videre particulare quod sub universali
+          accipiendum erat : et si videt illud, non videt nisi speculative : oportet autem in
+          operabilibus per beneplacitum videre, quia visio haec mixta est effectui qui est circa
+          quod praecipitur operandum esse. Et in hac propositione omnis malus incontinens ob dictam
+          causam ignorans dicitur : et in minorem propositione sic accepta non consentit appetitus
+          sub universali : et ideo sequitur perversus motus. Movens autem intellectus est in
+          universali propositione. In minori autem permixtus est phantasiae, quae tacta est per
+          affectum : et haec est causa quod intellectus dicitur semper rectus, et phantasia
+          aliquando recta, aliquando non recta. Intellectus autem quia in homine ex syllogismo et
+          ratione movet, ideo sequuntur opera hominis, verecundia, et gloria : quia turpe est
+          abjicere regnum digniorum, et sequi regimen ejus quod commune habemus cum bestiis. Et haec
+          est causa, quod <cb ed="#B5" n="b"/>
+          <!-- 399 b --> peccatum et poena sequantur hominis opera : similiter autem laus, et haec
+          non sequuntur opera aliorum animalium. Haec etiam causa est, quod opera honesta dicuntur
+          esse secundum naturam hominis in quantum homo est : opera autem turpia et inhonesta
+          dicuntur esse contra naturam hominis in quantum est homo.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,373 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l1t2c7">
+        <head xml:id="admda-l1t2c7-Hd1e128">CAPUT VII.</head>
+        <head xml:id="admda-l1t2c7-Hd1e131" type="question-title">De disputatione contra opiniones Democriti et Platonis de
+          motibus animae, quibus movetur in corpore et movet corpus.</head>
+        <p xml:id="admda-l1t2c7-d1e134">Quidam autem eorum qui diffiniunt animam per motivum esse, dicunt eam movere corpus in
+          quo est localiter in eo quod ipsa localiter movetur, ut Democritus qui dicit similem
+          causam esse motus animati corporis, qualem dixit Philippus quidam Didascalus sive doctor
+          comoediarum. Dicebat enim comicos convocare in villis homines ad carmina audienda, per hoc
+          quod fierent imagines deorum mobiles, propter quarum spectaculum homines confluerent,
+          referens Daedalum antiquitus fecisse ligneam imaginem Minervae, mobilem in omnibus
+          membris, ita quod videbatur cantare per motum linguae et tripudiare. Causa autem motus
+          fuit, quia in concavo imaginis fuerunt <pb ed="#B5" n="154"/> <cb ed="#B5" n="a"/> infixa
+          organa in argento vivo, et ad motum illius moveri videbant, sicut adhuc in cellis et
+          imaginibus : pedes etiam stabant super rotulas parvulas, in quibus arcus concavi fuerunt
+          et distincti per cellulas : et cum argentum vivum descendebat in anteriori arcu per
+          cellulas, tunc posterior arcus elevabatur et convertebatur tota : et tunc imago movebatur
+          de loco ad locum : quia necesse habuit, quod ad eamdem partem moveretur ad quam movebatur
+          fusile sive argentum vivum. Et similem causam motus animalium ponit Democritus. Dicit enim
+          quod indivisibiles sphaerae in se moventur, eo quod aptae natae sunt non manere sive
+          quiescere propter causam superius inductam : et cum sic moventur sphaerae illae, tunc
+          trahunt secum et movent totum corpus in eamdem partem, ad quam ipsae moventur. Et hoc leve
+          est destruere. Primo enim quaeremus a Democrito, quae sit causa quod quiescunt animalia
+          quando volunt : hujus enim causa non est sphaera indivisibilis quae nunquam quiescere
+          potest. Constat autem quod idem causa processivi motus et quietis in animalibus. Qualiter
+          enim indivisibilis sphaera faciat quietem, vel difficile vel impossibile est dicere
+          Democrito : difficile quidem si fingat constrictionem atomorum facere quietem, quando sunt
+          in pleno : impossibile autem, si nunc velit adaptare causam : Democritus enim in pleno
+          dixit has sphaeras quiescere, et in vacuo moveri. Universaliter autem loquendo ex his quae
+          apparent ad sensum, non ex tali causa causatur animalium motus processivus quasi sit ex
+          necessitate alicujus quod quiescere non potest, sed potius ex voluntate libera et
+          intellectu causatur, quae non necessario movent, sed quando volunt.</p>
+        <p xml:id="admda-l1t2c7-d1e141">Eodem autem modo et Timaeus philosogizat, volens reddere causam naturalem quare anima
+          movet corpus, et osten<cb ed="#B5" n="b"/>
+          <!-- 154 b -->dit causam ex necessitate moventem et non ex voluntate. Dicit enim quod in
+          eo movet corpus in quo ipsa in seipsa movetur. Ipsam autem in seipsa dicit necessario
+          moveri. Movet autem corpus, quia complexa ad ipsum sicut forma incorporata corpori et
+          connexa eidem secundum omnes vires suas : dicit enim Plato quod anima constituitur ex
+          harmonicis numeris, et dispartitur per numeros in partes corporis, quos numeros vocat
+          Plato elementa : et ideo dicit eam componi ex elementis sive constitui, hoc est, ex primis
+          numeris elementalium. Constituitur autem sic ex elementis, quatenus habeat sensum et
+          potentiam cognoscitivam omnium ex numeris harmonialiter componentibus eam : quia, sicut
+          diximus superius, nisi componeretur ex numeris primordialibus, non cognosceret omnia :
+          quia non esset in potentia respectu omnium, nisi talem haberet harmoniam, quod esset
+          tertii ordinis : quia tunc ex illuminatione fluente percipit causam primam et
+          intelligentias quae praecedunt eam in ordine naturae, et sequentia percipit ex capacitate
+          potentiae, quae est ante formam corporalem : et per hos numeros fert totum mundum quasi in
+          seipsa, eo quod habet motus consonantes ad principales partes mundi. Dixit enim Plato,
+          quod Deus deorum opifex deorum omnium, primo fecit orbem rectum, quando dedit ei naturam
+          ignis qui est rectarum dimensionum et recti motus, sicut diximus in secundo Coeli et Mundi
+          et in primo. Deinde ut ordinate et aequaliter accederet et recederet causando generationem
+          et corruptionem reflexit rectitudinem dimensionum ejus in circulum : eo quod rectum cum
+          sit unius simplicis formae, principium est lineae circularis quae est duarum formarum,
+          quarum una est concavitas, et alia convexitas. Habita autem figura et motu circularibus,
+          non fuit sufficientia in motu circulari qui est super polos mundi ab Oriente in
+          Occidentem, et per Occidens regyrando in Oriens : quoniam uno modo se habens non acce<pb ed="#B5" n="155"/> <cb ed="#B5" n="a"/>dit et recedit, sed oritur et occidit super easdem
+          partes eodem modo. Sic in diversis locis non diversa causarentur : propter quod dixit
+          Plato, quod circulum unum Deus deorum dominus divisit in duos circulos dupliciter
+          coordinatos, quorum unus est aequinoctialis, qui movetur super polos mundi, faciens motum
+          diurnum, qui est motus orbis primi. Secundus autem est circulus signorum, qui habet polos
+          proprios mobiles in duobus parallelis, quorum unus est Aquilonaris poli, et alter
+          Meridionalis, super cujus polos omnes stellae moventur : et isti circuli sunt rerum
+          coordinati : quia unus facit longitudinem in omnibus his quae generantur ab orbe, alter
+          autem latitudinem : et motus qui est super polos ejus, est a Meridie in Aquilonem et e
+          converso inter duos solstitiales circulos. Alterum autem illorum circulorum, qui est
+          circulus signorum, divisit in septem circulos planetarum, hoc est, Saturni, Jovis, Martis,
+          Solis, Mercurii, Veneris, et Lunae, quorum omnium motus est a Meridie in Septentrionem
+          super polos orbis signorum : et hos motus dixit et bene principia omnium motuum naturalium
+          : animam autem posuit, sicut superius diximus, in confinio aeternitatis et temporis, et
+          praecipue animam mundi, cujus particulares animae sunt tanquam imagines : et ideo dixit
+          etiam in anima secundum naturam esse aspectum rectum, eo quod cognoscendo egreditur
+          directe super rerum rationes et numeros, quibus ipsae res constituuntur. Hunc autem
+          aspectum reflexit in motibus animae in circulum : quia anima a se incipit, ut dicebat,
+          habens in se omnium rerum rationes, et quae excitatae a rebus extra efficiuntur principium
+          scientia : et ideo dixit Plato, quod cum anima progreditur recte in res extra, reflectitur
+          cognitio rerum in seipsa : quoniam in se cognoscit eorum quae sunt rationes, et
+          recordatur. Dicit enim Boetius in Consolatione philosophiae, quod si Platonis musa
+          personat verum, quod quisque dixit immemor recordatur : et sic <cb ed="#B5" n="b"/>
+          <!-- 155 b --> per reflexionem recti in circulum causatur in anima veritas intellectus. In
+          superioribus autem sunt duo ordines motuum et motorum in genere. Unus quidem primus motus
+          et motor, qui est aplanes vocatus, quasi sine errore existens : et rectus, qui est motus
+          diurnus. Alter autem motus est sive ordo intelligentiae secundi ordinis, et motus
+          latitudinis zodiaci, qui dicitur motus planes, quasi erraticus : quia in eo sunt
+          digressiones multae diversorum planetarum : et sic etiam est in anima, in qua movet semper
+          intellectus recte et sine errore. Phantasia autem et concupiscentia et recte et non recte,
+          sicut probabitur in sequentibus : et ideo in anima dixit esse duos primos circulos sicut
+          in coelo, et duos primos motus. Alterum autem dixit in septem dividi, qui est sub
+          phantasmatibus, et mole carnis praegravatur : unde dicit animam in sphaera Saturni
+          accipere memoriam longam, et in sphaera Jovis accipere ratiocinationem probabilium sive
+          opinionem, in sphaera autem Martis irascibilitatem, et in sphaera Solis sensibilium
+          illustrationem, in sphaera autem Mercurii aestimationem nocivi et convenientis, et in
+          sphaera Veneris concupiscibilitatem, et in sphaera Lunae motus quos movet in sequendo
+          naturam corporis, ut attrahendo, nutriendo, augendo, et generando. Omnes enim isti septem
+          gyrovagi quasi sunt motus aliquando recti, aliquando non recti, et omnes in circulum
+          reflectuntur incipiendo ab anima, et in animam terminari : quoniam Plato dixit quod omnium
+          species sunt in anima, quod non nisi excitatur a rebus extra. Dicebat etiam animas ab
+          inito factas in generibus et in comparibus stellis, et quando descendunt, tunc per
+          incorporeum descendunt, et in orbe quidem sunt rectorum motuum, et in <choice>
+          <orig>descendu</orig> <reg>descensu</reg> </choice> per orbes planetarum accipiunt vires
+          et motus quos diximus, et paulatim usque ad onus carnis deprimuntur : et ibi inebriatae
+          cratere lacteo, qui est dulcedo carnis, quasi carnales efficiuntur, et obliviscuntur
+          superioris harmoniae, cujus tamen simi<pb ed="#B5" n="156"/> <cb ed="#B5" n="a"/>litudinem
+          et species in se habent. Quando autem excitatae redeunt in corpore ad proprium bonum et
+          innatum sibi secundum scientias et virtutes, tunc reascendunt per geminas ad stellas
+          compares. Si autem sunt mali meriti, in secunda transcorporatione efficiuntur ferae, vel
+          bestiae aliae moribus eorum congruentes : et de hoc alibi in numeris nostris locuti sumus.
+          Dicebat autem omnia haec Plato, tanquam coeli motus essent animae motus, et e
+          converso.</p>
+        <p xml:id="admda-l1t2c7-d1e170">Nos autem disputantes contra haec quae dicta sunt, primo dicimus quod non bene contingit
+          dicere, quod anima sit magnitudo vel virtus in corpore quod magnitudinem habet existens :
+          et hoc tamen sequitur ex dictis Platonis, ubi dicit quod anima secundum harmonicos numeros
+          aptata est corpori. Si enim connaturalis est corpori sicut visus oculo, vel quantitas
+          magnitudini, oportet quod aut sit magnitudo vel virtus aliqua in magnitudine existens.
+          Dico autem quod hoc non bene dicitur, et tamen dicitur. Plato enim vult quod anima hujus
+          omnis mundi talis sit, sicut est anima illa quae aliquando, hoc est, in quibusdam vocatur
+          intellectus : dixit enim animam mundi esse intellectualem. Causa autem quare hoc a Platone
+          dicatur, est quia intellectualis anima non est ut anima sensibilis vel desiderativa, et
+          non possunt eis aliqualiter aptari proprietates circuli : quia non revertuntur supra se
+          sicut intellectualis anima quae incipit a se quaerendo de intelligibili, et reflectitur
+          supra se, quando non invenit ipsum : nec est anima sicut haec sensibilis terra quae non
+          habet nisi motum rectum per distantiam sui a coelo. Sed anima intellectualis est imago
+          aeternitatis, et quodammodo causa temporis : et ideo superiorum motus inveniuntur potius
+          in ea quam in alia, quia ipsa est quasi quoddam principium naturae : et ideo motus primi
+          in natura in ea inve<cb ed="#B5" n="b"/>
+          <!-- 156 b -->niuntur. Sed contra hoc obviantes dicimus, quod si tales sunt motus
+          intellectus, tunc sunt motus intellectus corporales : et sequitur quod ipse intellectus
+          aut sit corpus, aut virtus in corpore, quae non explet motus suos nisi per corpus : quia
+          circulatio forma est corporalis actus, et actus corporalis est alicujus operantis virtutis
+          corporeae.</p>
+        <p xml:id="admda-l1t2c7-d1e178">Dicamus igitur, quod si intellectus debet habere continuitatem, quod rationabile est quod
+          habeat continuitatem talem qualem habet operatio ejus, quae vocatur intelligentia sive
+          intelligere. Similiter autem et ipsa actio intellectus sive intelligere, rationabile est
+          quod habeat formam eorum quae intelliguntur, quae vocantur intelligentia sive intellectiva
+          vel intellecta : eo quod actus sunt praevii potentiis secundum rationem et objecta
+          actibus. Sunt autem intellecta consequenter et non continua, et sunt magis similia numero
+          quam continuo : ergo et intellectus non est sic continuus ut circulus : sed oportet ut aut
+          sit impartibile, aut non continuum, sicut magnitudo sive quantitas est continua. Si enim
+          detur quod intellectus est magnitudo quaedam continua, tunc quaeratur a Platone, qualiter
+          possit intelligere magnitudinem mathematicam, vel aliam quamcumque quantitatem continuam :
+          aut enim intelligit eam accipiendo totam simul, aut accipiendo partes, et si intelligit
+          accipiendo partes, aut hoc est ita quod accipiat partes indivisibiles quae sunt puncta, si
+          tamen puncta oportet partes vocare, quia de hoc non facimus modo mentionem aliquam, eo
+          quod ab adversariis supponitur puncta partes esse, ex quibus componitur magnitudo, quia
+          hoc ipsi asserebant : aut accipit partes divisibiles, quae sunt verae partes magnitudinis.
+          Quocumque autem istorum modorum fiat acceptio intellectus, non est nisi tactus quidam quo
+          magnitudo quae est intellectus <pb ed="#B5" n="157"/> <cb ed="#B5" n="a"/> tangit
+          magnitudinem quae intelligitur quando simul sunt in ultimis. Et siquidem intellectus
+          accipiendo magnitudinem intellectam, tangit puncta ipsius, cum puncta sint infinita, in
+          qualibet magnitudine infinita tangendo quodlibet non contingat pertransire tangentem, et
+          sequitur quod intellectus nunquam finiet quantumcumque parvam magnitudinem intelligendo
+          quam scimus esse finitam. Si autem tangit secundum partes quae magnitudinem habent, hoc
+          dupliciter potest fieri : aut enim illae sunt aliquotae partes quae numerant totum, ut
+          decem decimae, vel duae mediae, vel quatuor quartae, et sic de aliis : aut non sunt
+          aliquotae, et sic non numerant totum. Et si tangit aliquotas intelligendo magnitudinem,
+          tunc multoties intelligendo tangit idem. Si autem intelligendo tangit eas quae non sunt
+          aliquotae, cum tales infinitae sint in qualibet magnitudine, oportet intellectum
+          intelligendo infinities tangere idem : licet enim tangat diversas partes in numero, ipsae
+          tamen omnes sunt idem ratione et intellectu : quia omnes sunt unius speciei et formae
+          secundum quod sunt partes continui. Haec autem omnia falsa esse experimur in intellectibus
+          nostris : quia videmus quod quando intellectus noster intelligit magnitudinem aliquam,
+          intellectus noster non tangit eam prout intelligitur, nisi semel. Si autem dicat aliquis,
+          quod quia omnes partes magnitudinis intellectae sunt unius rationis, ideo sufficiens est
+          unamquamque tangere partem, et non oportet ipsum tangere alias, quia omnes intelligit per
+          illam quamcumque tangit : tunc quaeramus quare secundum hoc oportet ipsum esse sicut
+          circulum aut etiam omnino, sive etiam universaliter esse alicujus magnitudinis : quia si
+          forma circuli bene tangeret partem illam, et sine magnitudine existens, bene esset
+          acceptivus speciei magnitudinis, sicut et in veritate modo est.</p>
+        <p xml:id="admda-l1t2c7-d1e185"> <cb ed="#B5" n="b"/>
+          <!-- 157 b --> Redeamus autem ad partes primae divisionis, et dicamus quod circularis
+          intellectus non tangit intellectam magnitudinem secundum partes, sed necessarium est ut
+          totus totum tangat : et cum totum non sit extra partes suas secundum quod tangitur, non
+          potest tangi totum, nisi secundum partes et in partibus suis omnibus : et tunc quaeramus
+          sicut prius, quis erit partium tactus, quando sicut totum tangit intelligendo circularis
+          noster intellectus ? Si autem forte dicat quis, quod intellectus noster non est circulus,
+          neque circularis formae : contra hoc est, quia in veritate oportet quod intellectus sit
+          hic circulus de quo diximus. Jam enim scitum est, quod actio et motus intellectus est
+          intelligentia sive intelligere, et intelligentia est circulatio, ut dicit Plato, sive
+          motus circuli ; ergo oportet quod intellectus sit circulus : motus enim circuli circulatio
+          est, et motus intellectus intelligentia est. Sicut igitur se habet motus ad motum, ita
+          mobile ad mobile : sed dicit Plato intelligentiam esse circulationem : ergo necesse habet
+          dicere intellectum esse circulum. Si autem hoc concedatur, oportet quod intelligentia
+          intellectus semper aliquid intelligat idem, et continue reflectatur super illud ; et hoc
+          oportet propter illud, quod noster intellectus dicitur esse sicut perpetua circulatio,
+          quae semper in idem revertitur. Et hoc quidem falsissimum est, quia nulla intelligentia
+          est circularis. Si enim esset aliqua circularis, oporteret quod esset aut practica quae
+          est sicut artes mechanicae, quae ratiocinantur de operibus : aut speculativae, quarum
+          finis est veritas scita : et nos videmus quod omnes practicae directe vadunt ad finem
+          suum, qui est id quod operatum et constitutum est per artem, sicut domus, aut lectus : et
+          non revertuntur. Speculativae vero terminantur rationibus diffinitionum, quae sunt
+          principia in ipsis, et procedunt directe ad conclusionem. Ratio enim omnis quae certa est,
+          aut est incomplexi, aut complexi. Et si est qui<pb ed="#B5" n="158"/> <cb ed="#B5" n="a"/>dem incomplexi, per ipsam habemus scientiam quidditatis rerum quae vocatur scientia quid
+          : et illa est diffinitio. Si autem esse complexi, per ipsam acquirimus scientiam propter
+          quid aliquid inest subjecto : et haec est demonstratio. Et in scientiis intellectivis non
+          habemus aliud, quia probabilium est opinio, et non intellectus : demonstrationes autem
+          sunt finitae, quia sunt a principio quod est causa dicens propter quid, quae est medius
+          terminus in eis : et finem habent determinatum ad quem procedunt, qui est aut conclusio,
+          aut syllogismus. Si enim concludantur ultimae conclusiones, tunc est status in eis. Si
+          autem non concludantur illae, tunc conclusio sumetur in alio syllogismo pro propositione,
+          et adjungetur aliud medium et alia major extremitas, et concludetur alia conclusio : et
+          ideo non revertuntur in idem omnino a quo inceperunt, sicut facit circulatio circuli.
+          Accipiunt enim semper medium aliud, et ultimam extremitatem aliam, et procedunt ad finem
+          determinatum. Ultimum autem est extremitas, quia extremum et ultimum sunt idem : et sic ab
+          hoc procedit in finem quo erit status. Circulatio autem reflectit se in principium unde
+          incepit. Diffinitiones autem omnes quibus nos scimus quid est res, sunt finitae, quia
+          diffinientia in generibus primis stant : eo quod extra genus primum nihil univocum
+          invenitur quod in diffinitione possit poni : ergo intellectus non est circulus. Amplius
+          cum circulatio sit circuli revolutio, quae multoties fit, sicut revolutio coeli, tunc
+          multoties intelligit idem, et deveniet ab eodem in idem intelligendo. Cum autem id a quo
+          procedit intellectus, sit motum per se : id autem in quod procedit, non sit motum per se,
+          erit idem motum per se, et non motum per se : et sic contradictoria de eodem
+          verificantur.</p>
+        <p xml:id="admda-l1t2c7-d1e196">Si autem forte aliquis dixerit quod Plato non loquitur secundum veritatem, <cb ed="#B5" n="b"/>
+          <!-- 158 b --> sed secundum metaphoram, et assimilavit intellectum motui circuli : est
+          quidem hoc peccatum in problematibus, quia contra metaphoras non contingit uti rationibus
+          obviantis. Tamen si neque fiat vis hoc modo, peccatum adhuc est : quia intellectus magis
+          assimilatur quieti quam motui : et similiter est de syllogismo. Diximus in V Physicorum,
+          quod si nos consideremus id in quo quiescitur, tunc id est forma quae intenditur per motum
+          totum, et est perfecta, cum motus sit actus imperfectus. Intelligere autem non est
+          imperfectus actus, sed perfectus : et similiter syllogismus : et ideo ei in quo quiescitur
+          a motu, magis assimilatur. Nihil enim perfectius est in anima quam intelligere secundum
+          actum, et considerare per syllogismum : quoniam hoc est perfectius quam potentia
+          intelligens, et quam habitu intelligens : et ideo illa operatio beatitudinis pars est, et
+          optimum animae intellectivae, admirabiles habens delectationes, quibus nihil est
+          contrarium. Et ideo etiam diximus in VII Physicorum, quod in sedendo et quiescendo fit
+          anima sciens et prudens.</p>
+        <p xml:id="admda-l1t2c7-d1e203">Si autem forte aliquis dicat, quod intellectus est numerus complexus corpori et non
+          corpus, tunc sequitur ad minus quod sit virtus operans in corpore, sicut visus in oculo :
+          quia virtus complexa ad corpus et proportionata, est sic corpori immixta, quod non
+          operatur sine ipso : eo quod ipsa virtus est actus corporis vel partis ejus : et tunc
+          intelligere non est beatitudo et felicitas : quia id non est leve, sed est quasi motum ex
+          obligatione corporis in quo non est aliquid beatitudinis. Naturae autem est intelligere si
+          intellectus est virtus complexa ad corpus. Si enim motus ejus qui est intelligentia vel
+          intelligere est extra naturam intellectus, et est a corpore in quo est, tunc laborio<pb ed="#B5" n="159"/> <cb ed="#B5" n="a"/>sa est actio, sicut videre, et audire, et
+          operationes quae in organis sunt corporalibus. Laboriosum enim est commisceri corpori in
+          operando, neque posse habere operationem a corpore absolutam. Adhuc autem cum anima
+          intellectualis secundum Platonem descendat per Capricornum a compare stella, et sit in
+          desiderio ejus in corporari, ut dicit, oporteret intellectum fugere incorporationem.
+          Melius enim est intellectui non esse cum corpore, ita quod sit immixtus ei et non
+          separatam habeat actionem, quam esse cum corpore et incorporatum et immixtum ei in tantum
+          quod non agat sine ipso. Et hoc quidem sic esse consuetum est dici, et multis videtur,
+          quia etiam notum est quod intellectus nullius corporis est actus, et habet operationem a
+          corpore liberrimam.</p>
+        <p xml:id="admda-l1t2c7-d1e210">Peccavit autem Plato adhuc, quia cum diceret coelum circulariter moveri, non dedit hujus
+          causam manifestam, praecipue cum poneret coelum esse naturae ignis, cujus est recte
+          moveri, nisi reflectatur in circulum jussu Dei deorum : et tunc accidit ei circulariter
+          moveri et non convenit ei per se, neque etiam animae secundum Platonem substantialiter
+          convenit circulariter ferri, sed secundum accidens sic movetur, in quantum aspectus ejus
+          qui natura est rectus, in circulum est reflexus. Nec potest dici quod causa motuum animae
+          sit corpus, quia anima ponitur movere et magis causare motum in corpore, quam e contrario.
+          Igitur ex omnibus his quae dicta sunt animam male dici esse moventem se circulariter, et
+          per hoc movere corpus. Adhuc Plato non assignavit aliquam causam, quare melius dicitur et
+          magis congruit Deum deorum animam sic fecisse ut moveretur, quam ut quiesceret. Nec
+          assignavit causam quare melius est ipsam circulariter movere seipsam, quam alio motu
+          locali : et ideo dictum suum sine causa est, et sine consideratione philosophiae : quia
+          Philoso<cb ed="#B5" n="b"/>
+          <!-- 159 b -->phorum est causas ostendere eorum quae dicunt.</p>
+        <p xml:id="admda-l1t2c7-d1e217">Quoniam autem haec intentio qua quaerimus, qualiter anima a Deo deorum exivit in esse et
+          qualis sit in seipsa, utrum quiescens vel mota, magis propria est alteris rationibus quas
+          in prima philosophia inducemus, dimittamus eam nunc, et quaeramus physicas opiniones circa
+          istas passiones animae et causas. Dicamus igitur et huic opinioni et pluribus aliorum
+          opinionibus accidere unum commune inconveniens : et hoc est, quod omnes conveniunt in hoc
+          quod anima copulatur corpori sicut motor et actus ejus, et nihil determinant de corpore,
+          propter quam scilicet causam et qualium dispositionum corporis sit anima motor et
+          actus.</p>
+        <p xml:id="admda-l1t2c7-d1e221">Et tamen absque omni dubio videtur hoc esse necessarium : quia non quodlibet agens agit
+          in hoc patiens, neque agens in quodlibet patiens : et similiter non quilibet motor movet
+          quodcumque mobile, sed propter communicationem quae est proportionem inter hoc agens et
+          hoc patiens, illud agit, et hoc patitur, et hoc movet, et illud movetur. Licet autem
+          materia et forma non communicent in aliqua alia forma, vel in aliqua alia materia, quae
+          sit media inter ea, eo quod non per medium forma jungitur materiae, tamen haec materia
+          propter appropriatam privationem quae est in ea, efficitur propria materia hujus formae :
+          et similiter hic motor proprius efficitur hujus moti : et haec privatio in essentia est
+          idem formae, licet secundum esse sit differens : et in subjecto est idem materiae, licet
+          in essentia sit differens. Et horum explanationem perfecimus in primo Physicorum circa
+          finem. Similiter autem dicimus animam non per medium uniri corpori : et hoc patet in
+          vegetabili. Sed vegetabilis <pb ed="#B5" n="160"/> <cb ed="#B5" n="a"/> non est medium quo
+          sensibilis anima corpori uniatur : quia si esset medium, esset dispositio materiae : et
+          adhuc sequeretur necessario ipsum esse accidens in animalibus : et hoc non est verum : sed
+          dicimus essentiam animae sensibilis immediate esse conjunctam corpori animalis : sed haec
+          essentia habet de se manentes virtutes plurimas, quarum quaedam sunt vegetativae, et
+          quaedam sensibiles : et ideo vegetativum est in sensitivo sicut potentia et pars
+          potestatis ejus, et non praecedit ipsum dispositio. Eodem autem modo penitus est de
+          vegetativo et sensitivo per comparationem ad intellectualem animam in homine : et haec in
+          sequentibus demonstrabuntur per rationes necessarias et physicas. Hic autem supponamus
+          communicationem esse hujus animae secundum speciem ad hoc corpus, et non ad aliud secundum
+          speciem, et hujus animae secundum individuum ad hoc corpus, et non ad aliud secundum
+          individuum. Et ideo si esset conjunctio animae ad corpus, vel agentis ad patiens
+          contingens, et non essent dispositiones determinantes unum alii, non esset communicatio
+          inter unum et aliud.</p>
+        <p xml:id="admda-l1t2c7-d1e228">Et ideo videntur quidam loqui de anima ac si sit aequaliter aptatum ei quodlibet corpus.
+          Dicunt enim tantum in communi quid sit anima, quod videlicet sit aut sphaera
+          indivisibilis, aut numerus movens se, ac si omnis anima omni animae sit ejusdem naturae et
+          ejusdem speciei : et nihil dicunt de natura corporis quod susceptibile est animae, quare
+          hoc habeat figuram equinam, et hoc humanam. Est ista differentia quam videmus in figura et
+          situ organorum et membrorum diversificari in omni animali, ac si ipsi arbitrentur fabulas
+          Pythagorae in legibus suis dictas esse veras. Volens enim Pythagoras facere cives colere
+          pietatem et justitiam, fabulatus est animas malorum civium exire de uno corpore <cb ed="#B5" n="b"/>
+          <!-- 160 b --> in aliud deterioris conditionis, ita quod anima hominis ingredietur corpus
+          leonis vel asini. Quod nullo modo fieri potest secundum naturam, quoniam non est
+          diversitas in figuris et organis corporis, nisi propter diversitatem animarum : quia
+          diversitas materiae est propter diversitatem formae. Sicut enim videmus in artibus
+          mechanicis, quod <choice> <orig>quaebet</orig> <reg>quaelibet</reg> </choice> quaerit sua
+          propria instrumenta, per quae explet suas operationes, et non potest explere per alia :
+          ita est de animabus diversis in specie et numero. Architectonica enim quae struit domos,
+          quaerit securim et dolabrum, et non potest perficere opus suum per fistulam, vel alia
+          instrumenta alterius artis. Ita est etiam, quod anima leonis quaerit membra leonis sibi,
+          per quae et non per alia potest explere operationes suas. Determinatum igitur sit de
+          corpore cujuslibet animae, si debeat sciri bene de animarum diversitate : et qui non
+          determinat de anima prout exigit hoc corpus vel illud, facit ac si aliquis in artibus
+          putet quod architectonica quae est constructiva domus, induat sibi instrumentum tibicinum,
+          sicut fistulas et folles, et per illas faciat opus domus.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT III.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT III.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c3">
+        <head xml:id="admda-l2t3c3-Hd1e128">CAPUT III.</head>
+        <head xml:id="admda-l2t3c3-Hd1e131" type="question-title">De adaptatione dictae distinctionis potentiae ad potentiam
+          sensitivam.</head>
+        <p xml:id="admda-l2t3c3-d1e134">Volentes autem adaptare ea quae dicta sunt ad potentiam sensitivam, dicendum quod mutatio
+          potentiae sensitivae ad primam perfectionem ipsius, est a generante : potentiarum enim
+          apprehensivarum quaedam complentur prima perfectione a materia vel natura, et quaedam per
+          experimentum et studium : a natura quidem, sicut potentia sensitiva ad sentire : per
+          experimentum autem et tempus, sicut intellectiva : ab ipsa enim generatione generante et
+          dante formam sensitivam, datur etiam actus primus sensus, quo sensus sentire potest quando
+          voluerit, quando nihil est extra prohibens. Dico autem extra prohibens nihil, quia et
+          medii aliqua dispositio impedire potest sensum, et absentia sensibilis : sicut et
+          scientiae habens habitum, considerare poterit quando voluerit, quando nihil est extra
+          prohibens.</p>
+        <p xml:id="admda-l2t3c3-d1e137">Cum igitur generatum est complete sentiens, tunc jam habet habitum perficientem sensum
+          prima perfectione, quae est sicut scientia, quae est primus actus in intellectu : sentire
+          autem secundum actum qui est secunda perfectio, quod est <cb ed="#B5" n="b"/>
+          <!-- 235 b --> quando recipitur species sensibilis in sensu, est sicut considerare se
+          habet ad scientiam. Sed in hoc est differentia, quia activa et motiva ad operationem
+          sensus sunt extra, sicut visibile et audibile : eo quod species sensibilium non movent
+          sine praesentia materiae : et quia materiae praesentiam necesse est esse extra, ideo
+          sensibilia moventia sensum ad sentire secundum actum, necesse est esse extra in omnibus
+          sensibus.</p>
+        <p xml:id="admda-l2t3c3-d1e144">Hujus autem causa est, quia, sicut jam tetigimus, singularium secundum actum est sensus,
+          hoc est, sensus secundum actum secundum quem sentire est singularium, quae singularia sunt
+          per materiam individuata, sine cujus potentia forma sensibilis nullo modo apprehenditur.
+          Scientia autem est eorum quae actu universalia sunt : et haec sunt abstracta non solum a
+          materiae praesentia, sed ab omnibus quae accidunt formae secundum quod est in materia
+          individuata, sicut est figura, et ubi, et quando, et caetera hujusmodi. Haec autem
+          universalia sic separata, quodammodo sunt in ipsa anima : quia imagines sunt in anima : et
+          ab ipsis abstrahitur universale quod movet intellectum possibilem : et ideo non
+          simpliciter, sed quodammodo sunt in anima. In phantasmate autem universalia sunt non
+          secundum actum universalia, sed potentia quae per abstractionem intellectus fiunt
+          universalia simplicia : et quia universale in phantasmate est intus in anima, et non
+          extra, nec exigit materiae praesentiam, ideo est in potestate animae intelligere cum
+          velit. Sentire autem non est in potestate ejus cum velit, quia movens sensum exigit
+          materiae praesentiam, quae non est praesens in anima : assentire enim necessarium est
+          sensibile movens sensum secundum materiae praesentiam. Sicut autem diximus de sensu qui
+          exigit materiae praesentiam, ita se habet de scientia sensibilium secundum <pb ed="#B5" n="236"/> <cb ed="#B5" n="a"/> quod sensibilia sunt : causa enim ipsa sciendi et sentiendi
+          est species movens sensum secundum materiae praesentiam, sicut causa intelligendi est
+          universale in phantasmatibus movens intellectum. Causa autem quod oportet esse sensibile
+          extra, est quia sensibilia sunt singularium quae sunt in materia, et haec sunt exteriora.
+          Sed quia de his quae ad intellectum pertinent, hic certificare non possumus, tempus fiet
+          in quo accipiemus principium loquendi de ipsis in sequentibus hujus libri.</p>
+        <p xml:id="admda-l2t3c3-d1e152">Nunc autem tantum sit determinatum, quod non simpliciter sive uno modo dicitur id quod in
+          potentia dicitur aliquid, sed aliud quidem dicitur potentia materiali et imperfectum,
+          sicut dicimus puerum posse militare : aliud autem, sicut dicimus posse militare eum qui
+          habet aetatem et habet habitum militiae, non militat autem in opere. Et sic similiter
+          dicitur dupliciter sensitivum, sicut diximus, sicut si dicamus imperfectum secundum organa
+          sensus posse sentire, et sicut dicamus posse sentire perfectum secundum organa sensus.</p>
+        <p xml:id="admda-l2t3c3-d1e155">Et quia horum sic in potentia existentium differentia usualiter non est nominata, ideo
+          oportuit nos determinare, quia sic differunt et quomodo differunt, ne potentia activa
+          semper perfecta esse credatur : et quia nomina propria non habemus, uti nos oportet nomine
+          alterationis et passionis in istis tanquam propriis nominibus : cum tamen non nisi extenso
+          nomine eis conveniat, sicut supra diximus, sensitivum potentia est animal sensibile ut
+          sensibile in actu sit, et non tamen ipsum sensibile : quia forma sensibilis extra <cb ed="#B5" n="b"/>
+          <!-- 236 b --> prout est in ipso sensibili, non recipitur in sensu, sed intentio ejus : et
+          si reciperetur in sensu secundum esse quod habet in re, tunc haberet duo esse : et
+          oporteret dicere quod oculus aliquando esset albus, aliquando niger, aliquando alterius
+          coloris, quod non est verum. Est igitur id quod est in sensu nec sensibile, quia est
+          intentio sensibilis : et non est ipsum sensibile, quia non confert illud esse sensui, quod
+          confert rei quae extra sentitur.</p>
+        <p xml:id="admda-l2t3c3-d1e162">Sed forte objiciet aliquis, quod cum sensatorum species non moveant sensum secundum esse
+          materiale quod habent in sensibili re extra, sed potius secundum quod est intentio
+          spiritualis in sensu accepta, oportet, quod habeant motorem unum qui in omnibus causa est
+          illius spiritualis, sicut etiam intellectiva habent motorem unum, qui in omnibus causat
+          formam simplicis intelligibilis. Nec convenienter dici potest, quod esse spirituale
+          habeant intentiones sensibiles ex hoc quod recipiuntur in subjecto spirituali : quia magis
+          est rationabile causam diversitatis esse spiritualis et materialis ipsorum sensibilium
+          esse ex diversitate motoris, quam ex diversitate subjecti : quia subjectum non
+          diversificat moventia, sed potius e converso : intentiones autem spirituales sensibilium
+          sunt moventes. Haec autem dubitatio magna indiget consideratione, et in sequenti capitulo
+          secundum facultatem nostram determinabitur.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

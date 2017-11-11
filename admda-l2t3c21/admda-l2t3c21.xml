@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XXI.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XXI.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c21">
+        <head xml:id="admda-l2t3c21-Hd1e128">CAPUT XXI.</head>
+        <head xml:id="admda-l2t3c21-Hd1e131" type="question-title">De differentiis sonorum quae non fiunt nisi in sono secundum
+          actum facto.</head>
+        <p xml:id="admda-l2t3c21-d1e134">Quaerendum autem est utrum sonat id quod verberatur, aut id quod verberat, aut utrumque :
+          et dicemus quod utrumque illorum sonat, hoc est, facit sonum altero et altero modo :
+          verberans enim facit eum sicut percutiens primum : verberatum autem facit eum sicut
+          verberatum et expellens sicut aerem a se modo quo supra dictum est. Sonus enim est ex motu
+          ejus quod tali modo movetur et possibile est moveri, quo a levibus superficiebus movetur
+          aer cum aliquis ipsas percusserit, sicut dictum est superius. Igitur sicut dictum est, non
+          omne sonat quod verberatur, sicut si punctum acus puncto alicujus alterius acus objiciatur
+          : sed oportet superficiem percussi corporis regulariter planam esse et solidam. Sed forte
+          ex hoc credet aliquis sonum non esse naturale sensibile in natura cum a violenta excitetur
+          percussione : sed non est ignorandum quod determinatum est ante finem octavi Physicorum,
+          et in tertio et quarto de Coelo et Mundo : dictum est enim ibi, quod motus violentus
+          secundum aliquid naturalis est aeri et aquae, licet secundum movens sit violentus : et sic
+          est hic, quod sonus generationem habet a violentia, et in aere est naturaliter : et tamen
+          non diu durat sicut naturalia, eo quod secum aliquid vult habere de impetu violentiae :
+          <cb ed="#B5" n="b"/>
+          <!-- 270 b --> et similiter est de igne excusso ex lapide, cujus omnia generantia violenta
+          sunt, et tamen generatum illi materiae naturale est in qua generatur.</p>
+        <p xml:id="admda-l2t3c21-d1e141">Licet autem, sicut superius diximus, differentiae sonorum sequantur sonantia percussa
+          maxime : hae tamen differentiae sunt in sono secundum actum soni, et secundum motus ejus :
+          sicut enim non videntur colores sine lumine, et sic nec acutum, nec grave, et hujusmodi
+          differentiae percipiuntur sine sono secundum actum facto : acutum enim et grave secundum
+          metaphoram de differentiis soni dicuntur, et transumptio ab acuto et gravi fit in angulis
+          tangibilibus : in angulis enim dicitur acutum, quod movet sensum multum penetrando in
+          pauco tempore : grave autem, quod movet sensum secundum parum penetrando in multo tempore
+          : et tamen non proprie dicitur velox acutum, et grave, sive hebes tardum : quia, sicut
+          diximus, hae sunt proprietates motus et acutum et grave, sive hebes, non sunt motus, sed
+          attribuitur acuto velox propter velocitatem hujusmodi motus qui est in penetrando hoc quod
+          tangit : et alii gravi sive hebeti attribuitur tardum, sicut hebeti propter tarditatem
+          hujus motus qui est in penetrando in tactu, et quoad hoc et grave et acutum videtur habere
+          similitudinem cum acuto et gravi sive hebeti in angulis tangibilibus : acutum enim sonum
+          vocamus, ubi quasi pungat multum velociter penetrando in auditum : gravis autem sonus est,
+          ubi quasi pellit sicut si lassatum sit : acutum ergo penetrat in pauco ad auditum, grave
+          autem in sonis pungit vix in multo : et ideo accidit acuto esse velox : gravi autem
+          accidit tardum : et acutum in veritate est sonans in quasi constricto aere fortiter, et
+          ideo etiam acutum penetrando laedit auditum : grave autem est in multo aere quasi lente
+          pulso, et ideo non laedit <pb ed="#B5" n="271"/> <cb ed="#B5" n="a"/> auditum. Hujus autem
+          probatio est in fistulis, in quibus stationes acute maxime autem gravissime sonant. De
+          sono igitur quantum ad hanc spectat intentionem sic determinatum sit : de differentiis
+          enim sonorum in libro de sensu et sensato dicemus.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

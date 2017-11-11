@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT IX.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT IX.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t4c9">
+        <head xml:id="admda-l2t4c9-Hd1e128">CAPUT IX.</head>
+        <head xml:id="admda-l2t4c9-Hd1e131" type="question-title">Qualiter sensitivum sensibileque idem actu sunt et diversa in
+          esse, et qualiter correlativa.</head>
+        <p xml:id="admda-l2t4c9-d1e134">Hic autem jam dictum est quod sensus secundum actum et sensibile secundum actum sunt
+          simul et idem in actu, et diversa in esse. Hoc autem sic probatur : omnis enim motus qui
+          est exiens de potentia ad actum, et similiter omnis actio secundum quod est actio ab
+          agente in patiens, et similiter passio qua abjicitur aliquid ab eo in quod agitur et quod
+          movetur, sunt in eo quod agitur sive patitur secundum rem, sicut ostendimus in Physicis :
+          quia autem omnis sensus patitur ab objecto, sicut auditus a sono, oportet necessario sonum
+          secundum actum in quo est sonus, primo secundum potentiam inesse : actus enim omnis est in
+          eo quod de potentia exivit in actum, et hoc est patiens et motum : activi enim et motivi
+          actus fit in patiente generaliter et non e converso : et ideo non generaliter est verum,
+          quod omne movens moveatur : non enim est verum nisi in physicis, quorum materia est unica
+          per contrarietatem movens et mota, sicut determinatum est in Physicis, et in libro Peri
+          geneseos. In aliis autem invenitur aliquid agens non actum, et aliquid movens non motum,
+          sicut est in spiritualibus, in quibus sensibile est movens non motum, et medium movens
+          motum, et sensus motum et non movens. Cum igitur sic est, tunc oportet necessario, quod
+          sonantis actus qui est sonatio, sit in potente <pb ed="#B5" n="307"/> <cb ed="#B5" n="a"/>
+          sonare : et hoc est solidum planum cum aere sibi conjuncto : similiter autem potentia
+          habens sonum est sensus auditus : actus ergo soni fit etiam in auditu : igitur sonantis et
+          auditus est idem actus secundum esse differens et secundum secundum quod est in diversis
+          potentia sonum habentibus, sortitur nomina diversa. Quando enim est in potentia sonante,
+          tunc vocatur sonatio : et quando est in potentia audiente, tunc vocatur auditio. Dicitur
+          enim sonus dupliciter, secundum actum et potentiam, sicut et dupliciter dicitur auditus,
+          secundum actum et potentiam.</p>
+        <p xml:id="admda-l2t4c9-d1e141">Eadem autem omnino ratio est et in aliis sensibus et sensibilibus : sicut enim actio est
+          aliquo modo in agente, et aliquo modo in patiente : quia est in agente secundum quod per
+          ipsam denominatur quando dicitur agens, et secundum quod ipse potens est agere quando est
+          in otio, et exit in actualiter agere quando agit post otium. In patiente autem est ipsa
+          forma quae influitur ab agente. Similiter est de sensibili et sciente : quando enim
+          sensibile non agit sensum, tunc est quasi in otio, habens tamen formam qua perfectum est
+          ad agere : quando autem actu agit in sensum, tunc est actus sensus in ipso a quo
+          denominatur, et est eadem forma profluens ab ipso : et est in sensu qui potentia habuit
+          eam, non sicut mutato de actione in actum, sed potius sicut in patiente quod recipit
+          formam agentis : et sic activi et passivi est idem actus. Potentis enim agere et potentis
+          actionem agentis recipere idem actus est, diversus secundum esse potentialiter agentis et
+          potentialiter patientis. Sed in quibusdam sensibus secundum diversum esse habet duo
+          nomina, in quibusdam secundum alterum est innominatum, sicut diximus de potentia audiente
+          et potentia sonante, quod actus unius est auditio, et actus alterius sona<cb ed="#B5" n="b"/>
+          <!-- 307 b -->tio. In visu autem actus potentia videntis dicitur visio : ille autem qui
+          est ejus quod de otio exit in actum, quando ut activum perficit visum, quae est actio
+          coloris, non est nominata nisi per circumlocutionem exprimatur, dicendo quod est actio
+          coloris in visum secundum actum factum. Similiter autem in potentia gustante actio gustus
+          vel gustatio vocatur : saporis autem actio innominata est.</p>
+        <p xml:id="admda-l2t4c9-d1e148">Quoniam autem sic unus est actus sensibilis et sensitivi, quando utrumque secundum actum
+          est, necesse est tunc ea sic dicta simul corrumpi et salvari : quia sic correlativa sunt
+          quae posita se ponunt, et perempta se perimunt : et sic simul sunt et corrumpuntur auditio
+          et sonus, et gustatio et saporis actio, et sic de aliis. Quando autem utrumque secundum
+          potentiam dicitur, et non secundum actum, tunc non sunt correlativa : et tunc non
+          necessarium est quod simul corrumpantur et salventur.</p>
+        <p xml:id="admda-l2t4c9-d1e152">Sed antiqui physiologi non bene dicebant, quando opinati sunt sensibile et sensum
+          quocumque modo accepta esse correlativa, dicentes nihil esse album vel nigrum, nisi quando
+          est visus de ipso : et nihil esse saporem, nisi prout est in gustu, et sic de aliis
+          sensibilibus. Hoc enim uno modo recte dicebatur, et alio modo non recte : sensibili enim
+          et sensu dictis dupliciter, his quidem secundum potentiam, illis vero secundum actum, de
+          secundum actum dictis recte dixerunt Antiqui, de dictis autem secundum potentiam, non
+          recte dicebant. Peccant igitur in hoc quod simpliciter sine distinctione correlativa
+          dixerunt ea quae non simpliciter et sine distinctione correlativa dicuntur.</p>
+        <p xml:id="admda-l2t4c9-d1e155"> <pb ed="#B5" n="308"/> <cb ed="#B5" n="a"/> Ex isto autem ulterius elicitur, quare
+          excellentiae quaedam corrumpunt sensum. Est enim vox et sonus prout movent sensum,
+          symphonia quaedam et consonantia sive proportio et contemperatio agentis ad patiens : vox
+          autem sive sonus sunt quodammodo unum et idem, sicut diximus, tunc oportet quod etiam
+          auditus sit symphonia quaedam et proportio ad eumdem actum ad quem proportionatur sonans :
+          et quia excellens plus movet quam mobilis sit sensus, ideo excellenter acutum et grave
+          corrumpunt auditum, et similiter excellentiae saporum corrumpunt gustum, et in coloribus
+          sive visibilibus excellenter fulgidum sive excellenter opacum corrumpunt visum : et hoc de
+          fulgido constat. Opacum autem etiam corrumpit, licet non ita cito sicut fulgidum : cujus
+          signum est, quod in carceribus tenebrosis diu inclusi, lumen non possunt respicere, quando
+          egrediuntur ad lumen. Causa autem est, quia spiritus visivus qui in nervo optico fluit ab
+          oculis, avertitur, et repellitur per tenebras : et quia spiritus calidus est, cum
+          avertitur, tunc frigiditas obdurat porum oculi, et excaecatur oculus. Similiter autem
+          excellentiae odorum corrumpunt olfactum, eo quod sensus in compositione organi ratio
+          quaedam contemperantiae et proportionis est : et ideo ipsa sensibilia sunt dulcia sensui,
+          quando parva adducuntur ad sensum sine excellentiis : et quando mixta sunt
+          proportionabiliter, sicut acutum proportionatum, et dulce et salitum : proportionabiliter
+          enim ista ad sensum ducta, delectabilia sunt, eo quod organum quasi medium est sensibilium
+          secundum proportionem medii compositum. Universaliter autem symphonia et consonantia sive
+          proportio, magis est mixta quam acutum et grave excellentia. Similiter autem et tactus
+          medium infrigidabile et calefactibile proportionatur : sensus enim semper est proportio et
+          contemperatio : ab excellentiis autem tristatur et corrumpitur.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

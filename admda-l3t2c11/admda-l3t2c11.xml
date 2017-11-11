@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XI.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XI.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t2c11">
+        <head xml:id="admda-l3t2c11-Hd1e128">CAPUT XI.</head>
+        <head xml:id="admda-l3t2c11-Hd1e131" type="question-title">Et est digressio declarans opinionem Latinorum, et errorem
+          eorumdem.</head>
+        <p xml:id="admda-l3t2c11-d1e134">Latinorum autem Philosophorum plurimi cum opinione Platonis in multis consentire
+          videntur. Dicunt enim animam rationalem esse individuam duplici individuitate, quoniam
+          dicunt eam in se <pb ed="#B5" n="348"/> <cb ed="#B5" n="a"/> esse hoc aliquid per materiam
+          incorpoream et spiritualem, quae est subjectum formae ejus, et ex forma habetur etiam
+          individuans extra naturam ejus quod est corpus cujus ipsa est actus. Concedunt etiam per
+          hoc quod est in ipsa secundum esse est individuata forma. Dicunt enim quod intentiones
+          quae sunt in intellectu possibili, dupliciter considerantur, scilicet prout sunt
+          abstractae, et prout habent esse in abstrahendo. Et primo quidem modo sunt formae
+          universales liberatae a materia et appendiciis materiae. Secundo autem modo habent esse
+          individuatum in intellectu possibili. Et primo quidem modo esse universalia principia
+          intelligendi : secundo autem modo non convertitur ad ea intellectus : et ideo non impedit
+          scientiam talis individuatio formarum. Intellectum autem dicunt esse abstractum et
+          immixtum, et non esse hoc in tali ratione, quia immixtus est, quia non est actus corporis,
+          et quia non est aliquid intelligibilium actu sed potentia tantum : et non est hoc quia non
+          sensus est, licet sit sicut sensus : dicunt enim <name ref="#Aristotle">Aristotelem</name>
+          non dicere quod intellectus simpliciter non est hoc, sed praemisit de similitudine
+          potentiae sensus et potentiae intellectus, et subjunxit quod est ut sensus et non est idem
+          quod sensus.</p>
+        <p xml:id="admda-l3t2c11-d1e144">Sed isti absque dubio nunquam bene intentionem <name ref="#Aristotle">Aristotelis</name>
+          intellexerunt : quoniam ex duobus his concessis, quod neque est immixtus, et separatus,
+          sequitur necessario ipsum non esse hoc : et ideo nihil est quod dicunt isti. Adhuc autem
+          animam, sicut dicunt, esse compositam et individuam, nulla omnino probant ratione, nisi
+          quod dicunt Boethium dicere, quod in omni quod est circa primum, est hoc et hoc : et sic
+          in anima concedunt esse hoc et hoc, non continuo inferri potest hoc et hoc esse materiam
+          et formam : quoniam etiam omnes Peripatetici dicunt in anima rationali esse intellectum
+          agentem et pos<cb ed="#B5" n="b"/>
+          <!-- 348 b -->sibilem, et tamen non ob hoc concedunt in ea esse materiam et formam. Et
+          ideo quidam videntes hujus rationis debilitatem, aliud inducunt pro ratione, dicentes
+          nihil omnino esse subjectum accidentium, nisi quod est compositum : cum forma accidentalis
+          sit compositioni contingens : materiae enim simplici sine forma nihil accidit omnino :
+          forma autem secundum se subjectum esse non potest. Cum igitur animae accidant <choice>
+          <orig>scientae</orig> <reg>scientiae</reg> </choice> intellectuales et multae virtutes
+          intellectuales, videbitur ipsa esse individuata substantia et composita. Nos autem in hac
+          ratione non esse necessitatem ostendimus superius : quoniam scientia quae est in anima et
+          aliae virtutes intellectuales, non habent esse reale et ratum in natura, sed in anima
+          tantum : et hoc est esse debile, et potius est entis aliquid quam ens, et talibus entibus
+          rationibus bene subjicitur id quod in se non est individuum sed forma.</p>
+        <p xml:id="admda-l3t2c11-d1e163">Adhuc autem haec opinio supponit quod universale sit in anima sicut in subjecto, et forte
+          hoc non est verum : hoc autem in libro de intelligibilibus habet declarari. Est autem et
+          haec opinio omnino contraria dictis Peripateticorum : quoniam sicut sensitiva potentia
+          primam perfectionem habet a generatione, ut superius ostendimus, et secundam quae est
+          sentire, habet a sensibili forma : ita etiam intellectus prima perfectio est sibi cognata,
+          et secundam quae est intelligere habet ab intelligibili : aliter enim nunquam intelligeret
+          aliquid nisi post habitum scientiae : et hoc omnino est falsum : contuitus enim
+          intelligibilium unus et indivisibilis est ante scientiam sicut et post. Est igitur
+          intelligere intelligibilis speciem in intellectu habere : per esse ergo quod
+          intelligibilia habent in intellectu, intelliguntur : hoc autem est esse individuum, ut
+          dicunt : ergo per intentionem individuam res universaliter intelliguntur vel universaliter
+          : et hoc intelli<pb ed="#B5" n="349"/> <cb ed="#B5" n="a"/>gi non potest. Adhuc autem
+          objicit <name ref="#Averroes">Averroes</name> : quia si forma in intellectu possibili
+          habet esse individuum et particulare, cum omne individuum in se potentia claudat
+          universale, erit illud potentia intelligibile et non actu : et sic intelligibile unius
+          erit aliud intelligibile, et de esse illius iterum quaereretur, et ibit hoc in infinitum.
+          Amplius autem ex superius demonstratis constat per rationem <name ref="#Avicenna">Avicenna</name>e et <name ref="#Aristotle">Aristotelis</name> et Averrois, quod nulla
+          necessitas est quod intellectus ponitur separatus et immixtus, nisi quia universale cui
+          subjicitur in tali est separatione : ergo omnino falsum est quod per esse individuatum
+          universale sit in ipso. Adhuc autem secundum hoc non erit movens intellectum meum idem cum
+          eo quod est in intellectu tuo : et sic cum dicitur Socrates currere, hoc dictum erit
+          commune ad id quod est in intellectu meo, et in intellectu alterius : et sic omnia dicta
+          quae sunt rerum significata erunt communia, secundum quod exprimunt intellectus rerum quae
+          sunt in anima, quod est omnino absurdum, cum ipsa res sit singularis. Adhuc autem secundum
+          haec, scientia quae est in anima Doctoris non eadem efficitur in discipulo, sed generatur
+          alia, sicut si ignis generaretur ab igne, quod est absurdum, cum scientiae non differant
+          nisi per subjecta de quibus sunt : scientia autem Doctoris et scientia discipuli semper
+          sunt de subjecto eodem. Et istae duae ultimae objectiones sunt Averrois in commento libri
+          de Anima.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

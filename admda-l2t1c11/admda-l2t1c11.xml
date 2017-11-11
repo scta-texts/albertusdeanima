@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XI.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XI.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t1c11">
+        <head xml:id="admda-l2t1c11-Hd1e128">CAPUT XI.</head>
+        <head xml:id="admda-l2t1c11-Hd1e131" type="question-title">Ex quibus partibus componitur anima, et eadem est ratio animae
+          et figurae.</head>
+        <p xml:id="admda-l2t1c11-d1e134">Oportet autem scire quod partes ejus quod est spirituale, et hujus quod est corporale,
+          differunt : quoniam partes corporeae rei componunt aut suam essentiam aut suam
+          quantitatem. Et si componunt suam essentiam, tunc sunt sicut materia et forma, aut sicut
+          mixta in eo quod mixtum vocamus. Si autem componunt suam quantitatem, tunc sunt tertiae,
+          vel mediae, vel quartae, et sic de aliis quantitativis partibus. Et has vocare <choice>
+          <orig>consuevi mus</orig> <reg>consuevimus</reg> </choice> integrales, primas autem
+          essentia<pb ed="#B5" n="210"/> <cb ed="#B5" n="a"/>les. In spiritualibus autem dicimus,
+          quoniam ipsa spiritualia potentiae quaedam sunt, et habent suas partes naturales
+          potestates, ex quibus constituitur quoddam universum suae potestatis, sicut apparet in
+          urbanitatibus. Cum enim dico regnum, potestatem quamdam dico, quam componunt multae
+          potestates particulares, quae tamen omnes fluunt ex regno. Si enim diffiniens regnum
+          dicam, quod regnum est monarchia, cujus potestates, leges et ordines vivendi omnibus
+          distribuuntur, erit quaedam ejus particularis potestas potentia praesidis qui terrae
+          principatur. Alia autem proconsulis, consilio cujus et nutu determinantur judicia et
+          sententiae dantur. Alia autem tribuni, et alia ducis exercitus, et alia centurionis
+          cohortis unius, et adhuc alia decani, et alia praefecti qui praeficitur ad paucos in lege
+          justitiae constituendos : et sic diversae potestates junctae simul efficiunt universum
+          quoddam, quod vocatur regnum. Et sic est in omnibus spiritualibus potentiis. In omnibus
+          autem potestatibus, semper quidquid potest potentia inferior, potest et superior, sed non
+          convertitur : et ideo inferior est semper in superiori secundum omnes suas operationes,
+          sed nobilitantur operationes inferioris quando sunt in superiori. Similiter autem est in
+          potestatibus causarum naturalium. Quaedam enim illarum sunt semper, et quaedam frequenter,
+          et quaedam raro, sicut diximus in secundo Physicorum : et quidquid est potestatis in eo
+          quod est raro, exercetur etiam ab eo quod est frequenter, et ab eo quod est semper, sed
+          non convertitur. Habet tamen semper aliquid impotentiae et defectus inferior potestas,
+          quod non potest referri ad superiorem potestatem : et ideo diximus, quod nobilius
+          exercentur operationes inferioris potestatis a superiori quam, ab inferiori potestate.</p>
+        <p xml:id="admda-l2t1c11-d1e150">Est autem adhuc notandum in istis potestatibus, quod si superior potestas non uniret in
+          se potestatem inferiorem, non dicerentur omnia haec unum re<cb ed="#B5" n="b"/>
+          <!-- 210 b -->gnum, nisi sicut acervus lapidum : et idcirco quanto potestas superior est
+          simplicior, erit et universalior ad multa exercenda, quae sub illa potestate continentur.
+          Omnino autem eodem modo est in anima quae est in potentia vitae in qua omnis potentia
+          exercendi opera vitae continetur : et ideo particulares potestates, sicut vegetativum, et
+          sensitivum, sunt quidem potentiae naturales ab ipsa fluentes, quae dicuntur proprietates,
+          sed tamen inferioris potestatis opus et potentia in superiori nobilius est quam in seipsa
+          : unde sensitiva nobilius terminat opera vegetativae, quam ipsa vegetativa sola. Nutritiva
+          enim quae facit carnem, nobilius operatur quam illa quae facit lignum. Similiter autem est
+          in generativa. Similiter autem est sensitiva intellectiva anima, quod omnes suas
+          operationes nobilius participat. Et patet ex hoc jam quod in homine neque tres
+          substantiae, sed una substantia simplicior et nobilior aliis : et ideo plures et
+          nobiliores ab ea quam ab aliis fluunt potestates : et eaedem potestates quae sunt
+          inferiorum, nobilius sunt in ipsa quam in eis : neque sunt istae potentiae non unitae :
+          quia sic esset verum quod dixit Plato, quod scilicet quaedam collectio diversa operaretur
+          : uniuntur enim semper inferiores in superiori per modum jam assignatum : et ideo
+          particulares potestates non sunt partes essentialiter componentes animam, sed potius quae
+          determinant suam totam potestatem ad opera vitae distributam per potentias : sicut et
+          regnum distribuitur per potestates particulares ad distribuendam vitam, vel continendam et
+          exercendam, quae vocatur civilis : et ideo dixerunt antiqui sapientes, quod anima est in
+          corpore sicut rex in regno, et oculus est in ipsa sicut aliquis praefectus in potestate
+          sibi juncta.</p>
+        <p xml:id="admda-l2t1c11-d1e157">Ex his jam patet, quoniam eodem modo jam erit una ratio diffinitiva animae et <pb ed="#B5" n="211"/> <cb ed="#B5" n="a"/> figurae. In figuris enim sic est, quod nulla
+          rectilinea invenitur praeter triangulum, et eas quae ipsum sequuntur in specie figurarum :
+          et similiter est in animabus, quod nulla est anima praeter vegetativam, et quae sunt post
+          ipsam, in ordine animarum : quia sicut figurae habent ordinem quod una est ante, et alia
+          post, ita etiam anima vel animae. Simplicior enim linearum est recta : eo quod est unius
+          formae tantum, sicut saepe diximus. Et simplicior figurarum est triangulus secundum formam
+          figurationis, quia et in lineis est unitae formae, et in superficie : quia secundum formam
+          non dividitur in figuram aliam : quia triangulus non dividitur in aliam figuram, quam in
+          triangulum. Circulus autem duarum formarum est in convexa et in concava, sicut saepe
+          diximus in antehabitis libris nostris. Aliae autem figurae rectilineae, tetragonus,
+          pentagonus, sic deinceps, dividuntur in diversas figuras. In figuris igitur est ratio
+          quaedam communis quae omnibus convenit, ex qua tamen non scitur quaelibet figura in
+          specie, et qualiter una se habet ad aliam : et hoc est ita quod figura est quantitas linea
+          vel lineis terminata, vel quod figura est terminatio quanti, si consenserimus quod figura
+          est qualitas et non quantitas : hoc enim omni figurae convenit. Ex hac tamen non scitur
+          qualiter triangulus est in tetragono secundum potestatem et in aliis figuris : et ideo ex
+          illa non perfecte scitur trianguli natura, sed oportet quaerere trianguli propriam
+          rationem. Neque propria dicit perfecte figurationis rationem, et ideo necessaria est
+          communis. Si enim diffiniens triangulum dicam, triangulus est figura prima elementalis ad
+          omnem figuram rectilineam, in qua dividitur omnis figura rectilinea, ex illa diffinitione
+          non cognoscam esse figurationis in triangulo, licet cognoscam posse trianguli ad alias
+          figuras. Et ideo in scientia figurarum duas diffinitiones oportet inquirere : unam
+          communem, et alteram propriam, et neutra sine altera sufficit. Et similiter est <cb ed="#B5" n="b"/>
+          <!-- 211 b --> in animae ratione, quod communis ratio est quae omnibus convenit animabus,
+          quae est endelechia corporis physici potentia vitam habentis : tamen quia vitae potentia
+          non est una in omnibus animabus, sed alia et alia, ideo oportet quaerere secundum
+          quamlibet vitae potentiam, aliam et aliam rationem. Et ideo deludendus est qui dicit
+          sufficere communem rationem in his et in aliis similibus, quae nullius erit propria ratio
+          : et iterum non debemus esse in propria ratione, neglecta ratione communi.</p>
+        <p xml:id="admda-l2t1c11-d1e169">Est autem et adhuc alia similitudo inter figuras et animas : sicut enim trigonum est in
+          tetragono, et in omnibus aliis figuris, quae sunt communiter post triangulum secundum
+          potentiam, ita est vegetativum in sensitivo, sensitivum in intellectivo. Trigonum autem
+          est in tetragono potentia, non secundum se : sed si distribuatur tetragonum in ea quae
+          potest, potest tunc in operationem trigoni et plus. Quoniam si dividatur lineis
+          diagonalibus duabus, faciet quatuor triangulos : et similiter quaecumque figura est
+          rectilinea, in tot triangulos dividitur, quot habet angulos, lineis a quolibet angulorum
+          ad centrum figurae deductis. Similiter autem quoniam sensitivum distribuitur in potestates
+          suas, tunc poterit in opera vegetativi, et amplius, et eodem modo intellectivum poterit in
+          opera vegetativi et sensitivi. Tamen quia sicut trigonum non est in tetragono, secundum
+          actum trigoni, sed tetragoni : ita neque vegetativum est in sensitivo secundum actum
+          vegetativum, sed sensitivum, quod est superior potestas ad ipsum : et ideo ex se potens in
+          potestatem inferioris potentiae ad ipsum, ut diximus superius. Propter quod etiam solvitur
+          dubium quorundam, utrum, scilicet sensitivum, sit compositum ex vegetativo et quodam alio
+          ? Constat enim quod non, sed sensitivum est unum simplex am<pb ed="#B5" n="212"/> <cb ed="#B5" n="a"/>plioris potestatis : et ideo ex sua simplici forma exercere potest
+          nobilius opera vegetativi, quam ipsum vegetativum per se solum. Si enim ex illo et alio
+          componeretur, qualiter esset forma simplex perficiens animal ? Similiter autem est de
+          intellectivo. Neque enim in figuris figura tetragoni est composita, sed simplex : quae
+          tamen distributa in ea quae potest, potest in tetragonum et amplius. Similiter autem est
+          in omnibus formis consequenter ordinatis sicut causa primaria et secundaria, sicut dicitur
+          in libro de Causis de esse, vivere, sentire, et intelligere. Quaelibet enim illarum est
+          simplex una essentia, et tamen semper consequens habet potentiam praecedentis vel
+          praecedentium omnium, et non influit secunda nisi cum causalitate antecedentium : quia
+          vita nulli dat vitam sine esse, neque sensus alicui dat sensum sine vita et esse. Sic et
+          intellectus nulli dat intelligere sine esse, vivere, et sentire, in genere mortalium. In
+          coelestibus enim intelligere forte est sine sentire : erit tamen de hoc determinandum in
+          prima philosophia.</p>
+        <p xml:id="admda-l2t1c11-d1e176">Si autem hoc quaeritur, unde habeat consequens forma, quod potest omnium praecedentium
+          formarum potestates operari ? Dicendum videtur quod habet a tribus, quorum unum est ipsa
+          consequentia ordinis : non enim est consequens, nisi quia exivit a praecedente : et ideo
+          potestas praecedentis potest in ea. Alia causa est, quia licet sit consequens secundum
+          intellectum, tamen est vicinior secundum esse primae causae. Intellectus enim vicinior est
+          primae causae quam sit sensus, et sic habet in se plures bonitates et nobilitates, quibus
+          accedit ad conformitatem primae causae, et per illas bonitates plura potest quam aliqua
+          alia essentia vel forma. Tertia causa est, quia est immaterialior et simplicior et
+          separatior semper consequens quam praecedens, et ideo in plura potest quam antecedens
+          ipsam. Dico autem simpliciorem secundum esse et <cb ed="#B5" n="b"/>
+          <!-- 212 b --> non secundum rationem, quoniam secundum rationem est e converso : quia
+          praecedentes formae cadunt in ejus diffinitione, ideo secundum rationem sunt ante eam et
+          simpliciores ea. Et haec tria simul juncta dicunt veram causam, quia unica existens
+          sequens in plura potest quam antecedens.</p>
+        <p xml:id="admda-l2t1c11-d1e183">Et si forte aliquis objiciat, quod diffiniens et ratione prius est diffinito, et
+          simplicius secundum esse et naturam, dicendum quod hoc est verum secundum communem naturam
+          quae invenitur in pluribus : sed nos hic vocamus secundum esse simplicius et prius, quod
+          in esse simplicius est et prius : et non dubitamus quin intellectus secundum esse
+          simplicior sit quam sensus, licet communior natura sit sensus quam intellectus. Haec
+          igitur est causa quod nulla istarum formarum composita est, et tamen in plura potest una
+          quam alia. Si autem dicatur quod habet potentias naturales in seipsa, et sic componitur ex
+          seipsis : dicimus quod hanc solam habet compositionem, sed illa non repugnat simplicitati
+          formae. Rectum enim formam dicit in mathematicis : et recto tamen multa accidunt, ut
+          propriae passiones ipsius, et potentiae naturales ejus, et tamen simplicitati suae non
+          praejudicant : quia sunt post suam essentiam, et fluunt ab ipsa. Ita et ista post esse
+          animae sunt et fluunt ab ipsa, et ideo non tollunt ejus simplicitatem. Ex dictis igitur
+          patet quod non sufficit assignasse communem animae diffinitionem, nisi propriam secundum
+          quamlibet ejus potestatem assignemus, per quam sciantur ea quae accidunt ei secundum
+          potestates illas. Oportet igitur scire quae sit uniuscujusque anima, ut quae hominis, et
+          quae bestiae, et quae plantae : quia, sicut diximus, sensitivum non est sine vegetativo,
+          licet e converso vegetativum a sensitivo separetur, ut in plantis apparet. Iterum autem
+          sine tactu non habetur aliquis aliorum sensuum : tactus autem ab aliis separatur, quia
+          multa de numero animalium neque visum, neque auditum ne<pb ed="#B5" n="213"/> <cb ed="#B5" n="a"/>que odoratus sensum habent, sed tactum solum, et gustum secundum quod est quidam
+          tactus, et cum sensitivo principio vitae.</p>
+        <p xml:id="admda-l2t1c11-d1e190">Quaedam etiam habent secundum locum motum, et quaedam non habent ipsum : ultimum autem
+          quod est finis et paucorum animalium habent quaedam intellectum, et multa non habent. Homo
+          enim solus habet in genere mortalium, nisi secundum Platonicos inveniatur aliquod
+          intellectivum mortale homine dignius : et quibuscumque inest intelle<cb ed="#B5" n="b"/>
+          <!-- 213 b -->ctus, insunt et antecedentia omnia, sed non convertitur. Quibusdam enim
+          inest solus sensus, et quaedam cum hoc habent imaginationem, et quaedam cum his memoriam,
+          et quaedam cum his experimentum et artem, sicut homines. De speculativo autem intellectu
+          altera ratio est, quia separatus est et magis proprie separatorum quam mortalium. Sed
+          tamen in tertio hujus scientiae libro de ipso erit tractandum, et videndum quid et quorum
+          sit. Sed ex dictis manifestum est, quod promptissima erit ratio animae qua cognoscitur
+          quid est horum unumquodque.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

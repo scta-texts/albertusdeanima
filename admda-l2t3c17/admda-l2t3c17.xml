@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XVII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XVII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c17">
+        <head xml:id="admda-l2t3c17-Hd1e128">CAPUT XVII.</head>
+        <head xml:id="admda-l2t3c17-Hd1e131" type="question-title">De auditu, et primo de bene sonantibus et male.</head>
+        <p xml:id="admda-l2t3c17-d1e134">Nunc autem de sono primum, et postea de auditu dicemus. Primum est sciendum quod sonus
+          dupliciter dicitur, <pb ed="#B5" n="264"/> <cb ed="#B5" n="a"/> potentia scilicet et actu.
+          Potentia quidem secundum quod dicimus quaedam non habere sonum, eo quod impossibilia sunt
+          sonare, vel eo quod non faciunt sonum nisi valde debilem, sicut spongia, et pili, et
+          lanae, et hujusmodi. Quaedam autem dicimus habere sonum, non quod actu sonent, sed quoniam
+          sunt potentia sonum facere, sicut aes, aurum, et argentum, et quaecumque sunt plana et
+          lenia et solida, non quod sonent secundum actum, sed quia possunt sonos facere, qui sunt
+          in medio aere et auditu. Causa autem generalis quare quaedam non sonant, est quia sunt
+          mollia aerem apud se retinentia, potius quam expellentia, sicut spongia quae quasi
+          imbibendo aerem retinet ipsum, et non expellit. Similiter faciunt pili et lana, quia rara
+          sunt et discontinua : et ideo infra se recipientia aerem, non sinunt ipsum expelli :
+          propter quod talia insonabilia sunt. Mollia autem continua male sonant, eo quod non
+          expellunt fortiter : et hoc est ideo quia ictui cedunt citius quam expellant aerem : et
+          ideo haec non multum sonant, nisi aliquis vehementer percutiat. Solida autem plana multum
+          aerem habentia, fortiter sonant : quia ex hoc quod solida, non cedunt et fortiter
+          percutiuntur : ex hoc autem quod sunt plana et lenia aequalium superficierum, undique
+          simul aerem a se expellunt : et ex hoc quod multum habent aerem, magnam ministrant sono
+          materiam in qua generetur. Et inde est, quod aeramenta prae omnibus corporibus sonora
+          sunt, et praecipue aurum et argentum et cuprum : haec enim commixta sunt melius caeteris
+          metallis, ex subtili aqueo, et subtili terreo : et terreum eorum est sulphur, cui ablata
+          est ventositas : subtilitas autem miscibilium fieri non potuit sine multo admixto aereo :
+          quoniam, sicut in fine tertii Meteororum dictum est, haec ex vaporibus miscentur : vapor
+          autem omnis multum habet aeris : et ista sonora sunt vehementer, et diu retinent sonum, eo
+          quod aere plena sunt, quae trementia ex ictu forti continue a <cb ed="#B5" n="b"/>
+          <!-- 264 b --> se expellunt. Et non ita sonant stannum et plumbum, eo quod magis aquae
+          habeant : et ideo quasi suffocatum et extinctum habent sonum : propter quod campanas et
+          organa facientes, acumen soni, quod ex cupro est, temperant et gravant admiscentes stannum
+          proportionatum. Ferrum autem quasi medium est, quia ex eo quod multum habet de terrestri
+          scabroso et impuro, obumbratum habet sonum : ex hoc autem quod siccius est stanno et
+          plumbo, acutius his sonat. Lapidum etiam quicumque melius commixti et solidiores sunt,
+          melius sonant. Similiter autem et ligna quaecumque magis aerea et sicciora et solidiora,
+          magis sonant : et quaecumque his contraria sunt, tanto etiam minus sonant. Cujus signum
+          est lignum fagmeum quod aereum est, et ideo multum cremabile et solidum est : et sonat
+          fortiter et magis quam buxus, eo quod buxus magis terrestris est. Abies autem licet sit
+          aereae naturae multum, tamen quia solida non est, non ita sonat sicut fagus : et quando
+          fagmeum lignum et latum et longum, et fiunt in eo foramina multa ex transverso, et
+          superficies ejus bene plana desuper percutitur, sonat ad maximam distantiam sicut campana.
+          His enim Graeci pro campanis utuntur.</p>
+        <p xml:id="admda-l2t3c17-d1e145">Fit autem sonus secundum actum, quando est alicujus verberationis ad aliquid percussum,
+          et in aliquo in quo sonus generetur : nihil enim facit sonum nisi percussio. Et ideo
+          impossibile est uno solo existente fieri sonum : alterum enim est verberans active faciens
+          sonum, et alterum est quod verberatur : et haec duo ad minus exiguntur in omni sono.
+          Frequenter autem oportet, quod aliquid tangatur : et cum ictu vehementi aliquid tetigerit,
+          sonus secundum actum fit. Et ideo sonus nunquam fit sine locali motu. Causa ejus est, quia
+          sonum esse est in continuo fieri : et cum generans ipsum sit <pb ed="#B5" n="265"/> <cb ed="#B5" n="a"/> motus violentus, qui est ictus percutientis solidum planum, oportet quod
+          aliquid generantis ipsum semper in ipso remaneat : quia aliter non fieret continue sonus.
+          Qualiter autem movens violenter fit cum motu violento, diximus et in fine octavi
+          Physicorum, et in libro de Coelo et Mundo. Sicut autem diximus, non quorumlibet
+          contingentium ictus facit sonum : quia pilorum et acutorum, aut non est sonus, aut
+          debilis. Sed potius quaecumque sunt solida plana, sonant, sicut jam dictum est. Concava
+          autem aerem expulsum continent, et exire non permittunt, et ideo tumultuans aer et intus
+          in eis retentus horribiliter sonat, eo quod impotens sit exire. Hujus autem et alia causa
+          : concavum enim percussum plures facit ictus : percussum enim in uno latere, propter
+          continuitatem tremit in alio latere, et ibi etiam percutit : et ille tremitus diu tenet
+          sonum. Et hujus signum est, quia si percutiat concavum aliquid latum, quod multas simul
+          partes tangit circuli concavi, sive in convexo, sive in concavo, illud aufert motum
+          partium : eo quod simul percutit et tenet ne tremat : et hoc minorem facit sonum quam
+          tangens ipsum in una parte tantum : et ideo baculi campanarum praecipiuntur bene rotundi
+          fieri inferius, ubi tangunt campanas. Hujus etiam signum est, quia si aliquis manu teneat
+          campanam quando percutitur, quasi extinguitur sonus, eo quod impediuntur partes
+          circumferentiae a motu tremitus, et forte frangitur campana quando sic tenetur, eo quod
+          partes non possunt habere liberam cessionem et motum per tremitum, quem impedit tenens
+          campanam. Istae igitur sunt conditiones sonantium et non sonantium.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT IV.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT IV.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t2c4">
+        <head xml:id="admda-l2t2c4-Hd1e128">CAPUT IV.</head>
+        <head xml:id="admda-l2t2c4-Hd1e131" type="question-title">De improbatione erroris eorum qui dicunt augmentum et alimentum
+          fieri per virtutem ignis.</head>
+        <p xml:id="admda-l2t2c4-d1e134">Sunt autem quidam qui non omnium elementorum virtute fieri dicebant alimentum, sed
+          virtute ignis tantum, et similiter augmentum : cujus assignabant rationem, quia ignis
+          solus inter omnia corpora et alitur virtute propria et augmentatur. Alitur enim, in
+          quantum educit subtile humidum de calefactis, et convalescit et sustentatur in ipso :
+          augetur autem, in quantum incremen<cb ed="#B5" n="b"/>
+          <!-- 219 b -->tum accipit suae quantitatis per appositionem cremabilium : et propter hoc
+          dicunt quod ignis etiam haec duo in omnibus operatur animatis. Et hi quidem adhuc aliis
+          duabus rationibus sunt inducti, quarum unam esse dicebant, quia videbant ignem non
+          nutritum perire per continuam suae materiae perditionem. Evolant enim ascendendo semper
+          materiales partes ignis, et contendunt superius. Cum igitur sic continue deperdatur,
+          indiget deperditi restauratione. Non autem deperditum restauratur nisi per nutrimentum :
+          oportet igitur quod ignis nutriatur. Si quis autem eis dixit quod ignis naturaliter
+          movetur sursum, et ideo partes suae materiales evolant ex ipso naturaliter : dicebant hoc
+          esse non posse, propter hoc quod nihil corrumpit seipsum, nec naturaliter intendit
+          suiipsius corruptionem : ignis autem corrumpitur per hoc et destruitur, quod paulatim
+          evolant ex ipso partes materiales suae : ergo non naturaliter emittit eas, sed per aliquid
+          corrumpens : erit igitur etiam naturale nutrimentum ipsum salvans et deperditum
+          restituens. Alia autem ratio istorum fuit, quia dicebant augmentum fieri per hoc quod
+          additur aliud corpus intrans in poros ejus quod augetur, et nihil esse ita porosum sicut
+          ignem, propterea quod siccissimus est et perspicuus : ex siccitate enim continet poros,
+          perspicuitas autem multitudinem ostendit pororum.</p>
+        <p xml:id="admda-l2t2c4-d1e141">Haec autem non sunt vera in toto : verum quidem enim est non fieri alimentum sine calore
+          ignis, sed calor ille instrumentalis est, et non primum efficiens, et ideo est concausa et
+          non causa principalis. Operatur enim in alimentum non species ignis, sed species vivi
+          corporis et virtutis animae, sicut superius diximus : et ideo non alterat ad speciem
+          ignis, sed carnis, vel ossis, quae sunt species organorum animae. Cujus signum est, quia
+          <pb ed="#B5" n="220"/> <cb ed="#B5" n="a"/> augmentum ignis in quantitate interminatum est
+          : tantum enim augetur, quantum est cremabile appositum igni. Sed omnium animatorum quae
+          constant in figura et quantitate, certa est quantitas in qua salvatur forma illius
+          speciei, et est ratio magnitudinis in maximo et in minimo, in qua stat, et extra quam non
+          salvatur species : et augmentum habet terminum quod est quantitas organorum, quae sufficit
+          operationibus virtutum et potentiarum : ergo aliud est principium augmenti in animatis,
+          quam sit virtus ignis : hanc autem vocamus animam, quae talem ponit augmento suo terminum
+          : haec enim magis sunt rationis, hoc est, formae quae dat esse et rationem, quam materiae,
+          hoc est, quam alicujus virtutis materialis vel corporeae, sicut est calor ignis. Alia
+          autem ratio qua <name ref="#Avicenna">Avicenna</name> improbat sententiam istam est, quod
+          ignis quando nutrit et auget, non nutrit et auget nisi seipsum : anima autem vegetabilis
+          neque nutrit, neque auget seipsam, sed potius corpus.</p>
+        <p xml:id="admda-l2t2c4-d1e151">Rationes autem quas inducunt non difficile est solvere. Dicimus enim quod ignis non
+          proprie nutritur, neque augetur. Id enim quod convertitur in ignem, non ingreditur in
+          ignem, neque ingreditur in ipsum ut cuilibet parti addatur et uniatur, sed diffunditur
+          ignis per generationem formae ignis in materia aliena. Et quod dicunt quod attrahit
+          subtile humidum ex cremabilibus, et quod illo cibatur, dicendum quod non ad hoc attrahit
+          ut illo cibetur, sed potius ut in illo generetur tanquam in prima materia. Non enim
+          attrahit, nisi quia calefacit et subtilizat : et tunc calor facit ipsum ebullire ad
+          superficiem corporis, cujus illud fuerat humidum : et ibi fumat et fit flamma : deberet
+          autem attrahi in omnes partes ignis antequam inflammaretur si esset nutrimentum ignis.
+          Patet igitur quod illud est proprie generatio ignis et non nutrimentum. Quod autem dicunt
+          in igne fieri deperditionem secundum materiam, dicendum quod accidit hoc igni in quantum
+          <cb ed="#B5" n="b"/>
+          <!-- 220 b --> est in loco alieno : per hoc enim materiae partes igni plus similes evolant
+          intendentes ire ad locum proprium, sed extinguuntur ab aere circumstante : et sic fit
+          continua ignis deperditio : neque intendit per hoc suam corruptionem, sed potius melius
+          salvari et convalescere in loco proprio : et sic fieret si non impediretur : et ideo non
+          intendit ignis secundum naturam restaurare illud deperditum, sed potius per inflammationem
+          multiplicare suam speciem in materia aliena, sicut diximus. Quod autem objiciunt de poris
+          et vacuo, ostendimus nihil esse in primo de Generatione et Corruptione. Exclusis autem sic
+          falsis opinionibus et erroribus Antiquorum, loquemur de qualibet potentia vegetabilis
+          animae, ostendentes quae sit quaelibet ipsarum, et quam habent ad invicem et ad animam
+          vegetabilem comparationem.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

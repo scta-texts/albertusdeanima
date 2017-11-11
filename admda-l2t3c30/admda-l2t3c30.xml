@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XXX.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XXX.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c30">
+        <head xml:id="admda-l2t3c30-Hd1e128">CAPUT XXX.</head>
+        <head xml:id="admda-l2t3c30-Hd1e131" type="question-title">De tactu, utrum sit unus an plures.</head>
+        <p xml:id="admda-l2t3c30-d1e134">De eo autem quod potest tangi et de tactu eadem ratio est quae dicta est de aliis
+          sensibus, quoad hoc quod tactus virtus passiva est, quae ad actum ducitur per species
+          tangibilium qualitatum : et cum communicatio sit inter agens et patiens, si agentia in
+          actu sunt plura genere, quorum nullum agit per aliud, oportet quod tactus sint plures
+          virtutes, diversas habentes communicantes ad diversitatem generis agentium. Unde si tactus
+          non est unus, tunc necessarium est quod ea quae tanguntur, sint genere plura, et e
+          converso, si ea quae tanguntur sint genere plura, necessarium est tactum plures virtutes
+          esse. Adhuc autem habet dubitationem magnam, utrum tactus sit plures virtutes, aut
+          non.</p>
+        <p xml:id="admda-l2t3c30-d1e137"> <cb ed="#B5" n="b"/>
+          <!-- 284 b --> Adhuc autem habet dubitationem quid est quo ut instrumento et ut medio
+          sentimus in tactu, et si aliquo ut medio sentimus in ipso : hoc enim multi negaverunt.
+          Dubitatur enim mox sensibili occurrens, caro fit quo sicut instrumento sentimus : et in
+          his quae non habent carnem, fit membrum simile carni, quo sentiunt aliam carnem et
+          sanguinem non habentia, an non sit hoc organum quo sentimus, sed potius caro vel simile
+          carni sit medium per quod redditur sensus, et organum sit aliud aliquid intrinsecus, quod
+          est primum et principale quo sentimus in tactu. Haec enim ambo habent dubitationem. Quod
+          enim non sit unus sensus, sed plures, videtur probari ex hoc quod, sicut saepe diximus,
+          omnis sensus unus unius contrarietatis esse videtur, sicut visus albi et nigri, auditus
+          gravis et acuti in sonis, gustus autem amari et dulcis : in eo autem quod potest tangi,
+          quod speciem suam generat in tactu, multae insunt contrarietates, quarum nulla sentitur
+          per alteram, sicut calidum et frigidum, et humidum et siccum, quarum neutra per alteram
+          sentitur. Est autem etiam talis grave et leve, quae tactu sentimus, et per aliam aliquam
+          contrarietatem. Et quidam ponunt durum et molle, asperum et lene : sed haec non sunt adeo
+          prima sensibilia, sicut ea quae dicta sunt, quia durum quod resistit tangenti est aliquo
+          modo siccum : et molle est quod cedit tangenti, et est aliquo modo humidum. Similiter
+          autem asperum quod in pluribus partibus suae superficiei tangenti resistit, aliquid est
+          sicci : sicut et lene cujus partes in unam superficiem confluentes, est aliquid hujusmodi.
+          Sed primo enumeratarum contrarietatum nulla omnino sentitur per aliam. Est autem etiam
+          tactus quorumdam aliorum quaecunque sunt hujusmodi, <choice> <orig>qnod</orig>
+          <reg>quod</reg> </choice> tangentia immutant ad speciem suam per tactum, et non per
+          aliquam aliam priorem naturam sentiuntur : et talia sunt sicut dissolutio continuitatis in
+          corpore, quae est ex verbere, vel vulnere, <pb ed="#B5" n="285"/> <cb ed="#B5" n="a"/> vel
+          aliquo alio. Et sicut oppositum ejus quod est consolidatio continuitatis. Dissolutio enim
+          non sentitur, nec ex calido, nec ex frigido, nec ex humido vel sicco, nec ex gravi vel
+          levi. Similiter autem est de consolidatione. Corruptio quidem complexionis sentitur ex
+          aliqua primarum qualitatum corrumpente complexionem : sed dissolutio non est contraria
+          complexioni, sed potius compositioni : et inter complexionem et compositionem superius
+          distinximus. Tale autem sensibile tactus est etiam delectatio quae est in venereis : sed
+          non ea quae in potu et cibo : quia illa est calidi et sicci et humidi prout respondet fami
+          : sed illa est frigidi et humidi prout respondet siti. Haec autem omnia tangibilia plurium
+          generum sunt non subalternatim positorum : et ideo videtur passivum his activis
+          respondens, plures esse sensus, et non unus specie vel numero vel genere : non enim
+          sufficit quod haec omnia in uno sint genere generalissimo, quia sic omnia sensibilia
+          essent unus sensus.</p>
+        <p xml:id="admda-l2t3c30-d1e157">Habet autem solutionem sophisticam ad hanc inductam dubitationem, eo quod aliquis forte
+          instabit et dicet quod probatio quam induximus, quod omnis sensus unus, unius sit
+          contrarietatis, sit falsa : quoniam etiam in aliis sensibus plures videntur inesse
+          contrarietates, sicut in voce non solum est una contrarietas quae est acutio et gravitas,
+          sed etiam magnitudo et parvitas vocis, et lenitas et asperitas ejus, et his similia
+          contraria quae circa vocem inveniri possunt. Sunt autem et circa colores hujusmodi plures
+          differentiae contrariae. Sed causaliter solventi inductam dubitationem etiamsi concedamus
+          plures contrarietates quas dicit, tamen omnes has esse videbimus circa subjectum unum
+          commune, quod est primum genus earum : primae enim omnes sunt in voce, et secundae omnes
+          <cb ed="#B5" n="b"/>
+          <!-- 285 b --> in colore. In tangibilibus autem non invenimus aliquod subjectum primum
+          quod sit genus contrarietatum superius inductarum. Et ideo adhuc remanet dubium, utrum
+          tactus sit sensus unus vel plures. Inductae etiam differentiae non dicunt contraria ultima
+          : quia ultima contraria in quolibet genere sunt simplicia, sed magnitudo et parvitas, et
+          lenitas et asperitas non sunt ultima in voce, sed differentiae sunt vocum mediarum, sicut
+          in libro de sensu et sensato ostendimus. Similiter autem est de his quae sunt in colore.
+          Quod autem in sensibilibus tactus non sit genus unum, patet : quia si consideramus ea
+          secundum esse prout physicus ista considerat, tunc calidum et frigidum et humidum et
+          siccum sunt in qualitate, et leve et grave quae causantur a raro et denso, sunt in
+          substantia, eo quod super substantiam non addunt nisi situm quemdam qui est in partibus
+          materiae. Ostensum est igitur demonstrative, quod sensus tactus est plures virtutes
+          tactivae : et sic determinata est una superius inductarum dubitationum.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

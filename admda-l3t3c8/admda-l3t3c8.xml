@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VIII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VIII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t3c8">
+        <head xml:id="admda-l3t3c8-Hd1e128">CAPUT VIII.</head>
+        <head xml:id="admda-l3t3c8-Hd1e131" type="question-title">Et est digressio de solutionem quaestionis Avempacis et
+          Alfarabii in quo erraverunt.</head>
+        <p xml:id="admda-l3t3c8-d1e134">Avempace autem qui tota vita sua solitus fuit solvere istam quaestionem, posuit
+          intellectum materialem esse corruptibilem et generabilem, et non esse animae rationalis
+          partem : quia dixit et hunc esse phantasiam secundum quod est in homine, quae conjuncta
+          est cum cogitatione potentia, sicut superius et ante diximus. Solvebant autem istam
+          quaestionem sicut et Alfarabius et post eum Albubachel, quod intellectus agens est natura
+          hominis et est separatus : et ideo quando per intelligibilia perficeret operationem suam,
+          quae est creare et facere intellectum speculationis : et tunc quasi liberatus intelligit
+          per seipsum ea quae sunt separata. Avempace autem post hos veniens, addidit quod homo
+          secundum intellectum habet duas vires : unam humanam quam habet in quantum colligatur
+          phantasmatibus, alteram autem divinam quam habet secundum quod est vestigium
+          intelligentiae separatae. Per humanam intelligit concepta cum materia, per divinam autem
+          separata. Omnes autem isti tres unam habent rationem, sed dupliciter ar<pb ed="#B5" n="382"/> <cb ed="#B5" n="a"/>guunt ex illa primo quod modo uno sic. Supponunt enim quod
+          omnia speculativa quae sunt in anima, facta sunt speculativa postquam potentia facta sunt
+          speculativa. Deinde supponunt aliam propositionem quae verissima est, quod videlicet omne
+          factum speculativum habet quidditatem, et tertio iterum supponunt aliam veram
+          propositionem, quod videlicet intellectus est, qui facit omnes quidditates potentia
+          intellectas esse actu intellectas : et ex illis concludunt quod intellectus innatus est
+          extrahere formas intellectivorum et quidditates eorum : oportet igitur quod virtutem illam
+          habeat per naturam separatam. Hanc autem rationem etiam aliter inducunt sic. Supponunt
+          enim primo, quod omnis quidditas suppositi et singularis cum potentia est potentia
+          separabilis ab ipso. Secundo autem, quod quando fit actu, quod tunc facta est quidditas
+          pura ab intellectu agente : et quaerunt quod sit speculativum, aut compositum ex
+          quidditate et alio, aut est simpliciter quidditas, aut non est habens quidditatem, ita
+          quod sit privatio pura. Et si dicatur quod est compositum ex quidditate et quodam alio,
+          tunc cum ab omni composito intellectus sit aptus separare quidditatem intellectus, separat
+          ab intellecto illo quidditatem illam : et de illa quidditate erit eadem quaestio : et ibit
+          hoc in infinitum : et quia infinitum fugit omnis intellectus, standum est in primo
+          intellecto, et dicendum est quod illa est quidditas pura. Si autem dat quod non esset
+          quidditas, sed esset privatio pura, non est pura : tunc nihil esset intellectum
+          speculatum, nulla etiam esset scientia speculativa omnino : quod falsum est. Remanet ergo
+          quod sit separata et absoluta quidditas. Adhuc autem Alfarabius rationem inducit et sic.
+          Supponit enim quod intellectus equi in quantum est equus sive per simplicem quidditatem
+          ipsius non est plures intellectus, sed unicus, et similiter est de intellectu ho<cb ed="#B5" n="b"/>
+          <!-- 382 b -->minis, et universaliter est de omni intellectu quidditatis. Si ergo
+          efficitur plures intellectus, oportet quod aliquid sit causa pluralitatis : hoc autem non
+          est nisi quod dividitur et differre facit quidditatem secundum esse et numerum : et hoc
+          non est nisi forma corporalis et individualis in phantasia vel in sensu. Quia igitur
+          intellectus speculativus quidditatis est alius apud me, alius apud te, hoc est, quod forma
+          imaginata in spiritu corporeo cum quo componitur quidditas intellecta, est alia apud me,
+          et alia apud te : et sic per imaginationem componitur et conjungitur nobis intellectus
+          speculativus qui de se universalis est, quia superius ostensum est quod intellectum
+          secundum quod intellectum non est individuum. Cum igitur intellectus sic separatur lumine
+          agentis perfectus eodem lumine, et per gradus ascendens conjungitur intellectui separato,
+          et fit intellectus speculativus quasi dispositio media est conjunctionis istius : et hoc
+          fere est idem ac si dicatur quod agens habet primo lumen debile, quod non valet nisi
+          speculari, et valet intelligere separata : et postea acquirit lumen forte, per quod
+          intelligit separata : et quod idem est intelligens quidditates quas a materia separatas
+          habet, et quidditates separatorum.</p>
+        <p xml:id="admda-l3t3c8-d1e145">Sed unicuique potest de facili patere, quod haec ratio non valet, nisi nos concedamus
+          quod unicuique sunt quidditates separatorum per se, et quidditates eorum quae separantur
+          ab intellectu a materia in qua sunt. Si enim hoc esset verum, tunc ejus virtutis esset
+          comprehendere utrosque. Si autem aequivoce, tunc nihil valet ratio inducta. Et si dicatur
+          neque esse aequivoce, neque penitus univoce, tunc oportet etiam virtutem intellectivam
+          variari, supposito hoc quod dixit <name ref="#Aristotle">Aristoteles</name> in VIII
+          Ethicorum, quod omnis cognitio est in anima secundum congruentiam cognoscentis et cogniti,
+          nisi hoc esset verum, tunc quaelibet vir<pb ed="#B5" n="383"/> <cb ed="#B5" n="a"/>tus
+          acciperet quodcumque : et sic intellectus acciperet sensibile et alicujus sensus
+          intelligibile, quod omnino esse non potest. Si autem quidditates darentur utrasque esse
+          unitas, tunc adhuc multae remanerent dubitationes. Si autem dicatur intellectus possibilis
+          esse corruptibilis, tunc quaeretur secundum praedicta qualiter corruptibile unitur
+          incorruptibili, et quaestio est tam in possibili quam in speculativo : quia uterque
+          ponitur corruptibilis ab Avempace. Si autem possibilis dicatur esse incorruptibilis et
+          separatus, tunc relinquitur quod qualiter intelligit aliquid de novo : quia aliquid
+          incorruptibile secundum substantiam non potest fieri novum secundum formam, eo quod ex
+          materia et forma fit unum novum. Adhuc autem cum neque sit separatus, quare modo
+          intelligit et non ante, cum per se sit uno modo quod est separatum ? Adhuc relinquitur
+          quaestio secundum istos, quare de separatis secundum se non sunt scientiae speculativae,
+          sicut sunt de conjunctis ? Si enim utrumque est in potestate nostri intellectus, tunc
+          speculabimur de separatis per separata sicut speculamur de conjunctis. Hoc autem non est
+          verum : quoniam si quid parum aliquando speculamur de separatis, hoc facimus per conjuncta
+          cum materia, sicut per motum accipimus motorem : et nescimus speculari passiones
+          substantiae ipsius, nisi quae relatae sunt ad motum et ad corpora. Si enim est aliqua
+          hujus causa ista, quia habemus intellectum connaturalem nobis ad talia speculanda, tunc
+          oportet quod omnes deficiamus in scientia speculativa separatorum : aut propterea quod
+          principia illius scientiae non sunt inventa, sicut deficimus in alchimia : aut propter hoc
+          quod non sumus exercitati sufficienter : et utrumque eorum est improbabile, quia talis
+          defectus esset generalis apud omnes homines. Si autem diceret aliquis, quod aliqui habent
+          et aliqui non habent potentiam hujus speculativi, tunc nos quia non habemus hujusmodi
+          potentiam, <cb ed="#B5" n="b"/>
+          <!-- 383 b --> aequivoce diceremur homines ad eos qui habent hujusmodi potentiam. Constat
+          enim summam hominis potentiam esse perfectionem in contemplatione separatorum.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

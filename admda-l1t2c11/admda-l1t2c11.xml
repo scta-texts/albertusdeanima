@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XI.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XI.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l1t2c11">
+        <head xml:id="admda-l1t2c11-Hd1e128">CAPUT XI.</head>
+        <head xml:id="admda-l1t2c11-Hd1e131" type="question-title">De improbatione operationis eorum qui diffinierunt animam per
+          cognoscitivum, dicentium simile simili cognosci, et ideo animam esse principium
+          omnium.</head>
+        <p xml:id="admda-l1t2c11-d1e134">Tribus autem traditis secundum quae communiter diffiniunt animam Antiqui, alii enim
+          maxime contulerunt in diffinitione animae, quod est movens seipsam : alii autem corpus
+          subtilissimum aut incorporalissimum inter alia : qui autem diffinierunt per movens
+          seipsum, tam isti quam illi fuerunt. Sed corpus subtile et incorporale ponentes animam,
+          propter tria diversificati sunt : quidam enim non dixerunt eam esse corpus, sed tamen eam
+          esse corpus sequebatur ex dictis eorum, sicut fuerunt illi <pb ed="#B5" n="171"/> <cb ed="#B5" n="a"/> qui dixerunt eam esse numerum vel unitates motas, quia unitates motae
+          necessario habent situm : et ideo ipsas sequitur esse corpora vel aliquid corporis.
+          Secundi autem fuerunt dicentes eam esse sphaeras indivisibiles. Tertii autem fuerunt
+          dicentes eam esse harmoniam corporis : et hi tamen non directe dicunt eam esse corpus, sed
+          corpoream formam. Haec autem omnia quas habeant contra se objectiones dubitationum, et
+          quas habeant subcontrarietates, jam fere praeterivimus sive exsecuti sumus.
+          Subcontrarietates autem voco, quando absque dubio rationes inducentes se habuerunt veras,
+          licet positio eorum erronea fuerit : et ideo etiam praetereundo et abjiciendo tetigimus
+          quae dicta sunt ab eis fere, nisi forte colligamus ea quibus diffiniunt animam, non omnia
+          ponentes quae ipsi dixerunt. Scimus enim animam esse motivam, sed non est motiva ita quod
+          sit mota : et scimus quod est incorporea, non tamen ita est incorporea quod sit corpus
+          subtile, sed potius non est corpus, neque forma corporalis. Est etiam cognoscitiva, sed
+          non ex illa causa, quod ipsa sit composita ex principiis entium. Relinquitur autem ut modo
+          consideremus quomodo anima dicitur esse ex elementis. Quidam autem Antiquorum dixerunt
+          quod anima ideo dicitur esse ex elementis omnium, quatenus sentiat omnia et cognoscat
+          unumquodque entium per hoc quod est similis illi, sicut diximus superius.</p>
+        <p xml:id="admda-l1t2c11-d1e141">Necessarium autem est, quod ad hanc positionem multa sequantur impossibilia. Ponunt enim
+          isti quod anima cognoscit simile simili, tanquam ponentes in anima res similes
+          exterioribus rebus quas cognoscit. Scimus autem quod non sola sunt in rerum natura quae
+          vocamus <cb ed="#B5" n="b"/>
+          <!-- 171 b --> elementa vel principia rerum, sed sunt multa altera ab his. Magis autem
+          fortasse sunt infinita ad minus potentia et successione quae fiunt ex elementis, quorum
+          unumquodque anima cognoscit propriam cognitionem habens de eorum quolibet.</p>
+        <p xml:id="admda-l1t2c11-d1e148">Etsi igitur anima cognoscat et sentiat elementa ex quibus est unumquodque eorum quae
+          fiunt ex eis : quomodo tamen cognoscet et sentiet propter hoc compositum ex illis, ut quis
+          Deus Jupiter, vel Sol, aut quid homo, aut quid caro, aut quid os, similiter autem
+          quodlibet aliorum compositorum ? Non enim sufficit cognoscere ex quibus est compositum ut
+          cognoscatur compositum, sed oportet scire et ex quibus et qualibus est, hoc est, in qua
+          proportione componantur, et quae sit ratio compositionis eorum in hoc et in illo. Non enim
+          quolibet modo se habentia elementa componunt horum compositorum unumquodque, sed
+          determinata ratione proportionis, et determinata compositione, quae diversificantur
+          secundum unumquodque, sicut et Empedocles dixit quod os componitur ex quatuor elementis,
+          ita quod ipsum humus sive terra coaptata aliis elementis in amplis poris, qui vocat
+          diffusiones ipsius. Amplos autem dicit poros sive vasa : quia terra grossa est, et non
+          nisi in amplis poris capi potest, et amplioribus poris indiget, quibus coaptetur quam
+          caetera elementa. Talis autem est secundum Empedoclem proportio compositionis ejus, quod
+          duas ex octo partibus habet terrae, cujus propria est nigredo, et quatuor ex octo dedit
+          Vulcano sive igni qui est res sicca calida, ut dixit Empedocles, et ideo vincentibus
+          proprietatibus ignis super proprietates terrae, ossa sunt facta sicca et dura. Unam autem
+          proprieta<pb ed="#B5" n="172"/> <cb ed="#B5" n="a"/>tem ex octo dedit aquae, et unam aeri.
+          Si igitur unumquodque aliorum similiter sic habet determinatam proportionem et
+          compositionem, ex qua oportet ipsum cognosci si per suum simile cognosci debeat, tunc
+          nihil profecto est dicere elementa esse in anima, nisi rationes proportionum quibus
+          componuntur res inesse dicantur, et nisi etiam realiter in anima esse ponatur ipsa rerum
+          compositio : et hoc oportet ideo, quia dicunt quod anima cognoscit unumquodque quod est
+          simile secundum rem et naturam. Os igitur et hominem non cognoscet, nisi et haec inesse
+          dicantur. Quod autem impossibile est omnia entia simplicia et composita esse in anima, non
+          oportet nos hic dicere per rationem et syllogismum, cum hoc per se manifestum sit
+          cuilibet. Quis enim vel idiota vel insanus dubitabit unquam, si est in anima aut lapis aut
+          homo secundum essentiam lapidis aut hominis ? Similiter autem est de bono et non bono, et
+          de vivo et non vivo, et de unoquoque aliorum.</p>
+        <p xml:id="admda-l1t2c11-d1e156">Amplius autem cum ens dicatur multipliciter, significat aliud quidem substantiam sive hoc
+          aliquid secundum diversitatem praedicamentorum. Quaeramus igitur utrum ex omnibus illis
+          erit anima, aut non ? Quod autem non sit ex omnibus, videtur ex hoc quod anima ponitur
+          esse ex elementis, et non sunt aliqua elementa quae sint communiter omnium
+          praedicamentorum. Quaeramus igitur utrum ex his solis est quaecumque sunt elementa
+          substantiarum ? et si hoc detur, tunc quaeramus quomodo cognoscit quidditatem aliorum
+          generum et uniuscujusque quid est in generibus in illis, cum dicant quod non cognoscetur
+          nisi simile sibi simili : tunc enim nihil in se habet quod sit simile his quae sunt in
+          aliis generibus : oportet igitur quod aut dicant animam non cognoscere res aliorum
+          generum, aut quod dicant quod <cb ed="#B5" n="b"/>
+          <!-- 172 b --> sunt diversa principia et elementa uniuscujusque generis, et quod anima
+          constat et componitur ex omnibus illis : erit igitur anima secundum hoc in parte qualitas,
+          et in parte quantitas, et in parte substantia et sic de aliis praedicamentis, et erit
+          essentialiter quodlibet praedicamentum, et non accidentaliter, quia non est praedicatio
+          accidentalis quando quantitas vel qualitas praedicatur de aliquo quod constitutum est ex
+          principiis quantitatis vel qualitatis : sic quando dicitur de linea quod est quantitas,
+          vel de colore quod est qualitas. Sed impossibile est animam quantitatem vel qualitatem
+          esse, quia ab omnibus supponitur fere quod anima est substantia : et impossibile est quod
+          id quod est substantia, constituatur ab elementis qualitatis vel quantitatis : quin potius
+          quantitas constituitur ab elementis quantitatis, et qualitas ab elementis qualitatis :
+          neque aliquid fit unum essentialiter ab elementis substantiae simul, et ex elementis
+          aliorum praedicamentorum. Accidens enim est in substantia, non sicut quaedam pars
+          quidditatis ejus, sed sicut dispositio quae potest inesse et non inesse. Haec ergo
+          hujusmodi altera inconvenientia sunt, quae contingunt his qui dicunt animam esse ex
+          omnibus entibus.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

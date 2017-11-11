@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT III.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT III.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t1c3">
+        <head xml:id="admda-l2t1c3-Hd1e128">CAPUT III.</head>
+        <head xml:id="admda-l2t1c3-Hd1e131" type="question-title">De datae diffinitionis explanatione, et est digressio
+          quaedam.</head>
+        <p xml:id="admda-l2t1c3-d1e134">Quia autem animam diximus esse actum non cujuslibet physici corporis, sed potius ejus
+          tantum quod in potestate perfecta habet unde exerceat actiones vitae, oportet nos ad
+          explanationem dictae diffi<cb ed="#B5" n="b"/>
+          <!-- 195 b -->nitionis determinare quale sit illud corpus quod dicimus in tali potestate
+          habere vitam. In superioribus autem primi libri istius scientiae diximus formas naturales
+          universaliter esse duplices : una enim est quae magis sequitur naturas corporis naturalis,
+          in quo est forma non elevata supra ipsum et potentias ejus, sicut est illa quae est
+          harmonia mixtorum, vel harmoniam consequens, et talis forma natura proprie vocatur, et non
+          agit nisi unum, sicut determinatum est in secundi Physicorum nostrorum principio : de
+          omnibus mixtis talem formam habentibus, jam tractavimus in scientia de Lapidibus et
+          Mineralibus. Est autem alia quae magis est vicina causae universali agenti primae, quae
+          agit omnes formas, et haec est essentia incorporea movens et perficiens corpus, quae habet
+          imprimere in naturam totam, eo quod ordine naturae supra naturam est omnis formae
+          corporeae, et haec vocatur anima : et quia potestatem non trahit agendi a corpore, sed ex
+          prima causa cujus naturam sequitur, ideo non agit tantum unum, sed multa, et quodlibet
+          illorum operum est ei proprium et essentiale, et talis forma vocatur anima. Actiones autem
+          suas essentiales agit in corpore et circa corpus, quae actiones non sunt sine instrumentis
+          et corporalibus : et ideo omne corpus quod in potestate habituali habet unde operetur
+          actiones vitae, oportet esse organicum, hoc est, ex organis figura et situ differentibus
+          compositum : organa enim voco membra officialia, quibus actiones vitae ab anima
+          exercentur, sicut per corporum fluxus spiritus vitalis, per stomachum autem cibi coctio,
+          per hepar autem digestio, et sic de aliis hujusmodi. Hoc autem rationabiliter fit : forma
+          enim quae natura simplex est, cum unam tantum habeat essentialem operationem, sortitur
+          corpus simplex non organicum, unius rationis existens in toto et in partibus omnibus ejus,
+          sicut est forma ignis, et lapidis, et metalli. Forma autem quae sua incorporeitate altior
+          est quam forma naturalis, et magis supra <pb ed="#B5" n="196"/> <cb ed="#B5" n="a"/>
+          materiam elevata, plura operatur essentialiter : et ideo oportet suum corpus in quo
+          exercet opera illa, esse heterogenium ex diversis in figura et mixtura compositum. Hujus
+          autem exemplum est in omnibus potestatibus incorporeis. Ars enim architectonica cum sit
+          una, non una simplici operatione facit domum, sed potius secando, dolando, perforando,
+          complanando, et levando, et compaginando, propter quod diversa in figura quaerit
+          instrumenta, sicut securim ad secandum, dolabrum ad dolandum, et terebrum ad perforandum,
+          runcinam autem ad planandum, et in aliis actionibus suis aptat alia hujusmodi : unit autem
+          ad unum manus artificis quae movet omnia haec. Sic et anima habens in se potestates
+          operandi opera vitae multas, quaerit corpus sic habens diversa organa in figura et mixtura
+          et compositione, in quibus diversis agit vitae actiones, uniens omnia haec ad unum,
+          scilicet ad cor, a quo influit vitae actiones omnibus eis. Organa autem plantarum partes
+          sunt : et hoc quidem satis manifestum est in corporibus animalium, et maxime hominum, cum
+          etiam in corporibus plantarum verum est, quia plantarum partes sunt organa specialia
+          officia habentia vitae, licet sint partes simplices hoc genere simplicitatis quo dicitur
+          simplex, quod partes habet homogenias : folium enim in planta est ad cooperiendum corticem
+          fructuum, ne laedatur caumate vel frigore : fructus autem habet corticem in quo operitur
+          semen, ut efficiatur pepanum in vase debito maturatum. Radices vero habet ori in
+          animalibus similes quoad officium : quia et oris et radicis officium est trahere
+          nutrimentum. Medullam autem habet quasi loco cordis. Licet quaelibet istarum partium in se
+          sit composita ex similibus, tamen istae partes diversa habent vitae officia.</p>
+        <p xml:id="admda-l2t1c3-d1e145">Patet igitur ex dictis, quod si oportet aliquam communem diffinitionem dare <cb ed="#B5" n="b"/>
+          <!-- 196 b --> animae, tunc utique erit actus primus corporis physici organici, quia hoc
+          convenit tam animae plantae quam brutorum, et convenit etiam animae humanae quam in
+          organis operari videmus. Et quia actus in omnibus essentialiter distinguitur ab eo cujus
+          est actus, et praecipue in animatis, in quibus ostensum est animam corpoream formam non
+          esse, ideo non oportet quaerere si unum sit anima et corpus. Forma enim cum materia
+          nunquam coincidit in eamdem rem, sicut in artificialibus apparet : ubi tamen forma
+          vicinior est materiae quam in aliis. Non enim quaerimus si figura est idem cum cera in
+          sigillo, neque universaliter unquam dubitamus si idem sit actus, et id cujus est actus
+          sicut materiae. Cum enim hoc ipsum unum et ens multipliciter per analogiam dicuntur de
+          substantia et accidente, erit substantia principaliter et per se ens, et accidens est ens,
+          quia est aliqua dispositio ejus quod vere est. Cum substantia dividatur in tria, sicut
+          superius diximus, materiam scilicet, formam, et compositum, quod inter ista tria et ens
+          proprie et primo est est forma, quia materia non habet actu esse nisi a forma, et
+          compositum similiter : et ideo materia non est propter esse dandum, sed potius tantum ad
+          hoc quod substet, et particulizet et individuet esse quorum nullum est esse : propter quod
+          impossibile est unquam formam esse materiam : et sic eadem impossibilitate impossibile est
+          animam esse corpus.</p>
+        <p xml:id="admda-l2t1c3-d1e152">Universali igitur diffinitione dictum est quid sit anima, quia est substantia secundum
+          quod ratio rei substantia et forma est : et haec substantia est quid erat esse, hoc est,
+          quiditas essentialis hujusmodi corporis quale determinatum est : et ideo corpus amittit
+          nomen et rationem suam quando exspirat ab eo anima : sicut si diceremus aliquod
+          instrumentorum artificialium esse alias a natura perfectum, sicut <pb ed="#B5" n="197"/>
+          <cb ed="#B5" n="a"/> si dolabra esset animal et corpus physicum : tunc enim id quod est
+          substantia ipsius formalis, est esse suum, quia esse nihil aliud est nisi diffusio formae
+          in subjecta sibi materia : et tale esse physici corporis esse, anima in communi ratione
+          accepta. Et si positione priori retenta, quod dolabra sit corpus physicum, corpus
+          dolabrale, quod est ferrum, separetur a forma dolabrae, jam non habebit nec rationem, nec
+          nomen dolabrae, nisi forte aequivoce : neque ferrum habebit nec rationem ferri, sed quod
+          ferrum adhuc est ferrum, separata ab ipso forma dolabrae, apud usum loquendi, ideo est,
+          quia dolabra est organum artis, et non physicum, et corporum artificialium superius
+          diximus esse principia corpora physica quae formas physicas retinent in eis. Horum enim
+          accidens est forma artis : et ideo talis corporis non est esse et ratio anima, sed potius
+          physici talis, quod habet in seipso principium quo movetur motu vitae et secundum locum,
+          et quod in se habet posse quiescendi quando voluerit. Et ideo separata anima ab hujusmodi
+          corpore, corpus jam non erit habens esse et nomen : et ideo mortuus homo non est homo,
+          neque caro ejus est vere caro, sed potius corruptum a carne hominis.</p>
+        <p xml:id="admda-l2t1c3-d1e160">Considerare autem oportet in partibus animati corporis, quod nunc dictum est, quoniam si
+          nos ponamus oculum per impossibile esse separatum et esse animal, tunc absque dubio visus
+          et potentia visiva erit anima ejus : quia haec potentia agit in eo vitae actionem secundum
+          naturam oculi et complexionem : visus igitur erit substantia formalis oculi dans ei
+          rationem oculi et nomen : ipse autem oculus, qui pupilla vel corpus oculi vocatur, est
+          materia visus : et ideo deficiente visu in oculo, jam non est oculus, sed aequivoce, neque
+          pupilla vocatur, neque est, nisi aequivoce, sicut lapideus, vel depictus. Quod <cb ed="#B5" n="b"/>
+          <!-- 197 b --> autem accidit in parte una organica animalis, oportet accipere accidere in
+          toto corpore vivente : quia omnino simile est. Sicut enim una potestas particularis animae
+          sensibilis se habet ad unam organicam partem corporis, in eo quod dat ei esse et rationem
+          : ita totus sensus sive substantialis anima se habet ad totum vivens corpus, quod dat ei
+          esse et rationem talem quae est sensitivi corporis. Patet igitur ex dictis qualiter anima
+          sit actus animati corporis potestatem habentis agendi vitae actiones.</p>
+        <p xml:id="admda-l2t1c3-d1e167">Et ideo tale corpus non potest esse abjiciens animam, quod ita est in potentia, et in ea
+          est ei vivere, sed potius est animam habens : propter quod diximus superius, quod cum
+          dicitur in diffinitione assignata, potentia vitam habentis, quod de potestate habituali et
+          perfecta intelligitur, quae potens est agere vitae actiones : hoc autem haud est separatum
+          ab anima ut abjiciens eam, sed potius in ratione sua concipiens eam et habens eam : quia
+          neque nomen corporis organici habet, neque rationem sine ipsa. Semen autem animalium et
+          fructus plantarum non sunt hujusmodi corpora organica, nisi in potentia incompleta : et
+          ideo talium non est anima endelechia, neque anima est in eis, nisi sicut artifex in
+          artificiato quod est in fieri et non in esse : et hoc non est inesse animam nisi secundum
+          quid, sicut supra diximus. Unde patet ex dictis quod vigilantia et actio animae quae est
+          exercitium actionis vitae, sicut in artificialibus incisio, et in physicis visus sive
+          videre secundum actum, et est visus secundum actionem quae est uti visu : et similiter
+          potentia habitualis organi ad videndum, quod est visum habere, et non uti, est anima :
+          quia, sicut diximus, ipsa est et actus primus et actus secundus : neque tamen ideo est duo
+          : quia actus secundus supponit primum, <pb ed="#B5" n="198"/> <cb ed="#B5" n="a"/> et
+          fluit ex ipso essentialiter. Corpus autem et materia oculi est, quod est potentia utens et
+          habens visum, et non potentia incompleta, sed potestate perfecta, sicut diximus : et sicut
+          oculus est pupilla et visus compositus, ita anima et corpus est animal totum compositum,
+          cujus tota ratio et substantia est anima.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

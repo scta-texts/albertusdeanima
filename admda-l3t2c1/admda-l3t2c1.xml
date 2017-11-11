@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT I.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT I.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t2c1">
+        <head xml:id="admda-l3t2c1-Hd1e128">CAPUT I.</head>
+        <head xml:id="admda-l3t2c1-Hd1e131" type="question-title">Qui tractatus est qualiter intellectus possibilis est.</head>
+        <p xml:id="admda-l3t2c1-d1e134">De parte autem animae rationalis qua ipsa anima cognoscit distinguendo et formando
+          agibilia et factibilia, quae pars intellectus activus arte et prudentia perfectus vocatur,
+          et de parte animae qua anima sapit prima et vera, et ea quae per prima et vera accipiunt
+          fidem, quae pars sapientia et intellectu principiorum perficitur et scientia, et vocatur
+          intellectus contemplativus, quaerere intendimus in hoc secundo tractatu hujus tertii libri
+          de Anima. Quaeramus autem principaliter de ista parte, tertia scilicet, utrum separata sit
+          haec pars a sensitivo et vegetativo secundum magnitudinem, hoc est, subjectum organi et
+          locum, sicut dixit Plato, qui dedit ei locum et subjectum organum, quod est media pars
+          cerebri, propter hoc quod est secundum ipsum <cb ed="#B5" n="b"/>
+          <!-- 329 b --> sedes rationis, cellam syllogisticam appellavit, ut altitudo situs organi
+          sui altitudinem rationis super alias virtutes demonstraret. Quaeremus igitur utrum ista
+          pars sic ab aliis differat per subjectum corporale, quod est magnitudo quaedam loco a
+          quantitatibus organorum aliorum divisa, aut non differat subjecto corporali, sed ratione
+          tantum, quae ratio sumitur in animae partibus quae unitae sunt in subjecto uno, quod est
+          ipsa animae substantia. Et ad illam quaestionem reducitur alia. Si enim supponamus quod
+          pars ista quae vocatur rationalis vel intellectualis, pertinet cum aliis viribus animae ad
+          unam animae substantiam : tunc debet certificare quam habet differentiam ab eis, quae
+          etiam partes ejusdem animae sunt et dicuntur. Et quaeramus tunc forte quomodo contingat
+          intelligere ipsi animae, hoc est, quaerere per quae principia quae sunt partes animae vel
+          non, et qualiter intellectiva et speculativa cum anima uniantur et continuentur : et hoc
+          omnium ad sciendum gravissimum.</p>
+        <p xml:id="admda-l3t2c1-d1e141">Quaeramus etiam, utrum intelligere sit omnino simile ei quod est sentire, ita <pb ed="#B5" n="330"/> <cb ed="#B5" n="a"/> quod sit per potentiam passivam ab aliquo objecto,
+          sicut habitum est de sentire, aut ipsum sit passionis genus aliquod ab intelligibili in
+          anima factum alterum quam sentire, aut sit aliquid hujusmodi simile passioni sensus,
+          alterum tamen ab ipso. In his autem determinandis quaestionibus procedere non possumus
+          ordine eodem quo enumeratae sunt : quoniam, sicut supra diximus, operationes sunt priores,
+          et praeviae potentiis secundum nos : et ideo ab ultima sumemus initium : et quia adipiscor
+          res difficillimas et cognitione dignissimas, ideo volo primo totam <name ref="#Aristotle">Aristotelis</name> sententiam pro nostris viribus explanare, et tunc aliorum
+          Peripateticorum inducere opiniones, et post hoc de Platonis opinionibus videre, et tunc
+          demum nostram ponere opinionem : quoniam in istarum quaestionum determinatione omnino
+          abhorremus Doctorum Latinorum verba : eo quod nobis videtur quod etiam in eorum verbis non
+          modo quiescat anima : propter quod scientiam veritatis nec ostendunt, nec verbis propriis
+          attingunt. Rogo autem et repetens iterum iterumque rogo socios nostros, ut dubitationes
+          quae hic inducentur, diligenter animadvertant : et si invenerint earum solutionem
+          perfectam, Deo immortali gratia agant immortales. Si autem minus invenerint, hoc ad minus
+          lucri reportabunt, quod scient dubitare de rebus mirabilibus et altis et annotatione
+          dignissimis ad scientiam divinam multum proficientibus. Cum enim scientia de anima, sicut
+          a principio diximus libri de Anima, sit de mirabilibus, id quod hic quaerendum est in ea
+          admirabilius quidem caeteris et altius, et est id quod homo per seipsum scire desiderat.
+          Accipiamus ergo <name ref="#Aristotle">Aristotelis</name> verba prout in tertio de Anima
+          jacent.</p>
+        <p xml:id="admda-l3t2c1-d1e154">Dicit autem <name ref="#Aristotle">Aristoteles</name> quod partem qua supra dicto modo
+          cognoscit et sapit, <cb ed="#B5" n="b"/>
+          <!-- 330 b --> oportet esse impassibile quoddam : quia esse passibile est corpus vel
+          virtus in corpore, et omne tale transmutabile est aut secundum se, si corpus est passioni
+          subjectum : aut per alterius transmutationem, si est virtus in corpore sicut est visus in
+          oculo, qui transmutatur et patitur passionibus oculi, sicut supra ostendimus, ubi diximus
+          quod hoc non est propter transmutationem virtutis visus, sed propter transmutationem
+          pupillae : neutrum autem horum potentiae convenit intellectivae, sicut in sequentibus
+          ostendemus. Licet autem isto modo sit impassibilis potentia intellectiva, oportet tamen
+          eam fore susceptivam specierum : quia aliter de potentia agente non efficeretur actu
+          intelligens : et oportet quod ipsa sit potentia species illae : talis autem potentia non
+          est hoc aliquid demonstratum et individuatum in natura : quia si esset, aut haec materia,
+          aut haec forma, aut hoc compositum, tunc esset hoc aliquid demonstratum : materia autem
+          non est haec materia nisi per hanc formam facientem eam esse materiam hujus : et ideo haec
+          materia non est potentia quaelibet forma, quod universalitas proportionis ejus ad omnem
+          formam impeditur per hoc quod est materia hujus. Verbi gratia, materia enim carnis non
+          potentia habet omnes formas, sed tantum potentia materiae primae quae non habet formam
+          aliquam : nihil enim est potentia id quod jam habet : haec autem materia potentia habet
+          formam : et ideo non est potentia forma illa nec aliqua formarum quae est de intellectu
+          suae formae habitae : et illius exemplum est, quod materia Socratis nec potentia est
+          animal, nec animatum, nec corpus, nec substantia : quia omnia illa jam actu habet.
+          Intellectus autem potentia suscipit omnes species : ergo actu nullam habet : ergo non est
+          hoc aliquid sicut haec materia. Et per istam eamdem rationem ostendetur quod non est hoc
+          aliquid sicut hoc compositum : nec hoc aliquid sicut haec forma : hoc enim patet per se,
+          quia forma non est potentia sus<pb ed="#B5" n="331"/> <cb ed="#B5" n="a"/>ceptiva alicujus
+          secundum quod est forma : ergo pars animae quae est intellectus possibilis, non est hoc
+          aliquid per hoc quod est intellectus possibilis. Licet autem sit supra dicto modo
+          impassibilis et intransmutabilis, tamen contingit ei per hoc quod est possibilis, quod
+          similiter se habet intellectiva pars quae vocatur possibilis intellectus ad
+          intelligibilia, sicut se habet sensus ad sensibilia : sensus enim se habet ad sensibilia,
+          sicut medietas et proportio formalis harmonice media existens sensibilium : propter quod
+          omnia suscipit quodammodo : et sic ostendemus quod intellectus qui vocatur possibilis,
+          medietas est intelligibilium omnium, et per hoc suscipit ea, licet alia ratio sit
+          medietatis in sensu, et alia in intellectu : habet ergo solum hoc genus potentiae
+          passivae, quod secundum aliquem modum recipit species intelligibiles, et simpliciter non
+          est passibilis. Haec autem in sequentibus apparebunt evidentius.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

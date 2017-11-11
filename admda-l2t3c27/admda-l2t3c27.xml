@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XXVII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XXVII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c27">
+        <head xml:id="admda-l2t3c27-Hd1e128">CAPUT XXVII.</head>
+        <head xml:id="admda-l2t3c27-Hd1e131" type="question-title">De gustu secundum quod est in medio secundum esse materiale
+          ipsius.</head>
+        <p xml:id="admda-l2t3c27-d1e134">Gustum autem eo quod est potentia passiva sicut alios sensus per suum objectum
+          determinabimus. Dicamus igitur quod gustabile quoddam est de numero tangibilium. Et hac de
+          causa non fit gustus gustabilis per medium corpus <choice> <orig>extrinse cum</orig>
+          <reg>extrinsecum</reg> </choice>, quod tamen est a gus<cb ed="#B5" n="b"/>
+          <!-- 280 b -->tante distinctum, ita quod non est actu pars ejus, sed ducitur eo tanquam
+          instrumento mediali in quo percipiat sapores. Est hujus corpus humor salivalis in ore et
+          lingua. Cum enim gustabile sit tangibile, sicut tactus non potest esse medium per
+          extrinsecum, ita nec gustus. Gustabile est autem corpus in quo est actu humiditas, eo quod
+          gustabile est in humido sicut in propria materia et in medio : humidum autem est de numero
+          tangibilium. Propter quod etiam gustus formaliter differt <choice> <orig>à</orig>
+          <reg>a</reg> </choice> tactu : quia humidum in gustu materiale tantum est, et sapor in eo
+          est forma agens in gustum : et ideo gustus non est species tactus, sed species quaedam
+          sensus sicut et tactus. Si enim gustus formaliter acceptus pars esset tactus, tunc non
+          essent quinque sensus, sed quatuor quorum unus haberet plures partes. Et ideo cum dicitur
+          gustus esse quidam tactus, intelligitur quidam tactus qui non simpliciter est tactus, sed
+          quodammodo : quia scilicet id quod est materiales in gustu, est tangibile. Et quia humidum
+          est propria materia saporis in qua diffunditur, et est secundum esse materiale ipsius. Et
+          ideo si in aqua esse possemus, et permisceretur dulce aliquid cum aqua, non gustaremus
+          dulcedinem ab aqua separatam, sicut accipimus speciem coloris, sed potius gustaremus dulce
+          aquae permixtum simul in humido aquae extraneum lingua tangente. Et ideo tunc sensus
+          dulcis non esset nobis per aquam sicut per medium tantum : quia in eo quod est medium
+          tantum, non est sensibile, nisi secundum esse spirituale et intentionale : dulce autem
+          istud esset in humido aquae sicut in materia cui corporaliter permiscetur : sicut gustamus
+          etiam sapores in potu, qui in humido vini sunt, et cum humido gustum immutant, et non ab
+          humido sicut a medio secundum esse intentionale accipiuntur. Color autem non sic videtur,
+          quod misceatur medio secundum esse materiale : nec videtur sic, quod aliquid de partibus
+          materialibus colorati defluat ad visum, sed sic, quod in medio <pb ed="#B5" n="281"/> <cb ed="#B5" n="a"/> videtur secundum esse intentionale tantum : et hoc est potius a medio
+          accipere sensibile, quam in medio.</p>
+        <p xml:id="admda-l2t3c27-d1e164">Et ut hoc melius intelligatur, oportet scire quod gustus non accipit speciem saporis
+          denudatam a corpore saporoso, sicut faciunt tres sensus, de quibus dictum est, sed accipit
+          eam in defluxu partium corporis saporosi ad ipsum : et ideo hoc quod gustatur non qualitas
+          vel intentio est, sed corpus quod venit ad linguam : propter quod verissime gustus quidam
+          tactus est, et indiget medio intrinseco quod est pars animalis. Est autem hoc medium non
+          humor salivalis : eo quod ille humor non est pars animalis, sed potius linguae vel faucium
+          extremitas, in qua diffusi sunt nervi gustativi. Humor autem salivalis est medium ad bene
+          esse gustus, et non ad esse : quia partes corporis saporosi permixtae humido salivali,
+          subtiliantur et fluidae efficiuntur, ut possint penetrare per seipsas ad gustum. Et ex hoc
+          patet quod odor non est fumalis evaporatio : quia cum omnis fumus corpus sit, si odor non
+          nisi in fumo pertingeret ad olfactum, olfactus esset quidam tactus, sicut et gustus.</p>
+        <p xml:id="admda-l2t3c27-d1e167">Si autem aliquis quaesiverit qualiter ergo gustus dividitur a tactu, dicendum sicut prius
+          : quoniam sapor in humido secundum actum tangit tantum humidum in quantum humidum : gustum
+          in quantum gustus est, non immutat, sed potius sapidum, in quantum est sapidum : propter
+          quod gustus in eo quod gustus judicium saporis est : et sic a tactu discernitur, et non
+          est pars quaedam tactus. Et in hac sententia auctores tres concordant secundum <name ref="#Aristotle">Aristotelem</name> et <name ref="#Avicenna">Avicenna</name>m et
+          Averroem.</p>
+        <p xml:id="admda-l2t3c27-d1e177">Et sic dicendo, patet quod gustus nullum medium est extrinsecum : sed tamen sicut color
+          est visibilis et proprie agit in sensum visus, sic sapor est gustabilis et per se agit in
+          gustum, sed non agit et <choice> <orig>perficicit</orig> <reg>perficit</reg> </choice>
+          sensum saporis in gustu sine humi<cb ed="#B5" n="b"/>
+          <!-- 281 b -->ditate actuali, sicut diximus : sicut experiri potest cum salsum agit in
+          gustum : illud enim non agit sine humiditate : quia salsum est bene liquidum, et tactum
+          humido dissolvitur et liquefacit linguam, et commixtum incorporaliter illi humido et agit
+          in gustum, et non aliter.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

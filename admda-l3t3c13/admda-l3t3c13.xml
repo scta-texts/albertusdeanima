@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XIII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XIII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t3c13">
+        <head xml:id="admda-l3t3c13-Hd1e128">CAPUT XIII.</head>
+        <head xml:id="admda-l3t3c13-Hd1e131" type="question-title">Et est digressio declarans quod anima non moritur morte
+          corporis, et quod non fuit ante corpus.</head>
+        <p xml:id="admda-l3t3c13-d1e134">His autem omnibus habitis, de facili probatur animam rationalem esse immortalem, et quod
+          manet anima separata a corpore, et est ratio demonstrativa : quia omne essentialiter
+          separatum a corpore, et quod non communicat corpore per se sed per alium, manet separatum
+          a corpore : anima autem rationalis sic separata est, ut patuit ex dictis : ergo ipsa non
+          destruitur morte corporis. Amplius autem omnis essentia vel substantia a qua fluunt
+          potentiae naturales separatae secundum seipsas et suas operationes, est substantia
+          separata. Cujus probatio, quia si per substantiam esset commixta corpori, tunc potentia
+          ejus esset potentia commixti, et tunc non esset separata substantia : anima autem est
+          hujusmodi substantia, cujus partes potentiales sunt intellectus possibilis et agentis,
+          quae sunt partes per seipsas separatae : ergo et ipsa est separata : separatum autem in
+          sub<pb ed="#B5" n="391"/> <cb ed="#B5" n="a"/>stantia et actione non destruitur destructo
+          corpore : anima ergo rationalis destructo corpore destrui non potest. Superius etiam
+          induximus in primo libro <name ref="#Aristotle">Aristotelis</name> quod id est ex
+          potentia, per intellectualem naturam determinatum ad esse, est aliquid in natura et in
+          entibus mundi : intellectualis autem anima et intellectus de se est determinatum quid ad
+          esse, et aliquid per se existens in natura, et incorruptibile tam ex potentia quam ex
+          forma intellectuali quae ad esse in natura declaratur vel determinatur. Hoc autem facile
+          patet ex omnibus quae de separatione intellectus dicta sunt. <name ref="#Avicenna">Avicenna</name> autem sic probat et dicit : si enim anima dicatur corrumpi, aut dicetur
+          corrumpi per se, aut corruptione alterius ex quo pendet secundum esse. Si autem per se
+          corrumpatur per se, et tunc antequam corrumpatur, habet potentiam non permanendi in esse.
+          Constat autem quod habet existendi actum : aut ergo habet actum existendi, et potentiam
+          non essendi secundum idem et in eadem radice, aut non secundum idem sed in alia et alia.
+          Si dicatur quod habet secundum idem utrumque, scilicet potentia essendi et non essendi :
+          tunc ab eodem erit actus essendi et non essendi potentia : sed potentia non essendi in
+          omnibus habentibus potentiam illam, est a essendi erit ab eadem privatione, quod est
+          impossibile : quoniam actus essendi erit a divino et optimo, quod est forma ejus quod vere
+          est : si autem habet a diversis, tunc oportet quod anima sit composita ex diversis, quorum
+          unum sit materia habens in se privationem, et alterum forma : omne autem quod talem habet
+          materiam, habet eam tempore ante se : ergo materia ex qua sunt animae, est ante animas,
+          sicut materia corporum physicorum est ante ea : et oportet generationem et corruptionem
+          animarum esse ad invicem sicut corporum, quod est absurditas maxima. Ex hoc autem patet
+          quod in fine primi Coeli et Mundi diximus, quod im<cb ed="#B5" n="b"/>
+          <!-- 391 b -->possibile est quod generabile et corruptibile habeat virtutem semper
+          essendi, cum habeat virtutem aliquando non essendi, debeat intelligi de hujusmodi generato
+          et corrupto quod est compositum : nos enim concedimus animam quodammodo generari, si
+          generari dicatur quod incipit esse post non esse, et cum dicimus quod habet virtutem
+          semper essendi. Si autem dicatur quod anima corrumpitur corruptione corporis sicut pendens
+          ex ipso, tunc dividemus sic dicentes, quod aut pendet ipso sicut simul existens cum ipso,
+          aut sicut ex priori, aut sicut ex posteriori. Si autem simul existens, tunc hoc non potest
+          esse, nisi altero duorum modorum, quod videlicet ipsa simultas sit essentialis utrique, et
+          de ratione animae et corporis, aut quod sit accidentalis eis : sed si essentialiter
+          tanquam ens de ratione eorum, tunc anima et corpus essentialiter et secundum suas
+          diffinitiones referuntur ad invicem : ergo sunt essentialiter relata, quod falsum est. Si
+          autem est accidentalis utrique vel alteri, tunc posito in ipso non esse, non erunt
+          dependentia ad invicem, et nihil sequitur impossibile : ergo ex hoc non corrumpetur anima
+          corruptione corporis. Si autem pendet tanquam ex posteriori, aut sicut ex priori dicto
+          secundum causam, aut dependet ex eo sicut ex priori tempore : tunc erit corpus ante animam
+          sicut natura propria, et potentia a qua esse et corrumpi habet : ergo anima rationalis est
+          forma organica et actus corporis, quod multipliciter in praehabitis improbatum est. Si
+          autem dicatur esse materia corporis sicut ex qua fit anima, hoc est absurdum : quia sic
+          anima esset ex materia corporali, quod etiam improbatum est. Nos autem loquimur de anima
+          rationali tantum. Si autem dicatur quod pendet ex eo sicut ex priori secundum causam, tunc
+          aut erit causa efficiens aut formalis, aut materialis, aut finalis : quia jam ostensum est
+          quod non est causa materialis. Si autem pendet ex eo sicut ex causa efficiente, hoc non
+          potest esse : quoniam a corpore non efficitur ni<pb ed="#B5" n="392"/> <cb ed="#B5" n="a"/>si virtus corporea, eo quod non agit in quantum est corpus, sed per qualitates activas
+          et passivas quae sunt in ipsa. Probatum est autem animam rationalem non esse virtutem in
+          corpore, nec aliquid consequens corporis complexionem vel actionem corporalium qualitatum
+          : ergo non pendet ex eo sicut ex efficiente. Sed neque pendet ex eo sicut ex forma : quia
+          supra multipliciter probatum est in secundo libro de Anima, quod anima est substantia et
+          forma corporis, et non e converso. Nec potest dici quod pendet ex eo sicut ex fine : quia
+          sic esset corpus propter animam, et non e converso, quod falsum est, sicut ex superius
+          habitis constat. Si autem dicatur quod anima pendet ex eo sicut ex posteriori, tunc
+          quaeremus utrum pendeat ex eo sicut ex posteriori secundum tempus, aut ex posteriori
+          secundum ordinem qui est inter causam et causatum. Et si priori modo ex eo pendere
+          dicitur, tunc non destruitur destructione ejus : quoniam divisa in tempore non destruuntur
+          sic quod unum destruatur necessario destructione alterius. Et si contingat aliquando unum
+          eorum destrui cum alio, hoc accidit casu. Si autem pendet ex corpore sicut ex posteriori
+          secundum ordinem causae, tunc sequitur quod non destruitur destructione ejus necessario :
+          quia destructo posteriori, non necessario destruitur id quod prius est. Et si contingat
+          aliquando, hoc casu accidit. Nos autem talem casam quaerimus destructionis. Licet autem
+          hoc sufficienter probatum sit animam non destrui morte corporis, sed post mortem nobilius
+          esse accipere : quoniam tunc tota converti habet ad intellectum agentem sicut ad formam,
+          et per eum intelligere separata a materia, quod est summum felicitatis ejus : secundum
+          naturam tamen ponimus ipsam in corpore incipiente corpore : et hoc probatur ex hoc, quia
+          omnis motor suo mobili aptatur, sicut patet ex prius habitis : anima autem motor est
+          corpori : sicut enim nulla navi existente nullus ordinatur nauta, ita corpore proprio non
+          <cb ed="#B5" n="b"/>
+          <!-- 392 b --> existente non potest secundum ordinem esse naturae anima. Demonstrantur
+          hujus rationes in principio VIII Physicorum, et ad istud probandum sunt optimae et
+          pretiosae : quoniam ibi demonstratum est quod motor non potest esse ante mobile, neque
+          post ipsum neque cum ipso, ita quod non moveat, et necesse est hoc esse ita in minori
+          mundo sicut et in majori, sicut ibidem dictum est. Constat autem per omnia ante dicta,
+          quod animae substantiale est, ita quod per illud diffinitur quod ipsa sit motor corporis :
+          et si esset ipsa cum corpore et non ante ipsum, neque post ipsum facta : et sic simul
+          demonstratione probatum est propositum, et destructus est error Platonis, qui dixit animas
+          ante corpus fuisse ab aeterno in comparibus stellis. Hujus autem modus qualiter anima
+          incipit cum corpore et non destruitur cum ipso, habetur ex ante habitis. Constat autem
+          quod sunt gradus in entibus et quaedam sunt nobilia, et quaedam minus nobilia, et quod
+          nobilius est inter omnia est anima rationalis : oportet igitur quod ipsa maxime sit
+          elevata super materiam et simillima causis separatis : oportet igitur quod ipsa sit imago
+          causae separatae per essentiam et potentias quasdam, sicut superius diximus. Substantia
+          autem talis licet incipiat esse in corpore, quia tamen pendet esse ejus ex causis, nullo
+          modo potest interire cum corpore : sed hunc ordinem essentialem non possum exponere
+          intelligibiliter, nisi in scientia divina : usque illuc ergo differamus.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

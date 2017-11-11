@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT IX.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT IX.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t1c9">
+        <head xml:id="admda-l2t1c9-Hd1e128">CAPUT IX.</head>
+        <head xml:id="admda-l2t1c9-Hd1e131" type="question-title">Quod formaliter et non materialiter unitur anima, et quod ipsa
+          est primus actus hujus corporis et non cujuslibet.</head>
+        <p xml:id="admda-l2t1c9-d1e134">Reliquae autem partes animae praeter intellectum, et quae conjunctae sunt intel<pb ed="#B5" n="207"/> <cb ed="#B5" n="a"/>lectui, sicut ratio, et voluntas, et deliberativa,
+          et electiva, vel eligentia, manifestum est quod non sunt separabiles a corpore : tamen ab
+          invicem differunt ratione et diffinitione, et similiter differunt a corpore. Necessarium
+          autem, quod sensitiva et opinativa differant ratione, cum actus istarum virium essentiales
+          differentes sint, sicut sentire, et opinari. Similiter autem est de qualibet aliarum
+          potentiarum quae dictae sunt.</p>
+        <p xml:id="admda-l2t1c9-d1e141">Quod autem in quibusdam animalium insint omnes potentiae : quaedam enim non habent nisi
+          quasdam, et quaedam unam solam, scilicet vegetativam : et in hoc est differentia
+          animatorum ab invicem : per hoc enim dicimus ea quae animata sunt, ab invicem differre :
+          et propter quam causam hoc contingat, posterius dicemus, ubi determinabimus de perfectis
+          et imperfectis animalibus. Similiter autem manifestum est, quod animalium quaedam habent
+          omnes sensus, quaedam vero unum solum habent, scilicet tactum.</p>
+        <p xml:id="admda-l2t1c9-d1e144">Sed hoc quod hic dicendum est, quod in omnibus potentiis quibus exercentur operationes
+          vitae, semper quo vivimus, dicitur dupliciter, sicut etiam dupliciter dicitur quo scimus
+          et quo sanamur. Dicimus enim interrogati, quo scimus ? quoniam anima scimus : et aliquando
+          dicimus, quoniam scientia scimus ; utroque enim istorum dicimus nos scire. Similiter autem
+          interrogati, quo sanamur ? dicimus, quoniam sanamur sanitate, et quod sanamur oculo vel
+          pectore. Sed quando dicimus quod scimus scientia, vel sanamur sanitate, significamus
+          formam et actum primum, et id quod est ratio scientiae vel sanitatis in eo quod suscipit
+          scientiam vel sanitatem. Activarum enim formarum actus est in patien<cb ed="#B5" n="b"/>
+          <!-- 207 b -->te, hoc est, suscipiente, et disposito ipsius : et ideo omne quod est actus
+          formae cujuslibet, est in eo quod disponitur et formatur per formam illam, cujus actus
+          proprius est esse quod est ab ipsa forma. Cum autem dicimus quod sanamur pectore, vel
+          scimus anima, significamus id quod disponitur scientia vel sanitate, in quo est actus
+          illarum formarum : sed tamen oportet quod tale sit suscipiens, quod sit agens operationem,
+          cujus principium est forma, sicut instrumentum agit. Et similiter cum dicimus quod anima
+          vivimus, anima est actus et forma et ratio vitae et viventis corporis secundum omnia
+          principia superius enumerata. Similiter ipsa est quo sentimus et intelligimus. Erit igitur
+          anima species et ratio et forma corporis, et non corpus aliquod : cum forma nunquam possit
+          esse materia, sicut in secundo Physicorum probatum est.</p>
+        <p xml:id="admda-l2t1c9-d1e152">Cum enim tripliciter dicatur substantia, sicut in praehabitis distinctum, et hoc quidem
+          est species et actus, et corpus et materia, et animatum quod est ex his : et ideo corpus
+          non potest esse actus animae vel animati, sed potius anima est actus corporis.</p>
+        <p xml:id="admda-l2t1c9-d1e155">Et propter hoc bene opinantur Philosophi illi quibus videtur, quod anima neque sit sine
+          corpore, neque tamen sit corpus : quia in veritate ipsa non est corpus, sed est aliquid
+          corporis, quia est actus ejus : et ideo est in corpore determinato sibi per convenientiam,
+          et non est sicut priores Pythagorici aptabant eam, nihil determinantes in quo et quali
+          physico corpore esset quaelibet anima. Nos enim videmus, quod non quaelibet anima accipit
+          quodlibet corpus quodcumque contingenter et differenter, sed sibi aptatur proprium : eo
+          enim quod est <pb ed="#B5" n="208"/> <cb ed="#B5" n="a"/> alicujus actus, debetur ei non
+          quaecumque materia et susceptivum, sed proprium et determinatum : hoc enim est
+          rationabile, eo quod actus activorum sunt in susceptivis propriis, in quibus nati sunt
+          fieri ex communicatione actus et susceptivi. Manifestum est igitur, quod anima est actus
+          quidam et ratio corporis cujusdam quod potentia vitam habeat.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

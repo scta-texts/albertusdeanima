@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VI. De officiis nutritivae et augmentativae.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VI. De officiis nutritivae et augmentativae.</title>
+          <date when="2017-11-11">November 11, 2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t2c6">
+        <head xml:id="admda-l2t2c6-Hd1e128">CAPUT VI.</head>
+        <head xml:id="admda-l2t2c6-Hd1e131" type="quesiton-title">De officiis nutritivae et augmentativae.</head>
+        <p xml:id="admda-l2t2c6-d1e134">His autem habitis de alimento, et de ipsis potentiis est determinandum. Est autem
+          potentia nutritiva quae de nutrimento restaurat deperditum in corpore animato ut salvet in
+          esse divino. Augmentativa autem est illa quae de nutrimento addit quantitati membrorum ut
+          ad debitam longitudinem et quantitatem deducantur.</p>
+        <p xml:id="admda-l2t2c6-d1e137"> <pb ed="#B5" n="223"/> <cb ed="#B5" n="a"/> Et ex hoc accipitur, quod licet idem
+          subjectum sit alimento et augmentativo, hoc est, ei quod auget : tamen esse eorum secundum
+          rationem diffinitivam est alterum et alterum. Animatum enim secundum quod quantum est,
+          alimentum augmentativum quaerit : sed non nutrit nisi secundum quod est hoc aliquid, et
+          substantia potens recipere formam membrorum et substantiam. Nutrimentum enim non salvat
+          nisi substantiam, et ideo, quamdiu potest nutriri, tamdiu salvatur in individuo. Sed
+          augmentativa non agit per totam vitam, et ideo ipsa non est salvativa substantiae, sed
+          potius perfectiva quantitatis.</p>
+        <p xml:id="admda-l2t2c6-d1e144">Et sunt quatuor differentiae inter nutritivam et augmentativam, quarum una est et
+          principalis, quod nutritiva non accipit alimentum nisi in quantum est potentia substantia
+          membrorum, et non curat de quantitate. Augmentativa autem accipit ipsum in quantum
+          potentia additur quantitati membrorum, inquantum membrorum quantitas extenditur ipso
+          addito membris.</p>
+        <p xml:id="admda-l2t2c6-d1e148">Secunda autem est, quia nutritiva addit substantiam cibi substantiae membrorum aequalem
+          secundum tres corporis diametros, longitudinis, et latitudinis, et profunditatis, in
+          omnibus his aequaliter perditum restaurans. Augmentativa autem praecipue addit longitudini
+          : et ideo indiget quod calor suus sit fortior, et membra in quibus est, sint mollia, quae
+          extendi possint. Hoc autem sic probatur : longitudo enim non fit major nisi ossibus
+          extensis : et haec dura sunt, et non nisi forti calore faciente discurrere nutrimentum per
+          ipsa, fieri potest. Similiter autem non fit extensio sicci indurati, sed potius ejus quod
+          est humidum flexibile : et ideo non fit augmentum nisi in juventute antequam adveniat
+          siccitas nimia, quae prohibet extensionem : et haec est causarum una quare non semper
+          augentur corpora, sed semper nutriuntur. Nutritiva enim licet secundum omnem dimensionem,
+          ut diximus, nutriat, tamen <cb ed="#B5" n="b"/>
+          <!-- 223 b --> secundum latitudinem maxime nutrit : quia ad illius incrementum non
+          exigitur nisi assimilatio nutrimenti, et additio, et non extensio in ampliorem
+          quantitatem, nisi quantum extenditur in addito : et hoc frequenter fit in solis membris
+          mollibus, quae sunt caro et hujusmodi, praeter hoc quod ossa extendantur : et hoc fit
+          calore debili magis quam forti.</p>
+        <p xml:id="admda-l2t2c6-d1e155">Tertia differentia est, quod nutritiva hebetiori, ut dictum est, instrumento operatur :
+          augmentativa autem acutiori. Cum enim calor naturalis utriusque sit instrumentum, hebes
+          calor est qui solum convertit nutrimentum et assimilat : acutus autem qui facit ipsum
+          discurrere per membra dura, quae mollificat infundendo ea acuto humore nutrimentali, et
+          tunc extendit ea. Et causa hujus est, quia cum quaelibet virtus plus possit in materia
+          propria quam in aliena, hebetatur calor, quanto plus de aliena materia ingeritur. Quod ut
+          melius intelligatur, oportet scire quod duplici humido indiget omne quod nutritur. Unum
+          quidem est seminale, quod est aliquid substantiae seminis, et illud est proprium subjectum
+          caloris naturalis. Aliud autem est nutrimentale, quod accipitur de nutrimento quod semper
+          retinet aliquid de natura cibi, et ideo semper aliquid habet de extraneo : propter quod
+          non adeo efficax est in eo calor naturalis, sicut in primo humido, et quanto plus
+          ingeritur de nutrimentali humido, quod additur radicali sive seminali, ex quo formantur
+          membra radicalia, et quod est infusum eis, tanto plus inspissantur et indurantur, et calor
+          plus in eo debilitatur : et ideo calor qui primo fecit duas operationes, alimenti scilicet
+          et extensionis, tandem propter sui debilitatem et membrorum duritiam, non potest perficere
+          nisi unam quae est nutrire : et ideo tunc stat augmentum.</p>
+        <p xml:id="admda-l2t2c6-d1e158">Est autem circa hoc adhuc notandum, quod tempus incrementi etiam secundum Galenum et
+          <name ref="#Avicenna">Avicenna</name>m est tempus aetatis puerilis, quia pueri sunt calidi
+          et hu<pb ed="#B5" n="224"/> <cb ed="#B5" n="a"/>midi propter vicinitatem quam habent ad
+          suam originem, quae est ex calido et humido. Humidum autem et calidum simul conjuncta
+          faciunt diffusionem et extensionem. Procedente autem tempore exsiccatur paulatim humidum
+          in tempore juventutis, et indurantur membra : et licet acutius in juvenibus sit calidum,
+          tamen non est majus in juvenibus quam in pueris. Et de hoc dat exemplum conveniens Galenus
+          : quia si aliqua caliditas determinatae virtutis penetrat in aquam, et eadem in essentia
+          caliditas penetrat in materiam siccam, acutior erit caliditas in sicco, quam in humido,
+          sed non major. Et sic est de calore puerorum et juvenum, qui aequalis est, licet acutior
+          sit in juvenibus quam in pueris : et ideo in pueris plus de cremento operatur propter
+          mollitiem membrorum, et in juvenibus minus propter eorumdem duritiem, licet calor sit
+          aequalis : et hujus signum est, quod pueri circa septimum annum ut in pluribus plusquam
+          dimidium perficiunt suae quantitatis. Haec igitur est tertia differentia.</p>
+        <p xml:id="admda-l2t2c6-d1e168">Quarta autem est penes finem utriusque accepta : quia anima sicut et natura non est
+          infinitae et indeterminatae intentionis : et ideo habita debita quantitate, in qua
+          exercere potest suas operationes, non auget ultra augmentativa anima, etiamsi posset bene
+          ultra augere : quia non abundat superfluis natura, sicut etiam non deficit in necessariis
+          : finis autem nutritivae est salvare individuum per deperditi restaurationem : et hoc
+          necessarium est in toto tempore, et ideo per totam periodum continue operatur. Reliqua
+          autem quae de augmento et nutrimento dicenda sunt, in primo de Generatione et Corruptione
+          requirantur.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

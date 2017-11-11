@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT II.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT II.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t4c2">
+        <head xml:id="admda-l3t4c2-Hd1e128">CAPUT II.</head>
+        <head xml:id="admda-l3t4c2-Hd1e131" type="question-title">Quod vegetativum secundum se et sensitivum secundum se non sunt
+          motiva secundum locum.</head>
+        <p xml:id="admda-l3t4c2-d1e134">De motu autem secundum locum, quid videlicet sit animal movens secundum processivum motum
+          de loco ad locum, nunc considerandum sit. Quod quidem igitur vegetabile secundum se non
+          est animal movens secundum motum processivum, erit manifestum ex his quae inducentur nunc.
+          Motus enim qui dicitur motus processivus, est semper extra ani<cb ed="#B5" n="b"/>
+          <!-- 396 b -->mal motum, et distat ab ipso : propter quod dicunt vulgares, quod hic motus
+          propter indigentiam est : et ideo oportet quod fiat aut cum phantasia quae imaginatur
+          delectabile absens, aut cum appetitu et sensu, qui apprehendit delectabile extra se
+          praesens : et probatur ex hoc, quod nihil quod non est appetens delectabile, vel fugiens
+          tristabile, movetur de loco ad locum : et si movetur, movetur tunc violenter sicut cum
+          transplantatum est lignum : vegetabile autem dicitur de se sumptum neque phantasiam habet
+          neque appetitum sensibilem : et ideo vegetativum per se sumptum non movet secundum locum.
+          Quia tunc omne vegetabile secundum locum moveretur : plantae igitur secundum locum
+          moveretur : plantae igitur secundum locum moverentur. Et si hoc concederetur, tunc
+          oporteret concedere quod haberent membra organica, sicut pedes, vel alas, quibus explerent
+          hujusmodi motiva : et hoc non est verum : vegetativum enim secundum se non movet secundum
+          locum.</p>
+        <p xml:id="admda-l3t4c2-d1e141">Similiter autem nec id quod sentire potest quod vocatur sensitivum secundum quod hujus
+          est proxima et perfecta causa : hanc enim causam moventem quaerimus solam, et non causam
+          quae remota causa motus : si enim sensitivum in eo quod hujusmodi, esset sufficiens et
+          perfecta causa hujus motus processivi, omne sensitivum moveretur secundum locum : sed hoc
+          falsum est, cum multa animalia sensum habentia, videamus esse manentia in uno loco
+          immobilia usque in finem vitae suae. Quamvis enim dilatentur et constringantur, per quem
+          motum animalia cognoscuntur, tamen non procedunt de loco ad locum : quia, sicut jam ante
+          diximus, nos non loquimur de motu quo quasi crescit animatum in locum majorem vel
+          restringitur in minorem, sed de illo tantum quo animal procedit de uno loco, et movetur
+          totum in alium locum. Nec potest ali<pb ed="#B5" n="397"/> <cb ed="#B5" n="a"/>quis dicere
+          quod hujusmodi animalia sint imperfecta, sicut imperfecta dicuntur quae diminuuntur per
+          impedimenta naturae in aliquo quod est speciei suae debitum secundum naturam, sicut
+          monstra quae peccata sunt naturae, sicut diximus in II Physicorum : talia enim animalia
+          perfecta sunt perfectione debita suae speciei, et generant sibi similia secundum speciem :
+          hoc enim monstra non faciunt, si enim monstra peccent in principalibus membris, cito
+          moriuntur. Et si peccatum sit non in principalibus, sicut in manibus, vel in pedibus, non
+          generant simile monstro, sed simile speciei ut frequenter. Haec igitur animalia cum
+          producunt sibi similia, perfecta sunt specierum suarum perfectione, et recipiunt augmentum
+          et decrementum per cibum. Si ergo illa habent motivas virtutes secundum locum, natura
+          dedisset eis organa quibus perficerent motum localem, quia natura non deficit in
+          necessariis, nec abundat superfluis. Si enim deficeret in necessariis, tunc motor quia non
+          haberet organum, esset superfluus : quia nunquam perficeret motum, cujus ipse esset
+          principium et causa. Si autem abundaret superfluis, tunc iterum frustra esset ultra
+          necessarium, cum per pauciora eadem opera posset perficere.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

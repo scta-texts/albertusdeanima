@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VI.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VI.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l1t1c6">
+        <head xml:id="admda-l1t1c6-Hd1e128">CAPUT VI.</head>
+        <head xml:id="admda-l1t1c6-Hd1e131" type="question-title">Quod oportet tractantem de anima inquirere utrum habeat aliquas
+          operationes proprias, aut non.</head>
+        <p xml:id="admda-l1t1c6-d1e134">Dubitationem autem habent etiam passiones animae, utrum sint omnes communes sibi et
+          corpori, vel sibi et habenti corpus, aut sit aliqua passionum sibi propria, quae neque
+          communicet corpori, neque communicet habenti corpus : hoc enim necessarium est accipere ex
+          doctrina animae ad sciendum utrum ipsa separetur a corpore, vel non, sed tamen non est
+          leve. Ut autem melius intelligatur haec quaestio, sciendum quod aliud est communicare
+          corpori in actione vel passione animae, et aliud est communicare ei quod communicat
+          corpori. Communicat enim corpori in actione vel passione quae non expletur neque fit nisi
+          instrumento corporali per virtutem affixam organo, sicut ambulatio, vel visus, quae fiunt
+          motu vel passione corporis, et per virtutes affixas ipsis membris, quorum unum motu explet
+          operationem, alterum autem passione, quia recipit speciem coloris. Communicare autem ei
+          quod communi<pb ed="#B5" n="128"/> <cb ed="#B5" n="a"/>cat corpori, est quod licet aliqua
+          operatio non fiat motu vel passione alicujus partis corporis, tamen non expletur sine alia
+          operatione, quae fit vel motu vel passione alicujus partis corporis, sicut est intelligere
+          sensibilia et mathematica. Quia licet intelligere non expleatur motu vel passione alicujus
+          membri corporalis, tamen non fit sine acceptione formae sensibilis et <choice>
+          <orig>imaginibilis</orig> <reg>imaginabilis</reg> </choice> per phantasiam, quae
+          communicat corpori in hoc quod operatio ipsius non expletur sine motu et passione membri
+          corporalis, quod est organum phantasiae. Oportet enim formas imaginationis et phantasiae
+          fieri per motum a sensu factum in spiritu animali deferente formas hujusmodi, et recipi
+          easdem oportet in parte cerebri, quae est organum phantasiae virtutis : et ideo aliud esse
+          diximus communicare corpori, et aliud communicare ei quod communicat corpori in
+          operatione. Possibile enim est quod substantia incorporea existens in corpore ut actus
+          corporis communicet corpori. Et possibile est ut non communicet corpori, sed communicanti
+          corpori. Et possibile est ut neque isto neque illo modo communicet, sed habeat operationes
+          quae nullam ad corpus habeant <choice> <orig>depentiam</orig> <reg>dependentiam</reg>
+          </choice>. Et hoc inquirere de anima est necessarium valde ad sciendum utrum separata est
+          in agendo vel non : et est ista quaestio una quam maxime desiderant homines scire de
+          anima.</p>
+        <p xml:id="admda-l1t1c6-d1e159">Videtur autem in pluribus suis passionibus et partibus nihil omnino sine corpore pati,
+          vel facere : neque enim sine motu et passione corporis irascitur, neque confidit, neque
+          desiderat, neque sentit universaliter secundum omnem sensum. Ira enim est accensio
+          sanguinis cum evaporatione fellis. Confidentia autem est ex protensione spiritus et
+          sanguinis ex corde ad exteriora. Sentire autem fit recepta sensibili forma in organo
+          sensus. Quae omnia dicunt motus et passiones corporeas. Sed maxime pro<cb ed="#B5" n="b"/>
+          <!-- 128 b -->prium et separatum opus esse videtur intelligere, eo quod universale
+          intelligitur quod est simplex et denudatum a materia et appenditiis materiae : et ideo non
+          est forma impressa alicui membro corporali, cujus motu expleatur intelligere, sed potius
+          est simplex conceptus mentis sine hic et nunc, sed ubique et semper in eadem ratione
+          manens : quod non est conveniens alicui formae corporali. Si autem hoc ipsum intelligere
+          quod est operatio possibilis intellectus quando in actu fit, est phantasia, aut non sine
+          phantasia : tunc neque hoc opus utique contingit esse sine corpore quod movetur vel
+          patitur in ipsa operatione : et tunc non erit separatim conveniens animae secundum se.
+          Dico autem intelligere possibilis intellectus aliquando esse phantasiam, et aliquando non
+          sine phantasia, non simpliciter intelligens quod intelligere unquam sit phantasia, sed
+          quia possibilis intellectus accipit formam quae est ex phantasmate, oportet quod
+          phantasiae motus ad intellectum terminetur. Sunt autem quidam homines idiotae non
+          discernentes universale a particulari, sed prosequuntur rationem universalis in
+          particulari permixtam, et illorum intelligere est phantasia formalis, eo quod immixtum est
+          ei. Alii autem distinctum accipiunt universale a particulari, quod est in phantasia
+          formali, et illorum intelligere, eo quod oritur a phantasia, non est sine phantasia
+          formali. Phantasia enim duplex est : quia et ipsa virtus animae quae phantasmata recipit,
+          phantasia est, dicimus quod operatio intellectus possibilis est phantasia vel non sine
+          phantasia. Taliter autem distinguendo communicans corpori, et communicans ei quod
+          communicat corpori, evitabimus errorem Alexandri qui dicebat in omnibus animam communicare
+          corpori, et ideo non esse separabilem a corpore. Nos enim ostendemus in sequentibus, quod
+          id quod communicat non corpori, sed ei quod est communicans corpo<pb ed="#B5" n="129"/>
+          <cb ed="#B5" n="a"/>ri, secundum se est separatum, neque corrumpitur nisi secundum sic et
+          simpliciter non, vel nisi secundum quid et non simpliciter.</p>
+        <p xml:id="admda-l1t1c6-d1e170">Siquidem igitur est aliquid animae operum aut passionum proprium, utraque communicatione
+          exclusa, tunc continget utique animam esse separatam nunc in operatione, et aliquando
+          separari a corpore et esse per se. Si vero nulla est propria ipsius, tunc non continget
+          ipsam separari secundum esse et substantiam : licet forte secundum diffinitionem aliquam
+          non coexistens corpori et in corpore intelligatur. Erit enim tunc de anima sicut de
+          mathematicis quae non habent esse nisi in hac sensibili materia, et tamen accidunt eis
+          quaedam non in materia intellectis, sed acceptis : sicut est videre in recto, quia lineae
+          rectae multa accidunt quae non conveniunt ei secundum quod est in materia sensibili, sicut
+          est quod sphaera aenea tangit ipsum in puncto, quae tamen sphaera aenea nunquam tanget
+          ipsum separatum in puncto secundum actum, sed potius tanget ipsum conjunctum cum materia
+          sensibili, non in puncto, sed in superficie : et tamen secundum intellectum acceptum
+          rectum, et non in materia lignea, vel cuprea, vel alia materia sensibili, non tangetur a
+          quacumque sphaera nisi secundum punctum. Et sic erit de anima. Si enim in omnibus partibus
+          suis, aut communicat corpori, aut communicat communicantibus corpori, tunc potest accipi
+          separata secundum intellectum in quantum agit operatione quae non expletur motu alicujus
+          partis corporis : sed tamen secundum esse et veritatem naturae nunquam erit separata, quia
+          semper indiget, vel exiget illius cooperationem quod corpori communicat : sicut sphaericum
+          quod separatum intelligitur et diffinitur, sed tamen secundum esse inseparabile est a
+          corpore sensibili. Et nos quidem in sequentibus <cb ed="#B5" n="b"/>
+          <!-- 129 b --> ostendemus, quod anima humana multas habet operationes separatas, sed modo
+          inducemus rationes quorumdam probantes quod habet communicantes.</p>
+        <p xml:id="admda-l1t1c6-d1e178">Videntur enim animae passiones omnes esse cum corpore communicantes, licet in una sit
+          plus quam in alia communicans : quia quaedam fiunt sine motu locali partium corporis et
+          sine physica alteratione, sed tamen non fiunt sine receptione formae, vel intentionis
+          formae, quae est alteratio communiter dicta. Cum motu autem et alteratione corporis fiunt
+          desiderium, mansuetudo, timor, confidentia. Adhuc autem gaudium, et amare, et odire. In
+          omnibus enim his movetur cor secundum diastolem vel systolem, et compatitur animae corpus.
+          Hoc autem indicat diversitas hominum in passionibus his : quaedam enim in duris et
+          manifestis periculis passionum concidentibus in eos nihil ad iram provocantur propter
+          complexionem frigidam stantem in eis : et aliqui eorum non timent in talibus, sicut
+          habentes multum sanguinem, et corda calida. Aliquando autem aliqui a parvis causis et
+          infirmis periculorum moventur et provocantur ad iram, quando corpus irascibile et ita
+          dispositum est ac si irascatur : sicut est in cholericis calida habentibus corda, et
+          sanguinem levem qui facile dirigitur sursum. Adhuc autem magis manifestantur haec in his
+          qui timentes fiunt ex sui corporis dispositionibus, quando nulla causa terroris est in
+          passionibus, sicut accidit multis viris qui sicci sunt, et frigidi, pauci spiritus, et
+          pauci caloris in corde.</p>
+        <p xml:id="admda-l1t1c6-d1e181">Manifestum est ergo ex dictis, quod passiones sunt rationes quaedam et intentiones, quae
+          in physica materia sunt mota et alterata physico motu et alteratione. Sensus autem et
+          imaginatio et caeterae <pb ed="#B5" n="130"/> <cb ed="#B5" n="a"/> animae sensitivae
+          apprehensiones non fiunt sine receptione formarum in organis corporum, quae receptio
+          quaedam est alteratio, licet non sit alteratio physica. Et ideo harum passionum sunt tales
+          rationes, ut si dicatur, irasci est motus hujus corporis cujus sanguis accensus est : aut
+          partis hujus, sicut cordis quod movetur primo in ira secundum systolem quando conturbatur,
+          et post secundum diastolem quando petit vindictam : aut potentiae quae conjuncta est huic
+          corpori, aut parti corporis, et a nocumento illato : et propter hoc malum inferendum in
+          vindictam. Cum autem omnia haec in physica materia scripta sint, physici erit considerare
+          de anima, aut omni si omnis anima est talis, aut de anima hujusmodi quae talium est operum
+          et passionum.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

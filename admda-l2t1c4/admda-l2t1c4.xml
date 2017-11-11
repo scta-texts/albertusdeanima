@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT IV.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT IV.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t1c4">
+        <head xml:id="admda-l2t1c4-Hd1e128">CAPUT IV.</head>
+        <head xml:id="admda-l2t1c4-Hd1e131" type="question-title">In quo ex praedictis demonstratur quae anima separabilis est, et
+          quae non.</head>
+        <p xml:id="admda-l2t1c4-d1e134">Ex dictis autem in praedicta diffinitione animae, facile determinatur quaestio qua
+          quaeritur, si anima sit separabilis a corpore, vel non. Non enim manifestum est quod anima
+          non universaliter separabilis est a corpore, et similiter quod pars quaedam ipsius non
+          separatur a corpore. Quaecumque enim forma essentialiter est pars corporis aut actus,
+          nullam vitae actionem agens nisi in parte corporis aliqua, non potest separari secundum
+          esse a corpore : quia si separaretur, sequeretur quod separata nullam haberet vitae
+          actionem : et haec esse non potest : tales autem sunt anima vegetabilis in plantis, et
+          anima sensibilis in brutis : haec enim duplex anima est actus et perfectio quarumdam
+          corporis partium, sine quibus nullam omnino habet vitae actionem. Non enim intelligi
+          potest nutritiva et augmentativa et generativa agere sine cibo et semine corporali : et
+          ideo a corpore in istis actionibus non separantur. Similiter autem videre et audire et
+          universaliter sentire non agitur sine instrumentis corporalibus et corporalibus formis, et
+          imaginari non fit sine quantitate <cb ed="#B5" n="b"/>
+          <!-- 198 b --> corporis : propter quod nihil istorum separatur : neque ipsa anima separari
+          potest quae sic est in toto corpore, sicut istae potestates sunt in partibus corporis. At
+          vero quamdam animam et secundum quasdam partes nihil prohibet separari, propter hoc quod
+          illae nullius corporis sunt actus, in quo vitae exerceant actiones, sicut in organo, sicut
+          manifestum erit in sequentibus de intellectu tam agente quam possibili ; et in parte in
+          praemissis habitum est. Amplius autem manifestum est non solum de ipsa parte intellectiva,
+          quod separatur, sed etiam de ipsa anima tota intellectiva, quod separetur est manifestum :
+          cujus causa necessaria est, quia cum partes animae sint naturales potestates ejus, ab ipsa
+          fluentes, impossibile est quod ab essentia conjuncta cum corpore fluat potestas separata.
+          Sed e converso possibile est quod ab eo quod essentialiter est separatum, fluant potentiae
+          operantes in corpore : quia omnis potestas superior potest quidquid potest virtus
+          inferior, et non convertitur : cujus probatio est, quod a primo motore simplici qui maxime
+          substantia separata est inter essentias omnes, fluit virtus motiva primi mobilis, quae
+          nullo modo explet operationem suam sine corpore, eo quod nihil est localiter mobile nisi
+          corpus. Similiter autem ars quaelibet separata est prout est in anima artificis, et tamen
+          potentias suas non explet sine corporis instrumentis. Patet igitur quod ab eo cujus
+          essentia separata est, fluunt potentiae operantes in corpore. Sed ab eo quod essentialiter
+          subditur corpori, et est virtus in corpore existens, nulla fluit potentia quae sit
+          separata : quia potentia naturalis et operatio sequitur essentiam : et ideo ipsa potentia
+          mixta corpori, magis erit mixta quam ipsa essentia a qua fluit. Adhuc autem naturalis
+          potentia est proprietas essentiae. Est autem subjectum principium passionis, et cadit in
+          <pb ed="#B5" n="199"/> <cb ed="#B5" n="a"/> diffinitione ejus. Qualiter igitur posset
+          esse, quod essentia conjuncta corpori, causaret potentiam naturalem separatam. Ex his
+          igitur patet, quod si intellectus est potentia separata, tunc oportet quod natura et
+          essentia intellectivae animae sit separata : et cum hoc habebit plurimas potentias corpori
+          conjunctas. Amplius autem manifestum hoc si dicatur anima intellectiva sive rationalis
+          movere corpus et esse actus ejus, sicut nauta est actus et motor navis. Nauta enim movet
+          navim per speciem intellectivam quae est scientia gubernandi : et cum nullam operationem
+          habet nauta in navi, quae non expleatur motu et instrumento corporeo, sicut a temone, vel
+          clavo,vel velo, aut gubernaculo, vel remo : et separatur tamen totus gubernator a navi. Et
+          similiter si anima sic movet corpus totum intellectu gubernante aut imperante, ipsa
+          separatur tota essentialiter a corpore, licet habeant multas vires et operationes sensus
+          et vegetationis, quae non explentur sine instrumentis corporeis. Haec autem omnia
+          constabunt postquam determinatum fuerit de natura animae intellectivae in tertio hujus
+          scientiae libro. Figuraliter quidem igitur, hoc est, superficialiter et universaliter sic
+          determinatur et describitur anima diffinitione universali solum quid est anima
+          dicente.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

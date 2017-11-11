@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XXVI.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XXVI.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c26">
+        <head xml:id="admda-l2t3c26-Hd1e128">CAPUT XXVI.</head>
+        <head xml:id="admda-l2t3c26-Hd1e131" type="question-title">Qualiter olfactus est in respirantibus, et in non
+          respirantibus.</head>
+        <p xml:id="admda-l2t3c26-d1e134">Ex praedictis autem oritur dubium, utrum omnia olfacientia odorant omnes differentias
+          quae sub odore sunt : homo enim non odorat nisi spirans sive attrahens spiritum : et si
+          quod non inspirat, sed aut exspirat emittendo spiritum, aut retineat spiritum, non odorat,
+          sive odorabile sit proprie, sive longe : si enim odorabile infra natum supra organum
+          odoratus ponatur, tunc homo non odorat : medio enim indiget sensus, non propter bene esse
+          sensus, sed omnino propter esse sensum secundum actum, sicut saepius diximus : hoc enim
+          omnibus sensibus commune est. Odorabile autem vocamus pri<pb ed="#B5" n="279"/> <cb ed="#B5" n="a"/>mum odorans, sicut corpus mixtum a quo resolvitur odor, non evaporationem
+          ab ipso resolutam quae jam habet formam et naturam medii in esse spirituali : et ideo
+          specie immutat sensum tangens organum intus : sed si non respirant, non sentiunt : nam
+          sentire proprium est hominum : hoc autem manifestum est tentantibus in seipsis per
+          experimenta. Dico autem proprium quod quidem convenit homini omni, sed non soli, sed aliis
+          etiam animalibus spirantibus pluribus. Causa autem hujus est, quia organa sensus sunt duae
+          papulae ad modum papularum, quae sunt in mamillis in anteriori parte cerebri constitutae
+          porrectae directe contra ossa triangularia nasi : et sunt coopertae pelle tenui, ne
+          occasiones contingant eis ex aere attracto : nec habent motum ex se ipsis pelles illae,
+          sed vento inspiratae exsufflante elevantur : et odores tunc simul cum aere venientes,
+          immutant eas. Hujus autem signum est quando strictissimum habentes nasum propter clausuram
+          foraminum quae per ossa triangularia ascendunt, aut non odorant omnino, aut valde parum
+          odorant. Hoc autem in anatomia libri Animalium scietur plenius.</p>
+        <p xml:id="admda-l2t3c26-d1e141">Ea autem animalia quae sanguinem non habent, non respirant : eo quod frigida habent
+          corda, et non indigent eventatione refrigerante : et ideo quidam talia dixerunt habere
+          alium sensum praeter eos qui dicti sunt, quo participant odorem : hoc tamen impossibile
+          est, quia olfactus est ille qui patitur ab odore : et ideo sive fiat inspirando, sive non,
+          semper unius rationis est sensus secundum quod est potentia passiva a tali actione quod
+          est odor : olfactus enim est sensus odorabilis et differentiarum odorabilis, quae sunt ea
+          quae sunt boni odoramenti : et talia sentiunt et spirantia. Amplius autem non respirantia
+          corrumpuntur aliquando a malis odoribus, <cb ed="#B5" n="b"/>
+          <!-- 279 b --> ut sulphure, et hujusmodi, ex quibus etiam corrumpitur homo. Sulphur enim
+          in lacunis projectum, odore interficit pisces. Oportet igitur talia olfactum habere, sed
+          non per modum quo habet ipsum homo et animalia respirantia : talibus enim occurrunt odores
+          in medio sine attractione aeris. Et hoc est ideo quia instrumenta odoratus discooperta
+          sunt eis, ad quae liberum habent ingressum per medium per quod est odoratus.</p>
+        <p xml:id="admda-l2t3c26-d1e148">Videtur autem hic sensus prout est in hominibus et aliis respirantibus, ad eumdem prout
+          est in non respirantibus differre, sicut differt visus animalium habentium duros oculos,
+          ad visum eorum quae molles habent oculos. Molles enim oculos habentia, habent velamina
+          quae sunt lachrymalia, et palpebras super oculos, quas aliquis non movens, nec concutiens
+          non videt. Animalia autem duros habentia oculos, non-velatos habent oculos et mox vident
+          sine impedimento quae apparent in perspicuo secundum actum lucido. Et similiter organum
+          olfactus quibusdam est non coopertum, quae scilicet non respirant : et ideo occurrunt eis
+          mox odores qui sunt in aere. Aliis autem quae attrahunt spiritum, inest hoc instrumentum
+          coopertum, quod tamen discooperitur quando respirant attrahentia spiritum, eo quod tunc
+          ampliantur venae odoratus ex spiritu, et pori qui sunt foramina nasi, et elevantur in
+          spiritus velamina organorum olfactus. Et propter hoc quaecumque inspirando odorant, non
+          odorant in aqua, licet aqua medium sit odoris sicut et aere : et hoc ideo est, quia talia
+          olfactum secundum actum non habent nisi quando inspirant : inspiratio autem in aqua esse
+          non potest, et ideo talia in aqua odorare est impossibile. Comparationem autem quam
+          fecimus inter odoratum et visum, non fecimus nisi quoad similitudinem illam quae est
+          habere velamina, et non propter ne<pb ed="#B5" n="280"/> <cb ed="#B5" n="a"/>cessitatem
+          utriusque sensus, sed propter bene esse utriusque. Non velatos enim habentia oculos, pejus
+          vident : et non velatum habentia olfactum, melius odorant : et hujus causa est supra
+          dicta. Sed homo prave odorat, et non discernit odores rerum, nec odorabilia discernit per
+          odores, sicut faciunt multa animalia alia, quae res ejusdem speciei individuales per
+          odores discernunt, sicut canes qui discernunt vestigia unius cervi a vestigiis alterius
+          cervi, et inveniunt cervum per modum odoris quod adhaeret vestigio. Et discernunt
+          vestigium unius hominis a vestigiis alterius hominis, sicut patet in canibus qui inveniunt
+          fures. Hoc autem multo melius facerent non respirantia, si essent ita disciplinabilia
+          sicut canes. Pauca etiam aut nulla animalia sanguinem non habentia disciplinabilia sunt.
+          Et horum omnium causam in libris Animalium determinabimus. Est autem, sicut a principio
+          diximus, odor sicci alicujus, sicut sapor est humidi complexionalis. Organum olfactus
+          potentia est omnis odor, et actu nullus : quia aliter non omnes reciperet odores, sicut
+          dictum est superius. Haec igitur de olfactu superficialiter sint dicta. Adhuc enim de
+          odore subtiliter tractabimus in libro de sensu et sensato.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

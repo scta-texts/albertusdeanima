@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT IV.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT IV.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l1t2c4">
+        <head xml:id="admda-l1t2c4-Hd1e128">CAPUT IV.</head>
+        <head xml:id="admda-l1t2c4-Hd1e131" type="question-title">De tribus in summa, per quae anima ab Antiquis diffiniebatur,
+          quae sunt motivum, cognoscitivum et incorporeum.</head>
+        <p xml:id="admda-l1t2c4-d1e134">Ut autem ad summam reducamus omnia ex quibus Antiqui animam dixerunt esse et diffiniri,
+          dicimus quod tria sunt quae dixerunt ei inesse substantialiter, hoc est, motum, sensum, et
+          incorporeum. Et nos quidem jam ante ostendimus rationes bonas et subtiles quae induxerunt
+          eos ad hoc quod dixerunt ei inesse motum, quo seipsam movet, et sensum, quia sensum in ea
+          idem reputabant cum intellectu, omnem virtutem apprehensivam sive cognitivam sensum
+          vocantes. Sed incorporeum inesse eidem dicebant hac ratione, quia videbant quod omnis
+          forma quae determinat et perficit materiam, post corporeitatem secundum naturam sibi
+          adveniens, divisibilis et corruptibilis est. Animam autem videbant indivisibilem et
+          incorruptibilem, et ideo incorporeum dixerunt ei inesse per naturam. Amplius autem nullum
+          corporum movet seipsum, sicut probatum est tam in Physicis quam in Coelo et Mundo : animam
+          autem dixerunt movere seipsam, et ideo dixerunt incorpoream. Amplius nulla potentia
+          determinata corporeitate est potentia omnia fieri : igitur necessario est incorporea.
+          Adhuc quidquid secundum esse in corpore est, quantitatem habet per se vel per accidens :
+          formae autem quae fiunt in anima cognoscente, simplices sunt, nullius omnino quantitatis
+          existentes : igitur anima non potest esse corporea. His igitur rationibus et similibus
+          inducti, dixerunt animae inesse per substantiam incorporeum, et per ipsum animam
+          diffiniri, nihil inconveniens in hoc dicen<cb ed="#B5" n="b"/>
+          <!-- 145 b -->tes. Sed in supposito incorporei multum errabant propter novitatem eorum in
+          Philosophia : quoniam incorporeum esse dicebant rarum, quod tactui et visui non
+          manifestatur : et sic inciderunt in errores diversos, aerem vel vaporem dicentes esse
+          animam. Horum autem trium quae dicta sunt, quodlibet reduxerunt ad aliquod naturae
+          principium, eo quod animam videbant habere proprietatem primi principii alicujus in
+          movendo et quiescendo vel cognoscendo, sicut supra manifestatum est : et ideo illi qui
+          animam in cognoscendo dixerunt esse diffiniendam, ponebant animam esse aliquid materiae
+          primae : etiam id quod ipsi supponebant esse materiam primam, dicebant esse animam, et
+          ideo dixerunt eam esse aut elementum primum, aut id quod propria compositione componitur
+          ex primis elementis : quoniam, sicut dixi, primum determinans potentiam materiae primae
+          est intellectualis et cognoscitiva natura : et in hoc similiter omnes praeter unum
+          dixerunt quoad causam dicti, licet valde essent dissimiles in determinando suppositum
+          elementi quod animam esse dixerunt. Causa autem dicti fuit, quod simile simili
+          cognoscitur, eo quod omnis cognitio est per assimilationem : et quia anima cognoscit
+          omnia, et cognitio rerum est per principia rerum, ideo dixerunt eam constitui ex primis
+          principiis rerum.</p>
+        <p xml:id="admda-l1t2c4-d1e141">Et quicumque inter eos dixerunt tantum unam esse causam quae materialis est entium, sunt
+          elementum aliquid dicentes esse principium unum, illi etiam animam unum illud esse
+          dixerunt, ut ignem, vel aerem, vel aliquod aliorum elementorum. Plura vero dicentes causas
+          et principia materialia, dicunt animam esse plura, vel propria compositione componi ex
+          pluribus, sicut ex superius habitis facile potest patere. Anaxagoras autem solus
+          considerans altius, <pb ed="#B5" n="146"/> <cb ed="#B5" n="a"/> impassibilem et
+          immaterialem dicit intellectum, et nihil habere commune in esse cum aliis elementis
+          corporalibus : voluit enim Anaxagoras duo esse principia et causas, quorum unum esset
+          efficiens, et reliquum materiale. Et unum quidem dicebat esse intellectum omnia agentem
+          secundum formas quas habet apud se et distinguentem. Reliquum autem dicit esse chaos
+          primum, ex quo intellectus format et distinguit res, et lucem substantiatam et substantem
+          hujus intellectus dixit esse animam, et ideo non habere communem materiam cum aliis : et
+          ideo esse impassibilem omnino in esse : sed agere dixit eum formas suarum passionum vel
+          apprehensionum in his quae intelligit, sicut primus intellectus agit formas in rebus. Et
+          iste subtiliter dixit : propter quod laudat <name ref="#Aristotle">Aristoteles</name> eum
+          in multis locis : quoniam absque dubio veritatem dixit de intellectu agente. Sed tamen
+          quia non perficitur intelligere et cognoscere in animatis nisi ex intellectu possibili et
+          cognitione sensibili, ideo sufficienter dixit : et cum intellectus materialis sit, et
+          nulli habeat aliquid commune, qualiter cognoscat res, et propter quam causam determinata
+          et distincta cognitio fit in eo, cum ipse non sit nisi lux communis intelligibilium,
+          Anaxagoras non dixit, nec perspicuum est ex his quae dicta sunt ab eo vel ab aliis.</p>
+        <p xml:id="admda-l1t2c4-d1e151">Quicumque autem in principiis ponunt esse contrarietates, eo quod non solam materiam
+          dixerunt esse principium, sed etiam contraria agentia dicebant, illi propter eamdem causam
+          quam diximus, constitui dicunt animam ex contrariis. Quicumque autem non dicunt duo
+          contraria agentia, sed unum primum esse agens, sive illud dicant calorem, sive frigus,
+          sive aliquid hujusmodi de contrariis primis, consequenter etiam dicunt animam esse illud
+          unum quod ponunt esse <cb ed="#B5" n="b"/>
+          <!-- 146 b --> principium contrarium. Et videtur quod consequantur hanc rationem ex ipsis
+          nominibus animae et operationum ejus. Quidam enim dicunt ipsam esse calorem, quia propter
+          calorem naturalem vivere est in viventibus, cum anima sit secundum suam substantiam
+          principium vitae, sicut in secundo hujus scientiae ostendemus. Alii autem dicunt eam esse
+          frigus, eo quod vident in respiratione attrahi frigus, ut temperetur calor cordis in quo
+          est sedes vitae.</p>
+        <p xml:id="admda-l1t2c4-d1e159">Et scias quod subtiliores omnibus fuerunt qui diffinierunt eam incorpoream et moventem
+          seipsam, et dicebant eam esse cognoscitivam, haec non divisim, sed simul animae
+          attribuentes. Et de incorporeo quidem et de cognoscitivo satis ad praesens patet per
+          antedicta. Movens autem seipsum qualiter dixerunt, jam prius diximus. Sed adjungendum quod
+          haec tria Philosophi dixerunt ex tribus quae sunt in anima. Est enim in anima quod est
+          similitudo lucis primae causae, et imago ejus : et est in ea quod est sub ipsa in ordine
+          tertio : quia secundum ordinem naturae inter animam et primam causam est intelligentia :
+          et quoad hoc est anima in potentia aliqua. Est item in ea, quod ipsa est forma ante
+          corporeitatem secundum naturam existens : et hoc voluerunt dicere summi Philosophi, quando
+          dixerunt eam esse ante materiam, et post intelligentiam in horizonte aeternitatis et
+          temporis : quoniam tempus accedit ad mutabilitatem subjecti, et materiae naturalis quae
+          determinata est quantitate. Aeternitas autem est in ipsa causa prima, et prior est
+          intelligentiis quantum ad statum immutabilitatis, licet inceperint per creationem
+          intelligentiae in <choice> <orig>nomento</orig> <reg>momento</reg> </choice> temporis.
+          Sciverunt ergo quod cum prima causa sit primum movens, quod immobile quidem est per
+          substantiam, sed movet se in omne quod est per largitionem esse et bonitatum suarum : eo
+          quod ipsum procedit in omne quod est, sicut causa immobilis dicitur in effectum procedere,
+          quando largitur ei esse simile <pb ed="#B5" n="147"/> <cb ed="#B5" n="a"/> causae, quantum
+          potest recipere secundum analogiam cujuslibet effectus, ita intelligentia fluens ab ipso
+          largitur et procedit universalius et minus universaliter, secundum quod est intelligentia
+          altior et inferior. Et tertio anima sic movet se in suum universum, quod est corpus,
+          unicuique organo dando de vita et bonitatibus ejus quantum potest recipere : et hoc
+          dicebant motum animae quo movetur, et non dicebant sibi convenire motus physicos. In
+          quantum autem distat in tertio ordine existens est ipsa potentia quidquid est, et sic fit
+          in ea potentia cognitionis omnium ad modum materiae primae. Sed ex ordine ad tempus et ad
+          physicam materiam corporis cujus est ipsa, perfectio est incorporea : et hoc praecipue
+          convenit animae rationali, cujus animae caeterae sunt umbrae quaedam, sicut in sequentibus
+          patebit. Haec autem sententia perfecte colligit animae diffinitionem, secundum quod ipsa
+          est exiens a causa prima, ad similitudinem accedens materiae, et recipiens corpus, quod
+          dicatur esse motivum sui ipsius et cognoscitivum et incorporeum. Haec quidem igitur
+          tradita sunt ab Antiquis de anima, et propter quas causas sic dicant causas, dictum est
+          sufficienter secundum praesentem intentionem.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

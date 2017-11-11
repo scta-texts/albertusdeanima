@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VI.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VI.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t1c6">
+        <head xml:id="admda-l2t1c6-Hd1e128">CAPUT VI.</head>
+        <head xml:id="admda-l2t1c6-Hd1e131" type="question-title">De diffinitione animae dicente propter quid.</head>
+        <p xml:id="admda-l2t1c6-d1e134">Dicamus igitur principium accipientes hujus intentionis ad investigandam diffinitionem
+          dicentem propter quid, ut determinemus et distinguamus animatum ab inanimato in vivendo :
+          quia vivere est essentialis actus animae omnem ani<pb ed="#B5" n="202"/> <cb ed="#B5" n="a"/>mam consequens : vivere enim dicitur multipliciter, eo quod multa sunt principia
+          vivendi, quorum si unum solum insit, vivere dicimus. Dicitur enim vivere intellectus, et
+          sensus, et motus, et status secundum locum, adhuc autem motus alimenti, et secundum
+          augmentum, et detrimentum. Quodcumque enim horum inesse dicatur, vitam inesse dicimus.</p>
+        <p xml:id="admda-l2t1c6-d1e141">Propter quod et vegetabilia omnino vivere dicuntur, eo quod in seipsis <choice>
+          <orig>habant</orig> <reg>habent</reg> </choice> talem potentiam habitualem et perfectam,
+          quae principium est vitae secundum actum, per quod principium vitae augmentum et
+          detrimentum suscipiunt, non movente aliqua forma elementali. Illa enim esset aut corporis
+          levis, aut corporis gravis : et si esset levis, tunc moveretur tantum sursum : et si autem
+          esset gravis, tunc moveretur tantum deorsum. Et hoc faceret sive esset corporis simplicis,
+          sive compositi. Corpus enim simplex habet motum simplicem, et corpus compositum insequitur
+          motum simplicis in ipso dominantis, sicut dictum est in Coelo et Mundo. Nunc autem
+          alimentum et augmentum vel decrementum movetur secundum contrarios locos, scilicet sursum,
+          et deorsum, et ante, et retro, et dextrorsum, et sinistrorsum, quod haud posset esse, nisi
+          movens esset forma quae est altior quam illa quae attingit naturam corporis : hoc autem
+          est anima. Motus ergo illi sunt ab anima. Non enim sursum augentur tantum corpora, deorsum
+          autem non, sed aequaliter in utroque loco, et universaliter vivere dicuntur quaecumque
+          aluntur. Illa enim tamdiu vivunt, quamdiu possunt accipere alimentum. Hujus autem
+          principium vitae vegetabilis est anima.</p>
+        <p xml:id="admda-l2t1c6-d1e153"> <cb ed="#B5" n="b"/>
+          <!-- 202 b --> Et hoc quidem ab aliis possibile est separari loco et subjecto, sed alia
+          principia vitae quae sunt secundum locum motivum, et sensitivum, et intellectivum,
+          impossibile est separari ab isto in genere mortalium. In immortalibus enim sicut in
+          corporibus coelestibus, secundum Peripateticorum opinionem, est vita intellectiva separata
+          a sensu, et nutritiva, et vegetativa. Hoc autem manifestum est in his quae vegetantur,
+          quae vegetabilia vocamus, sicut plantas : quia illis nec unam aliam animae potentiam
+          videmus inesse, nisi tres quae sunt principia vegetabilis, quae sunt nutritiva,
+          augmentativa et generativa.</p>
+        <p xml:id="admda-l2t1c6-d1e161">Igitur vivere in his quae vivunt solum inest, propter hoc principium quod vocamus animam
+          vegetabilem. Animal autem habet vitam propter primum sensum, qui animal facit animal.
+          Primus autem sensus est, posito quo inesse quocumque alio, ipse inesse necessario ponitur.
+          Hujus autem ratio est, quia etiam illa quae non moventur de loco ad locum, sed manent uni
+          loco adhaerentia, si sensum habeant, dicimus ipsa esse animalia, et non solummodo
+          viventia. Multa enim animalia sunt immobilia secundum locum, sicut spongia marina, et
+          quaedam ostrea conchilia quae habent sensum, et tamen secundum locum non moventur.</p>
+        <p xml:id="admda-l2t1c6-d1e164">Sensus autem primus propter quem animal est animal, est sensus tactus. Hoc enim posito,
+          non necesse est aliquem aliorum inesse, sed aliis sensibus existentibus in aliquo, necesse
+          est et hunc inesse, sicut se habet vegetativum ad sensitivum. Vegetativum enim dicimus
+          esse hujusmodi principium vitae et animam, qua et vegetabilia participant. Sed animalia
+          omnia ad minus habent sensum tactus : propter quod tactus non tantum <pb ed="#B5" n="203"/> <cb ed="#B5" n="a"/> est unus de numero quinque sensuum particularium, sed etiam
+          differentia et forma constituens et faciens animal.</p>
+        <p xml:id="admda-l2t1c6-d1e171">Propter quam autem causam utrumque istorum accidit, quod scilicet vegetativum separatur a
+          sensitivo, et tactus a reliquis sensibus, posterius in hoc eodem libro dicemus. Nunc autem
+          hoc dixisse sufficiat, quod anima omnium modorum vitae sit principium, et divisa est et
+          determinata his, scilicet vegetativo, sensitivo, et intellectivo, et motivo secundum
+          locum. Ista autem pro tanto videntur determinare animam : quia sunt principia vivendi,
+          quae aliquando separata ab invicem in diversis inveniuntur. Quaedam enim sunt vegetativa
+          tantum, et quaedam vegetativa et sensitiva, et quaedam cum his moventur secundum locum, et
+          quaedam cum his habent intellectum.</p>
+        <p xml:id="admda-l2t1c6-d1e174">Est autem hic sciendum, quod vivere est actus essentialis animae, qui supponitur ut
+          fundamentum in omni opere suo : et hoc patet, quia omnis anima actum hunc effluit in
+          corpus quod animat, et a principaliori membro corporis, hoc est, a corde vel ab eo quod
+          est loco cordis, influit ipsum : et ideo viventibus est esse. Quia cum anima ut forma det
+          esse ei cujus est anima, non dat ei nisi per vitam : et hoc dupliciter potest considerari,
+          scilicet prout est ab anima, et prout est in corpore. Et prout est ab anima, sic est
+          essentialis actus ejusdem : prout autem est in corpore : sic est formaliter adhaerens
+          corpori : ab eo dicitur caro viva et corpus vivum : et sic de qualibet parte, quia omnis
+          pars alimentum accipiens vivit : sed non omnis pars formaliter sentit, quia ossa non
+          sentiunt, et tamen vivunt. Anima autem etiam in se dicit vivere causaliter : quia est
+          causa vitae, et viva in seipsa, sicut lux dicitur luminosa et causa luminis : et propter
+          hoc etiam superiora dicuntur vivere nobiliori vita, quia nihil est in ea ex parte motoris
+          vel mo<cb ed="#B5" n="b"/>
+          <!-- 203 b -->bilis, quod sit vitae contrarium vel differenter participans vitam, sicut
+          est in mortalibus, in quibus multa vitae sunt contraria differenter participantia vitam,
+          sicut sunt ossa, nervi, caro, pili, quae vitam diversis actibus animae participant. Est
+          enim actus animae vitae continuus, et esse dans corpori vivo : sicut enim esse generaliter
+          est actus essentiae in eo quod vere et secundum actum est, ita vivere est actus animae in
+          eo quod animatum est. Propter quod peccatum est in diffinitione vitae Dionysii Philosophi,
+          qui vitam dixit esse motum generis nutribilis naturam assequens. Non enim generis
+          nutribilis tantum est, sed omnis animae in <choice> <orig>coranimatum</orig> <reg>corpus
+          animatum</reg> </choice>, et a principiali membro quod est cor, vel id quod est loco
+          cordis in omnibus vivis : et quia continuus fluxus est, propter hoc dixerunt quidam, quod
+          est potius in fieri quam in esse quieto : quoniam sicut lumen quod est actus perspicui,
+          continue influitur ei a sole quando est dies, ita dicunt quod continuus fluxus est vitae
+          ab anima in vivum : et figuratur ille continuus motus instrumento vitae secundum diastolem
+          et systolem : et videmus mortificari membra ad quae non fluit spiritus vitae a corde. Haec
+          igitur de vita quae est continuus actus animae in corpus, dicta sint.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

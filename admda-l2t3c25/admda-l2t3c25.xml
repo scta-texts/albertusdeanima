@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XXV.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XXV.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c25">
+        <head xml:id="admda-l2t3c25-Hd1e128">CAPUT XXV.</head>
+        <head xml:id="admda-l2t3c25-Hd1e131" type="question-title">Qualiter odor se habet ad olfactum et ad medium, et utrum sit
+          evaporatio fumalis.</head>
+        <p xml:id="admda-l2t3c25-d1e134">Sicut esse diximus auditum comparatum ad suum sensibile, sic est quilibet sensus se
+          habens ad sui sensibilis primas differentias : auditus enim est audibilis et non
+          audibilis, visus visibilis et non-visibilis, et similiter etiam olfactus est odorabilis et
+          non odorabilis. Non odorabile autem sive inodorabile dicitur tripliciter, scilicet quod
+          impossibile est habere odorem, quod sentiatur odoris privatione, <pb ed="#B5" n="277"/>
+          <cb ed="#B5" n="a"/> sicut simplicia : et dicitur non odorabile, quod parvum habet odorem
+          vix comprehensibilem per bonum olfactum : et dicitur inodorabile, quod habet odorem
+          pravum, aut quia foetidum est, aut quia corrumpens est, sicut sunt odores <choice>
+          <orig>qnorumdam</orig> <reg>quorumdam</reg> </choice> venenorum et cadaverum
+          corrumpentium. His autem modis et ingustabile dicitur.</p>
+        <p xml:id="admda-l2t3c25-d1e150">Similiter autem olfactus est per medium distans quod est aer vel aqua, sicut et duo
+          sensus, de quibus jam supra determinatum est : aquatica enim animalia propter eamdem
+          causam videntur habere odoris sensum, sicut et animalium sanguinem habentia : in omnibus
+          enim his unum signum est, quod olfactum habeant : eo quod a longe currunt ad alimentum,
+          cum non moveant nisi ab odore.</p>
+        <p xml:id="admda-l2t3c25-d1e153">Propter hoc etiam falsum est quod dicit Plato, quod scilicet odor sit fumalis evaporatio
+          rei odorabilis : et hanc Platonis opinionem ponit et improbat <name ref="#Aristotle">Aristoteles</name> in libro de sensu et sensato, et ibi etiam nos eamdem improbamus vel
+          improbabimus. Sed hoc mirandum est quod quidam antecessorum nostrorum dicunt <name ref="#Aristotle">Aristotelem</name> sentire quod odor sit fumalis evaporatio, cum omnino
+          <name ref="#Aristotle">Aristoteles</name> illud improbet : unde non est dubium illos <name ref="#Aristotle">Aristotelem</name> non intellexisse. Signum autem quod odor non sit
+          evaporatio fumalis, est quod fumus est quaedam pars substantialis subtilis fumantis
+          corporis resoluta ex ipso : propter quod fumans levius efficitur quando multum fumaverit :
+          materiae enim generabilium major extensio et raritas quam potest habere, est in forma
+          ignis. Dicamus igitur quod ex uno pugillo terrae fiant per rarefactionem mille pugilli
+          ignis : eo quod corpus rarius majorem habet quantitatem : pars autem quae fumat et in
+          fumum resolvitur <cb ed="#B5" n="b"/>
+          <!-- 277 b --> ex aliquo odorifero, non est quantitas pugilli : nec fumus est ita
+          extenuatus sicut substantia ignis. Diximus autem quod sensata sphaerice in circuitu
+          generantur : diffunditur autem odor alicujus in circuitu per quingentas leucas ad minus :
+          cum autem a centro rei odoriferae distet odor diffusus per quingentas leucas, tunc
+          diametri sphaerici odoris sunt mille leucarum in circuitu : et replet odor sphaerice
+          diffusus totum spatium illud : si igitur esset fumalis evaporatio, oporteret quod fumosa
+          pars rarefieret spatio mille leucarum non linealiter, sed sphaerice in longum, latum et
+          profundum : tanta autem materia non habet tantam extensionem, nec etiam sub forma ignis :
+          ergo fumosa pars incomparabiliter rarior esset igne, quod est impossibile : falsum est
+          igitur quod odor sit fumalis evaporatio. Quod autem ad spatium aliquando extendatur,
+          experimento constat : caede enim grandi facta in terra Graecorum, advenerunt ad cadavera
+          vultures et tigrides ab odore tracti, qui nunquam ante in terra illa visi fuerant : et
+          locus propinquior, ubi antea fuerant visi, a loco caedis distabat spatio quingentarum
+          leucarum. Aliud autem experimentum est, quod in aqua missa parva parte camphorae,
+          inficitur aqua multo longius quam camphora per fumum posset extendi : sicut igitur diximus
+          quod omnes species sensibilis per esse spirituale et intentionale se multiplicant in
+          medio, ita et odor. Et ideo sine omni materia rei odorabilis diffunditur in medio sola
+          qualitas odoris. Si enim in summo diffunderetur, tunc materia veniret ad sensum, et non
+          esset necessarium medium ad sensum, sed esset propter bene esse : et hoc nos supra
+          improbavimus : sensus enim secundum hoc non esset susceptivus speciei tantum, secundum
+          quod est species, sed potius secundum hoc esse quod habet in materia : et hoc nos inferius
+          omnino ostendemus fore falsum. Adhuc au<pb ed="#B5" n="278"/> <cb ed="#B5" n="a"/>tem non
+          esset sensibile per se motivum sensus, sed per aliud suae materiae, quod omnino falsum
+          est, sicut supra est probatum. Etiam haec moverunt <name ref="#Aristotle">Aristotelem</name> ad hoc quod dixit odorem non esse fumalem evaporationem.</p>
+        <p xml:id="admda-l2t3c25-d1e181"> <name ref="#Avicenna">Avicenna</name> autem sequens Platonem dicit odorem non sine
+          evaporatione diffundi, et concedit medium sensus non esse necessarium ad hoc quod sit
+          sensus secundum actum, sed ad bene esse ipsius : et ideo dicit quod si aliquod sensibile
+          conjungi posset sensui, secundum esse spirituale sine medio, tunc non exigeret medium : et
+          tale dicit esse evaporationem : quia illa est spiritualis, et odor in ipsa est secundum
+          esse spirituale. Ad experimenta autem dicit, quod per geometriam in scientia visus scitur,
+          quod visus extenditur ad loca longiora quando exaltatur oculus videns : aves autem
+          vultures, et tigrides aves, quae sunt aquilae variae, altissimae super eminentias montium
+          volant, et ideo longissime vident. Adhuc autem poterat esse, quod venti validi illuc
+          detulerunt odores cum evaporatione fumali. Signum ponit ejus quod dicit, quod pomum quod
+          diu odoratur, per exsuctionem odoris levius efficitur, et citius corrumpitur. Similiter
+          autem quod odores venenosi necant homines et animalia, quod non facerent si solae et
+          simplices essent qualitatum intentiones.</p>
+        <p xml:id="admda-l2t3c25-d1e187">Quidam autem utriusque volentes satisfacere opinionibus, dicunt quod duplex est
+          evaporatio : quaedam spiritualis, et quaedam materialis : et quod odor est evaporatio
+          spiritualis et non materialis. Et isti ignorant dicta sua : quia si vocant spiritualem
+          evaporationem corpus rarum et tenue, sicut est aer, tunc omnis evaporatio spiritualis est.
+          Si autem vocant evaporationem spiritualem alterationem medii, quae fit sola et simplici
+          qualitate odoris, tunc non salvant Platonem, quia ipse negat hoc : et insuper improprie
+          loquuntur, quia spiritus in physica corpus est subtile et aereum.</p>
+        <p xml:id="admda-l2t3c25-d1e190"> <cb ed="#B5" n="b"/>
+          <!-- 278 b --> Et ideo nobis videtur Aristoteli et Averroi fore consentiendum, non propter
+          experimenta, sed propter rationes inductas, et quod Plato et <name ref="#Avicenna">Avicenna</name> in hac parte non bene dixerunt. Quod autem odores corrumpunt aliquando,
+          hoc sine dubio est, ideo quia ingrediuntur per poros occultos et apertos ad interiora
+          animalium cum evaporatione corporis venenosi, et evaporatio illa confortat odorem : sed
+          non ipsa tantum agit eum, sed potius medii alteratio quae est a qualitate odoris
+          simplicis. Quoniam autem evaporatio est spiritualis sicut et medium, ideo aliquando est
+          loco medii, et defertur ad instrumentum odorandi in odoratu : materia enim odoris non est
+          fumalis evaporatio nisi in medio, et non in odorifero : cum autem venit ad olfactum, non
+          agit in ipsum per esse materiale, sed per esse intentionale quod habet in eo in quantum
+          est medium, et non subjectum ejus secundum esse materiale.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

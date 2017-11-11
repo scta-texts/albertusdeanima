@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XXXI.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XXXI.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c31">
+        <head xml:id="admda-l2t3c31-Hd1e128">CAPUT XXXI.</head>
+        <head xml:id="admda-l2t3c31-Hd1e131" type="question-title">Quod caro non est organum tactus.</head>
+        <p xml:id="admda-l2t3c31-d1e134">Remanet autem quaerenda haec quaestio, utrum hoc organum quo sentimus, intus sit an non ?
+          Quod autem organum tactivum exterius sit, et sit caro quae mox <choice>
+          <orig>occurit</orig> <reg>occurrit</reg> </choice> tangibilibus, sicut quidam dixerunt,
+          illud est signum quod inducunt ad hoc probandum, quod statim fit sensus secundum actum
+          quando tangunt carnem tangibilia. Haec fuit causa, quod dixerunt carnem esse organum
+          tactus : viderunt enim in aliis sensibus quod non sit sensus secundum actum, nisi quando
+          <pb ed="#B5" n="286"/> <cb ed="#B5" n="a"/> species sensibilis est in actu vel in sensu :
+          et arguebant ex hoc quod cum sensus sit secundum actum, quod tunc habet speciem sensibilem
+          in organo : sed tactus carnis ad tangibilia mox est sensus tactus secundum actum : mox
+          igitur species tangibilis recepta est in organo tactus : caro igitur organum est, et non
+          medium. Amplius autem prius tempore sensibile est in medio quam in organo : quoniam
+          organum accipit quod redditur a medio, et medium accipit ab objecto, sicut constat ex
+          praedictis : si igitur medium esset caro, prius esset qualitas tangibilis in carne quam in
+          organo, sed non est secundum actum sensus, nisi quando immutatum est organum : ergo
+          qualitate sensibili existente in carne, non esset adhuc secundum actum sensus : et hoc nos
+          experimur fore falsum. Et propter istas rationes tres magni viri de Peripateticorum secta,
+          dixerunt carnem nervosam esse organum tangendi, Alexander scilicet et Themistius, et
+          posterior eis <name ref="#Avicenna">Avicenna</name>. Sed quia <name ref="#Aristotle">Aristotelis</name> opinio his non concordat, dicimus nos nullum esse signum quod
+          induxerunt ad probandum quod caro mox sensibilibus occurrens sit organum sensus. Cujus
+          probatio est, quod si aliquis nunc circa carnem suam extenderit aliquid tenue, sicut
+          pellem, vel membranam, et faciat sensum per tactum tangibilium similiter sicut prius, mox
+          ut tetigerit tangibile, significabit se sensui : et non est qualitas tangibilis prius
+          tempore in membrana vel pelle quam sentiatur in corpore : et tamen constat quod membrana
+          non est organum sensus. Si autem aliquis dicat quod non est simile, quia membrana super
+          inducta carni, est extranea, et caro est connaturalis et membrum animati corporis, dicemus
+          quod est simile quantum ad hoc quod non intercidit aliquod tempus inter sentire et esse
+          qualitatem sensibilem in pelle : sed in hoc est dissimile, quia caro eo quod naturalis
+          est, certificat et demonstrat certius sensibile quam pellis, eo quod, sicut diximus, ipsa
+          est pars sen<cb ed="#B5" n="b"/>
+          <!-- 286 b -->tientis. Signum igitur quod induxerunt, fallax est.</p>
+        <p xml:id="admda-l2t3c31-d1e161">Caro autem ad tangibilia videtur sic se habere, sicut si circulariter nobis aptatus esset
+          aer sicut pars actualis animalis sentientis existens : tunc enim per unam partem nostram
+          videremur sentire, et sonum, et odorem, et colorem : et ab unitate illius partis qua
+          sentiremus, videretur esse unus quidam sensus auditus et visus et olfactus : nunc autem
+          quoniam determinatum et distinctum est a nobis medium per quod sentimus tria sensata
+          inducta, et determinata sunt organa ipsorum sensuum, ideo manifestum est quod praedicti
+          sensus plures sunt et non unus. Medium autem forma conjunctum nobis vel determinatum non
+          facit sensum unum vel plures, sed potius una proportio passivi et activi facit unam, et
+          plures proportiones faciunt plures.</p>
+        <p xml:id="admda-l2t3c31-d1e164">In tactu autem est hoc immanifestum et latens : eo quod medium in ipso non potest esse a
+          nobis distinctum, cujus causa est, quod animata corpora sentientia omnia componuntur ex
+          tangibilibus per essentiam corporis : et ideo oportuit quod non per species suas tantum,
+          sed etiam per suas essentias corporibus animatis conjungerentur in sensu : et ideo
+          oportuit quod actu pars esset animati medium per quod talia sentit. Nec potest esse
+          simplex corpus ex quo componitur corpus animatum, tribus de causis. Quarum una est
+          secundum hanc intentionem principalis : quia sicut diximus supra, medium nullam actu debet
+          habere qualitatem illius sensibilis cujus est medium. Et hoc non potest nisi altero duorum
+          modorum. Quorum unus est, quod sit omnino privatum, sicut absonum, et non coloratum ad
+          sonum et colorem se <pb ed="#B5" n="287"/> <cb ed="#B5" n="a"/> habent. Alter autem est,
+          quod sit temperamentum ad aequalitatem, et recesserit ab excellentiis qualitatum
+          sensibilium : et hoc oportet in tactu esse medium, eo quod sentiens non potest omnino
+          destitui qualitatibus primis, cum ex illis componatur. Cum igitur istae qualitates
+          secundum excellentiam sint in simplicibus, simplex corpus non potuit esse medium ad eas,
+          nec ex ipso potest fieri corpus animatum. Secunda ratio est, quia si esset ex his, non est
+          susceptibile diversitatis organorum, hoc autem requirit omnis anima terrena, ut supra
+          diximus. Tertia vero ratio est, quia oportet aliquod firmum esse animatum corpus commixtum
+          ex aqua maxime et terra, ut possint in eo fieri operationes vitae et spiritus. Si enim
+          foret simplex aereum vel aqueum, tunc omni corpori continuaretur quod tangeret ipsum. Si
+          autem esset ex terra, tunc non haberet aptitudinem ad vitam propter frigus et siccitatem,
+          quae duae sunt qualitates mortificativae. Relinquitur igitur animatum corpus esse mixtum
+          ex aqua et terra, et ex aliis : et oportet ut medium sibi habeat coaptatum, ut indique
+          tangat nocentia et convenientia, et recedat a nocentibus, et convenientibus per suam
+          essentiam conjungatur : necessarium ergo est, quod in eo quod potest tangere et habet
+          potentiam tactivam, sit aliquod corpus medium sic mixtum, per quod fiunt omnes sensus
+          tangendi, cum, sicut habitum est, sint plures : hoc autem est caro quae mox occurrit
+          tangentibus. Et etiam ideo quia nulla pars hominis vel alterius sentientis ita ad
+          aequalitatem medii sit mixta sicut caro. Nervus enim et venae et alia non ita ad medium
+          sunt temperata sicut caro : et ideo non inconvenienter sunt media. Et si forte aliquis
+          inferat ex hoc, quod tactus est unus sensus ab unitate istius medii, non valeret illatio :
+          quoniam, sicut diximus, ab unitate medii non probatur unus esse sensus, sed potius ab
+          unitate organi passivi secundum rationem et proportionem ad suum agens.</p>
+        <p xml:id="admda-l2t3c31-d1e172"> <cb ed="#B5" n="b"/>
+          <!-- 287 b --> Hoc autem quod demonstrat quod tactus est plures et non unus, est praecipue
+          tactus qui est in lingua : ille enim tactus omnia tangit quae tangi possunt : et insuper
+          tangit saporosa, sicut diximus, secundum eamdem partem linguae in qua est tactus : et
+          siquidem ita esset in toto corpore sensibili, quod etiam alia pars quaelibet sentiret
+          saporem cum tangibilibus, tunc universaliter videretur esse unus numero et specie sensus
+          gustus et tactus : et hoc idem videretur si lingua esset animal. Nunc autem discernuntur
+          tactus et gustus, eo quod non secundum quamlibet partem convertuntur : quidquid enim
+          gustat sapores, secundum idem discernit tangibilia : sed non convertuntur, quod quidquid
+          sentit tangibilia, quod secundum id judicet sapores. Quae autem subjecto separata sunt,
+          essentialiter sunt diversa : et ideo gustus et tactus essentialiter sunt diversi sensus.
+          Licet autem ipsi tactus subjecto non diversificentur, tamen formaliter propter causam
+          prius inductam necesse est tactivas virtutes diversas esse.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

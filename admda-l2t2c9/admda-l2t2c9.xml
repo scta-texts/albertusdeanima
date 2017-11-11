@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT IX.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT IX.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t2c9">
+        <head xml:id="admda-l2t2c9-Hd1e128">CAPUT IX.</head>
+        <head xml:id="admda-l2t2c9-Hd1e131" type="question-title">De comparatione trium virtutum animae vegetabilis ad invicem et
+          ad seipsam animam vegetabilem.</head>
+        <p xml:id="admda-l2t2c9-d1e134">Quoniam autem tria sunt necessaria, scilicet quod alitur, et quo alitur, et alens
+          effective, alens quidem primum et cui essentialis est actus alendi, est anima vegetabilis
+          per nutritivam. Quod vero alitur, est corpus quod habet animam et non aliud, sicut
+          ostendimus superius. Quo vero materialiter alitur, est alimentum. Et in his est advertere,
+          quod virtus nutritiva est deserviens augmentativae et generativae, quoniam utrique per
+          dictas quatuor virtutes praeparat materiam. Nutritiva enim separat quod est superfluum a
+          nutrimento, et expellit ipsum ad membra generationis, ut ibi virtute formativa sigilletur.
+          Augmentativa autem deservit generativae, generans in quantitate et figura perficiendo ut
+          generare possit : et ideo constat finem in his virtutibus esse generativam. A fine autem
+          qui est quo res est id quod est, hoc est, a forma, omne quod nomen accipit debet
+          denominari, finis autem est generare alterum ut ipsum, utique tunc erit principale in
+          anima vegetativa generare alterum ut ipsum : ideo in vegetabilibus id quod est
+          substantialis forma, absque dubio est generativa. Et ideo corpus secundum omnem partem
+          informat ubi anima vegetabilis est tota perfectio corporis animati, sicut in plantis, et
+          in eis est varia generatio, quia ubique planta generat ramos et virgas et folia et fructus
+          et semina, et ubicumque abscindatur, convalescit utraque pars ipsius. Sicut enim tactus in
+          anima sensibili est sensus particularis et forma substantialis ejus quod habet sen<cb ed="#B5" n="b"/>
+          <!-- 228 b -->sus, et ideo ipsum brutum ubique determinat, ita est de generativa in
+          plantis : propter quod etiam nonnullis videbatur nutritivam et augmentativam eamdem
+          virtutem esse, sed primo cum fortis est calor et mollia membra, habere operationes duas :
+          cum autem calor debilior est et duriora et sicciora membra, tunc retinere tantum
+          operationem unam, licet non veram causam dicant. Quoniam etiamsi ponatur non hebetari
+          calor et non indurari corpus, nihilominus stabit tamen augmentativa in termino secundum
+          naturam, ut supra diximus. Qualitercumque autem dicatur, constat quod in his generativa
+          est finis : et ideo inter has tres vires quae super nutrimentum operantur, prima
+          naturaliter est nutritiva, et secunda augmentativa, sicut substantia est ante quantitatem,
+          et illa quae finis est generativa, quae non servat esse secundum materiam et individuum,
+          sed esse divinum in specie attingit, propter quod agitur quidquid agitur secundum naturam.
+          Oportet autem scire quod anima vegetabilis est, quae unit in se istas vires, quae quidem
+          specie differunt secundum quod et vegetabilia differunt. Est enim una palmifica, et altera
+          olifica, et sic de aliis : et actus illius animae est vita, sicut diximus superius.</p>
+        <p xml:id="admda-l2t2c9-d1e141">Est autem adhuc sciendum, quod si comparatio fiat animae vegetabilis ad sensibilem et
+          rationalem, tunc vires animae vegetabilis dicuntur naturales : eo quod non nisi per
+          instrumenta primorum corporum naturalium operantur et ad naturam in individuo vel in
+          specie conservandam, sicut patet ex dictis : tamen est perfectio organici corporis sicut
+          et aliae : et ideo licet nutritiva sit diffusa in toto corpore, propter hoc quod ubique
+          salvat individuum, et similiter augmentativa, eo quod omnibus diametris et praecipue
+          longitudini principaliter addit et generativa in plantis : tamen in animalibus
+          perfectissimis hae virtutes sedes habent determinatas, a quibus influunt suas operationes
+          in corpus. Et sedes qui<pb ed="#B5" n="229"/> <cb ed="#B5" n="a"/>dem nutritivae praecipue
+          est hepar cum calore suo alterans et ad membra dirigens cibum. Sedes autem generativae est
+          in testiculis masculorum et foeminarum. Sicut autem diximus, quod nihil nutritur proprie,
+          nisi quod est animatum, ita etiam nihil generat proprie ad speciei salutem, nisi quod est
+          animatum. Generare autem ad salvandum se in specie, est generare ex eo quod discinditur a
+          seipso, et cui a seipso influitur virtus convertens id in simile secundum speciem : et sic
+          non generant inanimata, sed potius per actiones suas generant formas suas in materia
+          aliena : cujus causa est, quia talia inanimata non habent aliquid quod potentia sit totum,
+          sed quidquid corporis ipsorum est, hoc est actu pars et non potentia totum : ex eo autem
+          quod est actu pars et non potentia totum, fieri generatio nullatenus potest, sicut diximus
+          superius.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

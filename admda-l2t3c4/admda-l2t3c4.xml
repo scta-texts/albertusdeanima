@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT IV.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT IV.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c4">
+        <head xml:id="admda-l2t3c4-Hd1e128">CAPUT IV.</head>
+        <head xml:id="admda-l2t3c4-Hd1e131" type="question-title">Et est digressio declarans gradus abstractionis et modum.</head>
+        <p xml:id="admda-l2t3c4-d1e134">Antequam nos loquamur de sensibilibus singulariter, oportet nos loqui de sensibili
+          generaliter : quia, sicut diximus, objecta priora sunt actibus, et actus potentiis
+          secundum rationem : quia de communibus etiam quoad nos prior est speculatio in Physicis,
+          eo quod in illis communia confusa sunt in singularibus, et priora quoad nos, debemus prius
+          loqui de sensibili in communi. Sed ad faciliorem intellectum eorum quae dicturi sumus,
+          faciemus capitulum breve de modo apprehensionis potentiarum apprehensivarum omnium : hoc
+          enim perutile erit ad omnium sequentium notitiam faciliorem. Dicimus igitur quod omne
+          apprehendere est accipere formam apprehensi, non secundum esse quod habet in eo quod
+          apprehenditur, sed secundum quod est intentio ipsius et species, sub qua aliqua sensibilis
+          vel intelligibilis notitia apprehensi habetur. Haec autem apprehensio, ut universaliter
+          loquendo, quatuor habet gradus. Quorum primus et infimus est, quod abstrahitur et
+          separatur forma a materia, sed non ab ejus potentia nec ab ejus appendiciis : et hoc facit
+          vis apprehensiva de foris, quae est sensus. Secundus autem gradus est, quod separetur a
+          materia et a praesentia materiae, sed non ab appendiciis materiae, sive condicionibus
+          materiae : et hanc apprehensionem facit imaginativa potentia, quae etiam singularibus non
+          praesentibus retinet formas sensibilium, sed non denudat eas a materiae appendiciis. Dico
+          appendicias materiae conditiones et proprietates quas habet subjectum <cb ed="#B5" n="b"/>
+          <!-- 237 b --> formae quod est in tali vel tali materia : verbi gratia, talis membrorum
+          situs, vel talis color faciei, vel talis aetas, vel talis figura capitis, vel talis locus
+          generationis. Haec enim sunt quaedam individuantia formam quae sic sunt in uno individuo
+          unius speciei, quod non sunt in alio. Et hac apprehensione Socratem non praesentem
+          imaginamur crispum et album, et senem, vel juvenem, et cum longis digitis vel brevibus,
+          quorum nullum accidit ei in quantum est homo. Haec igitur est secunda apprehensio. Tertius
+          autem gradus apprehensionis est, quo accipimus non tantum sensibilia, sed quasdam
+          intentiones quae non imprimuntur sensibus, sed tamen sine sensibus nunquam nobis
+          innotescunt, sicut est esse socialem, et amicum, et delectabilem in convictu, et
+          affabilem, et his contraria, quae quidem cum sensibus accipimus : et tamen eorum nullum
+          sensibus imprimitur. Et tale est quod accipimus hunc esse filium leonis, et esse agnum,
+          vel hominem : aliud autem esse lupum, vel leonem, secundum quod substantiales formae
+          mediantibus sensibilibus et non separatae ab ipsis, apprehenduntur : et iste gradus
+          propinquus est cognitioni, et nunquam est sine aestimatione et collatione. Quartus autem
+          et ultimus gradus est, qui apprehendit rerum quidditates denudatas ab omnibus appendiciis
+          materiae, nec accipit ipsas cum sensibilium intentionibus, sed potius simplices et
+          separatas ab eis : et ista apprehensio solius est intellectus, sicut est intellectus
+          hominis per hoc quod convenit omni homini, vel intellectivae substantiae, ut universaliter
+          dicatur intellectus quidditatis universalis omnis rei secundum quod est quidditas ipsius,
+          et non per hoc quod convenit isti, et non alii, proprium est et singulare, et est aliquid
+          de materialibus et individuantibus. Quaecumque autem sunt communia et ita uni sicut alii,
+          et eodem modo convenientia, absque dubio sunt ipsa universalia, quae solus accipit
+          intellectus. Secundum autem hos gra<pb ed="#B5" n="238"/> <cb ed="#B5" n="a"/>dus
+          abstractionis sive separationis distinguentur inferius vires apprehensivae.</p>
+        <p xml:id="admda-l2t3c4-d1e145">Adhuc autem notandum est, quod differunt forma rei et intentio rei : forma enim est
+          proprie quae informando dat esse actu materiae, et composito ex materia et forma. Intentio
+          autem vocatur id per quod significatur res individualiter sive universaliter, secundum
+          diversos gradus abstractionis : et haec non dat alicui, nec sensui quando est in ipso, nec
+          etiam intellectui quando est in ipso, sed signum facit de re et notitiam : et ideo
+          intentio non est pars rei sicut forma, sed potius est species totius notitiae rei : et
+          ideo intentio quia abstrahitur de tota re, significatio totius de re praedicatur :
+          intentio enim colorati quae est in oculo, totam rem significat <choice> <orig>vec</orig>
+          <reg>vel</reg> </choice> notificat, sicut et intentio quae est in imagine particulari non
+          praesente. Et hoc est quod dicit egregie <name ref="#Aristotle">Aristoteles</name> in
+          secundo libro suo de Anima, quod sensus sunt particularium ; et non dicit quod formae
+          alicujus tantum, sed totius particularis, sicut et intellectus est universalium, quod non
+          est notitia et species partis, sed totius : et ideo notitiam facit de toto. Non enim per
+          visum accipitur notitia coloris tantum, sed colorati, et species ejus in visu species est
+          colorati, secundum quod coloratum est, et judicium fit de colorato secundum quod coloratum
+          est, et sic est de aliis intentionibus in quocumque gradu abstractionis accipiatur.
+          Similiter autem est quando dicitur, quod abstractio fit a materia, intelligitur quod est
+          quoddam particulare quod particularitatem habet a materia : hoc enim est primum subjectum
+          formae, et per ipsum substat particulare et naturae communi quae abstrahitur universaliter
+          ab intellectu, et individuantibus formis, quarum intentiones ab aliis gradibus
+          abstrahuntur apprehensionis. Sicut autem in principio Physicorum dictum est, <cb ed="#B5" n="b"/>
+          <!-- 238 b --> communis natura aliquando accipitur ut confusa in particularibus et non
+          separata ab eis : et tunc scientia talis est singularium sicut et sensus, sicut in
+          praehabito capitulo diximus.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

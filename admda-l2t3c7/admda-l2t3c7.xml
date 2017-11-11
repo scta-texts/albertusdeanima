@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c7">
+        <head xml:id="admda-l2t3c7-Hd1e128">CAPUT VII.</head>
+        <head xml:id="admda-l2t3c7-Hd1e131" type="question-title">De visibili quod est color, qualiter secundum actum lucidi movet
+          visum.</head>
+        <p xml:id="admda-l2t3c7-d1e134">His autem habitis, dicamus sigillatim de omnibus sensibus, et primo de visu, eo quod ipse
+          plurium est differentiarum : comprehendit enim et corruptibilia et incorruptibilia, et
+          apprehendit suum sensatum non in una medii dispositione, sed in pluribus : colorata enim
+          accipit in medio actu lucido, et lucida accipit in tenebroso, et quae sit hujus causa
+          infra dicemus.</p>
+        <p xml:id="admda-l2t3c7-d1e137"> <pb ed="#B5" n="245"/> <cb ed="#B5" n="a"/> Dicamus igitur quod objectum cujus dicitur
+          esse visus ut propria causa inferens sibi passionem, hoc communi nomine dicitur visibile :
+          visibile autem est quidem color, et non solum color, sed etiam hoc quod communi ratione
+          nominis est dicere visibile, sicut lucentia non sub colore sed sub lumine videntur in
+          tenebris : et ideo unum commune nomen non habemus quod dicat communiter omne visibile
+          proprium quod visui sua ex forma inferat passionem : visibile autem per se manifestum erit
+          magis quando ingrediemur melius in distinctionem et tractatum per se visibilium : constat
+          tamen quod unum visibilium est color, et quod color est de numero eorum quae per seipsa
+          sunt visibilia, non quidem illo modo secundum se sive per se, quo praedicatum est in
+          ratione subjecti, qui modus dicendi per se est primus, sed illo modo quo subjectum est
+          causa praedicati, qui modus dicendi per se vel secundum se est secundus : et ideo oportet
+          quod color per nihil extrinsecum sed per suam essentiam sit agens in visum, et sit
+          visibilis.</p>
+        <p xml:id="admda-l2t3c7-d1e144">Et quia haec est sua essentia, tunc diffiniatur, quod color est motivum visus secundum
+          actum lucidi, hoc est, transparens in actu luminis completo : hoc enim convenit omni et
+          soli colori : quia, sicut diximus, lucentia non videntur in eo quod est actu lucidum, sed
+          potius in eo quod est actu tenebrosum : color autem sine luminis actu perficiente
+          diaphanum, non videtur, sed potius omnis color videtur in lumine : et ideo oportet nos
+          etiam prius tractare de lumine.</p>
+        <p xml:id="admda-l2t3c7-d1e148">Sed nos prius quaeremus, cum color non immutet nisi diaphano illuminato, utrum lumen
+          illuminans exigatur ad visum propter colorem vel propter me<cb ed="#B5" n="b"/>
+          <!-- 245 b -->dium, hoc est quaerere utrum color non possit generare intentionem in medio,
+          nisi sit ipse color actu illuminatus, vel ipse color sine lumine sufficiat generare
+          intentionem suam, sed medium non sit aptum natum ipsam intentionem suscipere, nisi sit
+          actu illuminatum. Videntur autem praecipui viri in philosophia <name ref="#Avicenna">Avicenna</name> et Avempace consentire in hoc, quod color medium visum immutare non
+          possit, nisi recipiat actum luminis praehabitum : hoc autem tribus probant rationibus. Una
+          autem suarum rationum est ex coloris diffinitione, quae ponitur in libro de sensu et
+          sensato, quae est quod color est extremitas perspicui in corpore terminato : secundum
+          illam enim perspicuum est aliquid coloris, cum perspicuum non sit in actu perspicuum, nisi
+          per actum luminis vel habitum secundum actum : et ideo dixerunt illi, quod colores in
+          tenebris non sunt nisi in potentia et non in actu : et ideo tunc movere medium et visum
+          non possunt per suas intentiones. Secunda ratio est, quod cum color sit extremitas
+          perspicui terminati, perspicuum etiam non-terminatum quando est illuminatum, habebit
+          aliquid coloris : et ideo lumen est color diaphani non-terminati, quod colorat ipsum in
+          superficie et in profundo : perspicuum ergo quod est completum per lumen, habet colorem :
+          sed nihil est susceptibile alicujus per modum per quem habet illud : cum ergo perspicuum
+          actu illuminatum habeat colorem, non erit susceptibile coloris secundum quod hujusmodi,
+          sed potius secundum quod non habet eum : ergo non in quantum est illuminatum recipit
+          colorem, sed in quantum caret lumine : lumen igitur non ex igitur propter diaphanum quod
+          est medium in visu, sed propter colorem. Tertia ratio eorum est, quae et magis quam aliae
+          movet, quod omnia objecta unius sensus necesse est reduci ad unum genus, sive ad unam <pb ed="#B5" n="246"/> <cb ed="#B5" n="a"/> communem naturam : propter quod etiam tactus non
+          omnino est unus sensus, eo quod tactibilia non reducuntur ad unam naturam communem, nec ad
+          genus unum : cum igitur visus sit sensus unus, visibilia necesse est esse unum aliquid in
+          communi : sunt autem visibilia et lumen et color : ergo necesse est quod aut unum eorum
+          reducatur ad aliud, aut quod ambo reducantur ad unam naturam communem, in qua uniantur :
+          non autem reducuntur ambo ad aliquid tertium quod est ante ea uniens ea : oportet igitur
+          quod unum ad aliud reducatur : cum autem lumen non diffiniatur per colorem, sed color per
+          lumen, oportet quod lumen sit natura communis quae facit visibile esse visibile : et sic
+          color non est visibilis nisi per habitum luminis sibi influxum.</p>
+        <p xml:id="admda-l2t3c7-d1e162">Experimentum autem est : quia nos videmus, quod vidente existente in tenebris et aere
+          tenebroso juxta videntem, et tantum colore illuminato fit visio. Si autem e converso fiat
+          color in tenebris, et videns in lumine stet, et aer sit illuminatus, non fiet visio.
+          Similiter autem speculo posito contra lumen, et facie in tenebris, non resultabit imago in
+          speculo. Si autem e converso fiat, statim in speculo videbitur facies. Ista igitur sunt
+          quae moverunt istos, et quaedam alia his similia.</p>
+        <p xml:id="admda-l2t3c7-d1e165">E converso autem Alexander et <name ref="#Averroes">Averroes</name> innitentes vel
+          intendentes dictis <name ref="#Aristotle">Aristotelis</name>, dicunt colorem esse per se
+          visibile : ergo erit tota causa visionis per essentiam suam propriam : non igitur per
+          admixtionem luminis. Similiter enim dicunt esse in colore et in aliis sensibilibus quae
+          per se movent sensus. Dicunt etiam hoc non esse quod in secunda ratione praedicti viri
+          inducunt : ibi enim supponitur quod lumen sit color, quia si esset color, tunc aer non
+          reciperet colorem quamdiu haberet lumen : et hoc non est verum, quia videmus parie<cb ed="#B5" n="b"/>
+          <!-- 246 b -->tes colorari virore plantarum, quando nubes moventur et radii solis in
+          nubibus, et postea per plantas diriguntur ad parietes. Similiter autem quando radius
+          transit per vitrum coloratum quocumque colore fit in aere et in pariete opposito : et
+          tamen prius habuit lumen, et etiam tunc retinet lumen, quod non faceret si lumen esset
+          color : non enim aliquid secundum idem recipit duos colores simul.</p>
+        <p xml:id="admda-l2t3c7-d1e178">Nos autem quantum intelligere possumus, utrosque secundum aliquam partem utrum dicere
+          arbitramur : et ut hoc intelligatur, videtur dicendum quod color habet duplex esse,
+          scilicet materiale, et formale. Materiale autem dicimus quod fit per qualitates
+          transmutantes materiam, quae sunt calidum, frigidum, humidum, et siccum : haec enim
+          diversimode variantia superficiem corporis terminati, diversos inducunt et causant
+          colores, licet nihil istorum sit de essentia coloris : et secundum hoc esse colores actu
+          sunt in tenebris, sed non movent diaphanum : quia, sicut superius diximus, sensibile non
+          agit nisi secundum simplicem formam, quando multiplicat se ad medium et ad sensum. Habet
+          autem aliud esse formale, et hoc est a lumine : quia, sicut optime dicit Philosophus,
+          lumen est colorum hypostasis, et hoc causatur ab hoc quod lumen influitur extremitati
+          perspicui : terminatione enim corpus est perspicuum. Sed duplex est perspicuum : quoddam
+          enim est perspicuum totum quod non terminat, sed per se transducit visum, sicut aer, et
+          ignis, et aqua, et vitrum, et crystallus, et quaedam alia similia. Quoddam autem est
+          perspicuum terminatum, et hoc non in toto sed in sua superficie est perspicuum, et ideo
+          terminat et non transducit visum : et secundum quod corpus est perspicuum, ita recipit
+          luminis habitum : quod enim in toto est perspicuum, recipit lumen in superficie et in
+          profundo : quod <pb ed="#B5" n="247"/> <cb ed="#B5" n="a"/> autem non in toto sed in
+          superficie tantum est perspicuum, non recipit lumen nisi in superficies : et ibi lumen
+          permixtum opacitati corporis causat colorem. Et haec fuit causa quare Pythagorici colorem
+          vocabant epiphanum : quia videbant eum esse diffusionem luminis in superficie corporis
+          terminati : epiphanum enim est superficietenus operans : unde patet lumen esse de
+          substantia coloris, et non calidum et frigidum et caeteras qualitates, quae causant ipsum
+          materialiter in subjecto, et non ingrediuntur essentiam ipsius. Et ideo quando dicitur,
+          color est motivus visus secundum actum lucidi, et hoc esse substantiam ejus, erit hoc
+          intellectum de eo quod est vera substantia coloris secundum esse formale : et secundum hoc
+          esse, non est actu color nisi in lumine, sicut dictum est.</p>
+        <p xml:id="admda-l2t3c7-d1e185">Quod autem dicitur de eo quod videtur color medio tenebroso existente, videtur dicendum
+          quod si medium est omnino tenebrosum, tunc non videbitur color, sed oportet quod sit
+          illuminatum juxta colorem ad minus, ad hoc quod generet intentionem suam in medio. Et
+          hujus quidem causa est, quia color lumen est ligatum materiae : et ideo movere non potest
+          medium nisi sit in actu illuminatum, quia per hoc magis ad coloris similitudinem
+          recipiendam disponitur : et ideo proprium medium coloris est diaphanum illuminatum : et
+          ideo actus lucidi in visu exigitur propter medium, et color per suam essentiam movet. Per
+          substantiam dico quae est in eo formalis et essentialis : secundum illam enim non est in
+          tenebris nisi in potentia tantum. Lucentia autem quae habent lumen calcatum et non
+          obligatum materiae, movent diaphanum tenebrosum : et ideo videntur in tenebris, sicut
+          ignis, et stellae, et hujusmodi : de die autem juvatur lumen eorum fortius lumine solis :
+          et tunc manifestatur color <cb ed="#B5" n="b"/>
+          <!-- 247 b --> eorum. De his tamen inferius prolixius loquemur.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

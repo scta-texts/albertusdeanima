@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XVI.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XVI.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l1t2c16">
+        <head xml:id="admda-l1t2c16-Hd1e128">CAPUT XVI.</head>
+        <head xml:id="admda-l1t2c16-Hd1e131" type="question-title">De dubitatione quae movetur de eo quod unit potentias animae,
+          utrum ratio communis vel substantia realis, cujus vires animae sunt partes.</head>
+        <p xml:id="admda-l1t2c16-d1e134">Et adhuc dubitabit aliquis quam potestatem habet quaelibet partium animae in corpore : et
+          hoc est quaerere utrum habeat potestatem partis potestativae, quae est quasi pars
+          integralis animae potestativae, ita quod uniens potestates particulares sit una substantia
+          animae secundum esse : aut ita sit, quod quaelibet pars animae potestatem habeat totius
+          animae, et uniens eas non sit nisi quaedam ratio communis, et secundum rem quaelibet pars
+          sit quaedam anima totum illud habens quod habet anima. Et siquidem dicatur quod partium
+          unaquaeque non habet nisi particularem potestatem, tunc oportet quod sicut anima continet
+          totum corpus, quod sic quaelibet pars potestatis ejus aliquam contineat partem corporis,
+          et exerceat in illa suam operationem : et hoc ideo conveniens est, quia anima tota dicitur
+          forma continens corpus : et tunc ipsa non colligitur nisi ex potestatibus particularibus
+          partes corporis continentibus. Et si hoc concedatur, videtur sequi aliquod impossibile :
+          quia qualem partem <cb ed="#B5" n="b"/>
+          <!-- 188 b --> aut quomodo intellectus contineat, grave est fingere volenti assignare, eo
+          quod nos scimus omnem potentiam affixam organo corporali, non esse nisi circa ea quae sunt
+          de complexione organi illius, sicut oculi circa colores, et auris circa sonos. Intellectus
+          autem universaliter est circa omnia, neque accipit ea corporaliter, sed simpliciter
+          denudata ab omni materia sensibili et corporali : et ideo nullius partis ipse potest esse
+          actus : non igitur universum totius potestatis animae continentis corpus, colligitur ex
+          talibus particularibus potestatibus, quarum quaelibet contineat partes corporis : et per
+          consequens non est talis comparatio partium animae ad partes corporis, qualis est
+          comparatio ipsius animae ad totum corpus : cum ipsa contineat totum corpus, et non
+          quaelibet partium ejus partem corporis contineat. Quod autem omnis anima ad totum corpus
+          sicut continens ipsum comparetur, probatur ex hoc quod superius induximus, quod neque omni
+          anima egrediente de corpore corpus exspirat et marcescit.</p>
+        <p xml:id="admda-l1t2c16-d1e141">Si autem propter hoc dicat aliquis, quod uniens istas particulares potestates est una
+          ratio communis earum quam habent ut sint animae, et quod quaelibet istarum est anima
+          habens in facultate omnia opera animae faciendi, licet quaedam operetur in uno organo, et
+          quaedam in alio : ille pro se habet, quod plantae videntur vivere et ubique habere omnem
+          facultatem animae vegetativae : et licet in radice sola trahat cibum, tamen virtutem et
+          facultatem trahentem cibum habet etiam in ramis : et hoc patet quando dividitur et figitur
+          terrae : tunc enim in ramo trahit sicut in radice. Similiter est in his animalibus quae
+          annulosa vel rugosa dicuntur, quae si dividantur, utraque pars retinet animam sensibilem
+          et motivam secundum locum : et sunt istae animae eaedem specie, licet sint numero diversae
+          : <pb ed="#B5" n="189"/> <cb ed="#B5" n="a"/> et videtur quod utraque pars etiam habeat
+          virtutem gustativam et cibi receptivam.</p>
+        <p xml:id="admda-l1t2c16-d1e148">Si autem non perficiunt tactum cibi, nullum est inconveniens : quoniam hoc contingit per
+          accidens. Non est hoc ex defectu virtutis animae quam non habet utraque pars, sed quia
+          deficit ei organum corporale quod in planta ubique aptatur propter homogeneitatem
+          plantarum : sed non sic ubique potest aptari in animali propter suarum partium
+          heterogeneitatem : unde licet non habeant instrumenta quibus salventur in natura, tamen
+          anima perfecta secundum omnes vires videtur utrique parti inesse, et similes specie sunt
+          animae partium ad invicem, et etiam toti sunt animae divisae similes, quia non habuit plus
+          tota simul quam pars alterius dividens ipsam : tota ergo antequam esset separata, et
+          animae partium sunt similes ad invicem. Et hoc est ac si tota quando corpus simul, non
+          divisum esset divisibile per species. Quod autem est divisibile per species, est ratio
+          communis. Una ergo divisio animae in partes, est divisio in species, sicut si divideretur
+          animal in hominem et asinum, et non est sicut divisio subjecti in potentias et
+          proprietates naturales, sicut dividitur ignis in calidum et rarum et lucidum, vel pomum in
+          odorem et colorem et saporem. Si autem quis diceret, quod in plantis in quibus maxime fit
+          hujusmodi divisio, non est anima, palam est falsum esse : quoniam in plantis videtur ad
+          sensum inesse quoddam principium formale, quod non est forma corporea agens tantum unum,
+          sed est virtus incorporea tantum in corpore agens diversa : et haec anima vegetabilis, qua
+          sola communicant simul animalia et plantae : et ipsa quidem vegetabilis separatur secundum
+          esse aliquando a sensibili primo modo, quoniam est in plantis sine sensu : sed sensibile
+          non separatur ab ipsa, quia nihil est <cb ed="#B5" n="b"/>
+          <!-- 189 b --> quod habeat sensum, quin etiam habeat vegetabilem. Hac igitur via
+          incedendum est ad inquirendum de animae partibus.</p>
+        <p xml:id="admda-l1t2c16-d1e156">Quaestiones autem in hoc ultimo capitulo motae, licet non essent solvendae hic, sed
+          potius in libris de Vegetabilibus et Animalibus in quibus agetur de corporum animatorum
+          diversitate, tamen propter doctrinae bonitatem et facilitatem dicimus esse pro verissimo
+          tenendum, quod una secundum substantiam est anima in corpore uno, et quod illa
+          potestatibus aliquibus affigitur corpori, et non est necesse quod secundum omnes corpori
+          affigatur : quoniam anima illa quae similior est intelligentiae agenti et magis elevata
+          est supra naturam, quasdam habet proprietates affixas corpori, et quasdam conjunctas
+          corpori habet, et haec est anima rationalis. Similiter autem corpora animata sunt
+          aliquando valde similia, et habent organa non ex diversis, non in forma composita, sed
+          quasi homogenia, sicut plantae : et haec divisa convalescunt, quia quaelibet pars potest
+          esse os et organum salvans naturam in talibus. Quae autem sunt similia quidem, sed non
+          omnino, sicut quorum corpus componitur totum quasi ex quibusdam circulis sive annulis,
+          sicut serpentes, et lumbrici, lacertae, et anguillae, et hujusmodi, haec omnia virtutes
+          suas motivas habent maxime in annulis, sicut in libro de Motibus animalium est
+          determinatum : et ideo divisa per transversum in utraque parte retinent et sensum et motum
+          : si autem per totam longitudinem corporum suorum in duo dividantur, dividetur quilibet
+          circulorum in duos semicirculos : et quia circulis illis utebantur pro membris
+          officialibus in sensu et motu, ideo tali divisione in eis facta, statim moriuntur et
+          jacent immobilia, eo quod nullum habent organum in quo fiat operatio sensus vel motus.
+          Quaedam autem sunt valde diversae compositionis in organis corporis, et illorum potestates
+          animales sunt valde diversae : et ideo divisis illorum corporibus statim moriun<pb ed="#B5" n="190"/> <cb ed="#B5" n="a"/>tur, quia anima exspirat et non potest salvari, cum
+          inveniat in una parte totam diversitatem organorum quam requirit propter suarum potestatum
+          differentiam. Sed hominum genus specialem habet in hoc proprietatem, eo quod sicut diximus
+          supra, anima ejus quae sibi est propria, separata est, et non communicat corpori per
+          seipsam, sed per aliam potentiam corpori communicantem. Propter quod etiam non dividitur
+          anima hominis diviso corpore, sed abstrahitur cum non habet in quo operetur. Sic autem
+          divisis, ut dictum est, plantis et annulosis corporibus, quae per se divisibilia sunt,
+          anima quae una numero fuit in toto, efficitur duae numero per divisionem, eo quod est
+          divisibilis per accidens diviso corpore : quia tamen anima non est forma corporea, quae
+          distendatur quantitate corporis, sicut albedo vel alia forma situalis in corpore : ideo
+          putabat Plato quod anima non posset etiam dividi per accidens sicut dividitur albedo : et
+          ideo dixit in toto integro fuisse multas animas unitas in ratione, quarum multitudo
+          manifestatur per divisionem. Sed hoc est inconveniens, quia non esset ratio quare unius
+          corporis perfectibilis essent plures animae vel perfectiones, cum una sufficiat : natura
+          enim non abundat superfluis. Et ideo dicendum quod ad divisionem corporis sequitur divisio
+          animae, et ideo <cb ed="#B5" n="b"/>
+          <!-- 190 b --> quod dividitur per accidens est duplex, sed quod habet quantitatem per
+          accidens secundum quam dividitur, et est minus in minori, et majus in majori, sicut formae
+          corporeae dividuntur per accidens, quae sunt ut calidum, frigidum, et humidum, et siccum,
+          et hujusmodi. Et est divisibile per accidens, quod licet in se sit divisibile non habens
+          quantitatem, tamen secundum suam totam facultatem inest diversis partibus corporis, et
+          ideo divisis corporis particulis, secundum totam facultatem suam remanet in illis divisis
+          : et sic anima est divisibilis per accidens. Et simile est sicut si signavero punctum in
+          linea media. Non enim indivisibile est : et tamen si divisero lineam in puncto illo,
+          remanet punctum integrum in utraque linea, et erunt duo puncta. Hoc autem Plato ignoravit.
+          Quidam autem etiam hoc ignorantes convertunt se ad magis impossibile dicentes quod in
+          utraque parte divisa remanet una anima numero : sed illi nesciunt quod idem numero est in
+          quo non invenitur in numerando diversitas. In partibus autem divisis diversitas in
+          numerando invenitur. Adhuc autem quod dividitur ab aliquo loco et subjecto, necesse est
+          numero differre ab ipso : partes autem divisae, et loco et subjecto sunt divisae : non
+          igitur est in eis una anima numero.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

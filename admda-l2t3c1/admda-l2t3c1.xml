@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT I.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT I.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c1">
+        <head xml:id="admda-l2t3c1-Hd1e128">CAPUT I.</head>
+        <head xml:id="admda-l2t3c1-Hd1e131" type="question-title">In quo genere potentiae sit potentia sensitiva.</head>
+        <p xml:id="admda-l2t3c1-d1e134">Determinatis autem his virtutibus animae vegetabilis, quae sunt actiones secundum quas
+          anima operatur, in genere dicamus verba communia de omni sensu : quia secundum sentire
+          quod est potentia passiva, operatur anima sensitiva : eo quod secundum tales potentias non
+          semper agit : commune enim est quoad nos prius, sicut dictum est in primo Physicorum.
+          Primum autem quod de sensu in communi est considerandum, hoc est, cum in genere sit
+          potentiae, utrum sit in genere potentiae passivae aut in genere potentiae activae. Et
+          dicendum quod est in genere potentiae passivae, eo quod sensus secundum actum accidit in
+          ipso moveri organum, et pati a sensibili objecto, quod <cb ed="#B5" n="b"/>
+          <!-- 230 b --> formam suam agit in organo sensus : omne enim recipiens est patiens : et
+          cum sensus non sentiat nisi recipiens formam sensibilis, oportet quod potentia sensitiva
+          sit in genere potentiae passivae : alteratio enim quaedam videtur esse, quando sensus
+          recipit formam ejus quod sentitur secundum actum, licet proprie loquendo non sit
+          alteratio, sicut inferius ostendemus. Ponunt autem quidam Philosophorum antiquorum non
+          fieri passionem nisi similis a simili, et alii dicunt non fieri passionem nisi quando
+          contrarium patitur a contrario : quomodo autem ambo ista dicta sunt possibilia et
+          impossibilia, dictum est in primo de Generatione et Corruptione, ubi proposuimus rationes
+          naturales de ipso agere et pati : in Praedicamentis vero logicas quasdam et communes
+          posuimus rationes : et ideo ibi non inquisivimus qualiter simile simili, vel contrarium a
+          contrario patiatur.</p>
+        <p xml:id="admda-l2t3c1-d1e141">Quod autem sensus sit virtus passiva, sciemus si quaestionem moveamus quaerentem quare
+          sensuum non sunt sensus, <pb ed="#B5" n="231"/> <cb ed="#B5" n="a"/> ita quod sensus
+          sentiret seipsum : et quare sensus non sentit seipso sine sensibili extra movente sensum,
+          cum unitus sit sibi ignis et terra et alia elementa quae sentiuntur : attribuitur enim
+          cuilibet sensui aliquod elementum secundum Platonem, quod dominatur in sua compositione,
+          sicut in visu ignis, ut dicit Plato : qui enim dicit quod sensus est vis activa, et fit
+          sensus extra mittendo, non potest dissolvere quaestionem : vis enim activa ex se perfecta
+          est ad agendum, et non indiget aliquo extrinseco : et sic deberet sensus sentire sine
+          indigentia alicujus extra. Et si forte dicant Auctores illius sectae quae dicit, quod
+          sentimus extra mittentes actiones sensuum, et non intus suscipientes species sensibilium,
+          quod non fit actio agentis nisi sensibili et passivo praesente, sicut ignis non calefacit
+          nisi sit praesens aliquod calefactibile. Non solvunt, quia sensus est sibi praesens, et
+          elementa componentia organa sensus non desunt sensibus : et tunc deberet ad minus sentire
+          seipsum, et ignem et terram et caetera quae sunt praesentia sensui : et tamen non
+          sentiuntur ista : et ideo non convenit aut contingit unquam solvere hanc quaestionem ei
+          qui dicit quod sensus est vis activa. Nulla autem est solutio istius quaestionis vera,
+          nisi ea sola, quod sensus cum sit potentia passiva, non est actu sine potentia sensibilis
+          extra : ideoque sicut combustibile nunquam actu comburitur, nisi per speciem combustivi
+          generatam in ipso : et ideo ipsum combustibile secundum se sine combustivo acceptum, non
+          combureretur : si enim sine illo combureretur in actu, oporteret quod combureret seipsum :
+          et hoc esset ac si ligna composita facerent per se ignem sine aliquo igne incendente ea in
+          actu, et hoc est impossibile : et similiter sensus non potest perfici secundum sentire in
+          actu sine praesentia sensibilis, quod agit in ipso formam suam, ut illam sentiat in
+          actu.</p>
+        <p xml:id="admda-l2t3c1-d1e148">Sicut autem omne potens potentia passiva dicitur dupliciter, ita et sentire dicitur
+          dupliciter. Si enim secundum potentiam ante actum attribuatur ei agere, hoc erit potentia
+          et non actu : et hoc modo dicimus sentire eum qui forte dormit, qui licet sensum habeat in
+          habitu, habet tamen ligatum, eo quod somnus est vinculum sensuum : et ideo remotiorem ab
+          actu habet potentiam videndi dormiens, quam ille qui est in obscuro. Et ideo sicut
+          dupliciter dicitur videns et audiens, ita dupliciter dicitur universaliter sentiens, hoc
+          est, visum habens et non utens, vel auditum habens et non utens : aut jam operans visu et
+          auditu, quando habet speciem visibilis et audibilis : et sic universaliter dicitur
+          sentiens sensum habens in habitu completo, non tamen habens speciem sensibilis secundum
+          actum : et dicitur sentiens habens speciem sensibilis, et hoc est utens sensu et operans
+          secundum ipsum.</p>
+        <p xml:id="admda-l2t3c1-d1e152">Dicamus igitur in discernendo sensum an sit de genere virtutum activarum vel passivarum,
+          et si sit idem numero moveri et pati, et agere et movere : constat enim quod haec magnam
+          habent differentiam. Constat enim quod motus est in eo quod movetur et patitur, sicut
+          diximus in tertio Physicorum, et est in eo actus quidem, sed imperfectus, eo quod est
+          imperfecti actus in potentia secundum quod est in potentia : omnia autem quaecumque
+          patiuntur et moventur, ab activo patiuntur et moventur, cum ipsum activum actu sit : et
+          ideo moventur, cum ipsum activum actu sit : et ideo movere et agere suum est perfectio seu
+          perfecti actio : et haec est magna differentia. Unde etiam ipsum passivum aliquando est
+          simile, et aliquando dissimile agenti : quoniam in principio passionis est contrarium :
+          sed cum abjicitur forma ejus et inducitur forma agentis in fine passionis, tunc fit simile
+          : et hoc est quando jam passum <pb ed="#B5" n="232"/> <cb ed="#B5" n="a"/> et motum est,
+          sicut diximus alibi. Et haec differentia ostendit utrum sensus sit potentia passiva vel
+          activa : quia nos invenimus ipsum pati et moveri, et aliquando similem, et aliquando
+          dissimilem activo, quae non accidunt nisi virtuti passivae.</p>
+        <p xml:id="admda-l2t3c1-d1e159">Haec autem doctrina tenenda est pro principio magno, ad destruendam totam sententiam
+          eorum qui dicunt sensitivas et intellectivas virtutes esse activas, et non passivas.
+          Habent autem quasdam rationes quas pro se inducunt, quae in communi de sensu quatuor sunt
+          potiores. Quarum prima est, quia dicunt quod quando duo sic se habent ad invicem, quod
+          unum est inferius, et alterum est superius in ordine naturae, si inferius secundum omnes
+          suas potentias est activum, oportet etiam quod superius sit activum : quia superioris est
+          agere potius quam inferioris : cum igitur in ordine naturae anima sensibilis superior sit
+          quam anima vegetabilis, et vegetabilis non habeat nisi potentias activas, non potest
+          habere sensibilis nisi potentias activas. Et haec ratio logica est et parum potest.
+          Secundo autem cui maxime nituntur, est quod inferioris quod est materiale, est non est
+          agere in superius quod est formale magis : est autem sensibilium forma materialis, et
+          inferior anima sensibilis. Sensibilis autem est in corpore, et formalior quam <choice>
+          <orig>fint</orig> <reg>sint</reg> </choice> formae corporum. Non ergo, ut dicunt, formae
+          corporum possunt agere in potentias animae sensibilis : et sic oportet quod potentiae
+          animae sensibilis sint activae et non passivae. Tertium autem est, quia vident sensum
+          judicare de sensibili, et non decipi in ipso. Judicare autem certa actio quaedam est
+          perfectissima : et cum illa sit sensus, dicunt sensum esse potentiam activam. Adhuc autem
+          inducunt quarto loco experimenta : quia vident oculos menstruatarum inficere aerem et
+          specula, et aliquando oculos etiam intuentium eas : et oculos basilisci spargere venenum,
+          eo quod, ut dicunt, visu interficit serpens qui basiliscus vocatur : hoc autem, ut di<cb ed="#B5" n="b"/>
+          <!-- 232 b -->cunt, non fit nisi agendo in aerem et in objectum : et ita dicunt sensum
+          esse potentiam activam. Sed haec omnia et similia frivola sunt, quoniam demonstrative
+          probatum est in praehabitis, sensum esse potentiam passivam et non activam.</p>
+        <p xml:id="admda-l2t3c1-d1e175">His autem quae isti inducunt, facile est respondere. Quod enim prius inducunt de
+          comparatione sensibilis ad vegetabilem, dici debet in veritate digniorem formam esse
+          sensibilem quam vegetabilem, sed non ordinantur penes agere et pati : quia pati sensibilis
+          non est, ita quod patiatur a vegetabili anima, sed potius e converso : unde cum alterius
+          rationis sit istud pati, et illud agere, penes hoc non ordinantur secundum naturae gradus
+          vegetabilis et sensibilis : sed potius penes hoc quod ubicumque est vegetativum in
+          sensitivo, quod vegetativum est sicut instrumentum, et sensitivum sicut principalis motor
+          et formator. Et hoc patet, quia nutritiva in animalibus convertit cibum in carnem, quae
+          medium est in tactu qui est animae sensibilis, et generativa format organa ad sensus apta
+          potius quam vegetabili deputata. Quod autem dicunt inferius et materiale non debere agere
+          in superius et formale, frivolum est : quia sensibilia non agunt in animam, sed potius in
+          organa corporum : et in illa possunt agere. Organa autem sunt animata, et ita provenit
+          motus sensibilium usque ad animam. Quod autem dicunt de judicio sensuum, dicendum quod
+          nulla virtus est adeo passiva, quin per formam sui activi existentem in ipsa possit agere
+          : et sic est de sensu, qui efficitur in actu per formam sensibilis in ipso existentem : et
+          ideo tunc agere potest, sicut sciens potest considerare. Quod autem inducunt ultimo, est
+          omnino stultum : quia talis actio non est oculi in quantum est sensus in ipso, sed potius
+          prout est pars corporis evaporantis : vapor enim resolutus ab oculo, est ille qui inficit,
+          et non visus qui est in oculo : sed tamen vapor ille eo quod subtilis est et acutus, magis
+          penetrat in corpora clara, sicut in specula et <pb ed="#B5" n="233"/> <cb ed="#B5" n="a"/>
+          oculos qui sunt quasi specula animata, quam penetrat in alia corpora. Et haec est causa
+          etiam quare oculi citius quam alia membra laeduntur in talium aspectu.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

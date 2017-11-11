@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t2c7">
+        <head xml:id="admda-l3t2c7-Hd1e128">CAPUT VII.</head>
+        <head xml:id="admda-l3t2c7-Hd1e131" type="question-title">Et est digressio declarans opinionem Averrois, et improbationem
+          ejusdem.</head>
+        <p xml:id="admda-l3t2c7-d1e134">Post omnes autem istos venit <name ref="#Averroes">Averroes</name>, qui gloriatur quod
+          ipse solus satisfecerit omnibus dubiis, eo quod ipse omnia quae dicit <name ref="#Aristotle">Aristoteles</name> de intellectu possibili visus est salvare. Concedit
+          enim quod sicut sensus se habet ad sensibilia, sic intellectus se habet ad intelligibilia
+          recipiendo ea : sed dicit quod non est omnino simile, licet in aliquo sit simile, sicut et
+          <name ref="#Aristotle">Aristoteles</name> dicit non esse impassibilitatem sensus eamdem
+          cum impassibilitate intellectus. Dicit enim universale quod intelligitur, habere duplex
+          subjectum. Unum quidem quo est verum, et alterum quo est unum entium mundi. Et vocat
+          subjectum quo est unum particulare secundum rem, eo quod in eo quod res est vel non est,
+          notitia animae vera est vel falsa, cum veritas intellectus sit adaequatio rerum et
+          intellectuum : et quoad hoc subjectum est <pb ed="#B5" n="341"/> <cb ed="#B5" n="a"/> in
+          potentia universale, quia confusum est in particulari, et est in aliquo sensibilium
+          potentiarum. Et hoc modo universale non est unum entium mundi quod vocamus universale :
+          quia universale prout est unum entium mundi, quod vocamus universale, quod dividitur
+          contra particulare, secundum eum, et secundum veritatem est in solis nudis et puris
+          intellectibus, et non in rebus extra animam. Et de hoc tamen alibi tempus erit
+          inquirendum. Sed quae hic dicimus, tantum ad suae intentionis manifestationem inducuntur.
+          Dicitur igitur quod cum universale habeat duplex subjectum, quod non habet transmutationem
+          nisi ex subjecto quo est unum : quia ex illo educitur potentia ad actum, sic indiget fieri
+          et tempore aliquo, et ex illo etiam inducitur lassitudo per frequens intelligere : ex
+          subjecto autem quo efficitur ens in mundo, non habet transmutationem, sed recipitur in eo
+          sine transmutatione aliqua sicut determinans et distinguens a determinato et distincto.
+          Sicut enim supra diximus, quod sensus non est materia sensibilium, sed species, quae quia
+          media est sensibilium, distinguitur et determinatur ab ipsa : sic etiam intellectus et
+          multo amplius est species intelligibilium quae est privatio ad ipsa, sicut medium et non
+          sicut materia ex qua educantur de potentia ad actum, sicut inferius ostendetur : et ideo
+          sic subjicitur eis sicut determinatum subjicitur determinanti, et ideo non efficitur unum
+          de intellectu possibili et intelligibili, sicut sunt unum materia et forma, vel sicut
+          subjectum et accidens, sed potius sicut perfectio determinans est in determinato et
+          perfecto : propter quod etiam formalis intellectus, quod est forma speculativa, non habet
+          transmutationem ex intellectu possibili, sed ex phantasmate in quo est, sicut diximus. Et
+          sic satisfacit Theophrasto quaerenti qualiter esse possit, quod intellectus pos<cb ed="#B5" n="b"/>
+          <!-- 341 b -->sibilis sit separatus et intransmutabilis, et similiter agens, et tamen
+          speculativus sit transmutabilis et temporalis sicut id quod exit de potentia ad actum ? Et
+          in veritate in ista solutione bene satisfacit et verum dicit <name ref="#Averroes">Averroes</name>.</p>
+        <p xml:id="admda-l3t2c7-d1e158">Iste autem propter superius inductas rationes, sicut fere omnes alii concedunt unicum
+          possibilem esse intellectum in omnibus hominibus, et quod ad hoc sequitur, universalia
+          esse eadem apud omnes, ex quibus est scientia omnium eorum quae sciuntur : et quod
+          quaeritur, qualiter tunc intellectus et ista scientia uni uniantur et non alii ? solvit
+          sicut alii dicunt intellectum nihil intelligere sine phantasmate, et non est idem apud
+          omnes et jam nec scientiam elicitam esse eamdem apud omnes : et hoc sensisse <name ref="#Aristotle">Aristotelem</name> ubi dicit quod intellectus separatus a corpore non
+          reminiscitur, quod sine phantasmate nihil intelligit, et hoc non retinet apud se quando
+          absolvitur. Et iterum hoc est quod dicit <name ref="#Aristotle">Aristoteles</name>, quod
+          intellectus corrumpitur alio quodam interius corrupto : hoc enim de speculativo est
+          dictum, qui corruptionem non habet ex possibili in quo est, sicut diximus, sed potius ex
+          phantasmate quod oportet esse unicum intellectum possibilem, sicut alii, et hunc fore
+          immortalem : et ideo speciem hominis esse unicam et incorruptibilem dicit, quae non
+          corrumpitur ex differentia quae constituit speciem, sed potius si corrumpitur, hoc habet
+          ex genere : quia hanc speciem cum sua perfectione quae est scientia philosophiae, semper
+          dicit manere unicam aliquibus hominibus, quando dicit, dicunt astronomi et <name ref="#Aristotle">Aristoteles</name>. Loca mundi vicissitudinaliter efficiuntur
+          habitabilia, et inhabitabilia, et non destruitur habitatio quartarum mundi cito vel subito
+          : sed cum non est habitata una quarta, tunc habitatur alia : et philosophia quando non est
+          in una quarta, tunc est in alia : <pb ed="#B5" n="342"/> <cb ed="#B5" n="a"/> et hoc totum
+          dicit ut sciatur quoniam intellectus speculativus ex possibili intellectu non habet
+          transmutationem. Adhuc autem cum detur non esse unus in omnibus, cum ex dictis necessario
+          probatum sit esse incorruptibilem, tunc maneret post mortem, et tunc secundum naturam
+          foret otiosus, cum sit motivus corporis et non moveret tunc ad corpus, nisi diceremus quod
+          ipse transiret de uno corpore in aliud corpus, sicut dixit Plato. Sed hoc est absurdum :
+          quia tunc non multiplicarentur homines in diverso numero, sed oporteret quod tantum tot
+          essent homines quot intellectus, sequeretur sic quod nunquam nasceretur aliquis homo, nisi
+          alio homine mortuo, quod est ad sensum falsum et absurdum : propter quod <name ref="#Averroes">Averroes</name> dicit qualiter indeficienter unus existens semper movet
+          aliquod corpus, et nunquam est sine corpore et sine scientia.</p>
+        <p xml:id="admda-l3t2c7-d1e178">Probat autem dictum suum per duo quae videntur sibi esse necessaria : quorum unum est,
+          quia omne quod numeratur, dividitur ex uno aliquo, cum divisio sit numeri causa : non
+          autem dividitur secundum naturam nisi materia corporalis : quod igitur est omnino sine
+          materia, indivisibile est et unicum : possibilis autem intellectus sine materia est omnino
+          : igitur unicus et indivisibilis in omnibus. Inducit etiam <name ref="#Aristotle">Aristotelem</name> hoc sentientem in libro Coelo et Mundo, ubi probat unicum esse mundum
+          : quoniam si essent plures mundi, oporteret quod plures essent coeli primi, et hi
+          moverentur a diversis motoribus : et sic motores primi essent diversi : et numeratione
+          autem numeratum habet materiam : erunt igitur materialiter motores primi. Ex quo vult
+          habere quod secundum <name ref="#Aristotle">Aristotelem</name> numeratum numeratur per
+          suam materiam divisam, et differentia numero sunt differentia per materiam : non autem
+          differentia materialis invenitur qua numeretur intellectus possibilis : manet igitur
+          unicus in omnibus hominibus. Aliud autem est deducens ad impossibile : <cb ed="#B5" n="b"/>
+          <!-- 342 b --> quia si detur quod intellectus possibilis est unum aliquid, tunc receptum
+          in ipso est sicut individuatum receptum, et sic non erit universale in ipso : omnes enim
+          concorditer conveniunt in hoc, quod universale est universale ab universalitate
+          intellectus in quo est, et quod non unitur huic et illi nisi per phantasma movens in uno
+          aliter quam in alio.</p>
+        <p xml:id="admda-l3t2c7-d1e192">Sed hoc videtur omnino mihi deliramento simile, et inducam ad hoc quatuor rationes
+          fortissimas, quarum una est, quod nos scimus quod omne compositum efficitur hoc aliquid
+          per unam formam substantialem, quae est sua perfectio prima, sicut in plerisque locis
+          dicit <name ref="#Aristotle">Aristoteles</name>. Constat autem quod quilibet individuus
+          homo est hoc aliquid : ergo sua forma est unica, quae est perficiens ipsum sicut prima
+          perfectio : haec autem est anima rationalis, quam illi vocant intellectum possibilem :
+          ergo ipse est unus in uno, et alius in alio. Secunda est, quoniam <name ref="#Aristotle">Aristoteles</name> dicit in prima philosophia contra Platonem loquens, quod principia
+          rerum particularium sunt particularia, potissimum autem principiorum est forma : ergo ipsa
+          est particularis in hoc particulari : et sic cum anima rationalis quae potissimum est
+          intellectus possibilis, sit principium hujusmodi particularis, ipsa erit particularis.
+          Tertia autem est, quod nullus motor unus specie et numero in eodem tempore utitur duobus
+          motis ab ipso : quoniam nos videmus, quod nullus motorum coelestium habet duo corpora quae
+          moveat, cum secundum numerum mobilium <name ref="#Aristotle">Aristoteles</name> probat
+          esse numerum motorum : et similiter in artibus videmus quod nullus nauta duabus navibus
+          simul utitur in una navigatione, nec textor duobus instrumentis in uno opere, et sic est
+          in aliis. Si ergo detur unus numero esse possibilis intellectus, cum constet eum esse
+          individuato corpori attributum, utetur ille multis motis ab ipso corporibus : quod omnino
+          est contra rationem, et contra determinata in philoso<pb ed="#B5" n="343"/> <cb ed="#B5" n="a"/>phia. Quarta est, si esset unus numero intellectus qua est substantialis forma
+          hominis, contingeret quod plures homines unam in numero haberent formam et non unam
+          animalitatem : quoniam homo est animal ex sensitiva, et hoc individuatur : et homo est ex
+          intellectu, qui non individuatur : et sic contingeret quod natura generis individuaretur,
+          et differentia maneret universalis non individuata : et cum species secundum esse
+          componatur ex utraque natura, contingeret quod idem individuatum sicut species, esset
+          compositum ex individuato secundum esse, et ex non individuato, et ex corruptibili, quae
+          omnia sunt absurdissima. Inconveniens autem quod illi conantur evadere, minus evadunt,
+          scilicet qualiter uno intellectu existente in omnibus, non omnes accipiunt scientiam uno
+          solo scientiam accipiente : quoniam licet phantasma moveat intellectum possibilem, tamen
+          intellectus possibilis solus habet scientiam speculativam, et habet eam prout est communis
+          omnium : et non potest dici quod secundum partem habeat, et secundum partem non habeat :
+          quoniam indivisibilis substantia est intellectus : ergo necessario videtur sequi quod
+          omnes habeant eam quorum est intellectus : et sic redit super eos inconveniens propter
+          quod evadendum confinxerunt fere omnia quae dixerunt.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

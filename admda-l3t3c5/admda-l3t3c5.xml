@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT V.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT V.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t3c5">
+        <head xml:id="admda-l3t3c5-Hd1e128">CAPUT V.</head>
+        <head xml:id="admda-l3t3c5-Hd1e131" type="question-title">De intellectu mathematicorum et divinorum.</head>
+        <p xml:id="admda-l3t3c5-d1e134">Sed de his quae sunt abstractione dicta, sicut mathematica, quae in diffinitione sua non
+          concipiunt materiam sensibilem, videtur fortasse alicui quod non sit talis analogia. Sed
+          sciendum est quod omnia talia intelligit et accipit intellectus per sensum. Sicut enim
+          accipit intellectus in hac materia sensibili quae est caro nasi, eo quod conjuncta est per
+          esse et diffinitionem cum materia sensibili : ita accipit separata mathematica in
+          phantasmate, eo quod per esse conjuncta sunt materiae sensibili, licet per abstractionem
+          vel diffinitionem sint abstracta. Cum enim intelligit simum quod in sua diffinitione
+          carnem nasi concipit, oportet quod illud non separatum accipiat per diffinitionem. In
+          quantum autem accipit genus suum, quod est curvum, in sua ratione non accipit carnem nasi,
+          eo quod secundum unam rationem salvatur in qualibet materia : tunc intelligit hoc sine
+          intellectu carnis.</p>
+        <p xml:id="admda-l3t3c5-d1e137">Et quoad hoc intelligit mathematica quae secundum esse non sunt separata tanquam sint
+          separata, quia sunt suis diffinitionibus abstrahentia ab omni sensibili materia : non ergo
+          accipit ea separata extra naturam existentia, quia in rebus semper sunt conjuncta : et sic
+          receptio ipsorum est ex phantasmate. Sed cum accepit intellectus aliquid eorum profundatur
+          circa illud, et percipiens non <cb ed="#B5" n="b"/>
+          <!-- 377 b --> est de intellectu alicujus eorum materiam sensibilem abstrahendo a materia
+          sensibili diffinit illud : talis ergo est intellectus mathematicorum quod accipitur ex
+          phantasiis sicut et aliorum intellectus quae sunt naturalia et actualia. In omnibus his
+          videtur quod omnis noster intellectus ex phantasmatibus oriatur. Quae autem sic ex
+          phantasmatibus accipit intellectus, intelligit, cum ipse sit separatus, oportet quod sint
+          separata ea quae intelligit : et cum omnibus his est in potentia, postea autem in actu.
+          Quae autem secundum actum sunt in intellectu, tripliciter sunt in ipso : quorum unum est
+          secundum actum scire et agere scientiam, sicut quod omnis homo est animal, quando
+          actualiter ordinatur praedicatum ad subjectum. Secundus autem est scire in habitu et non
+          considerare. Tertius autem est habere inchoationem scientiae, sicut quando de aliquo
+          interrogati, incontinenter respondere non possumus certissime, tamen scientes quidem in
+          proximo respondebimus : talem enim scientiam in potentia non habemus tantum, quia sic
+          oporteret dicere alias discere ante responsionem quod non est verum : similiter nec in
+          actu, quia non actualiter consideramus : neque etiam perfectione in habitu, quia si
+          haberemus perfecte habitum propinquum, possemus respondere cum vellemus. Et primus quidem
+          motus assimilatur thesauro qui in visu apprehenditur, secundus autem thesauro reposito in
+          terra, tertius autem thesauro recondito, qui quidem habetur, sed est reclusus, et clavis
+          in promptu non habetur vel invenitur.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

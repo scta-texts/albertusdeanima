@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT IX.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT IX.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t1c9">
+        <head xml:id="admda-l3t1c9-Hd1e128">CAPUT IX.</head>
+        <head xml:id="admda-l3t1c9-Hd1e131" type="question-title">De ratione nominis phantasiae et utilitate ejus.</head>
+        <p xml:id="admda-l3t1c9-d1e134">Quoniam autem visus inter omnes sensus maxime est sensus, eo quod magis habet sensibilis
+          cognitionis : propter quod etiam disciplinabilis est maxime et maxime formalis, in quo est
+          operatio sensibilis animae, et quasi nihil operationis naturae : quam etiam ob causam
+          inter sensus primus est : et ideo lumen etiam a <pb ed="#B5" n="328"/> <cb ed="#B5" n="a"/> luce accipit, quoniam oculi luminaria dicuntur, et visus lumen luminarium illorum : et
+          hoc est ideo, quia sine lumine non potest videre : ideo phantasia determinatum vel
+          derivatum nomen a visu habet, quia phantasia dicitur visio vel apertio Latine. Et hujus
+          causa est etiam, quoniam sensibilia visus maxime permanent et finguntur in phantasia, et
+          alia minus, et minime sensibilia olfactus : et ideo rarissime somniat quis de odoribus :
+          et hujus causa est, quia debiliter habemus hunc sensum : tactum autem maxime habemus :
+          tamen servat qualitates in corpore magis quam intentiones qualitatum in anima, et ideo
+          raro somniat aliquis frigus vel calorem, nisi frigescat vel calescat interius corpus, sed
+          colores et figuras frequentissime somniat et sonos, eo quod magis sunt illa habentia de
+          proprietate intentionum spiritualium : et ideo de facili transeunt ad phantasiam. Quia
+          autem phantasmata sunt similia sensibus, fit conversio ad ea sicut ad sensibilia : <cb ed="#B5" n="b"/>
+          <!-- 328 b --> quoniam non est advertens ratio vel aestimativa cognitio : et ideo multa
+          per phantasiam operantur animalia, sicut superius diximus : alia quidem quia intellectum
+          non habent, sicut bruta : alia vero ex hoc quod habent intellectum velatum ob aliquam
+          amentiam melancholiae, vel ebrietatis, aut aegritudinis cerebri : aut propter somnum, qui
+          licet per se sit ligamentum sensuum, tamen etiam ligat intellectum per accidens, sicut
+          quidam homines sunt, et ibi operantur per solam phantasiam. Sic igitur sicut sunt quinque
+          sensus exteriores, visus, auditus, olfactus, gustus, et tactus : ita sunt quinque sensus
+          interiores, sensus communis, imaginatio, aestimativa, phantasia, et memoria. Phantasia
+          communiter accepta claudit in se imaginationem et phantasiam proprie dictam. De phantasia
+          quidem igitur et caeteris interioribus sensibus quid et propter quid sint, in tantum a
+          nobis dictum sit.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

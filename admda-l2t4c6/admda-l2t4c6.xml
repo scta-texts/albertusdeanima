@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VI.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VI.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t4c6">
+        <head xml:id="admda-l2t4c6-Hd1e128">CAPUT VI.</head>
+        <head xml:id="admda-l2t4c6-Hd1e131" type="question-title">Quod sensatorum omnium non potest esse aliquis sensus a
+          praedictis.</head>
+        <p xml:id="admda-l2t4c6-d1e134">Forte autem aliquis dicet, quod organum aliquod proprium quo sentimus est eorum
+          sensibilium quae supra vocamus sensata communia : et sic ille sensus qui est illius
+          organi, erit sextus sensus primus, ita quod sensata communia sunt sibi propria. Sed si hoc
+          esset verum, tunc sensata communia sentiremus unoquoque sensu secundum accidens et non
+          essentialiter. Id quod sentimus per accidens, dicitur dupliciter, quorum unum est quod
+          accidit huic sensui in <cb ed="#B5" n="b"/>
+          <!-- 300 b --> quantum est hoc, licet non accidat sensui in quantum est sensus, sicut nos
+          visu sentimus dulce : hoc enim accidit visui in quantum conjunctum est suum sensibile cum
+          sensibili, gustus tamen dulce non accidit sensui in quantum est sensus : quia tunc a nullo
+          sensu perciperetur sive sentiretur. Aliud autem est quod accidit huic sensui in quantum
+          est hic sensus, et etiam sensui in quantum est sensus, sicut dicimus quod videmus filium
+          Dionis : et de illo diximus supra, quod est sensatum per accidens. Primo ergo modo per
+          accidens sentitur ab aliquo sensu hoc quod ab alio sensu sentitur per se. Si ergo sensata
+          communia sentirentur ab aliquo proprio sensu per se, tunc absque dubio non sentirentur ab
+          aliis nisi per accidens, ita quod forma eorum nullo modo depingeretur in sensu alio, sicut
+          nec forma dulcis describitur in visu. Communia autem sunt quinque quae supra diximus, quae
+          sunt motus, status, figura, magnitudo, numerus : et unum tamen quod ad numerum reducitur :
+          et si aliqua alia inveniantur quae a pluribus sensibus essentialiter sentiuntur, ad ista
+          reducuntur, sicut situs qui est dimensio, et magnitudo quaedam, et sicut propinquitas et
+          remotio quae sunt etiam reducta ad magnitudinem, et sicut asperitas et lenitas, et rectum
+          et curvum quae videntur et tanguntur, quae sub figura videntur collocari, et quaecumque
+          alia talia possunt inveniri : et ideo <name ref="#Avicenna">Avicenna</name> in suo sexto
+          Naturalium, similiter autem Avicebron et Hebucham plura quam quinque ponunt sensata. Quod
+          autem omnia ista a quocumque praedictorum quinque sensuum essentialiter et non
+          accidentaliter sentiantur, probatur per hoc quod omnia haec quaecumque sentimus, motu
+          quodam qui est a sensibili in sensum sentimus. In illo autem motu forma sensibilis ut
+          passio quaedam efficitur in sensu : tali enim motu sentimus magnitudinem, et ideo
+          magnitudo sensibilis in sensu efficitur : et quia magnitudinem sentimus motu, oportet quod
+          etiam figuram sen<pb ed="#B5" n="301"/> <cb ed="#B5" n="a"/>tiamus tali motu : quia figura
+          magnitudo est quaedam sic vel aliter terminata : et quia oppositorum est idem sensus
+          essentialis, ideo quiescens sentimus in eo quod non movetur sive privatum est motu :
+          numerum autem sentimus negatione continui, et per proprietates : jam autem probatum est,
+          quod continuum quod est magnitudo quaedam, essentialiter sentitur : et ideo oportet quod
+          ejus privatio quae est numerus, essentialiter sentiatur : et universaliter dicatur
+          quidquid sentitur motu qui sit a sensibili in sensum, et passio sensus, et sic perfecta ab
+          agente sensibili a pluribus sensibus, illud sentitur essentialiter, cum talis motus sit
+          factus per se sensibili forma : motus enim ille est forma post formam : quia quod a
+          sensibili patitur medium, hoc patitur a medio organum sensus : communia autem omnia tali
+          motu sentiuntur a pluribus sensibus : nihil igitur eorum sentitur per accidens, sed
+          unumquodque eorum sentitur essentialiter : et hoc non posset esse, sicut diximus, si
+          sensata communia propria essent alicujus sensus particularis : quia unusquisque propriorum
+          unum sentit tantum primo secundum naturam, sicut visus qui primo non accipit nisi colorem,
+          et sub ipso colorum differentias : est enim visus primo coloris, et postea differentiarum
+          coloris secundum quod probavimus in principio Physicorum, quod universale prius est
+          particulari in sensu : similiter autem est in quolibet alio sensu.</p>
+        <p xml:id="admda-l2t4c6-d1e148">Cum igitur ista communia sint plura sub una universali natura non contenta, non erit ipsa
+          alicujus sensus sensata propria. Si autem diceretur ab aliquo, quod essent propria
+          alicujus sensus, tunc sequeretur <choice> <orig>quob</orig> <reg>quod</reg> </choice> ab
+          aliis sensibus propriis ista non comprehenderentur nisi per accidens : et sic motus
+          sentiretur per visum per accidens, quia ille motus sentiretur a visu : <cb ed="#B5" n="b"/>
+          <!-- 301 b --> sicut nec sentimus dulce per visum : hoc enim ita contingit, quia nos
+          habemus utriusque, scilicet tam albi quam dulcis proprium sensum, secundum quod
+          essentialiter et substantialiter utrumque cognoscimus, sed album visu, et dulce gustu : et
+          ideo accidit nobis videre album quando judicium gustus prius fuit de dulci in hoc albo :
+          et ideo non videmus dulce in eo quod dulce, sed videmus hoc quod est dulce secundum
+          materiam. Et si diceretur quod non hoc modo videmus dulce per accidens quod scilicet
+          accidit huic sensui in quantum est sensus hic, tunc oporteret quod videremus ipsum per
+          accidens omnino, ita quod accideret sensui in quantum est sensus, sicut videmus filium
+          Dionis non in quantum est Dionis filius acceptus per aliquem alium sensum, sed in quantum
+          est albus, cui accidit Dionis filium esse, cujus formam nequaquam in visu describitur, sed
+          ab alia altioris sensus comprehensione cum visibili accipitur. Nos autem jam ante
+          probavimus, quod nos habemus sensum communem a pluribus sensibus eorum quae sunt sensata
+          communia, non secundum accidens, sed per se : non igitur est de ipsis aliquis proprius,
+          nequaquam sentiremus ipsa essentialiter a pluribus communiter, sed tantum secundum
+          accidens, sicut sentitur filius Dionis : propria enim sensibilia sentiunt proprii sensus
+          ad invicem, ita quod unus sentit sensibile alterius, non quidem secundum quod ipsi sunt
+          essentialiter distincti, et ad hoc sensibile vel ad aliud, sed potius secundum quod sensus
+          plurium sensibilium est unus in subjecto, non in quantum sensus, sed potius secundum quod
+          sensibilia plurium unum sunt in subjecto, sicut citrinum et amarum in cholera : tunc enim
+          dicimus nos videre amarum, quando videmus citrinum : et non potest dici, quod si alterius
+          proprium cujuscumque duorum, visus scilicet vel gustus, quod dicat quod haec duo unum sunt
+          : quoniam hoc dicere est alicujus virtutis quae comparat secundum <pb ed="#B5" n="302"/>
+          <cb ed="#B5" n="a"/> divisionem et compositionem sensata plurium sensuum : et hoc non
+          potest esse proprium alicujus eorum : quia quaecumque virtus comparat inter sensata
+          plurium, oportet quod accipiat sensata plurium : et hoc non potest facere aliquis sensus
+          proprius : et quia hoc non est proprium alicujus sensus particularis, ideo frequens fit
+          deceptio circa hoc, cum supra ostenderimus proprium sensum in sensibili proprio nullatenus
+          decipi : deceptio enim est ejus virtutis quae componit et dividit inter sensata : quia
+          saepe cum accipit citrinum hoc ipsum putat esse amarum, et ita mel aliquando opinatur fore
+          fel. Cujus autem potentiae sit inter sensata componere et dividere, posterius dicetur.</p>
+        <p xml:id="admda-l2t4c6-d1e168">Inquiret autem aliquis, cujus causa natura dat nobis sensus plures, ita quod plura
+          sensata per sentimus, et non dat nobis natura unum solum sensum per quem omnia sensata
+          sentiremus ? Ad hoc dicendum est, quod hoc facit natura quatenus nos non lateant communia
+          sensata quae convenienter sentimus post sensata propria : illa enim nesciremus esse
+          communia, si omnia propria sentiremus per unum et eumdem sensum, quae sunt motus, et
+          magnitudo, et alia quae supra dicta sunt. Si enim solus visus per quem sentiremus per omne
+          sensatum, et visus esset albi et aliorum propriorum, tunc laterent magis communia esse
+          communia quam modo faciant : videntur enim omnia communia eadem esse cum propriis, eo quod
+          non consequerentur nisi ad sensibilia ejusdem sensus, et videretur color esse magnitudo :
+          nunc autem quia eadem communia etiam in altero sensu sentiuntur, facit manifestum esse
+          quod communia altera sunt a propriis : quidquid enim aliquando sequitur ad unum, aliquando
+          ad alterum, diversum est ab utroque : et cum communia uniant in se propria, si communia
+          non bene essent <cb ed="#B5" n="b"/>
+          <!-- 302 b --> distincta a propriis, oporteret quod totum judicium sensibilium esset
+          errore implicitum, et nihil esset certum in judicio sensibilium. Haec igitur dicta sunt ad
+          hoc quod non sit sextus aliquis sensus proprius praeter quinque determinatos.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

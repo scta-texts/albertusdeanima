@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT IV.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT IV.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t4c4">
+        <head xml:id="admda-l2t4c4-Hd1e128">CAPUT IV.</head>
+        <head xml:id="admda-l2t4c4-Hd1e131" type="question-title">In quo probatur non esse nisi quinque sensus per naturam
+          organorum.</head>
+        <p xml:id="admda-l2t4c4-d1e134">Inducemus autem hic aliam rationem ex parte organorum sensus acceptam, dicentes quod
+          organa quibus sentiunt animalia, non possunt esse commixta, nisi sic, quod sint ex duobus
+          elementis mediis, quae sunt aer, et aqua, dominantibus in eis, sicut pupilla cujus
+          perfectio est visus, est ex aqua : et aer connaturalis est auri per quam est auditus :et
+          olfactus etiam ex altero illorum est, quoniam in spirantibus fit per aerem, in aquaticis
+          autem fit per aquam adducentem odorem. Similiter in animalibus non habentibus sanguinem et
+          non spirantibus quae in aere habitant, sicut sunt apes : fit in aere in quo eisdem odores
+          occurrunt vel concurrunt, sicut superius est determinatum. Ignis autem <pb ed="#B5" n="298"/> <cb ed="#B5" n="a"/> per seipsum quidem nullius est : eo quod est consumens et
+          interminans omne animatum : sed per proprietatem sui caloris incomplexionatus, tunc est in
+          omnibus sensibus operatio ejus : quia calor facit vigiliam et expandit spiritus animalium
+          ad organa sensuum, et sic organa omnia solvit ad operationem, sicut frigiditas ad
+          interiora propellens spiritus, immobilitat et stupefacit omnia organa sensuum, sicut in
+          somno et vigilia determinabitur. Terra autem cum sit frigida et sicca, et ex utraque
+          qualitate sit terminatum corpus, et non receptibile sensibilium, nec reddibile eorumdem,
+          sed potius hoc quod tarde recipit, fortiter in se ipsa tenet, non potest esse dominans in
+          organo alicujus sensus, nec adjumentum praebere ad actus et operationes sensibiles. Quia
+          vero organicum corpus terminatum et figuratum est, et non tenet nisi terra, ideo permixta
+          aliis magis dominantur in tactu : quia in omnibus animatis magis terra dominatur propter
+          soliditatem et firmitatem quae debet esse secundum naturam in corporibus animatis : eo
+          quod aliter distinctionem et figuras membrorum corpus animatum non retineret. Unde ex
+          dictis relinquitur nullum organum esse in quo dominetur aliquod simplicium, nisi aer et
+          aqua. Et hujus signum est, quod si oculus pungatur, non egreditur ex ipso nisi aqua. Licet
+          autem perspicuum quod est medium visus, sit plus in aere et igne et coelo quam in aqua :
+          tamen illa non plus dominantur in visu : lux enim coeli vel ignis si in oculo
+          dominarentur, sicut dicit Plato et Calcidius, non adunarentur in oculo formae, sed potius
+          divaricarentur, sicut expresse deprehenditur in speculo luci opposito, in quo aut nullae
+          apparent formae, aut apparent valde obscurae et confusae : et ideo sagax et sollicitaque
+          natura sapienter obumbravit oculum fovea, et lacryma, et superciliis, et humore nigro
+          circa aciem oculi posito, ut forma adunata certius ostendat visibile, et luce un<cb ed="#B5" n="b"/>
+          <!-- 298 b -->dique circumfusa non divaricetur visibile. Adhuc autem si ignis abundaret in
+          oculo, rarus esset nimis ad tenendas formas, et repraesentaret, sed traduceret : organum
+          autem tenere et repraesentare debet formas : oportuit igitur quod fieret ex aqua frigida
+          glaciali, quae puritate sua et pervietate et humiditate reciperet, et frigiditate et
+          spissitudine teneret et repraesentaret. In auribus autem non est eadem causa, quia sonus
+          est cum motu, sicut supra demonstratum est, et motus non potest esse permanens in spisso,
+          sed in tenui, quod hoc est secundum aliquid leve et grave, sicut in libro de Coelo et
+          Mundo determinavimus. Haec ergo causa est quare in organis haec duo elementa dominantur et
+          non alia. Quod autem diximus, odoratum fieri utroque illorum, non debet intelligi quod
+          organum ipsum habeat dominium utriusque illorum elementorum, quia organum olfactus in
+          anteriori parte cerebri collocatur : et ideo oportet esse frigidum et humidum, non tamen
+          fluidum, sed commixtum cum terra : sed actus odoratus fit per tactus aeris in quibusdam,
+          sicut diximus.</p>
+        <p xml:id="admda-l2t4c4-d1e145">Cum igitur organa sentiendi aliter componi non possint, nisi ex his quae diximus, et
+          animalia perfecta omnes habeant istas organorum perfectiones, animalia perfecta omnes
+          habent sensus : omnes enim sensus habentur a perfectis animalibus et non ab imperfectis,
+          sicut in tertio hujus scientiae libro ostendemus : natura enim solers et sollicita nihil
+          negat necessariorum, et non dat superfluum aliquid : et hoc perpendere possumus in hoc
+          quod talpae dedit oculos et cooperuit eos pelle : quia illud animal cibum sub terra
+          venatur, et ibi oculis non indiget : raro autem est extra terram, et propter consuetam
+          opacitatem terrae et tenebras sustinere lumen non posset <pb ed="#B5" n="299"/> <cb ed="#B5" n="a"/> nisi oculos tectos pelle haberet : ob quod in loco oculorum exterius
+          pilos non habet pellis ejus, ut magis sit spissa.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT IX.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT IX.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l1t2c9">
+        <head xml:id="admda-l1t2c9-Hd1e128">CAPUT IX.</head>
+        <head xml:id="admda-l1t2c9-Hd1e131" type="question-title">De solutione objectionis qua videtur ex alterantibus probari,
+          quod anima movetur per se physice : et in illo est bona demonstratio de intellectualis
+          animae immortalitate.</head>
+        <p xml:id="admda-l1t2c9-d1e134">Rationalius autem aliquis accipiet dubitationem an moveatur considerans <pb ed="#B5" n="164"/> <cb ed="#B5" n="a"/> ea quae nunc inducuntur : ex illis enim anima secundum
+          seipsam moveri forte videbitur alicui motu physico, qui est alteratio, et qui etiam est in
+          aliquibus cum motu locali : dicimus enim animam tristari, gaudere, confidere, sperare, et
+          timere, amplius autem irasci, et sentire. Haec autem omnia motus dicere videntur : et cum
+          haec insint animae et secundum ipsa, forte videbitur alicui moveri animam. Sunt enim omnia
+          ista passiones sive passibiles qualitates illatae : et secundum istas diximus alterari
+          physice in VII Physicorum.</p>
+        <p xml:id="admda-l1t2c9-d1e141">Sed absque dubio non necessario sequitur ex his, quod alteretur anima secundum se : quia
+          haec non sunt in anima, sed potius ab anima in corpore, vel in corporis aliqua parte quae
+          movetur istis passionibus quae inductae sunt. Si enim inter alia quam maxime gaudere,
+          dolere, aut intelligere possibili intellectu qui venit de ignorantia in scientiam, sunt
+          motus physici, tunc magis contingit moveri unumquodque membrum quam animam secundum se.
+          Sed moveri sic ab anima est, sicut irasci, aut timere, ex eo quod ex aliqua causa anima
+          sic vel aliter cor moveat. Quando enim irascitur, primo anima movet cor secundum systolen
+          propter conturbationem, et secundo secundum diastolem propter nocumentum repellendum.
+          Quando autem timet, tunc movet secundum systolem continue. Intelligere autem secundum
+          intellectum possibilem forsitan aut est hujusmodi, quod non sine motu cujusdam partis
+          corporis expletur, aut forsitan est alterum quoddam : quoniam secundum quod communicat ei
+          quod communicat corpori, non fit sine motu cujusdam partis corporis. Secundum autem quod
+          est in se virtus non communicans, fit sine motu corporis, sicut in parte supra diximus :
+          et adhuc in parte inferius in sequentibus tertii libri hujus <cb ed="#B5" n="b"/>
+          <!-- 164 b --> scientiae dicemus. Eorum autem quae fiunt cum motu corporis, quaedam quidem
+          fiunt in eo quod secundum locum movetur, quia systoles et diastoles fiunt in eo quod cor
+          in loco movetur constringendo se et aperiendo. Quaedam autem fiunt secundum alterationem,
+          sicut motus qui est in ipsis passionibus, calefacto sanguine vel infrigidato.</p>
+        <p xml:id="admda-l1t2c9-d1e148">Dicere autem quod ipsa anima secundum seipsam moveatur irascendo, simile est ac si quis
+          dicat animam secundum se moveri texendo vel aedificando. Cum enim aliquis texit vel
+          aedificat, est ab anima motus, et id quod subjicitur motui, et id quod movetur, est manus,
+          vel pes, vel aliquod aliorum membrorum exteriorum. Et similiter quando irascitur vel
+          timet, vel gaudet, est ab anima motus : et quod subjicitur motui, est cor, vel alterum
+          membrum interius quod movetur. Et ideo hoc non facit plus anima quam illud : quia ista non
+          differunt nisi in hoc quod in istis movetur membrum in occultum : et ideo vulgus credit,
+          quod in istis moveatur anima. In illis autem vident moveri membra exteriora : et ideo
+          dicunt in talibus moveri corpus, vel conjunctum ex corpore et anima. Melius autem dicitur
+          sine dubio non animam misereri, aut addiscere, aut intelligere, sed hominem totum per
+          animam : quia motus et actiones proprie conjunctorum sunt secundum potentias et per
+          potentias naturales, quae insunt aliquando animae, aliquando corpori. Quod autem dico
+          hominem moveri in anima vel per animam, non significat rei motum esse in anima vel per
+          animam, tanquam motus in anima existat tanquam in subjecto quod movetur, sed fiunt motus
+          illi dupliciter. Aliquando enim pertingunt ab exterioribus usque ad ipsam : aliquando
+          autem sunt ab ipsa, ut sensus qui est motus sensibilium specierum, est pertingens ab
+          exterioribus usque ad animam. Remi<pb ed="#B5" n="165"/> <cb ed="#B5" n="a"/>niscentia
+          autem et memoria incipiunt ab anima, et veniunt usque ad motus sensibilium specierum, qui
+          sunt in organis sensuum, et usque ad quietes sensuum : eo quod sensus non semper movent
+          secundum actum.</p>
+        <p xml:id="admda-l1t2c9-d1e156">Sed intellectus possibilis quo est omnia intelligibilia fieri, est substantia quaedam
+          separata, et videtur non corrumpi aliquo modo corporis corruptione. Quod sic
+          demonstratione probatur : accipiatur enim a praehabitis intellectum esse potentiam
+          intellectuali forma determinatam ad ens in natura quod est ante corporeitatem. Omnis enim
+          potentia qua est aliquid fieri, si debeat esse aliquid in natura, necesse est quod sit per
+          formam dantem esse illi rei naturali distincta et determinata : et hujus probationis
+          veritas est in omnibus absque contradictione et instantia. Intellectus autem possibilis
+          est potentia qua est omnia fieri secundum intellectum, sicut in tertio hujus scientiae
+          libro probabitur. Cum ergo sit in natura ista potentia, ipsa forma quae est
+          intellectualitas determinata est et distincta : ergo est substantia quaedam separata :
+          quia omne separatum in genere substantiae habens potentiam et actum in seipso, est
+          substantia : habetur autem per praehabita, quod ipsa est incorporea ante quantitatem
+          corporis et contrarietatem secundum naturam existens, licet non praecedat ipsum tempore.
+          Inde arguitur sic : nihil eorum quae secundum naturam sunt praecedentia quaedam alia,
+          corrumpuntur corruptione eorum quae sequuntur ipsum : intellectus autem sive anima
+          intellectualis sic se habet ad corpus physicum : ergo impossibile est eam corrumpi
+          corporis physici corruptione. Attendendum autem est, quod Plato propter istam <choice>
+          <orig>demonstrationam</orig> <reg>demonstrationem</reg> </choice> dixit animam ante
+          corpora secundum tempus fuisse, et secutus est eum in hoc Gregorius Nicenus. Hoc autem
+          minus est concedendum, sed inferius hoc <cb ed="#B5" n="b"/>
+          <!-- 165 b --> improbabitur. Est autem persuasio quae post demonstrationem inducitur :
+          quia si intellectus possibilis corrumperetur corporis corruptione, oportet etiam, quod
+          alteraretur corporis alteratione, sicut videmus alterari visum et auditum et omnes
+          virtutes, quarum est communicatio cum corpore, licet hoc per accidens conveniat ipsis
+          virtutibus, per se autem convenit organis ipsarum. Si autem sic alteraretur intellectus,
+          hoc esset maxime a debilitate quae est a destitutione corruptionis secundum naturam, et
+          haec est debilitas senii. In illa autem debilitantur virtutes animae : sed debilitas illa
+          non per se accidit virtutibus quae operantur in organis, sed organis ipsis, sicut diximus
+          : quoniam si senex accipiat per medicinam vel aliam compositionem oculum hujusmodi qui est
+          clarus et purus, ipse videbit sicut juvenis : ergo haec debilitas quae non redundat ad
+          virtutem animae nisi per organum, nullo modo attingit virtutem incorpoream, cujus nullum
+          est organum omnino : talis autem virtus est intellectus possibilis, sicut supra probatum
+          est. Senium enim non est in sustinendo aliquid animam, sed in sustinendo aliquid corpus in
+          quo est anima, sicut et ebrietas et quaedam aliae infirmitates quae oppilant rationem, non
+          faciunt hoc nisi per alterationes quae alterant corpus, sicut spiritum animalem, et
+          cerebrum, et hujusmodi partes alias a quibus accipit intellectus species intelligibiles.
+          Et haec est simpliciter causa, quod mox quidam delirant ex inordinatione et dissolutione
+          corporis, in quo est phantasia a qua accipit intellectus : quoniam, sicut diximus
+          superius, tametsi intellectus non communicet cum corpore, communicat tamen cum eo quod
+          communicat corpori : et quia sic intellectus est separatus, ideo dixerunt quidam quod ipse
+          non movetur per accidens motu corporis. Quod nos verum non esse dijudicamus, quoniam unam
+          substantiam dicimus esse animam intellectualem, ex qua fluunt quaedam potentiae quae
+          <choice> <orig>snut</orig> <reg>sunt</reg> </choice> virtutes in corpore <pb ed="#B5" n="166"/> <cb ed="#B5" n="a"/> et communicantes corpori : quaedam autem non sunt virtutes
+          in corpore quae sunt separatae : propter quod est in corpore anima intellectualis, sicut
+          determinata et distincta in ipso, non quidem sicut locatum in loco, sed sicut forma est in
+          sua materia, et motor in suo moto quod movetur, nihil est extra id quod movetur : et ideo
+          movetur motu corporis.</p>
+        <p xml:id="admda-l1t2c9-d1e186">Istius tamen intellectus possibilis intelligere consumitur in senio et morte debilitatur,
+          sicut diximus de deliratione senum, alio quodam quod non est suum organum corrupto vel
+          debilitato : et hoc est organum phantasiae et imaginationis, cum quibus communicat
+          intellectus possibilis secundum actum intelligendo : ipsum autem intellectivum secundum se
+          impassibile est, sicut probatum est prius. Intelligere autem secundum actum et amare, quod
+          est passio concupiscibilis, cujus contrarium est odire, non sunt passiones aut opera
+          intellectus secundum se sumpti, etsi enim sine intellectu non sint, tamen sunt passiones
+          aliarum virium animae quae habent intellectus ordinem, et sunt in ipsis secundum quod
+          participant aliqualiter intellectu : et ideo sunt hujusmodi vel illius sensibilis virtutis
+          habentis intellectum secundum resultationem secundum quod habent ipsum : quia aliter
+          amare, et odire, et confidere, et alia quae supra inducta sunt, non essent ordinabilia ad
+          honestum et turpe in moribus : propter quod dicit <name ref="#Aristotle">Aristoteles</name> in fine primi Ethicorum, quod rationale est duplex, quod scilicet per
+          essentiam est rationale, et quod participat aliqualiter ratione, ut obediens et suasibile
+          a ratione existens. Et ideo corruptis his viribus propter corruptionem organi sui neque
+          reminiscitur aliquis, neque amat. Istae enim passiones et operationes non erant
+          intellectus secundum se, sed erant conjuncti animae cum corpore, quae <cb ed="#B5" n="b"/>
+          <!-- 166 b --> sunt vires communicantes corpori, ut praedictum est. Intellectus autem
+          secundum <choice> <orig>seforsitan</orig> <reg>se forsitan</reg> </choice> est divinum
+          aliquid et impassibile quod separatur a corpore, et tunc habebit alterius modi
+          intelligere, et alias delectationes quibus nihil est contrarium. Sed de hoc hic loqui non
+          possumus : altioris enim eget inquisitionis quam, Deo volente, in prima philosophia
+          perficiemus. Redeuntes autem ad id unde ratio nostra est, dicimus ex omnibus inductis
+          manifestum esse, quod anima nullo modo motus per se movetur et physice. Si autem anima
+          penitus non movetur, tunc manifestum est quoniam neque a seipsa moveri potest.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

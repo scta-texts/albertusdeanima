@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT II.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT II.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t2c2">
+        <head xml:id="admda-l3t2c2-Hd1e128">CAPUT II.</head>
+        <head xml:id="admda-l3t2c2-Hd1e131" type="question-title">Qualiter intellectus possibilis sit natura quaedam immixta
+          receptibilis omnium eorum quae sunt.</head>
+        <p xml:id="admda-l3t2c2-d1e134">Ulterius autem de intellectu possibili loquens <name ref="#Aristotle">Aristoteles</name>,
+          dicit quod ideo quoniam omnia intelligit apprehendendo formas omnium, necesse est quod sit
+          immixtus, hoc est, non mixtus cum corpore sicut forma corporis, aut sicut forma quae est
+          virtus in corpore. Forma enim corporis duplex est, simplicis scilicet et compositi.
+          Simplicium autem formae quinque sunt, quae multiplicantur secundum numerum compositorum
+          corporum, ex elementis quae sunt prima simplicia. Forma autem quae est virtus in corpore,
+          <cb ed="#B5" n="b"/>
+          <!-- 331 b --> est virtus organica animae vegetabilis vel sensibilis : et ideo laudandus
+          est Anaxagoras qui veram dedit causam hujus, quod intellectus possibilis sit immixtus,
+          quando dixit quod immixtus est ut imperet tanquam superior omnibus : et hoc est ut
+          cognoscat omne despectum ab ipso : despectum enim vocat id cujus forma non informatur :
+          has enim formas omnes despicit intellectus tanquam indignas sibi, quasi prohibentes ipsum
+          intelligere. Si enim esset aliqua forma informatus ad hoc quod esset hoc aliquid, tunc hoc
+          ipsum prohiberet, ne appareret ei in cognoscendo alienum et contrarium ab ipsa forma, et
+          impediret omnis rei cognitionem quae objicitur ei : quia contrarium et diversum ab illa
+          forma recipi in eo non posset, eo quod nec contraria nec disparata possunt esse in eodem :
+          et id quod inesset ei, non haberet in potentia : et ideo si esset aliqua forma mixta,
+          impediretur ne potentia intelligeret omnia materialia. Sic igitur eo quod est immixtus,
+          est immaterialis et impassibilis, eo quod potest intelligere aliqua vel omnia, est aliquo
+          modo de genere virtutum passivarum. Id enim quod est receptivum alicujus, non habet illud
+          quod natum est recipere in specie, licet possit habere formam in genere cum his quae
+          recipit convenientem. Diximus enim superius de organo tactus, quod recipit excellens se
+          tangibile, cum tamen habeat media in se tangibilium : medium enim ab extremo differt
+          specie, et convenit genere : ita etiam non est inconveniens intellectum possibilem habere
+          quidem aliquam formam, qua efficitur unum de entibus mundi in genere naturae incorporeae,
+          licet nullam habeat formam eorum quae intelliguntur ab ipso : eo quod illa forma qua
+          determinatur in ens in genere naturae incorporeae, cum intellectis ab ipsa convenit in
+          genere, et differt specie ab eis omnibus, sicut nos infra ostendemus : ista enim
+          propositio qua dicitur, quod recipiens denudatum est a formis eorum quae recipere est
+          natum, <pb ed="#B5" n="332"/> <cb ed="#B5" n="a"/> necessaria est in omnibus
+          recipientibus, sicut probatur tam in materia quam in potentiis omnium sensuum : et ex isto
+          necessario probatur, quod intellectus possibilis est in genere potentiarum passivarum et
+          immixtus omnino, eo quod nulla est formarum quae recipiuntur in ipso, quae sunt aut formae
+          corporum, aut formae quae licet non sint corporum, tamen sunt organicae in corpore : et
+          per hoc concluditur ulterius, quod non est passibilis nec transmutabilis : quia nihil est
+          passibile et transmutabile nisi mixtum. Quia autem est de genere virtutum passivarum,
+          necesse est quod ipse sit motus ab aliquo quod est actu, sicut videmus potentias sensuum
+          moveri : quoniam ideo quod sensibilia sunt in actu, ideo movent sensus qui sunt in
+          potentia. Formae autem universales prout sunt in multis et non sunt divisae ab illis, non
+          sunt nisi in potentia universales et intellectae sicut colores in potentia sunt in
+          tenebris : tales autem formae non movere possunt intellectum : et ideo cogemur inferius
+          investigare alium intellectum agentem, qui formas faciat actu separatas et universales, ut
+          movere possint intellectum possibilem, qui faciat in formis rerum particularibus quod lux
+          facit in coloribus.</p>
+        <p xml:id="admda-l3t2c2-d1e148">Ex omnibus autem his concludit <name ref="#Aristotle">Aristoteles</name> quod intellectus
+          possibilis non est natura aliqua specificata per formam : quia id quod est potentia omnia,
+          non potest esse specificatum, sicut nec prima materia specificata est per aliquam formam,
+          sed ad hoc tantum est natura ejus posita potentialiter ut sit vocatus intellectus
+          possibilis. Et in haec duo dividitur, quorum unum est quod est intellectus, et alterum
+          quod est possibilis : et per hoc quod est intellectus, determinatur in ens quoddam
+          incorporeae naturae : per hoc <cb ed="#B5" n="b"/>
+          <!-- 332 b --> autem quod est possibilis respectu omnium, oportet quod privetur omnium
+          formis quae potentia sunt in ipso. Utrum autem intellectualitas sua specificando eum in
+          ens naturae incorporeae, claudat et diminuat potentialitatem suam ad intelligibilia,
+          inquiremus posterius. Hunc autem possibilem intellectum vocamus intellectum generaliter,
+          per quem anima res opinatur probabiliter et intelligibiliter distinguendo unum ab alio, et
+          cogitat cum ratione, et nihil est actu eorum quae sic diversimode judicat antequam actu
+          intelligat et distinguat ea, sicut omnes potentiae passivae nihil eorum sunt a quibus
+          moventur ante habitum formarum suorum motorum : ad hoc enim movetur, quod dent eis suas
+          formas : et post motum illum ea quae moventur, habent eas in actu : hoc tamen in
+          intellectu possibili aliter est quam in aliis potentiis passivis, sicut in sequentibus
+          declarabitur. Ecce haec est intentio <name ref="#Aristotle">Aristotelis</name> de natura
+          possibilis intellectus, quem posteriores eo Peripatetici hanc usque in diem exponunt : et
+          nullus ad plenum intellexit ob dubiorum difficultatem quae sunt in dictis istis.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

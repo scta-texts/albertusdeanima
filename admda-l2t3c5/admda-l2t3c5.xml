@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT V.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT V.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c5">
+        <head xml:id="admda-l2t3c5-Hd1e128">CAPUT V.</head>
+        <head xml:id="admda-l2t3c5-Hd1e131" type="question-title">De sensatis in communi quae sunt per se et proprie, et secundum
+          se et commune, et per accidens.</head>
+        <p xml:id="admda-l2t3c5-d1e134">His igitur praelibatis, dicendum est de objectis uniuscujusque sensus primo in communi,
+          quia de communibus proprie est speculatio. Dicitur autem in communi sensibile tripliciter.
+          Duo quidem dicimus per se sentiri : unum autem secundum accidens. Quando autem dicimus per
+          se sentiri aliquod sensibile, volumus intelligere per se quando subjectum est causa
+          praedicati, hoc est, quod per propriam naturam et essentiam causa est immutationis sensus,
+          eo quod ipsum est quod habet inferre passionem sensui : diximus enim quod sensus
+          generaliter est potentia passiva, et sentire generaliter pati : diximus enim saepe in
+          libris naturalibus praehabitis, quod non quodcumque agens infert passionem cuilibet
+          patienti, sed oportet esse communicationem naturae inter proprium agens et proprium
+          patiens : et tunc dicemus quod illud est essentiale sensibile, quod suam propriam
+          essentiam, vel intentionem essentiae, deprehendet in sensus organo. Haec autem sunt duo :
+          cum enim omnes formae sensibiles sint etiam formae situales, et quae habent quantitatem
+          per accidens, statim impenditur quod calor in oculo non recipitur sine quantitate, et <pb ed="#B5" n="239"/> <cb ed="#B5" n="a"/> his quae sunt quantitati annexa essentialiter : et
+          ideo sensatum per se, dividitur in duo : quorum unum quidem proprium est, quod sic
+          convenit uni sensui quod non convenit alii, sicut coloratum in quantum coloratum in nullum
+          agit sensum, nisi in visum : sonus autem in auditum et non in alium sensum. Aliud autem
+          est sensatum quod ideo per se sentiri dicitur, quia sua intentio in sensu imprimitur
+          conjuncta sensibili proprio : et hoc est proprium et proximum subjectum sensatae speciei,
+          quod est magnitudo, in qua ut in subjecto proprio est omnis qualitas sensibilis. Et
+          proprium quidem subjectum sensibile duo habet in se quae faciunt ipsum proprium. Unum
+          quidem dictum est, quod scilicet non convenit ipsum altero sensu sentiri, nisi illo cujus
+          est proprium activum inferens ei passionem : et cum non agat in sensum nisi intentionem
+          propriae formae, sequitur quod sensum non convenit errare circa proprium sensatum. Dicitur
+          autem sensatum proprium duobus modis. Uno quidem modo secundum quod est in re sensata in
+          qua est secundum esse materiale. Alio autem modo secundum quod est receptum in organo
+          sensus : secundum enim quod est in re non semper judicatur de ipso : quia etiam per hoc
+          esse non habet agere in sensum, sicut nos inferius ostendemus : sed ponamus per esse quod
+          habet in abstractione, secundum quod esse primum est in medio, et postea in sensus organo
+          : et multae variationes possunt fieri circa esse suum quod habet in abstractione, tam in
+          medio quam in organo : quoniam si contingat aerem qui est medium in visu esse humidum
+          multum, forte videbitur album esse perfusum rubore vel croceitate : et si forte pupilla
+          sit infirma, ex humore in oculum defluente alterabit esse coloris quod habet in
+          abstractione, sicut diximus in tertio Meteororum in tractatu de iride : <cb ed="#B5" n="b"/>
+          <!-- 239 b --> et haec non sunt error sensus in sensibili proprio : quoniam sensibile
+          proprium revera tale esse habet in abstractione, licet non habeat tale esse in subjecto in
+          quo est secundum esse materiale, quod habet in materia. Patet igitur sensum circa
+          sensibilia propria non errare : sic enim est visus coloris, et auditus soni, et gustus
+          saporis, qui humor a Graecis vocatur, eo quod in humido semper sentitur. Tactus autem
+          plures habet differentias quae non ad unum proprie rationis genus reducuntur, tamen in
+          unaquaque judicat de illis et non decipitur. In compositione tamen sensibilium magna
+          frequenter est deceptio, sicut quidem est quod est coloratum ut utrum croceum sit mel, aut
+          cholera citrina, aut ubi est coloratum, aut quid est quod sonat, aut ubi sonat, et sic de
+          aliis. Et hujus causa, ut infra dicemus, est quia sensus proprius non habet componere, sed
+          aliqua superior potentia : et illius est error. Haec igitur sunt sensata propria.</p>
+        <p xml:id="admda-l2t3c5-d1e145">Communia autem, sunt sicut diximus, quorum essentiae vel esse secundum intentiones suas
+          vere sensibus imprimuntur, et illae sunt sicut magnitudo in qua sunt sensibilia : et cum
+          magnitudo sit terminus naturalis corporis, et terminata quantitas sit figura, oportet
+          etiam figuram esse sensatum commune : trigonum enim vel quadratum est quod imprimitur
+          oculo in videndo et tactui in tangendo. Quia autem numerum cognoscimus divisione continui,
+          et continui est essentialiter dividi, ideo oportet numerum etiam esse sensatum commune.
+          Magnitudo autem non dividitur solum per essentiam, sed etiam per motum, eo quod motus non
+          habet ante et post nisi per ante et post in partibus magnitudinis : et ideo oportet etiam
+          motum esse sensa<pb ed="#B5" n="240"/> <cb ed="#B5" n="a"/>tum commune. Et quia opposita
+          sunt ejusdem potentiae, ideo etiam est sensatum commune : et sic igitur sunt quinque
+          communia, motus, quies, numerus, figura, et magnitudo, nec dicuntur ista communia, eo quod
+          quodlibet eorum aequaliter ab omni sensu percipiatur : sed quia quodlibet istorum probatur
+          percipi pluribus sensibus, et non uno solo sensu, quoniam in veritate motus et quies et
+          numerus omnibus sensibus percipiuntur, sed quantitas et figura, tactu et visu, ista autem
+          sensata communia dicuntur per-se-sensata, secundum quod per se opponitur ad id quod est
+          per accidens, et non sic secundum quod per se opponitur ei quod est non primo. Impossibile
+          enim est, quod idem passivum numero, habeat activa diversa secundum genus. Constat autem
+          quod color et magnitudo diversa sunt genere : et ideo sensatum proprium est quod agit in
+          proprio sensu : et hujusmodi sensatum magnitudinem habet et figuram, etc. : ideo
+          recipiuntur etiam illa non per accidens, sed propriae eorum intentiones imprimuntur in
+          organo sensus.</p>
+        <p xml:id="admda-l2t3c5-d1e152">Sed secundum accidens sensibile est, quod propriam essentiam in sensum non imprimit, nec
+          primo, nec secundo, sed cum sensibili proprio, et communi accipitur, et non sine
+          aestimatione vel cogitatione, sicut sunt intentiones de quibus in tertio gradu
+          abstractionis diximus, sicut quod hoc album est Diaris filius, vel hoc nigrum est amicus,
+          vel homo, vel animal : sicut videt ovis quod hoc pilosum est lupus, et hoc pilosum est
+          canis, et unum aestimat amicum, et alterum inimicum. Secundum autem hanc doctrinam
+          cognoscitur distinctio sensibilium, quae secundum quorumdam malam doctrinam valde est
+          manifesta, sed errores talium transivimus brevi<cb ed="#B5" n="b"/>
+          <!-- 240 b -->tatis causa cui studemus. In hoc enim quod tale est, quod secundum se nihil
+          de intentione suae essentiae imprimit in sensum, secundum se sentiri nihil potest, sed
+          sentiri per accidens : quia albo accidit quod sit ei conjunctum : et ideo organum sensus a
+          tali sensibili nihil patitur omnino : quia natura hominis non est sensibilis per propriam
+          essentiam, sed intelligibilis. Secundum se autem sentiuntur quae intentiones proprias
+          imprimunt in sensum : et haec sunt ad quae ipsa organa sunt vel habent apta nata ex primis
+          suis componentibus.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

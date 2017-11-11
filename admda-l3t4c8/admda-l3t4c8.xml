@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VIII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VIII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t4c8">
+        <head xml:id="admda-l3t4c8-Hd1e128">CAPUT VIII.</head>
+        <head xml:id="admda-l3t4c8-Hd1e131" type="question-title">Qualiter est motus processivus secundum quod fit a motore
+          immobili secundum locum.</head>
+        <p xml:id="admda-l3t4c8-d1e134">Nunc autem propter bonitatem doctrinae, ut per opus melius cognoscatur pars animae
+          movens, dicemus ut in capitulo et summa, quod movens in animalibus est movens organice,
+          organo pertinente ad motum, sicut est ambulatio et volatus ex tali loco ubi principium
+          motus illius et finis idem membrum est, et est una vis et eadem sita in membro illo : hic
+          autem motus est gyrantis, quando motum membrum gyrum habet expulsionis et retractionis in
+          eodem loco. In talibus enim motibus expulsio est sicut principium, et attractio est sicut
+          finis ejus : et ideo necessario habet duas quietes interpositas, sicut patet cum
+          expellitur crus a dextris primo et retrahitur in eodem : et ideo in omni eo quod taliter
+          movetur, quoddam quiescit et quoddam movetur tam in parte animalis quam in toto : et in
+          parte quidem, quoniam omne quod movetur in membris animalium, movetur in quodam immobili,
+          ad quod retrahitur expulsum, sicut manus mota expellitur et retrahitur ad membrum ascelli
+          immotum : et brachium motum expellitur et retrahitur ad cubitum immotum, et adjunctorium
+          motum expellitur et retrahitur ad hume<cb ed="#B5" n="b"/>
+          <!-- 405 b -->ris immotis : similiter autem in toto corpore, quia a parte dextra expulsa
+          stat pars a parte sinistra, et retrahitur motum ad ipsam, et sic est in omnibus : sed in
+          volatilibus et in natantibus non est ita, quia illa movent dextrum et sinistrum simul, et
+          nituntur utroque latere simul, sed tamen fit ibi expulsio et retractio ad unum immobile,
+          sicut diximus superius. In serpentibus autem, alias repentibus, nonnullus perficitur
+          motus, ita quod mota anteriori parte, quiescit pars posterior, et utraque vicissim causat
+          motum unum qui perficitur ita quod pars anterior expellitur et posterior retrahitur. De
+          omnibus autem his differentiis habet determinari in libro de Motibus animalium, ubi
+          inducemus qualiter ipsi motui necessario duae quietes interponuntur necessario.</p>
+        <p xml:id="admda-l3t4c8-d1e141">Sed hoc sciendum est, quod cum in motibus animalium processivis aliud quiescat, aliud
+          moveatur : et idem sit in eo principium unde expulsio sit, et ad quod fit retractio :
+          finis et principium altera sunt ratione, licet magnitudine et subjecto idem sint : et
+          hujus causa est, quia cum omnia quae moveantur animali motu, omnia moventur depulsu et
+          attractu, sicut diximus : et depulsio et attractio sunt ex eodem in idem : et ideo oportet
+          motum istum fieri ex eodem in idem, sicut in circulo : et hoc sic imaginari debemus, sicut
+          si ponamus motorem circuli esse in centro : tunc enim motus circuli est ex centro, ita
+          quod primo expellitur semicirculus dextrae continue, et reiteratur semicirculus sinistri :
+          et ita est in motu animalis, quia ex eodem expellitur organum motus, et retrahitur postea
+          ad illud idem, quasi reiterando, sicut diximus jam superius. Et ideo meo judicio mentitur
+          <name ref="#Averroes">Averroes</name>, dicens cor esse quiescens unde fit expulsio, et ad
+          quod fit attractio : oportet enim immobile a quo est motus esse conjunctum organo motus.
+          Constat autem quod cor non est conjunctum hujusmodi organis : ostendit autem hoc etiam
+          ana<pb ed="#B5" n="406"/> <cb ed="#B5" n="a"/>tomia : certum est enim omnium membrorum
+          motum perfici musculis animalium. In omni autem musculo motivo membri videmus nervum
+          egredientem ad membrum quod movetur, per quem expellitur a loco suae fundationis : et
+          videmus chordam in alia parte ad radicem membri derivari a fine musculi per quem
+          attrahitur ad locum suum : patet igitur non esse cor hujusmodi membrum : de hoc tamen erit
+          in libro Animalium subtiliter inquirendum. Sed hoc quod hic dicitur, est quod unum a quo
+          est motus et id quod non est aliquod signatum in membris animalium per subjectum sed per
+          rationem solum et est multiplicatum per numerum membrorum a quo moventur.</p>
+        <p xml:id="admda-l3t4c8-d1e151">Quod autem est omnino et universaliter considerandum secundum hujus scientiae
+          proprietatem : quia, sicut dictum est, in quantum unumquodque animal est appetitivum, in
+          tantum est etiam motivum secundum locum : quia, sicut diximus, species appetibilis per hoc
+          quod est appetita movens est principium : et ideo intellectus et phantasia non movent nisi
+          secundum quod sunt ad appetitum ordinata ut decernentia motum : appetitus autem est
+          immediatum principium motus sicut compositum ex appetibili specie et informato specie illa
+          : et ideo motus non fit unquam sine phantasia : phantasia autem movens omnis, aut est
+          rationalis, aut animalis, aut hominis, aut est ejus quod sensum habet sine ratione sicut
+          bruta. Et fit motus ab his duabus secundum quod habentur ab animalibus. Et ideo si primum
+          movens consideretur, tunc est unicum per cujus formam omnia moventur animalia : et haec
+          est forma appetibilis. Si autem consideremus movens quodcumque movet, tunc sunt duo in
+          genere moventia et tria secundum speciem. Quorum unum in genere quidem movens est ut
+          decernens <cb ed="#B5" n="b"/>
+          <!-- 406 b --> motum, alternum sicut impetum faciens in motu : sed in specie sunt tria,
+          quoniam decernens est duplex, quorum unum per rationem rectam decernit, aliud autem per
+          aestimationem boni ut nunc : et primum quidem est intellectus, secundum autem est
+          phantasia. Si autem determinari habet movens, ut causans motum, tunc oportet duo esse ad
+          minus, quorum unum determinat, et alterum facit impetum : et sic sunt duo moventia quae
+          sunt vel intellectus et appetitus, vel phantasia et appetitus.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

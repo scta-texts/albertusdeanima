@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT I.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT I.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t1c1">
+        <head xml:id="admda-l3t1c1-Hd1e128">CAPUT I.</head>
+        <head xml:id="admda-l3t1c1-Hd1e131" type="question-title">Et est digressio declarans libri intentionem, et de
+          imaginatione.</head>
+        <p xml:id="admda-l3t1c1-d1e134">In hoc autem tertio libro de Anima intendimus certificare de aliis potentiis animae quae
+          restant, quarum prima divisio est in apprehensivas et motivas, quae differunt per rationem
+          potentiae activae et passivae : quarum potentiarum nos superius assignavimus differentiam
+          : quoniam potentia activa semper sibi similis est, eo quod ipsa est actus, et sem<cb ed="#B5" n="b"/>
+          <!-- 315 b -->per completa ad agendum : et si aliquando non agit, hoc erit propter
+          defectum ejus in quod agit, et non propter hoc quod ipsa indigeat acquirere aliquid per
+          quod ad agendum perficiatur. Passiva autem dissimilis est sibi, quia aliquando habet
+          formam, et aliquando non habet eam : sed cum acquirit eam per alterationem, tunc potest
+          agere actionem, cujus principium est forma quae acquisita per alterationem in ipsa. Haec
+          tamen forma aliquando datur ei a generatione, sicut superius diximus de potentia sensitiva
+          : aliquando autem requirit per alterationem, sicut est de scientia quae est perfectio
+          intellectus. Potentiae igitur apprehensivae generaliter potentiae sunt passivae, nec
+          habent principia agendi nisi per formam quam per apprehensionem acquirunt : propter quod
+          etiam appre<pb ed="#B5" n="316"/> <cb ed="#B5" n="a"/>hensivae dicuntur. Tales autem non
+          generaliter sunt omnis animae, sed sensitivae, et intellectivae tantum. Et earum quaedam
+          sunt apprehensivae de foris existentibus suis agentibus, quaedam autem sunt apprehensivae,
+          ita quod sua agentia proxima sunt et intus. Et illae quae habent sua agentia de foris,
+          sunt sensus de quibus jam secundum quod sunt vires animae, expeditum est : de his autem
+          quae sunt apprehensivae deintus, nunc determinabimus. Omnes enim has sive sint partes
+          animae sensibilis, sive sint rationalis, conjungemus : eo quod Antiquorum quidam omnes
+          illas quamdam partem intellectus fore dicebant, sicut in sequentibus ostendetur. Ad
+          faciliorem autem intellectum Antiquorum sententiae de hoc, volumus loqui de tribus
+          virtutibus quas supra enumeravimus, scilicet de imaginativa, et aestimativa, et
+          phantastica.</p>
+        <p xml:id="admda-l3t1c1-d1e145">Dicimus igitur imaginativam esse in qua imagines sensibilium rebus sensibilibus
+          absentibus reservantur. Haec autem imaginativa plus abstrahit quam sensus, quoniam sensus
+          non accipit formam nisi re praesente : ista autem reservat eam etiam re absente : propter
+          quod etiam secundum <name ref="#Avicenna">Avicenna</name>m et Algazelem, alia potentia est
+          a sensu communi. Bonitas autem hujus organicae virtutis alia est a bonitate sensus, quia
+          bonitas sensus est in recipiendo, et bonitas hujus in retinendo est, et pure
+          repraesentando : propter quod et plures videmus subtiles in discretione sensibilium et non
+          bene imaginantes. Bene autem imaginantes ad duo disponuntur, quorum unum est mathematicis
+          : quia tales bene distribuunt figuras : cujus est causa, quod licet in organo
+          imaginationis omnia distribuantur, tamen sensibilia distribuuntur in ipso prout sunt unita
+          suis subjectis : et ideo non est imaginabilis sonus nisi prout est actus sonantis, et
+          color prout est qualitas colorati, et sic de aliis : et ideo quod principaliter in eo
+          distribuitur, est quantitas et figura : propter quod habentes hujusmodi organum purum et
+          <cb ed="#B5" n="b"/>
+          <!-- 316 b --> bene compositum, optime efficiuntur imaginativi : et quando cum hoc
+          subtilis sunt intellectus cum bonitate imaginationis, proficiunt multum in mathematicis
+          disciplinis. Si autem hujusmodi homines abstrahantur a motibus sensuum et sunt semper
+          solitarii, et abstrahantur a cura carnis et deliciis corporis, efficiuntur prophetae.
+          Motus enim multus sensibilium suo tumultu impedit manifestari in eis effectus coelestium.
+          Similiter autem cura carnis et deliciae et sollicitudines et actus multi mundani occupant
+          animam, ita quod non potest percipere impressiones coelestium : quia anima propter unionem
+          suarum potentiarum in sua subjecta, talem habet colligationem virium suarum, quod quando
+          intenditur operatio ejus secundum unamquamque potentiam, tunc abstrahitur ab intentione
+          circa alias. Cujus signum est, quod intente cogitans aliquid non advertit ea quae habet
+          prae oculis : et similiter sit, quod anima occupata circa exteriora non advertit motus et
+          impressiones coelestium quae fiunt in suo corpore abstracta. Ab his autem sentit talia et
+          parat eis imagines, quia connaturale est sibi sub imaginibus corporalibus cognoscere
+          quidquid ipsa cognoscit : et in talibus impressionibus coelestium radicantur illa somnia
+          quae aliquid signant de futuris. Qualiter autem impressiones tam motuum coelestium quam
+          intelligentiarum quae sunt motores, veniant ad animas animalium, in prima philosophia
+          ostendetur. Sed quod hic sufficit, est quod organum imaginationis non oportet omnino idem
+          esse cum organo sensus communis, sed secundum esse differens, licet forte in substantia
+          sit idem : et hoc magis inferius erit manifestum.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

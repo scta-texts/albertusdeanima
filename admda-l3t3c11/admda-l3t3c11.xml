@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XI.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XI.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t3c11">
+        <head xml:id="admda-l3t3c11-Hd1e128">CAPUT XI.</head>
+        <head xml:id="admda-l3t3c11-Hd1e131" type="question-title">Et est digressio declarans veram causam et modum conjunctionis
+          intellectus agentis nobiscum.</head>
+        <p xml:id="admda-l3t3c11-d1e134">Nos autem dissentimus in paucis ab Averroe, qui inducit istam quaestionem in commento
+          super librum de Anima. Cum omnibus enim aliis fere Philosophis convenit <name ref="#Averroes">Averroes</name> in hoc quod dicit intellectum agentem esse separatum et
+          non conjunctum animae : et tunc supponit istam propositionem, quae etiam necessaria est,
+          quod omne quod est separatum et efficitur conjunctum, habet aliquam causam suae
+          conjunctionis : et tunc quaeritur quae sit illa causa conjunctionis per quam intelligentia
+          agens formaliter conjungitur possibili ut sic anima efficiatur intelligens substantias
+          separatas ? Nos autem in dictis istis nihil mutamus nisi <pb ed="#B5" n="386"/> <cb ed="#B5" n="a"/> hoc quod etiam <name ref="#Aristotle">Aristoteles</name> mutasse videtur,
+          quoniam dixit quod in omni natura in qua est patiens, est etiam agens : et ita oportet in
+          anima esse has differentias : per hoc enim videtur nobis : nec de hoc dubitamus, quin
+          intellectus agens sit pars et potentia animae. Sed tunc dicentes eum esse partem, erit
+          quidem animae semper conjunctus sicut pars : sed lumen ejus quo operatur intellecta, licet
+          hoc non semper actu conjunctum intellectui possibili : quia etiam est separatus, ut dictum
+          est superius. Convenimus enim cum omnibus Peripateticis, quod intellectus agens magis est
+          separatus quam possibilis. Iterum convenimus cum eis quod separatum non conjungitur nisi
+          causam habeat suae conjunctionis. Et his duobus suppositis accipimus alia duo ab
+          Alfarabio, quorum unum dicit in libro suo de Anima, et alterum in X Nicomachiae suae quae
+          est ethica, nichomachica dicta apud nos. Idem autem quod dicit in libro de Anima est, quod
+          intellectus duas habet operationes, quarum una est facere intellecta denudando ea a
+          materia, et altera intellecta intelligere, et discernere magis differri habet per primam
+          istarum operationum quam per secundam : quoniam primam habet per seipsum solus, et
+          secundam habet communem cum caeteris potentiis passivis. Id autem quod dicit in X Ethicae,
+          est quod fiducia philosophantis est non conjungi agenti intellectum ut efficienti, sed
+          etiam sicut formae : et explanat hoc, dicens quod intellectus agens cum agit et creat
+          intellectum in nobis, est ut efficiens conjunctus nobis tantum : eo quod tunc agit
+          operatione sibi substantiali per quam diffinitur, et agit sine nobis coagentibus, licet
+          agat in nobis intellecta quae facit : sed intelligere nostrum opus per intellectum nobis
+          conjunctum. Et si fiducia felicis philosophantis felicis est conjungi intellectum sicut
+          formae, tunc conjungetur ei ita quod ipsum intelligat homo felix in actu felicitatis :
+          forma enim est per quam operamur hoc <cb ed="#B5" n="b"/>
+          <!-- 386 b --> opus quod nostrum est in quantum homines sumus.</p>
+        <p xml:id="admda-l3t3c11-d1e151">Et si forte diceretur, quod haec conjunctio secunda est impossibilis, refellitur hoc per
+          hoc quod nos videmus animas felicium sicut quando perficiuntur animae eorum secundum
+          optimum statum sapientiae, quando videlicet sapiunt divina quae sapit Deus, et habent
+          delectationem in his : per effectum igitur probatur quod haec conjunctio erit hic in
+          multis, et est possibilis. Sed nobis adhuc deest modus et causa conjunctionis. In causa
+          autem quam inducemus et modo convenimus in toto cum Averroe et cum Avempace, in parte cum
+          Alfarabio, dicentes quod intellecta speculata dupliciter fiunt in nobis. Quaedam enim
+          fiunt in nobis per naturam, ita quod non accipimus ea per aliquod vel ab aliquo doctore,
+          nec per inquisitionem invenimus ea, sicut sunt dignitates demonstrationum propriae,
+          qualiter sunt prima et vera ante quae omnino nulla sunt, quae non scimus ex sensu, nisi in
+          quantum terminos cognoscimus : notitia autem terminorum non facit notitiam principiorum
+          nisi per accidens. Quaedam autem speculata fiunt in nobis per voluntatem : quia videlicet
+          studemus inveniendo et audiendo a doctore : et haec omnia fiunt intellectu agente
+          influente eis intellectualitatem, et faciendo haec intellecta esse secundum actum
+          intellectus agens conjungitur nobis ut efficiens : et quia in omnibus his influit
+          intellectualitatem et denudationem, sunt omnia sibi similia in hoc quod separata sunt et
+          nuda : et ideo in omnibus his accipit continue intellectus possibilis lumen agentis, et
+          efficitur sibi similior de die in diem : et hoc vocatur a Philosophis moveri ad
+          continuitatem et conjunctionem cum agente intellectu : et sic cum acceperit omnia
+          intellecta, habet lumen agentis in formam sibi adhaerentem : et cum ipse sit lumen suum,
+          eo quod lumen suum essentia sua est, et non extra ipsum, tunc adhaeret intelle<pb ed="#B5" n="387"/> <cb ed="#B5" n="a"/>ctus agens possibili sicut forma : et hoc sic compositum
+          vocatur a Peripateticis intellectus adeptus et divinus : et tunc homo perfectus est ad
+          operandum opus illud quod est opus suum in quantum est homo : et hoc est opus quod
+          operatur Deus : etiam hoc est perfecte per seipsum contemplari et intelligere separata :
+          et iste modus et ista conjunctionis operatio concordat cum Aristotele in X Ethicae suae,
+          ubi fere dicit ista, et praecipue concordat cum Eustratio et Michaele Ephesio, qui fere in
+          hunc sensum exponunt <name ref="#Aristotle">Aristotelem</name> ibidem. Colligitur enim ex
+          his, quod intellectus agens tribus modis conjungitur nobis, licet in se et secundum
+          essentiam suam sit separatus : a natura enim conjungitur ut potentia et virtus quaedam
+          animae, sed faciendo intellecta speculata conjungitur ut efficiens : et ex his duabus
+          conjunctionibus non est homo perfectus ut operetur opus divinum : tandem conjungitur ut
+          forma, et causa conjunctionis ejus est intellectus speculativus : et ideo oportet esse
+          speculativum ante adeptum : et tunc homo perfectus et divinus effectus est ad suum opus in
+          quantum homo et non in quantum animal est perficiendum : et sunt gradus in intellectu
+          speculativo quibus quasi ascenditur ad intellectum adeptum, sicut per se patet cuilibet.
+          In hoc autem modo prior est potentia intellectus quam actu intellectus : et hoc est quod
+          saepe superius diximus, quod possibilis prior est tempore in unoquoque individuo, quod
+          habet utrumque intellectum : sed actu autem dictus intellectus est simpliciter prior. Et
+          hoc usu patet, quod intellectus agens prout est adeptus ut forma ingreditur ab extrinseco
+          in homine, ut dicit <name ref="#Aristotle">Aristoteles</name> in XVI libro Animalium.</p>
+        <p xml:id="admda-l3t3c11-d1e164">Ex his facile patet omnium dubitationum solutio. Quod enim timuerunt quidam in hac
+          scientia, quod videlicet ex corruptibili et generabili secundum dicta fieret unum : cum ex
+          agente et speculativo et possibili fiat unum sicut dicto modo sicut ex materia et forma :
+          nos vero <cb ed="#B5" n="b"/>
+          <!-- 387 b --> non in totum verum esse dicimus, quod possibilis sit corruptibilis, sed
+          potius separatum et incorruptibilem, sicut separatus et incorruptibilis est intellectus
+          agens, sicut patuit ex prius habitis. Licet autem speculativus sit generatus ex potentia,
+          attamen, sicut superius diximus, ex subjecto eo quod possibilis intellectus non habet
+          aliquam transmutationem, nec omnino fit unum sicut ex tribus sicut ex materia, sed solus
+          possibilis intellectus est non quidem materia, sed ut materia quaedam : ad ipsum autem
+          unitur agens sicut lumen ad diaphanum, et speculativus unitur et comparatur ad possibilem
+          sicut instrumentum : comparatur autem ad agentem sicut minus formale recipiens actum et
+          virtutem a magis formali : quandocumque enim duo comparantur ad unum sicut ad materiam,
+          unum illorum est forma simpliciter, et alterum est quasi instrumentum et imperfectum :
+          propter hoc est deductus in rationem alicujus materialis : et ideo cum tam agens quam
+          speculativus intellectus comparantur ad possibilem intellectum, agens erit simpliciter
+          forma, et speculativus erit non simpliciter forma, sed ut instrumentum : nisi enim ita
+          ponamus, non evademus objectionem inductam contra <name ref="#Avicenna">Avicenna</name>m,
+          quia cum agens sit una et simplex essentia, non potest esse causa distinctarum specierum
+          in speculando : et ideo speculativus est ut instrumentum ejus ad distinguendum intellectum
+          possibilem. Dicet autem corruptibile non sit vere materia ejus quod est incorruptibile, eo
+          quod sequeretur quod corruptibile efficeretur incorruptibile, tamen factum esse potest
+          materiale sicut instrumentum est corruptibile, sicut virtutum coelestium sunt instrumentum
+          virtutes elementales corruptibiles. Patet igitur solutio quaestionis et omnium dubiorum.
+          Mirabilis autem et optimus est iste status intellectus sic adepti : sic per eum enim homo
+          fit similis quodammodo Deo, eo quod potest operari sic divina et largiri sibi et aliis
+          intellectus divinos et accipere omnia <pb ed="#B5" n="388"/> <cb ed="#B5" n="a"/>
+          intellecta quodammodo. Haec igitur dicta sunt ad praesens de solutione istius quaestionis.
+          <name ref="#Aristotle">Aristoteles</name> autem distulit eam usque ad X Ethicae suae ad
+          solvendum. Est autem sciendum quod ille solus in veritate modus est, quo omnes homines
+          naturaliter scire desiderant : quia isto solo modo homo est homo et operatur quae sunt
+          hominis. Vide enim eos qui sic intellectum non sunt adepti, si dicas aliquid de
+          contemplabilibus, non intelligunt plus quam bestiae quae in singularium semper remanent
+          cognitione.</p>
+        <p xml:id="admda-l3t3c11-d1e183">Quod autem quaeritur, utrum intellecta maneant apud intellectum quando actu illa non
+          considerat, sicut dicit <name ref="#Avicenna">Avicenna</name>, per rationes superius
+          inductas nos judicamus esse verum : quia cum medium conjunctionis possibilis ad agentem
+          sint speculata, oportet ipsa manere, aut extrema dividentur : bene tamen concedimus quod
+          ipsa non est diffinita per tenere, neque etiam percipere sicut virtutes corporales : sed
+          potius cum anima intellectualis sit ut locus specierum universalium, remanent universalia
+          speculata apud intellectum sicut in loco suae generationis. Quod autem objicit, quod nihil
+          exigitur ad speculari secundum actum nisi formam actu esse intellectam, dicendum videtur
+          quod magis libera est anima rationalis quam sensibilis : in sensibili autem aestimativa et
+          phantasia libera est imaginari cum voluerit, etiam quando imago est apud nos : et ideo
+          licet species sint sicut in loco in intellectu, avertitur tamen ab eis quando vult, et
+          convertitur ad eas quando voluerit : cum autem haec sit conjunctio intellectus adepti cum
+          homine, oportet scire quod quidam nobilioris animae existentes quasi omnia quaerenda in
+          philosophia quasi per seipsos facile intelligunt, sicut dicebatur de Hippocrate : et horum
+          est intellectus sanctus vocatus a Philosophis, eo quod plurimum possibilis eorum
+          intellectus accedit ad intellectum verum qui est agens. Haec autem aptitudo vera vocatur
+          subtilitas : ex adepto vero subita inventio medii ter<cb ed="#B5" n="b"/>
+          <!-- 388 b -->mini, quod est causa quaesiti, vocatur solertia, quae una est virtutum
+          intellectualium. Quando autem adeptus quasi totus est perfectio luminis agentis, ita quod
+          per se facit intellecta, tunc ille proximus est ad cognoscendum futura ex praesentibus.
+          Etiam illi frequenter efficiuntur prophetae : quando enim duo extrema habent conjungi per
+          gradum, tunc multi gradus tam ex aptitudine naturae quam ex speculatione medii inveniuntur
+          : et secundum horum diversitatem et nobilius et minus nobiliter conjunguntur extrema.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

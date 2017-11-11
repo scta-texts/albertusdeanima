@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t2c12">
+        <head xml:id="admda-l3t2c12-Hd1e128">CAPUT XII.</head>
+        <head xml:id="admda-l3t2c12-Hd1e131" type="question-title">Et est digressio declarans veram sententiam de omnibus inductis
+          dubiis Peripateticorum.</head>
+        <p xml:id="admda-l3t2c12-d1e134">Omnibus autem his habitis, videtur esse dicendum cum Peripateticis, quod intellectus
+          possibilis est immixtus et separatus et impassibilis, et non hoc aliquid. Sed qualiter hoc
+          sit ut melius intelligatur, <name ref="#Avicenna">Avicenna</name>e dicta accipiamus, quae
+          Aristoteli plus concordant, quoniam anima rationalis non est intellectus possibilis, sed
+          intellectus possibilis una ejus pars est : et hoc sensit <name ref="#Aristotle">Aristoteles</name> quando dixit : "De parte autem animae qua cognoscit et sapit anima".
+          Et vocavit intellectum partem animae et non totam animam rationalem. Quales autem partes
+          habeat anima, supra expeditum est in secundo libro hujus scientiae. Dicimus igitur animam
+          illam quae perfectio hominis est et rationalis vocatur, esse totum quoddam et esse quamdam
+          essentiam incorpoream in animae potestate completam : et ideo habet in se potestatem vitae
+          sensitivam, et potestatem vitae vegetativam, et potestatem vitae agendi opera
+          intellective, et ipsa est una in substantia uniens in se omnes istas potestates naturales
+          sibi : et hoc licet supra probatum sit, tamen adhuc volumus hoc inferius certius et
+          fortius ostendere, eo quod supra multa de solutione dubiorum introductorum nobis videntur
+          esse fundata. Haec igitur substantia habet quasdam virtutes ex ipsa fluentes quae sunt
+          virtutes incorporeae : et hoc convenit ei ex hoc quod ipsa est inter omnes naturales
+          formas propinquior et similior intelli<pb ed="#B5" n="350"/> <cb ed="#B5" n="a"/>gentiae :
+          et ideo multas habet virtutes intelligentiae separatae convenientes : et hujusmodi simile
+          videmus in omnibus in formis, quae propter nobilitatem suae materiae, quasi posse totum
+          sumunt agentis : ignis enim si invenit materiam subtilem aridam et aereae humiditatis
+          multum habentem, operatur in ea proprietates ignis plurimas, scilicet lucem, et calorem,
+          et alia. In materiis autem magis dissimilibus sibi negligit lucis purae operationem, et
+          operatur flammam fumosam et calorem, et in quibusdam nihil de flamma, sed calorem tantum
+          et fumum. Similiter est de anima quam operatur agens primum animae in corpore humano, quod
+          maxime recedit ab excellentia contrariorum, et appropinquat aequalitati coeli, agens
+          primum simillimam sibi formam operatur, quae non tota immixta potest esse materiae, sed
+          multas habebit virtutes non immixtas : et in hoc consentimus Alexandro, sed differimus ab
+          ipso in hoc quod ipse ponit animam generari ex elementorum mixtura, nos autem dari et
+          produci ab agente extrinseco, sicut vulgatum est apud Peripateticos omnes, quod anima
+          rationalis sola inter formas naturales ex materia non educatur, sed detur ab extrinseco :
+          quia similitudo separatae substantiae est quae agit eam, ideo ex maxima sua potestate
+          separata est, et nullo modo juncta et umbrata materiam corporis. Licet autem sic dicamus
+          intellectum esse separatum, tamen anima est conjuncta per alias virtutes suas, quae sunt
+          naturales sibi in quantum est corporis perfectio : et ideo licet intellectus secundum se
+          sit separatus, tamen intellectus est potentia conjuncti : quoniam est potestas animae quae
+          secundum potentias quasdam conjungitur corpori : omne autem tale quod est conjuncti et non
+          est ejus secundum quod est conjunctum, licet non communicet corpori, tamen communicat
+          communicanti corpori : et hoc est quod supra diximus, <cb ed="#B5" n="b"/>
+          <!-- 350 b --> <choice> <orig>quodi ntellectus</orig> <reg>quod intellectus</reg>
+          </choice> communicat non corpori, sed potestati quae communicat corpori, scilicet
+          phantasiae et imaginationi et sensui : et ideo secundum veritatem anima est una numero, et
+          efficitur una numero : quia per naturales potestates communicat corpori. Quia tamen in
+          essentia sua et perfectiori potestate non communicat corpori, ideo habet potestates
+          absolutas a corpore. Hoc autem est videre in omni essentia nobili et in formis
+          corporalibus. Sol enim unus est numero per materiam suam, et tamen lux sua non est
+          determinata ad unum numero eorum aliquod quae agit : est enim solis virtus indeterminata
+          et universalis in agendo vitam in omnibus et generationem, et determinatur conjuncta huic
+          particulari agenti, vel illi : et sic est in omni substantia nobili. Et haec est causa
+          dicti Philosophi, quod omnis anima tres nobilis habet operationes, divinam, et
+          intelligentiae operationem, et illam quae est animae propria.</p>
+        <p xml:id="admda-l3t2c12-d1e161">Hac autem via electa de omnibus viis probabilioribus dictis omnia dubia solvuntur. Quia
+          quando dicitur, quod intellectum possibilem oportet esse absolutum duplici absolutione,
+          dicimus nos quod non potest esse absolutus ab omni eo quod est : quia et sic nihil esset
+          omnino nisi potentia pura, et illa in rerum natura nihil est : intellectum ergo possibilem
+          secundum hoc in rerum natura nihil esse confiteremur, quod est omnino absurdum. Et ideo
+          consentio Avicebron in hoc quod sua potentia per formam intellectualis naturae terminatur
+          ad ens unum in mundo, et in natura est determinata : sed dissentio in hoc quod non videtur
+          mihi sua potentia esse materiae potentia, et sua natura esse materiae natura, sed
+          aequivoca ad ipsam. Intellectus autem illius probationis quae inducta est, quod id quod
+          est in potentia omnia fieri, oportet absolutum esse, est quia oportet eum absolutum esse a
+          formis eorum quae sunt : licet enim intelligat seipsum, ta<pb ed="#B5" n="351"/> <cb ed="#B5" n="a"/>men inferius ostendemus quod non oportet eum esse absolutum a natura sua
+          propria, quae determinat eum in ens unum in numero entium mundi. Sic igitur intellectus
+          est et unus eorum quae sunt per substantiam animae in qua est, qua individuatur ad corpus
+          per suas potentias communicantes corpori, et determinatur in potestate ab aliis animae
+          potestatibus divisa per intellectualitatem, per quam alia vitae opera peragit quam aliae
+          potentiae, et remanet universalis et immixtus et non determinatus ad hoc aliquid per
+          comparationem intelligibilium. Et de hoc bonum simile ponit <name ref="#Averroes">Averroes</name> de medio in tactu, quod privatum est excellentiis tangibilium et
+          separatum ab eis, eo quod potentia est omnia illa : et tamen non absolutum est ita quod
+          nullo modo sint in ipso formae tangibiles, quia sunt in ipso prout ad medium sunt
+          reductae. In hac autem sententia nobiscum conveniunt et <name ref="#Averroes">Averroes</name> et <name ref="#Avicenna">Avicenna</name>, et plures alii Peripateticorum.
+          Sic igitur intellectus possibilis dicitur esse separatus : immixtus autem, eo quod non est
+          mixtus corpori sicut forma corporis, aut sicut virtus organica operans in organo corporis
+          : sicut enim jam diximus, intellectus est virtus substantiae verissime existentis quae est
+          anima rationalis, quae licet non permixta corpori praedictis duobus modis, tamen est
+          habens virtutes quasdam permixtas corpori : sed intellectus est virtus ejus non secundum
+          quod commiscetur corpori, sed potius secundum quod ipsa est imago intellectus primi
+          agentis et dantis animam rationalem : et ideo impossibile est quod intellectus sit corpori
+          permixtus : et ideo etiam agere non potest instrumento corporeo. Istae autem duplices
+          virtutes sunt naturales animae rationali, secundum quod ipsa est media aeternitatis et
+          temporis et in horizonte constituta, sicut diximus supra. Et ideo dicit Isaac Philosophus,
+          quod est creata <cb ed="#B5" n="b"/>
+          <!-- 351 b --> in umbra intelligentiae : est enim ipsa umbra et vestigium quoddam et
+          resultatio intelligentiae separatae : propter quod quidam Philosophi dixerunt, quod creata
+          esset ab intelligentiis : sed de hoc inferius determinabimus postquam de partibus animae
+          exsequemur. Jam igitur patet intellectus horum trium quae attribuuntur intellectui
+          possibili, quod scilicet est separatus, et immixtus, et non hoc aliquid determinatum.</p>
+        <p xml:id="admda-l3t2c12-d1e182">Quartum autem est quod dicitur esse impassibilis. Et hoc dubitationem habet ex eo quod
+          dicimus intellectum esse de numero virtutum passivarum, et aliquando esse in actu,
+          aliquando esse in potentia. Sed ad hoc nos dicimus, quod intellectus speculativus qui est
+          forma speculativa in intellectu possibili, in duplici est potentia, quarum una est
+          secundum comparationem ejus quod intelligitur ad particulare in quo ipsum non est nisi in
+          potentia : quia particulare non nisi secundum potentiam habet in se universale, et
+          secundum exitum illius potentiae ad actum habet vices et tempus intellectus et
+          transmutationem, et quoad hoc est passibilis. Alio autem modo in potentia est secundum
+          comparationem ad intellectum possibilem, in quo est universale in actu intellectum, et in
+          isto non est nisi sub actu et forma intelligibilitatis : et hanc habet a luce perpetui
+          intellectus qui est agens : sicut colores esse formale quo movent visum, habent a luce
+          corporali : et quando sub luce istius intellectus unitur universale intellectui possibili,
+          non unitur ei sicut organo sicut fit in formis sensibilibus, sed unitur ei sicut
+          determinato : quia habitus connaturalis intellectui possibili qui est intellectualitas,
+          qua possibilis intellectus vocatur et est natura intellectualis, ejusdem naturae est cum
+          intelligibilibus in quantum sunt intelligibilia : sed sua intellectualitas est confusa et
+          indeterminata : determinatur autem sicut po<pb ed="#B5" n="352"/> <cb ed="#B5" n="a"/>tentia per actum, et sicut perficitur indeterminatum per determinatum, et ideo
+          intelligibile cum intellectu possibili non fit unum sicut subjectum et accidens sunt unum,
+          quia accidens non est perfectio subjecti : nec etiam est unum sicut materia et forma sunt
+          unum, quia forma non perficit materiam nisi secundum esse et distincta et divisa :
+          universale autem est indistinctum et indivisum, et non perficit ad esse, sed potius est
+          principium cognitionis eorum quae sunt : alioquin oporteret nos dicere quod intellectus
+          esset lapis quando intelligit lapidem, et asinus quando intelligit asinum : et in hac
+          sententia convenit nobiscum <name ref="#Averroes">Averroes</name> in commento de Anima, et
+          sic universale comparatur intellectui : ideo speculativus intellectus ex subjecto quod est
+          intellectus possibilis, non habet aliquam transmutationem nec passionem veram. Et sic
+          soluta est prima quaestio de tribus inductis quaestionibus, scilicet quomodo potest esse
+          quod agens est substantia stans, et similiter possibilis : et tamen speculativus sit
+          factus et mutabilis.</p>
+        <p xml:id="admda-l3t2c12-d1e193">Et ex isto intelligitur, quod vere dictum est, quod sicut se habet sensus ad sensibilia,
+          ita intellectus ad intelligibilia, non quidem quoad organum sensus, quia organum unitur
+          formae sensibili sicut subjectum accidenti, si tamen vere accidens dici debet intentio
+          sensibilis quae est in organo, quoniam secundum veritatem non est ens, sed est aliquid
+          entis non secundum esse entis naturae, sed secundum esse abstractionis, sicut patet ex
+          supra determinatis : sed est similitudo inter sensum comparatum ad sensibilia et
+          intellectum comparatum ad intelligibilia quoad ipsam virtutem sensus sine organo
+          consideratam et ad sensibilia comparatam : superius enim diximus quod prima et principalis
+          forma sensitiva quae est sensus communis, comparatur ad ista sicut determinata ad ipsa :
+          et sic est comparatio intellectualitatis possibilis ad universalia sicut ad <cb ed="#B5" n="b"/>
+          <!-- 352 b --> quae determinatur ejus formalis intellectualitas : et ideo diximus in VII
+          Physicorum in intellectualibus nullam esse alterationem, sed potius perfectionem
+          indeterminatam materiam finientem. Universale autem sic ad duo subjecta comparatum duplex
+          habet esse : secundum enim quod comparatur ab subjectum in quo est in potentia, et a quo
+          abstrahitur, facit intellectum verum, quia veritas est adaequatio rerum et intellectuum :
+          secundum autem quod comparatur ad intellectum possibilem, in quo est sicut determinans in
+          determinato, et actus in potentia, sic habet esse unum entium in mundo : quia universale
+          ut universale non habet esse extra animam. Cum autem dicitur a Philosophis, quod
+          universale est actus et intellectus, et intellectus possibilis est in potentia, non potest
+          ex hoc inferri quod intellectus possibilis sit materia et universale sit forma : quoniam
+          supra ostendimus ex <name ref="#Aristotle">Aristotelis</name> sententia, quod forma sensus
+          communis indeterminata, formalior est determinantibus ipsum, et est una secundum formam et
+          plures secundum materiam. Et similiter est in intellectibus speculativis : omnes enim unum
+          sunt secundum formam intellectualitatis, et multi sunt secundum determinantia : quia
+          universale non determinatur nisi secundum comparationem ad id cujus est universale, et a
+          quo abstrahitur per intellectum : uniens autem multa in actu non semper est magis formale
+          unitis. Et ex hoc ulterius patet intellectus verbi in quo conveniunt probatiores
+          Peripatetici, quod scilicet speculativi intellectus sunt unum secundum quod intellectus
+          sunt et non multiplicantur nisi secundum comparationem ad ea quorum sunt intellectus.
+          Tantum igitur dictum in determinatione dicti Anaxagorae quod intellectus est separatus, et
+          immixtus, et non hoc aliquid, et impassibilis.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VI.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VI.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t3c6">
+        <head xml:id="admda-l3t3c6-Hd1e128">CAPUT VI.</head>
+        <head xml:id="admda-l3t3c6-Hd1e131" type="question-title">Qualiter intelliguntur divina quae sunt separata : in quo est
+          digressio declarans hoc quod dixit Alexander, et improbationem ejusdem erroris.</head>
+        <p xml:id="admda-l3t3c6-d1e134">His autem habitis, sciendum quod illud est res intelligens per suam essentiam solum, quod
+          est intellectus omnino, et universaliter est intellectus in actu semper existens, et hoc
+          est intellectus et intelligentia omnino separata : et ideo nequaquam in potentia existens,
+          sed semper in actu, non solum habens, sed etiam faciens de se omnia intelligibilia, et
+          nihil eorum quaerit extra seipsum secundum quod intellectus est. Sed est quaestio de
+          nostro intellectu qui conjunctus est magnitudini sensibilium, sicut dictum est, eo quod
+          non accipit nisi formas abstractas a magnitudine, utrum nunquam contingat ipsum
+          intelligere aliquod sic separatorum a magnitudine vel non ? Si enim contingit ipsum
+          intelligere separata, tunc non semper accipitur a phantasmatibus et a magnitudine, sed
+          conjungitur intelligentiae separatae, danti sibi formas intelligibiles. Quod duobus modis
+          esse potest, quod videlicet conjungatur ei sicut efficienti et formae. Et si isto secundo
+          modo esset conjunctus materialis noster intellectus agenti intelligentias separate, tunc
+          haec esset major felicitas et divinitas quaedam quam intellectus humanus consequi posset.
+          Et <name ref="#Aristotle">Aristoteles</name> promittit se de ista quaestione
+          considerationem habere posterius, et nos non invenimus eum considerasse de his in aliqua
+          parte libri sui de Anima, nisi forte hoc exciderit a libris suis qui ad nos nondum per<cb ed="#B5" n="b"/>
+          <!-- 378 b -->venerunt. Si autem obscure potest haberi de libris ejus, tunc, sicut dixit
+          Alfarabius, inchoatum habetur ab eo solutum, ubi, ut videtur hoc esse quod dicit de
+          felicitate contemplativa.</p>
+        <p xml:id="admda-l3t3c6-d1e144">Nos autem propter doctrinae bonitatem, quantum Deus in his donare dignabitur, hic volumus
+          perscrutari, ut omnes simul determinemus operationes intellectus : sed volumus primo
+          ostendere dicta Peripateticorum in hac quaestione, et postea sententiam nostram : et
+          ostendemus in quo convenit, et in quo differt a dictis aliorum Peripateticorum : et quia
+          inter Peripateticos qui persecuti sunt <name ref="#Aristotle">Aristotelem</name>,
+          praecipuus, ut multi dixerunt, fuit Alexander, referamus igitur primo qualiter ipse istam
+          quaestionem determinavit. Dixit enim intellectum possibilem esse generabilem cum corpore
+          hominis et corruptibilem, eo quod esset forma et virtus in corpore, sicut superius
+          diximus, quia intellectus secundum eum non est aliud quam praeparatio ad intelligibilia
+          suscipienda et aptanda, sicut rasura tabulae et plana est aptitudo ad recipiendum
+          picturam, et non est substantia in se ens sicut est tabula, sed est tantum aptitudo ad
+          intelligibilia consequens conclusionem elementorum inter omnes complexiones magis
+          aequalem, et ad aequalitatem coelestem magis per similitudinem vicinantem. In hac autem
+          aptitudine facit formas primo intellectus agens, qui secundum istum est intelligentia
+          separata et non pars animae existens, et quamdiu tantum facit esse in actu educendo eam de
+          potentia ad actum, non conjungitur intellectui possibili nisi sicut efficiens, et facit
+          sic inesse intellectum speculativum, quem etiam dicit generabilem et corruptibilem in
+          nobis, quando perficitur ad plenum intellectus possibilis, et habet intellectum
+          speculativum, tunc demum con<pb ed="#B5" n="379"/> <cb ed="#B5" n="a"/>jungitur et
+          intellectus agens sicut forma : et hunc quidem nunquam intelligit intellectus possibilis,
+          sed cum post omnia intellecta conjungitur nobis ut forma, tunc nos per ipsum intelligimus
+          omnia alia separata, et habemus scientiam ipsorum. Redit ergo dictum istius hominis ad hoc
+          quod ex phantasmatibus acceptus continuatur et unitur nobis intellectus speculativus, et
+          multo lumine speculatorum, quod lumen largitur ejus intellectus agens ut agens, disponitur
+          continue melius et melius intellectus possibilis. Et sic continue speculando tandem unitur
+          ei ut forma, et intellectus agens qui est substantia separata dicta nobis unita : et quia
+          substantia separata intelligit alia separata, ideo tunc per agentem unitum nobis
+          intelligimus alia separata. Adhuc autem induxit rationem quae non est demonstrativa :
+          dixit enim quod duae sunt operationes intellectus, quarum una est facere et quasi creare
+          formas actu intellectas ex potentia intelligibilibus : et hoc nihil aliud est nisi
+          denudare eas et facere simplices a materia et caeteris individuantibus eam : alia autem
+          est intelligere : et prima istarum operationum est propter secundam. Et ideo cum perfectae
+          sint istae duae operationes in nobis, tunc perfectus est intellectus noster. Est autem
+          perfecta operatio prima, quando intelligibilia omnia facta sunt secundum actum. Operatio
+          autem secunda perfecta est, quando potest omnia intelligere per id quod habet in se homo
+          quasi formaret : hoc autem fit modo praedicto, et erit continuatio et conjunctio nobiscum
+          intellectus agentis, et per eum aliorum separatorum : et hujus dedit exemplum in potentia
+          ambulandi : quoniam dicitur tunc perfecta in ambulantibus, quando fuerit confortata ad
+          quamlibet ambulationem perficiendam secundum actum : et hoc fit successive per organorum
+          confortationem et ambulationis usum. Similiter autem dixit esse, quod intellectus continue
+          confortatur et disponitur ad majus lumen recipiendum <cb ed="#B5" n="b"/>
+          <!-- 379 b --> per intelligibilia, et sic confortatus perficit separatum agentem ut formam
+          : et hunc modum vocavit intellectum adeptum qui est ultimus gradus intellectivae potentiae
+          : per adeptum autem intelligit separata.</p>
+        <p xml:id="admda-l3t3c6-d1e158">Ecce haec est quaestio Alexandri secundum quod potest intelligi ex verbis ejus in libro
+          suo de Anima, et in libro suo de Intellectu et intellecto : et haec est opinio erroribus
+          plena, et ad ipsam plura sequuntur inconvenientia : et horum quaedam ponit <name ref="#Averroes">Averroes</name> contra eum, et quaedam nos inducemus. <name ref="#Averroes">Averroes</name> vero supponit quamdam suppositionem esse veram : et hoc
+          est quod intellectus omnibus modis efficitur intellectus, et hoc praecipue in rebus
+          separatis a materia, quae si non sit prius intellecta et verificata, non intelligerentur
+          rationes ejus. Est autem sic verificanda : quoniam, sicut superius diximus vel ostendimus,
+          intellectus omnis est forma, quae medietas est intellectorum, sicut medietas in tactu
+          medium est tangibilium : et ideo sicut quando tangibile secundum actum immutat tactum,
+          efficitur qualitas tangibilis et tactivae virtutis una, propter hoc distinguitur tactus et
+          determinatur per qualitatem rei tactae : ita est, quod una efficitur intellectualitas rei
+          intellectae : et ideo diximus superius, quod intellectus tactus et intellectus rei sunt
+          unum, non sicut subjectum et accidens, nec sicut materia et forma, sed sicut ea quae
+          aliquo modo sunt ejusdem formae sicut determinans et determinatum. Sic se habet omnis
+          forma materiae, quando unitur ab extrema, et accipit actum ejus : quia medium est aliquid
+          extremi. Hac autem habita propositione, objicitur contra illud, dicens quod intellectus
+          agens ponatur esse non pars sed substantia separata et incorruptibilis, et speculata
+          ponantur generabilia et corruptibilia, quia intelliguntur a nobis per agentem intellectum
+          quando fuerit nobis ut forma, tunc oportebit quod cum intellectu agente fiant unum : et
+          sic incorruptibile fiat corruptibile, quod est absur<pb ed="#B5" n="380"/> <cb ed="#B5" n="a"/>dum et non intelligibile. Est autem inconveniens omnino dicere incorruptibile et
+          separatum fieri formam corruptibilis et separati corporei. Ponit enim iste intellectum
+          possibilem esse corporeum et conjunctum et corruptibilem, et agentem esse incorruptibilem
+          et separatum et incorpoream substantiam, et modo praedicto ingredi eam in nos, et hoc esse
+          quod dicit <name ref="#Aristotle">Aristoteles</name> quod ingreditur ab extrinseco. Multa
+          sunt impossibilia quae sequuntur ad hoc, quod dicit intellectum possibilem esse formam
+          corporis ut in superioribus induximus. Patet autem facile ex dictis, quod iste nullam
+          veram causam assignare potest quaestionis inductae quae solvat eam : quia nullo modo
+          videtur uniri posse incorruptibile et incorporeum et separatum cum corpore separato
+          corruptibili et conjuncto : quia omnino redit dictum suum ad hoc quod aut recipitur de
+          novo, aut non recipitur. Si recipitur, tunc oportet quod fiat immutatio aut recipientis,
+          aut recepti, aut utriusque. Constat autem quod Alexander non potest dicere, quod sit in
+          recepto : quia hoc secundum eum est impermutabile et necessarium : et ex hoc etiam patet
+          quod non sit transmutatio in utroque : si autem est transmutatio in recipiente, tunc
+          oportet quod recipiens fiat substantia quaedam quae inerat prius quando unitur ei sicut
+          forma materiae : et tunc quaeritur ab eo quid est causa hujus transmutationis et
+          receptionis, et non poterit assignare. Si autem dicat aliquis, quod Alexander intelligit
+          quod intellectus agens semper est in nobis, tunc sequitur inconveniens majus cum semper
+          agat intellectus universaliter agens, statim phantasmatibus praesentibus aget intellectus
+          speculativus : et sic habebimus omnes scientias speculativas sine studio et sine doctore :
+          et erit unus modus intellectus agentis in nobis et ante speculationem : et hoc concipimus
+          esse falsum. Ista vero consecutio impossibilis videtur esse necessaria per hoc quod ad
+          intellectum speculativum nihil amplius exigitur nisi <cb ed="#B5" n="b"/>
+          <!-- 380 b --> praesentia agentis, et praesentia phantasmatis, et subjectum intellectus
+          possibilis. Haec sunt quae dixit Alexander et quae contra eum inducuntur.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

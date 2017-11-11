@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XIII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XIII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c13">
+        <head xml:id="admda-l2t3c13-Hd1e128">CAPUT XIII.</head>
+        <head xml:id="admda-l2t3c13-Hd1e131" type="question-title">De medio visus, et quot modis dicatur visibile : in quo etiam
+          est de his qui aspiciunt lumen.</head>
+        <p xml:id="admda-l2t3c13-d1e134">Videtur autem forte alicui quod lumen sit contrarium tenebris : quod tamen non est
+          absolute verum, quia contraria sunt duae formae contrariae : tenebrae autem non sunt
+          forma, sed potius privatio luminis ex lucido : cum enim perspicuum non habet habitum
+          luminis, tunc sunt tenebrae. Hujus autem habitus potentia <pb ed="#B5" n="257"/> <cb ed="#B5" n="a"/> in perspicuo est lumen : et ideo Empedocles et quicumque alius dixit ut
+          ipse, non recte dixit, quod scilicet feratur lumen motu locali de coelo in terram : et
+          tunc per motum localem et reflexiones extendatur in hemisphaerio toto, quod est inter
+          terram et continens coelum, et nos lateat motus ille propter velocitatem : hoc enim omnino
+          extra rationem est : quia si etiam concesserimus quod feratur lumen, et sit corpus,
+          quemadmodum dicebat Empedocles, non admittat ratio tradita in Physicis de velocissimis
+          mobilibus, quod ferantur in tempore imperceptibili per tantum spatium, cum corpus primum
+          non feratur per unicum gradum nisi in tempore satis perceptibili. Est autem etiam hoc
+          contra ea quae videntur oculis : quia bene videmus quod aliquid est cujus motus in parvo
+          spatio est in tempore perceptibili. Sed magna quaestio est apud nos si aliquid possit
+          moveri in tempore imperceptibili ab Oriente in Occidentem, sicut superius ostendimus : et
+          ideo pro certo radius et lumen non sunt nisi formae, et non corpora, quae non nisi
+          metaphorice et per accidens moveri dicuntur, sicut et tenebrae et umbra quae luminis sunt
+          privationes : et de quibus constat quod non sunt corpora.</p>
+        <p xml:id="admda-l2t3c13-d1e141">Hoc autem lucidum secundum quod est actu illuminatum, est coloris susceptivum, secundum
+          quod superius diximus, secundum quod nullum habet actu colorem : quia, sicut superius
+          diximus, lumen non est color, sed potius actus perspicui secundum quod est susceptivum
+          coloris, et ideo non color actu : quare quod privatum est colore, est susceptivum coloris,
+          sicut soni susceptivum est absonum, privatum scilicet sono : ideo enim diaphanum potest
+          recipere omnem colorem, quia nullum habet actu, sed omnes in potentia : et quia proxima
+          potentia est ad colores et ad lumen, ideo utrumque suscipit subjecto, sicut supra diximus.
+          <cb ed="#B5" n="b"/>
+          <!-- 257 b --> Non color tamen quod est privatum colore, dupliciter dicitur : lucidum enim
+          sive perspicuum aliquando dicitur privatum colore, eo quod nullum actu, sed potentia
+          habeat omnes. Dicitur autem etiam privatum colore sive non color, eo quod est per se
+          invisibile : et hoc dicitur multipliciter, scilicet quod nullo modo videtur per se, sicut
+          tenebrae : aut quod vix videtur, sicut atomi discurrentes in radiis, qui non videntur cum
+          aliquis oculos in radio ipso teneat, eo quod tunc radius divaricat visum et superat ipsum,
+          eo quod non potest adunare virtutem suam ut minima perspiciat. Aliquando autem dicitur
+          invisibile sive privatum colore, quod non nisi cum corruptione visus videtur, sicut lux
+          solis in sphaera solis est invisibilis. Et hujus causa est, quia lux solis fortissima
+          super oculum sphaericum et politum multas facit radiorum reflexiones ad medium oculi, ubi
+          est humor glacialis, in quo sigillantur formae visibilium : et reflexio illa calefacit et
+          dissolvit humorem illum, et forte consumit, vel forte fluere facit humidum alienum
+          dissolutum circa oculum infra myringas et tunicas oculi : et tunc generat maculam in
+          oculo, vel aliud impedimentum visus inducit : et haec est causa quare lachrymantur oculi
+          quando excellens lucidum viderit aliquis : et ideo dicitur hoc invisibile. Erodius autem
+          de quo dicitur, quod respicit lucens in rota solis non potest hoc habere ex suo oculi
+          puritate, ut quidam aestimant : quia ex hac sola causaretur velox oculi corruptio, sicut
+          patet ex ratione inducta, sed habet hoc ex visus coadunatione. Coadunantia autem visum non
+          sunt nisi duo : unum per se, aliud per accidens. Per se quidem nigrum quod non sinit ipsum
+          disgregari. Et ideo terrestre nigrum circumpositum humori glaciali, adunat ipsum :
+          frigiditas enim ipsius humoris naturalis constringit, et non sinit dissolvi. Aliud autem
+          per accidens coadunat visum, et est situs profunditas in organo. Et haec duo in oculis
+          avis illius majora sunt, et ideo lu<pb ed="#B5" n="258"/> <cb ed="#B5" n="a"/>cem in rota
+          solis intuetur : non tamen puto quod diu hoc possit facere. Signum autem hujus est, quod
+          natura oculos in omnibus habentibus visum profundat quasi clausos in vase, et circumponit
+          nigredinem palpebrarum et superciliorum, ut ex obscuro fronte et nigredine superciliorum
+          visus coadunetur et fortificetur. Adhuc autem hujus signum est, quod si homo crystallum
+          super argentum vivum fervens ponat, et diu motum argenti vivi sub crystallo vel vitro
+          intueatur, multum laeditur visus ejus, et forte excaecabitur propter visus divaricationem.
+          Similiter autem si inspiciat aurum politum, vel aliquid aliud fulgens, quod est vel sit
+          ignitum : et hoc totum fit, quia humor glacialis et nivalis ex talibus dissolvitur et
+          fluit, et amittit propriae complexionis habitudinem.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

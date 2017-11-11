@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t4c7">
+        <head xml:id="admda-l3t4c7-Hd1e128">CAPUT VII.</head>
+        <head xml:id="admda-l3t4c7-Hd1e131" type="question-title">Quod omnia moventia sunt unum specie et diversa numero, et ad
+          quem numerum, et ad quam speciem.</head>
+        <p xml:id="admda-l3t4c7-d1e134">Quoniam autem appetitus aliquando sunt contrarii ad invicem propter contrarietatem boni,
+          et ad bonum simpliciter, accidit quaedam pugna et contrarietas in mentibus, ex hoc quod
+          ratio decernens motum, contraria est desiderio sensibili, quod impetum facit per motum in
+          appetibile quod videtur bonum : haec autem contrarietas appetituum fit in animatis quae
+          sensum habent per intellectum. In talibus enim intellectus aliquando praecipit retrahere
+          ab electione sensibili : desiderium autem impetum facit et praecipit motum fieri per
+          ipsum, quod jam delectabile est, eo quod nunc videtur ut nunc illud esse dulce. Et quod
+          dulce est, ideo accipit hoc ut simpliciter bonum, et simpliciter delectabile : et hoc
+          contingit, quod non videt jam quod solum facit delectabile, hoc est praesens tempus : si
+          enim acciperet quod praesentia ut nunc tantum facit delectationem, ut delectaret praesens
+          ad futurum et futurum ad praesens et cognosceretur non esse praesens bonum simpliciter :
+          hoc autem non facit appetitus, sed prolabitur in praesens ac si sit simpliciter bonum : et
+          sic patet quod ut simpliciter bonum et appetitum et intellectum, sed ut simpliciter bonum
+          movens intellectum est simpliciter bonum secundum rei veritatem, sed ut simpliciter bonum
+          movens appetitum, <cb ed="#B5" n="b"/>
+          <!-- 404 b --> aliquando non est bonum simpliciter, sed videtur.</p>
+        <p xml:id="admda-l3t4c7-d1e141">Et cum species movens sit in ipso quod movetur, et quoad illum est nunc bonum et
+          simpliciter bonum acceptum : tunc patet quod movens omne erit unum specie, et hoc est
+          appetitivum, et haec assimilare possunt dictis Heracliti, qui dixit omnem rem sic esse
+          prout videtur. Ita enim appetitus movetur in apparens, ac si sit realiter bonum quod
+          apparet bonum. Sic igitur species movens ut movens est una quae est quod videtur bonum
+          simpliciter : et inter moventia quidem animam primum movens est appetibile : et hoc est
+          appetibile primum quod sic movet, quod nullo modo movetur. Movet autem non secundum quod
+          est in re, sed in eo quod est intellectum seu imaginatum : numero autem et subjecto plura
+          sunt moventia, et reducuntur omnia moventia ad tria in genere, quorum unum est movens,
+          alterum quo movetur, et tertium quod movetur. Movens autem duplex est : est enim movens
+          unum videlicet quod movet immobile existens, quod est primo primum movens, alterum autem
+          movet cum et ipsum moveatur. Movens autem immobile quod est primum movens, est actuale
+          bonum, ut diximus superius : movens autem secundum quod movet, cum ipsum moveatur, est
+          potentia appetitiva : omne enim quod appetit secundum quod appetit, movet : cum motum sit
+          ab actuali bono imaginato vel intellecto : et ipse appetitus est actus quidam et motus
+          appetitivae potentiae : quia appetere convenit ei : et appetitus dicitur de potentia et
+          operatione ejusdem. Quod autem movetur per appetitum, est animal cujus est motus
+          processivus in rem quae appetitur secundum quod appetitur. Quo vero appetitur, est organum
+          corporeum appetitus, quo perficitur motus processivus, sicut ala, vel <pb ed="#B5" n="405"/> <cb ed="#B5" n="a"/> pes : et quia talis motus processivus communis est animae et
+          corpori, licet sit ab anima veniens in corpus, ideo in alia scientia ubi inquiremus de
+          communibus operibus animae et corpori, agendum erit de illo, ubi faciemus librum de causa
+          et differentiis hujus motus, quem vocamus processivum.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

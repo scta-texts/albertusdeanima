@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT IX.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT IX.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c9">
+        <head xml:id="admda-l2t3c9-Hd1e128">CAPUT IX.</head>
+        <head xml:id="admda-l2t3c9-Hd1e131" type="question-title">De improbatione opinionis Democriti, qui dixit lumen esse
+          defluxum corporis.</head>
+        <p xml:id="admda-l2t3c9-d1e134">Oportet autem subtilius intrare ad inquirendum de lumine et accipere sententias
+          quaecumque dictae sunt de ipso, ut verius sciatur natura ejus. Sententiae autem de lumine
+          valde differentes et multae sunt, et reducuntur ad quinque. Quarum una antiqui Democriti
+          fuit, qui de omnibus curam habuit, qui dixit lumen esse corpus pervium quod defluit
+          continue a corpore luminoso. Alia autem sententia est, quae dicit lumen esse formam
+          substantialem, quae substantificat quidquid substantificatur in generabilibus et
+          corruptibilibus. Tertia autem dixit lumen esse substantiam spiritualem, non corporalem,
+          quae quasi medium est inter substantiam corpoream et incorpoream. Quarta autem dixit lumen
+          omnino nihil esse secundum se, sed potius aliquid comitans coloratum : dixit enim lumen
+          non esse nisi coloris evidentiam in eo <pb ed="#B5" n="249"/> <cb ed="#B5" n="a"/> quod
+          est coloratum. Has autem omnes opiniones oportet nos tractare, antequam veritatem de
+          lumine secundum nostram intentionem determinare valeamus. Illi autem qui lumen corpus esse
+          dixerunt, duas in sectas se diviserunt. Democriti enim schola tenuit quod lumen esset
+          corpora minutissima, quae continue defluunt a corpore luminoso in corpora transparentia,
+          et conjuncta ubique eorum partibus, illuminant ea, et cadentia super corpora terminata,
+          faciunt colores eorum diversos. Dixerunt alii colorem omnino nihil esse, sed potius atomi
+          cadentes super talia corpora ex diverso situ, ordine, et figura apparent colores diversi,
+          sicut in columbae collo quod ex una parte aspicienti apparet album, et ex alia <choice>
+          <orig>parparte</orig> <reg>parte</reg> </choice> apparet quasi forte saphirini coloris, et
+          ex tertia parte coloris aurei. <choice> <orig>Nostri</orig> <reg>Nostro</reg> </choice>
+          autem tempore surrexit secta, tenens quod lux et lumen est corpus unum quod et situaliter
+          expanditur, aliquando, et aliquando in ipsum colligitur, ita quod efficitur indivisibile.
+          Sententia autem Democriti rationes habuit, quas <name ref="#Avicenna">Avicenna</name>
+          Philosophus ponit, videlicet quia videbat lumen moveri de loco ad locum, et radium
+          descendere a luminoso corpore et intrare per fenestras et exire : haec autem omnia non
+          nisi corporum sunt : et ideo lumen et lucem corpus esse dicebat.</p>
+        <p xml:id="admda-l2t3c9-d1e162">E contra autem dixit <name ref="#Aristotle">Aristoteles</name> in secundo de Anima, quod
+          nec ignis est, nec omnino corpus, nec defluxus aliquis corporis, eo quod defluens a
+          corpore est corpus : et si esset corpus, aut ignis, aut aliquid de corpore superiori,
+          cujus praesentia in perspicuo faceret ipsum actu esse perspicuum : et si sic esset, tunc
+          corpora defluentia penetrarent perspicuum, perspicuo ubique non cedente. Cum igitur
+          utrumque tam perspicuum quam lumen impleant totum spatium hemisphaerii, oporteret quod duo
+          corpora essent in eodem loco : et hoc inconveniens esse ostensum est in Physicis. Si autem
+          diceretur quod perspicuum cedit ei, tunc opor<cb ed="#B5" n="b"/>
+          <!-- 249 b -->teret quod in toto hemisphaerio nihil remaneret de aere quando sol oritur,
+          quod nimis est incredibile cum nos sentiamus aerem in flatu venti et in multis aliis
+          experimentis.</p>
+        <p xml:id="admda-l2t3c9-d1e172">Amplius autem objicit contra hoc <name ref="#Avicenna">Avicenna</name>, supponens quod et
+          verum est, quod omne corpus de se luminosum est densum non transparens, sed tegens omne
+          quod est post ipsum, sicut apparet in sole, luna, et stellis, et in flamma ignis, quae
+          tegit ea quae sunt post flammam, in tantum quod si una candela ante aliam ponatur juxta
+          parietem, flamma illius quae vicinior est parieti, facit umbram in pariete : quia tegit
+          parietem a lumine candelae anterioris. Hoc autem sic supposito objicit <name ref="#Avicenna">Avicenna</name>, quia illa corpora minuta defluentia aut sunt luminosa,
+          aut transparentia. Si luminosa, ergo sunt tegentia se invicem : ergo quanto magis
+          densantur in aere, tanto magis impediunt lumen, quod aperte falsum est : quia si lumen
+          esset aliquid quod densari posset, quanto magis densaretur, tanto magis illuminaret. Si
+          autem dicitur quod illa corpora sunt transparentia, tunc non actu illuminarent, sed potius
+          ab aliquo alio illuminarentur : et si diceretur quod illuminarentur ab aliquo descendente
+          in ipsa, tunc esset eadem quaestio de illis et abiret hoc in infinitum. Si autem fingens
+          aliquis quod in rerum natura nunquam fuit, dicat quod sunt similiter lucentia et pervia,
+          adhuc sequitur quod quanto magis densantur, tanto obscuriora esse videntur vel
+          efficiuntur, sicut videmus partes crystalli comminuti esse pervias et aliquantulum
+          lucentes : et quando ex eis multae conjunguntur, plus obscurantur.</p>
+        <p xml:id="admda-l2t3c9-d1e182">Et quod dicunt isti de motu et descensu et introitu et exitu radii, nihil omnino est,
+          quia ista verba sunt transumpta, et non proprie dicta : non enim habet motum lumen, nisi
+          quia illuminatio est finis motus localis ejus quod est luminosum corpus, quod luminare
+          vocatur, sicut alibi dictum est. Adhuc autem <pb ed="#B5" n="250"/> <cb ed="#B5" n="a"/>
+          si propter motum localem lumen esse corpus dicunt, debent et umbram corpus esse dicere,
+          quae etiam localiter moveri videtur. Hujusmodi enim si habent motum localem, cum omnis
+          motus sit in tempore, erit motus istorum in tempore : et hoc est falsum, quia luminis
+          apparitio ad magnam distantiam et ad parvam est in eodem indivisibili nunc : quia si esset
+          in tempore, oporteret quod longius esset tempus quo movetur ad longam distantia quam quo
+          movetur ad parvam, et oporteret tempus illud perceptibile esse : quia licet sit
+          imperceptibile tempus quo movetur ad tres cubitos, tamen cum multiplicantur tricubita
+          spatia ab Oriente in Occidens, necessario erit tempus perceptibile. Adhuc corpora sic
+          defluentia non sunt velociora quam corpora a quibus defluunt : quia illorum motus
+          velocissimus esse probatus est in Physicis : motus autem corporum coelestium in quolibet
+          spatio unius gradus est in tempore perceptibili : ergo multo magis motus illorum corporum
+          erit in tempore perceptibili. Adhuc autem quaeratur ab illis, quo deveniunt hujusmodi
+          corpora tempore obnubilationis horizontis ? aut enim corrumpuntur, aut alterantur
+          amittendo lucem, aut retrahuntur supra nubes obnubilantes : et quodlibet istorum est
+          impossibile. Constat autem quod aer non destruit ea : nubes autem non contingunt ea cum
+          illa sint subtus et nubes superius. Et eisdem rationibus probatur quod non alterantur.
+          Quod autem retrahantur ad superiora, minus est credibile : si enim emittuntur, a corpore
+          luminoso per necessitatem naturae corporis luminosi, et tunc non possunt retrahi, quia
+          retrahens nullum habent. Amplius ista corpora moventur ad omnem partem nullus autem motus
+          naturalis est ad omnem partem corporis : ergo ista corpora non naturaliter moventur : aut
+          ergo violenter aut voluntarie : si violenter, tunc non durat diu, nec frequenter est motus
+          eorum, sicut in libro Coeli et Mundi ostensum est : si autem moven<cb ed="#B5" n="b"/>
+          <!-- 250 b -->tur voluntarie, tunc sunt animalia, et tunc oporteret quod natura dederit
+          eis instrumenta pedum vel alarum, quibus perficiant motum illum, quod omnino absurdum est.
+          Propter quod omnes Peripatetici abhorruerunt opinionem istam, dicentes lucem et lumen non
+          moveri. Sed potius cum ad generationem in pervio non exigatur nisi praesentia luminosi,
+          non ad omnem diametrum per circuitum subito generatur : sicut enim in Physicis probavimus,
+          generatio omnis formae est in materia, quae tota et aequaliter est praeparata ad formae
+          susceptionem : et sic praeparatum est pervium in superficie et in profundo, terminatum
+          autem in superficie tantum : et ideo statim orto praesentialiter luminari, generatur lumen
+          in omni distantia aequaliter longe et prope, ad quam diametri luminosi corporis possunt
+          educi : et cum videtur moveri de loco ad locum, hoc non est nisi renovatio subita
+          hujusmodi generationis ejus.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

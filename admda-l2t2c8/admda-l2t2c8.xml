@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VIII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VIII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t2c8">
+        <head xml:id="admda-l2t2c8-Hd1e128">CAPUT VIII.</head>
+        <head xml:id="admda-l2t2c8-Hd1e131" type="question-title">Et est digressio declarans quatuor virtutes materiales dictis
+          tribus virtutibus deservientes.</head>
+        <p xml:id="admda-l2t2c8-d1e134">Oportet autem scire, quod cum unum et idem sit subjectum circa quod dictae virtutes tres
+          operantur, habet tamen in hoc ipso virtutes multas subservientes sibi, quarum tamen
+          multitudo ad quatuor est reducta, quae sunt attractiva, digestiva, expulsiva, et ante has
+          tres appetitiva. Appetitiva enim appetit cibum appetitu naturali, prout est animae
+          vegetabilis virtus. Appetit autem ex vacuitate replentis nutrimenti, et ex defectu qui
+          provenit ex dissolutione deperditi a substantia vegetabilis. Hic tamen appetitus cum sensu
+          est in his quae habent animam sensibilem et vegetabilem, et vocatur fames et sitis, et
+          provenit ex sensu evacuationis. Attractiva autem in plantis quidem est ex calido quod est
+          in radice et caeteris partibus plantae, cujus virtute est suctio humidi nutrientis quod
+          tangit radices plantarum. In animalibus autem est per motum villorum qui sunt secundum
+          longitudinem in stomacho et intestinis animalium. Sed <cb ed="#B5" n="b"/>
+          <!-- 226 b --> digestio est ex proprio et naturali calore digerente, et separante purum ab
+          impuro, et terminante ipsum ad speciem ejus quod nutritur in quantum est instrumentum
+          animae.</p>
+        <p xml:id="admda-l2t2c8-d1e141">Scias tamen tribus praecipue juvari attractionem, scilicet similitudine, vacuitate, et
+          calore. Similitudine quidem sicut magnes attrahit ferrum : et hoc fit in anima vegetabili
+          quando cibus accipit membri similitudinem, et per illam movetur ad ipsum, sicut superius
+          diximus. Vacuitate autem quando membra vacua sunt et pori membrorum propter multam factam
+          in eis deperditionem et consumptionem. Calore autem trahente, quia calor naturalis sugit
+          cibum, sicut ignis sugit oleum in lampade. Et hi tres modi perficiunt attractionem in omni
+          habente nutritivam virtutem aut potentiam. In animalibus autem insuper sunt villi per
+          longitudinem stomachi, et quorumdam intestinorum ordinati, qui motu suo ingerunt et
+          attrahunt cibum in locum digestionis ut ibi digeratur. Retentiva autem operatur adhuc, ut
+          cibus ita diu stet in loco uno donec debitam accipiat alterationem. Et hoc quidem
+          generaliter juvatur tribus, et quartum specialiter habet in animalibus perfectis. Primum
+          autem trium est dissimilitudo quam habet ad membra, et partes diversas ejus quod nutritur
+          : per illam enim impeditur nutritio ad partes nutriti. Secundum autem juvans est siccitas
+          retinentis, cujus actus in tenendo confortatur ipsa siccitate. Et tertium est frigiditas,
+          licet frigiditas ad illud operetur per accidens et non per se. Per accidens autem dico
+          frigiditatem operari, quia frigiditas tenet id quod est nutriens in essentia sua et
+          figura, ne calore dissolvatur et evanescat virtus ejus eo modo quo etiam conservat
+          aliquando a putredine. Per se autem non operatur frigiditas ad aliqua opera vitae, sed
+          potius impedit, eo quod est qualitas mortificativa. Id autem quod specialiter habet in
+          animalibus perfectioribus, sunt villi ex transverso in intestinis et stomacho po<pb ed="#B5" n="227"/> <cb ed="#B5" n="a"/>siti, qui comprimendo retinent cibum ne de loco
+          moveatur.</p>
+        <p xml:id="admda-l2t2c8-d1e148">Digestiva autem, ut diximus, in omnibus juvatur calido et humido : eo quod calidum
+          alterat et terminat. Humidum autem facile influit membrum, et recipit eorum formas et
+          figuras. Habet tamen tres operationes, hoc est, alterationem cibi ex qualitatibus
+          contrajacentibus, ut diximus in quarto Meteororum, et maturationem quae est per eductionem
+          humidi superflui : et haec quidem a quibusdam vocatur digestio, quae fit per
+          assimilationem nutrimenti ad membra. Propter quod etiam quatuor digestiones esse dicuntur.
+          Quarum una fit statim in ore. Superficies enim oris continua est stomacho, et operatur in
+          cibum alterationem : et hoc patet, quia triticum masticatum a masticatione accipit
+          virtutem maturationum apostematum, quam non habet contusum. Et alia est in stomacho, ubi
+          grossum a subtili separatur : et hoc a quibusdam vocatur prima una cum illa quam diximus
+          fieri in orem : et haec est vera sententia : quoniam prima digestio in ore incipit, et in
+          stomacho perficitur. Secunda autem est in hepate, ubi massa quae vocatur ptisanaria, hoc
+          est, succus de cibo eliquatus, trahitur per venas quae mesaraicae dicuntur ad hepar, et
+          ibi rubeum sanguinis accipit colorem, et dirigitur ad venas, et in extremitatibus illarum
+          tertiam accipit digestionem, et in albedinem mutatur, et separatur ab eo nimia aquositas
+          quae est in ipso per colatoria urinae quibusdam in animalibus quae urinam habent. In aliis
+          autem quae non habent, remanet cum faece stercorum immixta. Et quarta digestio fit in
+          singulis membris ad propriam similitudinem membrorum. In plantis autem, quia terrestres
+          sunt, non est stomachus, sed est eis terra pro stomacho : quia in terra sub radicibus
+          eliquatur humidum permixtum, et subtile quidem sugunt ra<cb ed="#B5" n="b"/>
+          <!-- 227 b -->dices, et grossum dimittunt, et ideo ventre non indigent.</p>
+        <p xml:id="admda-l2t2c8-d1e156">Expulsiva autem expellit quod superfluum est, sive sit purum, sive impurum. Et juvatur in
+          hoc opere multis, sed praecipue quatuor sunt quae eam juvant. Juvat enim caliditas vias
+          per quas fit expulsio, aperiendo et acuendo id quod expellendum est. Juvat etiam humiditas
+          aliquando vias per quas fit expulsio lubricando et mobilitatem ei quod expellendum est
+          conferendo. Juvat etiam frigiditas per accidens, ventositatem quae est in ejicienda
+          superfluitate continendo ne evaporet, et etiam ingrossando, quae cum fortis est, cum magno
+          impetu ejicit superfluum. Juvant etiam frigiditas et siccitas, per quas ei debet
+          contrahendo : et tunc quasi exprimendo expellitur superfluum. Similiter autem caliditas
+          incidit viscositatem et separat, et tunc facilius educitur. In omnibus autem his
+          virtutibus est manifestum, quoniam frigiditas non juvat nisi per accidens : et hoc ideo
+          fit, quia virtutes istae praecipue motu perficiuntur, et quaedam sunt opera vitae :
+          frigiditas et immobilitat et mortificat. Hae autem quatuor virtutes naturales vocantur, eo
+          quod ut natura per instrumenta corporalia operantur.</p>
+        <p xml:id="admda-l2t2c8-d1e159">Scias autem, quod in his omnibus semper virtutis instrumentum et vehiculum est spiritus :
+          et frigiditas spiritum a motu suo impellit vel impedit, et ideo ad opera virtutum per se
+          officit, sed proficit per accidens.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

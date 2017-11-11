@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VI.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VI.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t2c6">
+        <head xml:id="admda-l3t2c6-Hd1e128">CAPUT VI.</head>
+        <head xml:id="admda-l3t2c6-Hd1e131" type="question-title">Et est digressio declarans opinionem Avempacis et Abubacher, et
+          improbationem ejusdem.</head>
+        <p xml:id="admda-l3t2c6-d1e134">Abubacher autem magnus apud Arabes et Avempace aliam viam elegerunt. Propter superius
+          enim inductas rationes et propter quasdam quae adhuc inducentur, consenserunt quod in
+          hominibus omnibus praesentibus, praeteritis, et futuris, unus et unicus numero et specie
+          est intellectus. Et quaerentes qualiter ille continuaretur homini cuilibet, non
+          continuationem illam viderunt et unionem causari ex parte intellectus possibilis vel
+          agentis, cum ambo sint separati et immixti et nulli habentes aliquid commune, sicut dixit
+          verissime Anaxagoras. Viderunt autem ab alia parte, quod id quod est unum specie et numero
+          apud omnes, unam numero et specie habere perfectionem : et sic deberet sequi quod uno
+          homine accipiente scientiam quilibet homo haberet scientiam eamdem, quod viderunt minime
+          fore verum, et ideo dixerunt in anima rationali non esse intellectum separatum nisi
+          agentem : possibilem autem intellectum esse conjunctum corpori, eo quod hoc nihil aliud
+          est quam phantasia : phantasmata enim sunt potentia intellectus, et efficiuntur, ut
+          dicunt, actu intellectus, quando separantur ab intellectu agente : et quia phantasia non
+          est una apud omnes, per phantasiam continuantur et <cb ed="#B5" n="b"/>
+          <!-- 339 b --> uniuntur intellectum et intellectus cum particulari quolibet homine. Et ut
+          eorum melius intelligatur opinio, dixerunt isti quod non est aliquis possibilis
+          intellectus in homine, qui sit subjectum intelligibilium secundum quod intelligibilia sunt
+          : quia dicunt forma speculationis de sui subjecto in quo sit in luce agentis intellectus
+          denudatum esse intellectum : et hoc non potest habere subjectum in quo sit, quoniam
+          universalis est, et ideo est ubique et semper : si autem haberet subjectum, individuaretur
+          necessario, quoniam omnis forma per suum subjectum individuatur et terminatur : et ideo
+          dixerunt isti quod vocatur id possibilis sive potentia intellectus, quod est potentia
+          speculativus intellectus, et hoc est phantasma in phantasia. Et sic videntur in partem
+          convenire cum Theophrasto et Themistio, in parte videntur illis contradicere, quoniam in
+          hoc conveniunt quod dicunt intelligere animae nihil aliud esse quam formas denudatas in
+          luce agentis, et quod non est aliqua animae rationalis pars quae sit subjectum
+          intelligibilium. Dissentiunt autem ab illis in eo quod Theophrastus et Themistius dicunt
+          intellectum possibilem esse animae rationalis partem, sed nunquam esse in potentia, quod
+          semper habet in se lumen agentis vel ipsum agentem, prout lumen est, sicut diaphanum
+          illuminatum habet in se actum lucis. Isti autem duo viri omnino nullum hoc modo possibilem
+          intellectum esse in anima dicunt : hoc autem quod dicunt esse intentionem <name ref="#Aristotle">Aristotelis</name> in III de Anima, dicunt quoniam, sicut inferius
+          ostendemus, dicit <name ref="#Aristotle">Aristoteles</name> quod si formae denudatae
+          essent in rebus extra animam, res essent intelligentes : dicunt igitur quod ipsa forma
+          denudata est intellectus in actu, et permixta particulari est intellectus in potentia : et
+          quia non subjicitur formae intellectus agens qui pars animae est, ideo est immixtus et
+          intransmutabilis et immaterialis : nec efficitur hoc aliquid per seipsum : quoniam non
+          subjicitur <pb ed="#B5" n="340"/> <cb ed="#B5" n="a"/> ei : et hoc modo solvunt dubia
+          supra inducta.</p>
+        <p xml:id="admda-l3t2c6-d1e152">Sed omnino videtur mirabile de viris istis qui multa subtiliter intellexerunt, quod non
+          viderunt <name ref="#Aristotle">Aristotelis</name> esse scientiam, quod phantasma movet
+          intellectum : movens autem non est motum : oportet igitur quod motum a phantasmate non sit
+          phantasia vel phantasma : constat autem potentiam nunquam movere actum qui educitur de
+          ipsa : ergo phantasma non potest dici movens ipsum speculativum intellectum oportet igitur
+          omnino, quod aliquis intellectus qui sit pars animae rationalis, sit motus a phantasmate :
+          et ista ratio cogit <name ref="#Aristotle">Aristotelem</name> ponere intellectum
+          possibilem. Ratio autem quae decepit Abubacher et Avempace fuit ista, quod movens et motum
+          debent habere communicationem sicut agens et patiens communicat in subjecto : si igitur
+          phantasma est movens, oportet quod id quod movetur, communicationem habeat cum ipso in
+          subjecto eodem : sic cum phantasma sit particulare, oportet quod motum ab ipso sit
+          particulare. Amplius movens speciem suam dat ei quod movetur ab ipso, quando fuerit movens
+          univocum : in anima autem non est movens nisi univoce secundum formam : igitur motum a
+          phantasmate oportet habere phantasiam formam : formalis haec autem phantasia est
+          sensibilis, et particularis forma : talem autem non habet pars animae separatae : non est
+          igitur aliqua pars animae separatae quae moveatur ut subjectum a phantasmate.</p>
+        <p xml:id="admda-l3t2c6-d1e161">His autem respondere non grave est : quoniam nos ostendemus inferius, quod communicantia
+          quae est inter agens et patiens, movens et motum physice, non est inter intellectum
+          possibilem et id quod movet ipsum ad formam intelligibilis, et hoc quidem dicit <name ref="#Aristotle">Aristoteles</name>, sed nos probabimus et modo supponamus. Licet autem
+          phantasia sit particulare et <cb ed="#B5" n="b"/>
+          <!-- 340 b --> sensibile, non tamen movet intellectum separatum possibilem existens in
+          actu particularis et sensibilis, sed potius in actu denudationis et abstractionis, quam
+          accipit a lumine intellectus agentis : sicut etiam colores esse materiale habent in
+          corporibus coloratis, non tamen per hoc movent ipsum, sed esse formale quod accipiunt a
+          lumine corruptibili. Totum autem quod fugiunt et isti et illi de quibus prius habitum est
+          omnes praeter Alexandrum, hoc est ne cogantur dicere intellectum possibilem aliquid esse
+          primae materiae, sicut supra patuit ex Theophrasti dubitatione.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

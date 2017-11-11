@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT IX.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT IX.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t2c9">
+        <head xml:id="admda-l3t2c9-Hd1e128">CAPUT IX.</head>
+        <head xml:id="admda-l3t2c9-Hd1e131" type="question-title">Et est digressio declarans opinionem Avicebron, et errorem
+          ejusdem.</head>
+        <p xml:id="admda-l3t2c9-d1e134">Ab omnibus superius inductis dissentit Avicebron in libro quem fontem vitae appellavit :
+          quaestionem enim Theophrasti non valens dissolvere, cum intellectus possibilis sit quo est
+          omnia fieri, et materia prima similiter quae est omnia fieri, consentit quod materia prima
+          et intellectus possibilis sint ejusdem naturae. Dicit enim, quod et verum est, quod
+          materia est potentia habens formas omnes et rerum corporearum et incorporearum, et per
+          quamlibet formam susceptam clauditur communitas potentiae ejus et coarctatur. Est autem
+          prima forma quam suscipit, intelligentiae forma, quae dicitur intellectualitas : et ideo
+          potentia intellectus possibilis non est in potentia ad intellectualitatem, sed remanet in
+          potentia ad omnia alia. Postea autem cum suscipit corporeitatem, amplius coarctat
+          potentiam ejus, tamen illa est in potentia ad omnes corporales formas secundum specias
+          corporum differentes, et cum suscipit corporeitatem cum contrarietate, jam non est in
+          potentia nisi ad physicorum corporum formas : et sic restringitur potentia ejus per
+          formarum susceptiones usque ad individuam materiam quae est in hoc vel in illo, cujus
+          potentia non est communis. Sic igitur intendit dicere Avicebron, quod potentia intellectus
+          possibilis communis est sicut et materiae, et ideo separata est a determinatione formarum
+          quas potentia et non actu habet. Et quoniam sic universalis est potentia ejus, ideo
+          universale est quod hoc modo est in ipsa.</p>
+        <p xml:id="admda-l3t2c9-d1e137"> <pb ed="#B5" n="345"/> <cb ed="#B5" n="a"/> Quod autem ita sit uti senserit, inducit
+          rationem potissime unam : dicit enim quod substare et in potentia susceptiva esse materiae
+          primae quidem proprietates existunt. In quocumque igitur ista inveniuntur, oportet quod in
+          illo causentur a materia. Inveniuntur autem in natura possibilis intellectus. Oportet
+          igitur naturam materiae hoc conferre intellectui possibili. Non enim potest esse quod idem
+          participatum a multis, non causetur ab uno quod est primum in genere illo : suscipere
+          autem formas et esse in potentia ad illas et perfici per ipsas, est participatum a multis,
+          quoniam ab intellectu possibili, et a materia corporea, et a materia physica : oportet
+          igitur quod hoc causetur ab eo quod est primum in genere istorum : hoc autem est materia
+          prima : et sic oportet, ut inquit Avicebron, quod per naturam materiae primae intellectus
+          possibilis susceptivus sit specierum intelligibilium per naturam et potentiam materiae
+          primae quae est in ipso. Si autem quaeritur, qualiter hoc contingit, quod possibilis
+          intellectus discernit formas et non materia prima : dicit hoc esse propter formam
+          possibilis intellectus, quae est intellectualitas : hoc enim natura facit ipsum esse
+          imaginem lucis intelligentiarum : et ideo formae quae sunt in ipso, sunt illustratae et
+          non in materia prima vel in materia corporum : et ideo est quod discernit ea quae in ipso
+          sunt, et non materia alia quae talem non habet formam : et si dicitur quod potentia
+          intellectus ab Aristotele dicitur esse absoluta simpliciter et non determinata per aliquam
+          formam, eo quod ipse non est hoc aliquid determinatum in natura, hoc dicit esse dictum de
+          formis communicantibus ambitum et communitatem potentiae intellectus : sed
+          intellectualitas non est nisi illustrans et non coarctans. Haec igitur est scientia
+          Avicebron, sicut potest intelligi ex ejus verbis.</p>
+        <p xml:id="admda-l3t2c9-d1e144">Haec autem scientia nequaquam stare potest : non enim potest dici quod id quod absolute
+          est forma, quod hoc sit <cb ed="#B5" n="b"/>
+          <!-- 345 b --> aliquo modo materia : anima autem rationalis in se et omnes potentiae ejus
+          sunt absolutae formae, et omnibus naturalibus formis nobiliores : non igitur potest dici
+          quod sit materia aliquo modo : quia, sicut in II Physicorum probatum est, materia et forma
+          nunquam incidunt unam in rem. Amplius formae determinantes materiam sunt ordinatae, ita
+          quod prima remanet in secunda, et secunda in tertia. Si igitur intellectualitas est prima
+          forma determinans materiam, illi debet addi tertia quae est corporeitas, et quarta quae
+          est contrarietas, et sic ulterius : hoc autem videmus non esse verum. Amplius autem dictum
+          illud non fulcitur ratione sufficienti, quoniam idem ens in multis non causatur ab uno
+          quod primum est in illis, nisi univoce sit unum in multis : substare autem et esse in
+          potentia ad formas non univoce est in intellectu et in materia, sicut <name ref="#Aristotle">Aristoteles</name> dicit, et nos inferius demonstrabimus : et ideo ratio
+          Avicebron non procedit. Adhuc autem non concordat dictum suum cum scientia <name ref="#Aristotle">Aristotelis</name> : quoniam <name ref="#Aristotle">Aristoteles</name>
+          dicit quod si formae universales secundum actum essent in rebus extra animam, res ipsae
+          quarum sunt formae, intelligunt eas. Intellectum igitur non facit intellectualitas, sed
+          ipsa formarum simplicitas denudatioque secundum <name ref="#Aristotle">Aristotelem</name>.
+          Causa autem dicti <name ref="#Aristotle">Aristotelis</name> infra assignabitur, ubi et
+          dictum ejus probatur fore verissimum. Amplius autem non prodest ad intellectum et
+          discretionem rerum ejus dictum : constat enim quod res in potentia ens intellecta,
+          imperfectam generat scientiam de re : formae autem non secundum actum sunt in materia, sed
+          in potentia confusa et indeterminata : si igitur cognoscantur prout ab intellectu confuse
+          et indeterminate cognoscuntur, et non prout sunt distinctae et determinatae : talis autem
+          cognitio rerum omnino inutilis est ad scientiam rei : et sic dictum Avicebron nullam facit
+          in intelligendo utilitatem. Amplius autem si solum hoc sufficit ad in<pb ed="#B5" n="346"/> <cb ed="#B5" n="a"/>telligere quod est esse formas secundum potentiam in intellectu,
+          cum potentia semper sit in intellectu, semper omnium formas intelligemus. Adhuc autem
+          secundum hoc non phantasmate indigemus movente intellectum, nec sensu accipiente formas
+          sensibilium, ex quibus universale elicitur. Adhuc autem secundum hoc ex intellectu et
+          intelligibili efficeretur unum sicut ex materia et forma est unum : igitur per
+          intelligibile specificaretur intellectus et determinaretur ad ens naturae, et sic
+          aliquando esset lapis, aliquando lignum, quod est admodum absurdum. Et ideo dictum
+          Avicebron dubia de intellectu inducta solvere non potest, nec hominis mens potest ejus
+          dictis acquiescere.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT V.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT V.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l1t2c5">
+        <head xml:id="admda-l1t2c5-Hd1e128">CAPUT V.</head>
+        <head xml:id="admda-l1t2c5-Hd1e131" type="question-title">De contradictione opinionum in communi, quae diffiniebant animam
+          per motivum suiipsius.</head>
+        <p xml:id="admda-l1t2c5-d1e134">In contradicendo autem istis opinionibus, quoniam in veritate in multis errant, primum
+          considerandum est de motu quo dicunt animam esse diffiniendam, et non objiciamus contra
+          hoc quod ipsa dicitur esse motiva, sed contra hoc quod ipsa dicitur moveri a seipsa, et
+          hoc esse substantiale et intrans diffinitionem ejus. Hoc autem con<cb ed="#B5" n="b"/>
+          <!-- 147 b -->siderandum ideo est, quia magis animae videtur repugnare quam alia duo :
+          quoniam non tantum fortassis falsum est moveri inesse sibi, sicut substantiale inest ei de
+          cujus est substantia, sed unum etiam impossibilium est, quod ipsa per se moveatur, sicut
+          mobile de cujus essentia non est motus. Si enim de essentia sua esset motus, ipsa in esse
+          non salvaretur neque constitueretur, nisi per motum, sicut ventus secundum diffinitionem
+          qua diffinitur, quod ventus est aer motus a quo si auferatur intellectus motus, jam non
+          esset ventus : et sicut procella diffinitur, quod procella est aqua mota : tunc enim si
+          intelligatur auferri ab aqua motus, jam non erit procella. Similiter igitur si anima
+          diffinitur per motum, intellecto quod motus auferatur ab anima, non erit jam anima : sed
+          hoc est irrisorium : igitur impossibile est animam diffiniri per motum. Amplius motus est
+          actus imperfectus et imperfecti, sicut in Physicis probatum est : erit igitur hoc maxime
+          imperfectum, in quo motus jam non est solum ut in subjecto, sed etiam intrat in essentiam
+          ipsius, sicut diffiniens intrat in essentiam diffiniti : esset igitur anima
+          imperfectissima inter omnes res, si motus esset diffinitivum ejus. His igitur rationibus
+          probatur animam non debere diffiniri per motum. Quod autem dicunt necessarium esse omne
+          movens per se moveri, nos in VIII Physicorum ostendimus non esse necessarium : quia in
+          quolibet ordine rerum primum movens non movetur : et ita etiam in motibus animalium in
+          quibus invenitur movens motum et invenitur motum tantum, ac perinde necessarium est in
+          ordine inveniri id quod est movens tantum. Motum enim movens est cor : et motum tantum
+          forte manus, aut pes. Nullum autem corporum aut pars corporis potest esse movens tantum,
+          ut in Physicis probatum est : ergo non corporeum est id quod est movens tantum : et haec
+          est anima. Non igitur inest ei motus sicut subjecto, quoniam id cui inest motus sicut
+          subjecto, id movetur.</p>
+        <p xml:id="admda-l1t2c5-d1e141"> <pb ed="#B5" n="148"/> <cb ed="#B5" n="a"/> Volumus autem ostendere, quod impossibile
+          est animam moveri. Omne enim quod movetur, altero duorum modorum motus movetur, vel
+          utroque : aut enim movetur secundum seipsum et per se, aut secundum alterum. Secundum
+          autem alterum dicimus moveri adhuc dupliciter. Aliquid enim dicitur moveri alterius motu,
+          eo quod inest illi quod movetur, sicut contentum in continente, sicut nauta navis motu
+          movetur : aut inest ei sicut pars est in toto, sicut manus movetur motu totius corporis :
+          et utrumque istorum separatum ab eo cui inest, potest moveri per se. Quod autem nauta in
+          navi non moveatur proprio motu et per se, manifestum est : quia nauta cum sit homo, non
+          habet motum convenientem sibi per se, nisi motum pedum qui est ambulatio. Hoc autem quando
+          est in navi et movetur motu navis, non utitur, sed potius navigatione. Non ergo tunc
+          movetur per se. Secundum autem alterum etiam dicitur moveri, quod movetur motu alterius,
+          et cum separatur ab eo, nullo modo potest moveri, sicut movetur albedo et scientia
+          Socratis moto Socrate, licet secundum se nunquam moveri possit.</p>
+        <p xml:id="admda-l1t2c5-d1e148">Cum autem sic dupliciter dicat aliquid moveri per se et per accidens, nunc non intendimus
+          inquirere si anima movetur per accidens, sed potius si movetur per seipsam, et si
+          participat motum sicut intrantem diffinitionem suam : et jam probavimus animam non
+          participare motum sicut diffinitum participat sua diffinientia. Restat ergo ut probemus
+          animam non per se moveri. Cum autem quatuor sint motus species, si secundum generales
+          terminos numerentur, licet tres tantum sint secundum genera, sicut ostendimus in V
+          Physicorum, hoc est, loci mutatio, et alteratio, et augmentum, et diminutio, oportet
+          concedere quod si <cb ed="#B5" n="b"/>
+          <!-- 148 b --> anima movetur, quod ipsa aut secundum unam istarum specierum motus movetur,
+          aut secundum plures eorum, aut secundum omnes. Si igitur non movetur anima secundum
+          accidens, tunc oportet quod naturaliter sit mobilis, et ut naturaliter insit ei motus :
+          ergo et locus convenit ei per se, quia omnes isti motus sunt in loco secundum aliquem
+          modum : et hoc planum est de loci mutatione recta, quia illa de loco ad locum est.
+          Similiter autem planum est de augmento et decremento : quia ibi incrementum fit in locum
+          majorem, et decrementum in locum minorem. De alteratione etiam physica palam est, quoniam
+          illa non fit nisi qualitatibus activis et passivis transmutantibus corpora physica.
+          Qualitates activae et passivae dissolvunt vel constringunt partes materiae quas movent :
+          et haec dissolutio et constrictio non fit sine motu locali partium, quae ad invicem
+          accedunt in locum minorum, quando constringuntur, et recedunt ab invicem in locum majorem,
+          quando dissolvuntur. Anima igitur erit in loco circumscripta, ita quod principium, medium,
+          et finem est ei assignare in loco : ergo ipsa erit corpus : et ex hoc sequitur quod non
+          sit primum movens, quoniam omne corpus est motum ab alio distincto ab eo per essentiam
+          tantum, vel distincto ab eo per essentiam et locum, ut probatum est in octavo Physicorum,
+          et in septimo. Sequitur autem etiam quod ipsa non sit cognoscitiva omnium : quoniam jam
+          probavimus superius, quod potentia determinata corporeitate non potest fieri omnia.
+          Sequitur etiam quod ipsa non sit incorporeum, sicut per se patet. Et sic ex illa sola
+          positione omnia quae animam diffiniunt, sunt destructa. Quare autem quilibet istorum
+          motuum sit per se et per accidens, in V Physicorum a nobis est ostensum.</p>
+        <p xml:id="admda-l1t2c5-d1e156"> <pb ed="#B5" n="149"/> <cb ed="#B5" n="a"/> Si autem, sicut dicunt, movere seipsam est
+          substantia animae, sicut diffiniens est substantia diffiniti : tunc oportet quod non insit
+          secundum accidens, ut dicimus album vel tricubitum moveri : haec enim moventur secundum
+          accidens, ut diximus, ex eo quod insunt ei quod per se movetur, quod est corpus. Et ideo
+          non sequitur quod albedo vel mensura tricubiti per se sit in loco. Sed hoc sequitur de
+          anima quae secundum naturam et substantiam ponitur participare motum : non enim potest
+          dici quod circulariter movetur, quoniam hoc modo anima animalium non movet corpus, nec
+          talis motus manifestatur in ipsa.</p>
+        <p xml:id="admda-l1t2c5-d1e163">Amplius omne quod movetur aliquo motu, quocumque sit illud, moveri etiam potest motu
+          secundum locum. Quaeramus ergo de anima, quoniam si ipsa movetur naturaliter, tunc etiam
+          movetur violenter, et e converso si movetur violenter, tunc etiam movetur naturaliter.
+          Eodem autem modo se habet de quiete. In quemcumque enim locum movetur naturaliter, in
+          eodem quiescit naturaliter. Et ad quemcumque locum movetur violenter, in eodem quiescit
+          violenter, sicut monstratum est in V Physicorum, et Coelo et Mundo. In quibus autem locis
+          anima habeat motus naturales et naturales quietes, et in quibus habeat motus violentos et
+          quietes violentas, non erit facile assignare, etiam si licentiam habeat fingendi, quia
+          neque simile aliquid poterit invenire. Amplius ex quo locales habet motus omne quod
+          physice quocumque motu per se movetur, et ea sunt ejusdem naturae, quorum motus est ad
+          locum unum eumdem, si detur anima sursum moveri, ipsa erit ignis, vel igneae naturae. Si
+          vero detur deorsum moveri, ipsa erit terra, vel terreae naturae : quoniam isti motus sunt
+          istorum corporum. Eodem autem modo sequitur, quod aliquid sit de na<cb ed="#B5" n="b"/>
+          <!-- 149 b -->tura mediorum elementorum, si dicatur ad loca mediorum elementorum moveri
+          per naturam. Quoniam autem omne quod est primum movens seipsum, movet se secundum motum
+          localem, ut in Physicis determinavimus : et anima est primum movens seipsum in suo ordine,
+          oportet quod anima moveat seipsam loci mutatione.</p>
+        <p xml:id="admda-l1t2c5-d1e170">Quoniam autem etiam dicitur movere corpus, rationale est quod moveat ipsum corpus
+          speciebus motum, quibus et ipsa movetur quando movet seipsam. Si autem et hoc concedatur,
+          tunc e converso verum erit dicere, quod anima movetur motibus quibus movetur corpus : et
+          ex hoc sequitur quod anima movetur in corpus, sicut in locum, et non sicut in id cujus est
+          ipsa perfectio. Cum igitur corpus moveatur de loco ad locum, oportet quod animae transitus
+          et motus sit de corpore ad corpus sicut de loco ad locum quoad vegetabile et sensitivum et
+          rationale, aut ad minus secundum partes illas transferatur quae dicuntur movere seipsas.
+          Si ergo sit transitus de loco ad locum, etiam potest redire quando vult ad locum unde
+          exivit primo : ergo potest iterum ingredi corpus quod mortuum fuit ex hoc quod exivit ab
+          eo anima : et sequitur ex hoc quod eadem corpora saepe resurgunt, et saepe moriuntur, quod
+          est absurdum.</p>
+        <p xml:id="admda-l1t2c5-d1e173">Si autem dicant, quod secundum accidens movetur de corpore in corpus, sicut dixit Plato,
+          quando dixit a comparibus stellis deprimi animas in haec corpora : quando autem de corpore
+          ad corpus veniunt in secunda et tertia, et sic deinceps transcorporationem, tunc
+          depelluntur violentia mali meriti quod gesserunt in corpore, sicut aliquando depellitur
+          animal motu impulsionis volenter : tunc sequitur quod non naturaliter insit <pb ed="#B5" n="150"/> <cb ed="#B5" n="a"/> ei motus et sic per motum diffiniri non debuit. Cui enim
+          naturaliter inest motus sicut diffiniens ipsum, oportet secundum hunc motum non ab alio
+          aut secundum accidens moveri, sed per seipsum : sicut neque dicimus quod id quod est per
+          se bonum et propter se appetibile secundum eamdem bonitatem et appetitum, sit propter
+          aliud bonum aut ex alia causa appetibile, quae sit sibi extrinseca.</p>
+        <p xml:id="admda-l1t2c5-d1e180">Si autem concedatur anima ab extrinseco moveri aliquo, hoc non erit sicut motus
+          impulsionis violentus, sed sicut dicimus eam moveri a sensibilibus, secundum quod objecta
+          sunt moventia et sensus patientes, quia sentiunt intus suscipiendo speciem sensibilem. De
+          hoc autem motu nos in secundo hujus scientiae libro determinabimus. Amplius autem si movet
+          anima seipsam naturaliter et substantialiter, tunc utique movetur a seipsa : omnis autem
+          motus facit distare mobile ab aliqua natura alicujus generis in quo est motus, secundum
+          quod convenit secundum generis diversitatem : aut enim facit distare ab ubi, aut a forma,
+          aut a quantitate. Si igitur animae motus est in substantia ejus, ut dicit adversarius,
+          anima per motum illum distabit a substantia ipsius in qua est, et per quam inest ei motus
+          secundum ipsam animam : hoc enim absque dubio sequitur, nisi dicatur ei motus secundum
+          accidens inesse : hoc autem non ponitur, sed potius quod motus sit secundum substantiam
+          ipsius. Motus autem essentialiter est distantia ejus quod movetur : quia cum motus sit
+          endelechia existentis in potentia secundum quod est in potentia, oportet quod omne quod
+          movetur, distet ab eo in quod movetur : ergo si motus inest animae ut substantia ipsius,
+          oportet quod anima substantialiter distet ab aliquo substantiali suo : et hoc non est
+          verum, cum ipsa sit actus corporis. Haec autem omnia sequuntur, nisi dicatur <cb ed="#B5" n="b"/>
+          <!-- 150 b --> animam movere seipsam secundum accidens : tamen etsi hoc concedatur, adhuc
+          non sequitur quod ipsa per accidens sit in loco sicut alia per accidens sunt in loco :
+          quia ipsa non est pars alicujus quod per se est in loco, per quam partem et partes ejus
+          illud referatur ad locum alias totum. Est enim pars animati essentialis, et non
+          quantitativa. Cum dicitur quod pars per accidens est in loco, intelligitur de illa parte
+          quae per se potest esse in loco. Cum autem dicitur quod albedo per accidens est in loco,
+          quia album corpus per se est in loco, est albedo forma situalis in albo et quantitativa,
+          quorum est locus per accidens. Anima autem non determinatur quantitate per accidens : ideo
+          etiam neque hoc modo est in loco, sed est in loco quia extra locum corporis sui non
+          invenitur : et haec autem vocatur a quibusdam diffiniri in loco, et hoc modo per accidens
+          potest dici esse in loco. Haec igitur sunt quae probant animam non moveri localiter, vel
+          alio motu secundum se. Sed dicet forte aliquis quod si non est in loco per se, neque per
+          accidens proprie loquendo : tunc forte videtur etiam non debere moveri per accidens
+          secundum locum, praecipue cum ea quae movent immobilia existentia, non moveantur per se
+          neque per accidens, ut probatum est in VIII Physicorum et in Coelo et Mundo. Sed sciendum
+          quod ipsa movetur per accidens motu corporis, quia moventibus nobis moventur et omnia quae
+          in nobis sunt : et ideo corpore translato, necessarium est eam transferri. Neque est
+          simile de motoribus sphaerarum et animabus animalium : quia sphaera manet super idem
+          centrum, et motor quia non est actus alicujus partis sphaerae, non movetur secundum locum
+          neque est in loco : sed corpora animalium transeunt de loco ad locum : et ideo animae
+          diffinitive in loco corporum existentes, motu corporum moventur per accidens de loco ad
+          locum.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

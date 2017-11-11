@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VI.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VI.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c6">
+        <head xml:id="admda-l2t3c6-Hd1e128">CAPUT VI.</head>
+        <head xml:id="admda-l2t3c6-Hd1e131" type="question-title">Et est digressio declarans utrum sit aliquod movens unum sit in
+          sensibilibus : et est de duplici esse sensibilis quod fit in materia et in
+          abstractione.</head>
+        <p xml:id="admda-l2t3c6-d1e134">Nunc autem redeundum est ad quaestionem quam superius reliquimus, utrum exteriora
+          sensibilia habeant unum et eumdem aliquem motorem, qui agat in eis, quod efficiantur
+          intentiones sensibiles, sicut intellecta habet unum et eumdem motorem qui est intellectus
+          agens, qui agit in eis intentionem intellectualem : hoc enim consideratione dignum est, et
+          est quaestio quam tangit <name ref="#Averroes">Averroes</name>, et dimittit insolutam.
+          Fuerunt autem quidam modernorum magnae auctoritatis qui haec concesserunt propter
+          praeinductam rationem, asserentes quod omne sensibile quod invenitur in omnibus sensibus,
+          est unum in eo quod est intentionale et spirituale et non materiale : unum autem in multis
+          participatum necesse est ab uno causari : hoc autem non <pb ed="#B5" n="241"/> <cb ed="#B5" n="a"/> casu illud movet ad aliud vel aliud : oportet igitur aliquem esse motorem
+          qui movet ad hoc esse in omnibus sensibus. Adhuc autem manifestum est formam sensibilem
+          secundum esse materiale esse in re sensata extra animam, et rem, et ibi rem afficit sua
+          qualitate : secundum autem hoc esse non est in medio, nec etiam in anima : quia si color
+          esset in aere sicut in colorato, oporteret quod videremus aerem esse coloratum, et oculum
+          esse coloratum colore quem recipit : et hujus contrarium videmus : ergo secundum aliud
+          esse est in abstractione quam in materia propria : aliquid igitur confert ei esse illud :
+          et illud erit movens ipsum : quoniam in re non est abstractum sensibile nisi potentia : et
+          id quod est in potentia, non educit seipsum ad actum, sicut ante diximus de visibili, sic
+          est de aliis sensibilibus : oportet igitur ipsum habere unum aliquid movens. Adhuc autem
+          phantasmata sunt majoris simplicitatis quam species sensibilis in materia : et tamen
+          oportet phantasmata habere movens ad hoc quod efficiantur in intellectu possibili :
+          oportebit igitur etiam ipsa sensibilia habere aliquid movens, ad hoc quod abstracta
+          efficiantur in sensu.</p>
+        <p xml:id="admda-l2t3c6-d1e144">Istae igitur et similes rationes sunt, quae induxerunt multos de nostris Doctoribus, quod
+          dixerunt unum esse movens in omnibus sensibus. Sed cum debuerunt specificare quid est id,
+          diverterunt duas in vias. Quidam enim dixerunt hoc esse lucem, propter quinque rationes
+          potissimas. Quarum est una, quia cum movens in omnibus sensibus debeat esse unum et idem,
+          et vident lumen esse motivum in sensu visus, dicunt ipsum oportere esse motivum in omnibus
+          sensibus. Alia autem ratio est, quia dicunt lumen a luminoso corpore pyramidaliter et
+          circulariter diffundi : circularem autem multitudinem vident in omnibus sensibus : quia
+          intentiones sensibiles circa rem sensatam ad aequalem distantiam circulariter ubique
+          generantur : et ta<cb ed="#B5" n="b"/>
+          <!-- 241 b -->lem motum in inferioribus non dicunt esse nisi luminis. Tertia autem est,
+          quia vident quod nulla qualitas inferiorum corporum agit universaliter, sed particulariter
+          unum et non aliud, nisi forte per accidens : lumen autem quod est forma coeli, quod est
+          corpus universaliter omnia inferiora movens, dicunt oportere esse causam universalis
+          actionis in intentionibus sensibilibus. Quarta autem est, quia vident lumen esse in
+          materialibus et spiritualibus ut formam, et ideo dicunt suum esse proprium quod conferat
+          formae materiali, quod fiat intentio spiritualis. Quinta autem est quae et praecipua est
+          cui innituntur : quia vident sensibilium esse materiale causari a qualitatibus elementorum
+          : et ideo nullam esse qualitatem elementi, quae agat in ipso intentionem spiritualem. Nec
+          potest dici quod sit a subjecto in quo generatur illa intentio, scilicet quod subjectum
+          non sit aptum natum ipsam recipere nisi in esse spirituali : quia sicut supra diximus,
+          diversitas subjecti potius est a diversitate agentis et formae quam e converso : oportet
+          igitur quod sit ab aliqua forma agente corporis superioris : et corpus coeleste non agit
+          in inferiora nisi per lumen : igitur lumen est quod in omnibus sensibilibus agit
+          intentiones spirituales.</p>
+        <p xml:id="admda-l2t3c6-d1e151">Alii autem antiquiores his dixerunt, quod virtus animae est agens eas intentiones
+          spirituales : et isti sunt qui dixerunt potissimam virtutem sensus esse activam et non
+          passivam : quorum rationes in parte supra posuimus. De hoc autem quod hic dicunt, quatuor
+          assignant rationes aliquid probabilitatis habentes, secundum quod in eorum dictis potest
+          deprehendi, quas tangit <name ref="#Avicenna">Avicenna</name> Philosophus, et Alfarabius,
+          et quidam alii. Dixerunt enim isti non esse intentionem nisi ei quod judicat de
+          intentionibus : hoc autem esse animam : et ideo necessarium esse aliquid animae esse quod
+          conferat formae sensibili esse intentionis : et ideo dixerunt animam habere <pb ed="#B5" n="242"/> <cb ed="#B5" n="a"/> ordinem ad omne id quod instrumentaliter obsequitur ei : et
+          cum medium in sensu sit propter sensum, dicunt animam habere virtutem agendi in medium :
+          et taliter fit secundum eos illud quod virtus sensibilis egreditur spiritualiter, et
+          supponit se sensibili, et confert ei esse quasi incorporeum et quasi spirituale quo in
+          anima effici possit. Secunda vero ratio eorum est, quod in omnibus communicantiam habent
+          agens et patiens : incorporeum autem patiens cum corporeo agente nullam omnino habet
+          communicationem : et ideo cum anima sit sensibile suscipiens, dicunt etiam oportere quod
+          aliqua virtus animae sit ipsum agens. Tertiam autem inducunt rationem, dicentes animam
+          esse magis activam quam aliquam formam corpoream : et cum forma corporis agat imprimendo
+          speciem suam in materia sibi conjuncta, multo fortius erit verum virtutes animae
+          sensibilis quasdam esse activas, qua aliquid de specie animae influunt objectis animae, ut
+          possint effici in sensibus : dantque simile hujusmodi, quod virtutes vegetabilis animae
+          nunquam adveniunt de cibo corpori cui primo non influxerunt aliquid de specie animae per
+          quam uniri possit corpori : nec esse minus activam dicunt sensibilem quam vegetabilem, sed
+          multo magis. Quartam autem ponunt rationem : quia dicunt sentire et judicare de sensibus
+          esse operationem quamdam vitae : haec autem operatio non potest fieri ab aliqua forma
+          corporali, sed ab anima ipsa. Cum igitur sensibilia secundum esse rationale sint
+          specificantia illas operationes, et formalia in ipsis et agentia, oportet quod illud esse
+          egerat in ipsis aliquid animae quae est principium et causa vitae.</p>
+        <p xml:id="admda-l2t3c6-d1e162">Nos autem simpliciter naturalibus insistentes haec omnia falsa reputamus, et tam illud
+          falsum dicimus in quo ambae sectae conveniunt, quam illud in quo differunt. Dicimus enim
+          nullo modo fore necessarium unam esse causam multitudinis quae est in multis, quae
+          secundum <cb ed="#B5" n="b"/>
+          <!-- 242 b --> unam rationem non est in eis, sed secundum rationes aequivocas : esse autem
+          intentionale et spirituale non una ratione est in sensibus : quia unum est multo
+          spiritualius alio, quia unum afficit et medium et organum secundum esse materiale agens in
+          ipsum, sicut est in objectis tactus. Et ea quae habent idem medium, sicut visibilia, et
+          audibilia, et odorabilia, non habent illud medium secundum unam et eamdem naturam medii,
+          sed secundum diversas, sicut inferius ostendemus. Et non unius rationis est esse quod
+          habent in ipso medio, quia spiritualius esse est coloris in medio quam soni : et iterum
+          spiritualius esse est soni in medio quam odoris. Et ideo ventus non aufert vel affert
+          colores, sed obtundit auferendo sonos in parte et non in toto : odores autem et affert et
+          aufert in toto, sicut dicit <name ref="#Avicenna">Avicenna</name> : et veritas per experta
+          attestatur. Concedendum autem esse videtur, quod aliquando et in quibusdam sensibus qui
+          scilicet sunt per medium extrinsecum, sensibile secundum aliud esse est in re sensata, et
+          secundum aliud in medio et in organo : sed hoc esse in nullis pluribus sensibus est unius
+          rationis. Et si quaeritur quid conferat ei hoc esse ? videtur mihi stulta quaestio, quia
+          nos superius ostendimus omnem virtutem activam esse per se perfectam ad agendum, sine
+          aliquo motivo extrinseco : et ideo dico quod forma sensati per seipsam generat se in medio
+          sensus secundum esse sensibile, cujus necessaria demonstratio est, quod ab omnibus
+          Philosophis et ab ipsa veritate convincitur, per se sensibile esse, quod in secundo modo
+          dicendi per essentiam suam est causa sui esse sensibilis : et ideo frustra quaeritur, quid
+          conferat ei illud ? sicut si quaeritur, quid conferat luci lucere secundum actum ? Et quod
+          dicitur quod id quod est in potentia, non educitur in actum nisi ab eo quod est in actu,
+          non est dictum nisi de eo quod est in potentia causae materialis, et non de eo quod est in
+          poten<pb ed="#B5" n="243"/> <cb ed="#B5" n="a"/>tia esse formalis et efficientis : esse
+          enim spirituale generatur a re generante tantum secundum formam, de qua actione in hujus
+          capituli sequentibus prosequemur. Et bene concedimus quod non est congruum quod dicatur
+          esse a subjecto spiritualiter, quia esse intentionale quod est in medio, est multo
+          spiritualius quam ipse aer sit, vel quam sit ipsum coelum. Hoc autem quod inducunt pro
+          simili de phantasmatibus moventibus intellectum, omnino dissimile est : quia quae est in
+          phantasmate, non potest dare esse intellectuale, eo quod est multo simplicius quam ipsa :
+          et ideo indiget motore ad hoc esse abjiciendum. Forma autem corporalis per se agens, nihil
+          supra se confert quando confert esse intentionale, sicut inferius ostendemus.</p>
+        <p xml:id="admda-l2t3c6-d1e176">Opinio autem quae dicit hoc esse lumen, omnino ridiculosa est : quia qui dicit lumen esse
+          in tenebris, indiget sensu : et tamen scimus multa sensibilia aequaliter diffundi in
+          tenebris et in lumine. In omnibus autem suis rationibus haec opinio fere syllogizat ex
+          puris affirmativis in secunda figura. Quod autem isti dicunt, quod lumen moveat colorem,
+          et conferat ei esse spirituale, ostendemus falsum esse inferius, ubi de visu loquemur :
+          ibi enim ostendemus quod color per se est motivus visus, et quod lumen non exigitur
+          propter colorem, sed propter medium. Et quod sensibile circulariter generatur, dicendum
+          quod hoc accidit ei per accidens, eo quod medium recipiens ipsum circulariter circumstat :
+          quod si non circulariter circumstaret, non diffunderetur circulariter. Quod autem dicunt
+          nullam formam inferiorem universaliter agere, falsum est omnino : quia omnis forma
+          inferior universaliter et non particulariter agit, et multiplicat seipsam. Sic formae
+          sensibilium se universaliter agunt : et nihil unum et idem agit omnes. Ad hoc autem quod
+          dicunt in materialibus esse aliquid quod confert formae esse intentionale, dicendum quod
+          <cb ed="#B5" n="b"/>
+          <!-- 243 b --> forma quae est in re, aliquando agit per qualitates materiae in qua est :
+          et tunc agit materialiter. Aliquando autem agit per se solam : et tunc agit immaterialiter
+          : quia et ipsa est essentia immaterialis per seipsam, et non indiget in ista secunda
+          actione nisi se sola. In prima autem indiget alia quam seipsa. Et ideo omnino oppositum
+          ejus est, quod supponit ratio illa ab illis inducta. Quod autem ulterius inducunt esse
+          spirituale a nulla elementorum qualitate causari, verissimum est, sed nos ostendimus unde
+          causatur.</p>
+        <p xml:id="admda-l2t3c6-d1e183">Opinio autem secunda est multo probabilior, licet pauci modernorum pauci teneant eam :
+          erat enim illa Platonis et etiam Augustini et multorum aliorum magnorum virorum. Tamen
+          sine praejudicio aut ego non intelligo eos, aut ipsi falsum dixerunt. Quod enim dicunt
+          virtutem sensibilem egredi et supponere se sensibus, propter universalem ordinem quem
+          habet ad ipsam, intelligi non potest nisi sicut egreditur virtus a magnete ad ferrum : et
+          in veritate ita dixerunt : et pro se induxit Plato oculos fascinationis, ubi virtus
+          egreditur ab uno fascinando ipsum : sed hoc falsum est, quia virtus illa non ingreditur
+          nisi in suo vehiculo quod est spiritus : multoties autem spiritus non possent extendi
+          usque ad sensibile quod multum distat aliquando, et praecipue in visu et odoratum
+          quorumdam animalium. Praeterea etiam, sicut dixit <name ref="#Avicenna">Avicenna</name>,
+          spiritus egressus a corpore dissolvitur statim et continuatur aeri : dissolvetur igitur
+          etiam virtus et peribit. Quod autem dicunt quod communicantiam habent et agens et patiens,
+          verum quidem est, sed non oportet quod habeant communicantiam, ita quod sint ejusdem
+          naturae et essentiae, sed quod habeant proportionem ad invicem sicut propria materia ad
+          propriam formam, et proprium agens ad proprium patiens : et sic communicantiam habent
+          forma sensibilis agens et sensus patiens, in eo quod sicut sensus <pb ed="#B5" n="244"/>
+          <cb ed="#B5" n="a"/> spiritualiter patitur, ita etiam forma sensibilis spiritualiter agit
+          in ipsum. Et quod dicunt animam sensibilem esse activam, supra ostendimus esse falsum. Nec
+          oportet aliquo modo illud fore verum, quod licet agens sit honorabilius patiente, quod hoc
+          agens propter hoc sit honorabilius hoc patiente. Et quod dicunt de anima vegetabili,
+          superius est determinatum. Quod autem dicunt sentire esse opus vitae, et in illo esse
+          formalem speciem sensibilem, dicendum quod sentire est opus vitae secundum quod egreditur
+          ab anima, et non secundum quod specificatur a forma sensibili : non enim specificatur ab
+          ipsa sensibili in speciem vitae, sed potius ad notitiam rei exterioris habendam.</p>
+        <p xml:id="admda-l2t3c6-d1e193">His habitis, oportet nos determinare qualiter a sensibili fiat hujusmodi actio : quia
+          aliter in incerto dimitteremus. Dicimus igitur sequendo directe Peripateticorum
+          sententiam, qui dicunt communiter quod cum dicitur sensibile esse per se, sicut color, et
+          odor, et sonus, et hujusmodi, quod hoc est secundum modum dicendi per se in primo
+          Posteriorum determinatum : et hoc est quando subjectum est causa praedicati, sicut quando
+          dicitur homo risibilis vel disciplinabilis : oportet igitur quod color et odor et sonus et
+          caetera sensibilia per proprias operationes aut essentias, causa sint sensibilitatis et
+          sensus secundum actum facti : non ergo adhuc habent motivum aliquod extrinsecum. Dicimus
+          autem aliud esse agens formam in materia, et aliud agens formas tantum : agens enim formam
+          in materia, in qua ipsa ligata cum materia habet esse materiale, est agens quod transmutat
+          materiam, sicut calidum, frigidum, humidum, et siccum : agens autem formam tantum, non est
+          agens materiale, sed potius ipsa forma : et sic agit se per hoc quod ipsa est essentia
+          simplex suiipsius multiplicativa : et sic omnis forma multiplicat intentionem suam : et
+          cum forma sit essentia simplicior omni corpore, non <cb ed="#B5" n="b"/>
+          <!-- 244 b --> potest inveniri aliqua forma corporalis quae posset ei esse intentionale
+          conferre : et quia quidam ignorarunt quod forma in eo quod forma sic multiplicat se,
+          dixerunt quod oporteret eam habere agens praeter ipsam. Et quidam existimabant propter hoc
+          quod forma simplex, et sic agendo se quasi efficitur ubique, aestimabant quod non
+          multiplicat se, sed est ubique per essentiam : et de hac opinione quia subtilis est
+          multum, non possumus facere mentionem nisi in tertio libro. Et quod hic determinamus, hoc
+          est, quod forma sensibilis multiplicat in esse sensibili aut spirituali, et sufficit sibi
+          ad hoc : et sic omnis forma in propria et essentiali actione sibi sufficit. Haec autem
+          sententia quasi pro fundamento poni dicit in hac scientia, quia ex ipsa infiniti circa
+          opera et passiones animae eliduntur errores. Jam autem patet quod duplex esse habet forma
+          : unum simplex et spirituale, quod habet in abstractione quod fit a simplici agente quod
+          est forma rei : alterum autem materiale in re, in qua est per agens generans non simplex,
+          quod agit eam educendo de materia per generationem.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

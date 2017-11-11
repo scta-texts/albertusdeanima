@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VI.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VI.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t4c6">
+        <head xml:id="admda-l3t4c6-Hd1e128">CAPUT VI.</head>
+        <head xml:id="admda-l3t4c6-Hd1e131" type="question-title">Quod intellectus semper est rectus, ille scilicet qui est movens
+          : phantasia autem et appetitus recta et non recta.</head>
+        <p xml:id="admda-l3t4c6-d1e134">Si autem differentias horum considerare volumus, quod intellectus per hoc quod est
+          intellectus nihil habens phantasmatis admixtionis, et semper est rectus : hoc enim nihil
+          aliud est, nisi potentia habituali habens habitum principiorum moralium et factualium, in
+          quibus nullus est error, scilicet non esse occidendum, non esse moechandum, non esse
+          furandum, justitiam esse colendam, Deum esse venerandum, parentes esse honorandos,
+          rempublicam instaurandam. Et in artibus similiter, sicut architectonica gravia subtus
+          ponenda, et levia super ea conjungenda esse, prius dolanda esse, ut bene conjungantur, et
+          hujusmodi : et ideo naturales hunc intellectum vocant <pb ed="#B5" n="403"/> <cb ed="#B5" n="a"/> naturale adjutorium vel judicatorium, in quo universalia juris sunt descripta.
+          Appetitus autem et phantasia sunt recta et non recta. Propter quod et intellectus si exeat
+          ex se in phantasmata, accidit ei rectitudo et curvitas. Cujus probatio est, quoniam semper
+          quidem, ut dictum est, movetur appetitus ad aliquid fugiendum vel prosequendum, hoc est,
+          ad id quod habet intentionem boni convenientis vel mali nocentis : non enim movetur ad
+          omne bonum. Est enim bonum non agibile per nos, et ad hoc non movet, sed movet ad actuale
+          bonum, circa quod sunt actus et motus nostri : et per quod nos operando et movendo
+          acquirere possumus. Omne autem tale bonum est circa particularia, quod contingit se sic et
+          aliter habere : et ideo aliquando est rectum, aliquando non rectum : et ideo cum appetitus
+          et phantasia sint circa tale bonum, contingit phantasiam et appetitum aliquando esse
+          recta, aliquando non recta. Si enim id quod habet intentionem boni, est bonum simpliciter,
+          hoc semper et ubique est bonum, tunc phantasia et appetitus circa id sunt recta. Si autem
+          est bonum ut nunc et non simpliciter, hoc est dupliciter : bonum enim simpliciter habet in
+          se duo : quorum unum est, quod semper bonum est : alterum autem, quod ubique et in omnibus
+          bonum est : per comparationem ad illa duo dicitur bonum ut hic et nunc. Secundum autem
+          quod opponitur ei quod semper bonum est, tunc dicitur bonum ut nunc, quod praesentialiter
+          afficit delectando sensum : et hoc est bonum quod prosequitur animal brutum et in
+          continens. Secundum autem quod opponitur ei quod est ubique, sic opponitur ei bonum quod
+          est casu, hoc malum est : sicut bonum est pignus reddere vel depositum ei qui fidei rem
+          commisit : et tamen ut hoc malum est, quia si pignus sit gladius, et committens facinus
+          sit furiosus, malum est ei reddere gladium. Similiter est in aliis : et ideo circa
+          particularia non omnino potest dirigi veritas <cb ed="#B5" n="b"/>
+          <!-- 403 b --> intellectus : et ideo circa ea per phantasiam et appetitum incidit rectum
+          et non rectum : et ideo in Ethicis dicitur quod epicheos qui dirigit in particularibus,
+          melior est justo qui semper opera, scilicet universalia juris nititur dirigere. Non enim
+          semper operationum mobilitas normam et regulam assequitur universalium. Et ideo dicit
+          <name ref="#Aristotle">Aristoteles</name> quod in talibus est directio sicut regula
+          Lesbiae aedificationis. Est autem Lesbe insula quaedam habens lapides indolabiles, et ideo
+          illi ad regulam omnino rectam non aedificant, sed utuntur regula plumbea, qua ad torturam
+          aedificii curvatam solum cavetur, ut non omnino fiat enormis curvitas. Rectitudinem enim
+          servare in operabilibus aliquando curvare est : et melius est nonnunquam solvere legem
+          universalem in moribus quam in tali casu et loco observare.</p>
+        <p xml:id="admda-l3t4c6-d1e148">Ex omnibus igitur nunc habitis, manifestum est quod talis potentia quae appetitiva
+          vocatur, movet : quia etsi aliae movent, propter hanc movent, ut diximus. Sicut autem hic
+          dictum est, ita quidam non dividunt, plures ponentes esse motivas potentias, sicut
+          rationalem, et irascibilem, et concupiscibilem. Talibus autem qui sic motivas animae
+          partes dividunt, contingit quod si intendunt animam dividere in quaslibet partes, quae
+          aliquo modo potentiam ad modum remotae vel propinquae in communi vel particulari, quod
+          valde multae secundum eos erunt partes animae. Erunt vegetabile, sensitivum,
+          intellectivum, appetitivum, deliberativum : adhuc autem appetibile sive appetitum
+          sensibilem. Haec enim plurimum differunt secundum istos, et adhuc autem magis his
+          differunt concupiscibile et desiderativum, et irascibile, quia concupiscibile et
+          irascibile sunt diversorum objectorum, sed deliberativum et appetitivum possunt esse
+          ejusdem. Quamvis autem sic multae vi<pb ed="#B5" n="404"/> <cb ed="#B5" n="a"/>res
+          accipiantur, quarum quaedam sunt motivae, et quaedam non, tamen illae quae sunt motivae,
+          omnes movent per appetitum : et ideo appetitivum est per se movens.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

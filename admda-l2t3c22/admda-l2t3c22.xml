@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XXII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XXII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c22">
+        <head xml:id="admda-l2t3c22-Hd1e128">CAPUT XXII.</head>
+        <head xml:id="admda-l2t3c22-Hd1e131" type="question-title">De voce qualiter fiat.</head>
+        <p xml:id="admda-l2t3c22-d1e134">Vox autem est sonus non quilibet, sed animati anima sensibili : sonus enim inanimatorum
+          nullam habet vocem nisi aequivoce secundum similitudinem, sicut tibia, et lyra, et alia
+          musica vocare dicuntur. Similitudo enim est eo quod proportio sonorum in eis ad
+          imitationem musicorum ab aliquo animato perficitur, quod necesse est per imaginem illam
+          perficere, et taliter vocant quaecumque extensa secundum proportiones musicas non habent
+          simul et melodiam et locutionem : organa enim illa melos quidem habent, sed locutionem in
+          qua sit melos non habent. Vox enim in substantia haec duo habere videtur necessario : et
+          ideo ubicumque haec duo non sunt, vox non erit : melos enim quod est in voce quae est in
+          loquendo, proportionatum est in brevi longo et acuto et gravi accentu significatum : et
+          ideo in omni locutione melos est accentus et temporis in pronuntiando : et ideo multa
+          animalium non habent vocem, ut quae sunt sine sanguine, et pisces : hi enim non tantum
+          carent voce, sed sono etiam qui in eis formetur : et hoc est rationabile, siquidem
+          secundum praedicta aeris quidam motus est causa soni : et quia aer taliter sonans non est
+          nisi in spirantibus, sanguinem autem non habentia, ut pisces, non respirant, ideo ra<cb ed="#B5" n="b"/>
+          <!-- 271 b -->tionale est ea non sonare : et quando sonant, non sonant in aere respirato,
+          sed potius in aere exteriori offendenti ad alas eorum, et ad reliquas partes corporis, et
+          ad diaphragma, sicut in libro de Animalibus expresse dicitur. Inveniuntur etiam hujusmodi
+          serpentia, et causantia, sicut grilli, et cicadae, et locustae : sed quando hoc faciunt,
+          tunc fit magnus motus circa diaphragma eorum : et ideo sonus ille fit, ut creditur,
+          offendente exteriori aere ad diaphragma : si enim esset per respirationem, tunc
+          emitteretur per caput vox : nos autem experimento probavimus quod grilli cantant per
+          magnum tempus, adhuc capitibus amputatis : et non cantant in parte ubi est caput, sed in
+          parte ubi est diaphragma, quod a quibusdam vocatur succinctorium : licet enim multa sint
+          non respirantia, tamen nulla sunt viva sine spiritu : et ideo tali spiritu pulsante in eis
+          sonant, et faciunt quamdam cantus melodiam. Pisces autem nihil horum habent, et ideo non
+          sonant. Et quod dicitur, quod pisces qui sunt in fluvio qui vocatur Acheolus, sonant, fit
+          hoc non spiritu, sed branchiis in superficie fluminis percutientibus aerem : vel forte
+          naso, eo quod spiritu in cerebro generato exsufflatur ab eis superfluitas quae est in
+          cerebro, sicut ab homine fit in sternutatione : non ergo hoc faciunt spiritu, sed vel
+          naso, vel branchiis, vel aliquo alio hujusmodi membro.</p>
+        <p xml:id="admda-l2t3c22-d1e141">Vox autem est sonus animalis et non in qualibet parte, sed in parte quae verberat aerem
+          et ad aliquid et in aliquo, sicut superius diximus de sono : et ideo oportet habere
+          pulmonem qui aerem exsufflet sicut follis, et cannam duram quae vocatur arteria vocativa,
+          ad quam verberetur aer : et linguam quae figuret et verberet aerem : et quia in aere
+          necesse est fieri hujusmodi verberationes, ideo rationabile est quod illa sola vocent,
+          quae <pb ed="#B5" n="272"/> <cb ed="#B5" n="a"/> aerem attingunt per hujusmodi membra
+          respirando : respiranti enim congruit natura per quam respirant in duo opera, sicut lingua
+          congruit in duo, quorum alterum necessarium est ad esse et salvari, quod est gustus :
+          alterum autem est ad bene esse, quod est locutio quae fit per linguam. Gustus enim est ad
+          esse, sine quo non salvatur natura animalis : et ideo gustus pluribus animalibus inest
+          etiam non respirantibus. Interpretatio autem est propter bene esse : et sic est de natura
+          respirandi. Spiritus enim respirans in omnibus ambulantibus et sanguinem habentibus est ad
+          esse, sine quo non salvatur respirans, et est ad calorem cordis et interiorum mitigandum
+          et refrigerandum : in vocantibus autem est ad bene esse, ut fiat interpretatio. Quae autem
+          sit causa respirandi vel spiritus respirati, in aliis locis dicetur quando agetur de
+          respiratione in libro quem de Respiratione, favente Deo immortali, faciemus : sed hic
+          dixisse sufficit quod id quod de spiritu attrahitur ad vocem, non est ad esse, sed ad bene
+          esse, sicut diximus.</p>
+        <p xml:id="admda-l2t3c22-d1e148">Organum autem respirationis est arteria vocalis quae canna vocatur, et duris anulis
+          componitur, et pulmoni sicut continue continenti aerem et quasi folli continuatur, et in
+          ipso radicatur. Causa autem quare per hanc fit respiratio est, quia haec pars superiora
+          attingit, et in compositione est gutturis, et ad illa praecipue pertingit calor cordis :
+          et ideo indigent ut per illa attrahatur calor refrigerans : locus enim primus qui indiget
+          respiratione, est circa cor : et ideo necesse est quod interius respiratus aer
+          ingrediatur.</p>
+        <p xml:id="admda-l2t3c22-d1e152">Concluditur igitur vocis diffinitio, quod vox est percussio respirati aeris <cb ed="#B5" n="b"/>
+          <!-- 272 b --> ad arteriam vocativam, ab anima per imaginationem aliquam eam formantem,
+          quae est in partibus illis quae ad respirationem congruunt. Non igitur omnis animalis
+          sonus vox est, sicut diximus : contingit enim aliquando linguam sonare sono quem non
+          format imaginatio, sicut sonant tussientes : oportet enim in voce et animatum esse
+          verberans, et quod cum imagine significandi aliquid per vocem verberet et figuret : vox
+          enim est sonus aliquid significans, et vox non est sonus simpliciter respirati aeris,
+          sicut est tussis : et cum duo sint in anima affectus scilicet doloris, vel gaudii, et
+          conceptus cordis de rebus, non est vox significans affectum, sed potius conceptum :
+          conceptus enim cordis interpretativus sonus vox est : et ideo vox non est nisi habentis
+          intellectum concipientem intentiones rerum : et ideo ad exprimendum conceptum format
+          voces. Caetera autem animalia affectus habentia, sonos suos affectus indicantes emittunt,
+          et ideo non vocant : et quaecumque illorum plurium sunt affectus, neque sunt etiam plurium
+          sonorum, et quae levioris sunt complexionis : et ideo aves plurium sunt garrituum quam
+          gressibilia : et illae quae inter aves sunt latioris linguae et melioris memoriae, magis
+          imitantur locutiones et caeteros sonos quos audiunt. Licet enim bruta habeant
+          imaginationem, sicut superius ostendimus, tamen non moventur ab ipsis imaginatis secundum
+          rationem imaginatorum, sed a natura : et ideo omnia similiter operantur : una enim hirundo
+          facit nidum sicut et alia : et haec imitatio est naturae potius quam artis : ideo
+          imaginativa in eis non regit naturam, neque agit eam ad opera secundum diversa imaginata,
+          sicut facit homo, sed potius regitur a natura et agitur ad opera ab ipsa : et ideo fit
+          quod licet apud se habeant se imaginata, tamen ad exprimendum illa non formant voces.
+          Affectus autem laetitiarum et tristitiarum magis profundantur in natura quam in anima : et
+          ideo illos exprimunt sonis et garritibus.</p>
+        <p xml:id="admda-l2t3c22-d1e159"> <pb ed="#B5" n="273"/> <cb ed="#B5" n="a"/> Forte autem dubitabit aliquis, cum duo sint
+          in voce, scilicet significatio dictionis, et significatum, quid faciat in ipsa
+          significatum. Et ad hoc aliquando aliqui dixerunt, quod conceptus qui est ex parte
+          intellectus, descendit in imaginationem, et organum illius est in anteriori parte capitis,
+          ad quam pervenit respiratus aer in quo vox figuratur, et ibi generat vis imaginativa
+          intentionem rei in voce. Sed hoc absurdum esse videtur, quia et sic vox esset ex duobus
+          composita : et hoc non est vox. Adhuc autem talis generatio vocis posset esse in qualibet
+          sonante voce : et sic loquens intelligeretur, quacumque voce loqueretur : quod falsum est,
+          quia sicut generaretur in voce intentio rei, ita per eamdem rationem generaret illam
+          intentionem in audiente.</p>
+        <p xml:id="admda-l2t3c22-d1e166">Et ideo dicendum esse videtur, quod vox est sonus formativus in signum quod ad placitum
+          significat : et ideo de re facit notitiam sicut signum, et ideo non percipit illam vocem
+          qui nescit institutionem signi : propter quod de diversis idiomatibus loquentes non se
+          intelligunt. Oportet igitur quod anima imaginans et intendens significare conceptum,
+          verberet aerem in arteria existentem ad arteriam ipsam : et in necessitate pulso aere ad
+          arteriam, fit sonus qui est materia vocis : sed figura ipsius soni in dictiones, est per
+          linguam, et dentes, et palatum, et caetera interpretationis organa. Signum autem veritatis
+          eorum quae dicta sunt, est, quod ille qui respirat vel inspirat in respirando non potest
+          formare voces, sed potius oportet eum tenere spiritum sonantem, in quo format voces. Et
+          ideo diu loquentes dum respirant, <choice> <orig>oportei</orig> <reg>oportet</reg>
+          </choice> interrumpere voces, quia movent per organa vocis locutionem retinent spiritum :
+          et quia numero talium motuum formantur syllabae et dictiones, propter hoc mensurantur diu,
+          vel brevi tempore et, incidunt in genus quantitatis : et quia singulae formationes
+          elementorum et syllabarum distinctae <cb ed="#B5" n="b"/>
+          <!-- 273 b --> sunt, nec aliquo modo continuantur, ideo sunt de numero discretorum et non
+          continuorum : quia tamen continuo tempore mensurantur, ideo non sunt numerus : et quia
+          sunt in motu, licet motus non sint, sicut superius ostendimus, et motus permanentiam in
+          partibus non habet, ideo permanentiam in suis partibus nullam habent.</p>
+        <p xml:id="admda-l2t3c22-d1e182">Et quia non fit vox nisi in aere respirato retento, manifestum est quod haec est etiam
+          una causa quare pisces sunt sine voce : non enim habent guttur de cujus compositione est
+          canna radicata in pulmone. Partem autem hanc non habent, quia non indigent recipere aerem
+          per respirationem. Propter quam autem causam sit hoc, alia ratio est quae ad scientiam de
+          natura animalium pertinet, et ibi explicabitur.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

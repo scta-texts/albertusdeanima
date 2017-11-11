@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t1c7">
+        <head xml:id="admda-l2t1c7-Hd1e128">CAPUT VII.</head>
+        <head xml:id="admda-l2t1c7-Hd1e131" type="question-title">Utrum quaelibet virium animae sit anima, et utrum sit tota in
+          toto.</head>
+        <p xml:id="admda-l2t1c7-d1e134">Utrum autem unumquodque dictorum principiorum sit anima per se divisa per essentiam ab
+          alia, aut est pars animae, non per essentiam divisa ab ipsa : et si est pars, utrum
+          separabilis a suo toto quod est anima solum ratione differens, aut si separabilis per
+          essentiam et locum <pb ed="#B5" n="204"/> <cb ed="#B5" n="a"/> ab ipsa, sicut dixit Plato,
+          et mentionem hujus fecimus in libro praecedenti in fine, de quibusdam quidem harum facile
+          est videre, sed quaedam sunt in quibus habet dubitationem.</p>
+        <p xml:id="admda-l2t1c7-d1e141">Satis enim planum est determinare de his quae sunt actus corporum, sic quod non operantur
+          nisi in ipsis, et divisis eis dividuntur, et unitis eis uniuntur : quoniam non sunt nisi
+          actus corporis physici organici potentia vitam habentis, et ideo planum est de illis quod
+          sunt animae. Sed non est adeo planum utrum quodlibet sit anima in talibus, aut sit partes
+          ejusdem, ut in plantis, quae convalescunt divisae : et in quibusdam annulosis divisis, in
+          quibus quaelibet pars videtur omnes animae operationes habere : et sic etiam ante
+          divisionem videbatur anima secundum quamlibet suam operationem et potestatem esse in
+          qualibet parte sicut in fine secundi libri Physicorum diximus : utraque pars habet sensum
+          et motum : et si habet sensum, tunc oportet quod habeat voluptatem et tristitiam : quoniam
+          sensus conveniens ingerit voluptatem, et sensus inconveniens ingerit tristitiam : et sic
+          utrique parti inest appetitus. Haec autem sine phantasia esse non possunt : quoniam motus
+          a sensu factus est phantasia : et nullo modo appetunt nisi per motum a sensu factum.</p>
+        <p xml:id="admda-l2t1c7-d1e144">Cum ergo ista insint partibus divisis, videtur quod etiam ante inerant partibus
+          conjunctis : et sic anima secundum omnem suam potestatem fuit in omnibus partibus. Sed una
+          et eadem anima secundum quamlibet potestatem suarum operationum, non potest esse in
+          qualibet parte : oportuit igitur quod essent plures, et sic ea quae operantur in diversis
+          partibus unius corporis, non sunt partes unius, sed sunt animae plures. Et ista est ratio
+          cui multum innitebatur Plato, et redit ad hoc ut quaeramus, utrum ani<cb ed="#B5" n="b"/>
+          <!-- 204 b -->ma vegetabilis et sensibilis sint in toto corpore totae, vel non ? Videtur
+          quod in toto tota sit anima, quia ibi est ubi operatur : sed operatur in talibus in toto :
+          ergo est in toto, ita quod in omnibus partibus. Cum igitur anima sit indivisibilis,
+          oportet quod tota sit in toto. Amplius constat quod quaelibet vis sua essentiae animae est
+          immediata : ergo tota anima cum sit indivisibilis, adest cuilibet virtuti : sed virtutes
+          diffusae sunt per totum corpus : ergo ipsa est in toto corpore tota. Sed contrarium huic
+          videtur esse, quia ex hoc sequitur quod sit in oculo tota : et si extrahatur oculus,
+          videbitur tunc extrahi tota anima : quod non est verum : et haec omnia moverunt Platonem
+          ad dicendum quod in uno corpore sunt multae animae.</p>
+        <p xml:id="admda-l2t1c7-d1e152">Sed dicendum quod in uno corpore non est nisi anima una, et vires ejus sunt partes ejus,
+          sicut potentia naturalis est pars potestatis ejus quod operatur per eam. Id autem quod
+          inducitur de animalium et plantarum divisione, solutum est in praehabitis. Et cum
+          quaeritur utrum anima quae est in animato corpore, et praecipue in tali corpore quod est
+          simile in partibus, sicut sunt corpora plantarum et animalium annulosorum, sit in toto
+          tota ? Dicimus quod anima est una et habet partes organicas, quae omnes continuationem
+          habent ad unam quae est cor, et tunc dicendum quod anima est in corde et inde influit
+          potestates suas in totum corpus, et sic non est in toto tota, ita quod in qualibet parte
+          sit tota, sed in qualibet parte est secundum aliquam suarum potentiarum : et quae partes
+          sunt similes in complexione et compositione, in illis est per similes potentias et
+          operationes : et licet essentia ejus adsit cuilibet virtuti ejus, non tamen virtute
+          separata separatur necessario essentia ejus : quia virtus illa affixa est illi organo et
+          non essentia animae, sed potius illa est in corde, quod est organum essentiae animae
+          deputatum : et ideo non separatur a corde essentia <pb ed="#B5" n="205"/> <cb ed="#B5" n="a"/> nisi secundum hanc operationem quam habet in membro separato et non simpliciter.
+          Diximus enim superius, quod diviso corpore necesse est animam quodammodo per accidens
+          dividi, licet non dividatur sicut forma situaliter in corpore distensa. Et haec est
+          Peripateticorum sententia. Fuerunt tamen et sunt quidam adhuc, qui dixerunt quod anima est
+          tota in toto corpore, quod non tamen fuit opinio alicujus Philosophi : et dixerunt quod
+          non extrahitur tota in oculo, quia dicunt quod manet in alia parte principaliori secundum
+          vitae operationem : et ideo corpus animatum remanet adhuc animatum et vivum. Non enim tota
+          dicebatur in oculo, nisi secundum quod tota substat virtuti visivae : hoc autem est
+          secundum quod per ipsam operatur visus : et hoc modo concedunt eam separari totam, quia de
+          ea postea visum operatur. Ego autem multas dictarum opinionum non intelligens, dicendum
+          puto esse cum Peripateticis, quod anima totalitatem non habet nisi suarum virium, sicut et
+          corpus totalitatem non habet nisi suorum organorum, et ideo in uno corpore non est nisi
+          secundum unam partem, et illo separato non separatur nisi secundum partem, et remanet in
+          aliis potestatibus suis adhuc operans in corpore : uniens autem omnes has potestates est
+          substantia quae est in corde : et potestates omnes animae diriguntur ad cor, et sic
+          substantiae animae adjacent tanquam ad eam directae, sicut organa corporis omnia
+          connectuntur cordi. Et haec opinio intellegibilis est, et veritati magis assimilatur inter
+          dictas opiniones. Sic ergo patet solutio unius quaestionis, utrum scilicet omnes istae
+          potestates sint animae per se, vel sint partes animae unius, quando sunt in uno et eodem
+          corpore ? Utrum autem sint animae, vel partes animae, vel non, adhuc habet dubitationem,
+          et ideo quaerendum est hoc.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

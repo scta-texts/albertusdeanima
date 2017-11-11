@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> CAPUT II.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title> CAPUT II.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l1t1c2">
+        <head xml:id="admda-l1t1c2-Hd1e128"> <pb ed="#B5" n="117"/> <cb ed="#B5" n="a"/> CAPUT II.</head>
+        <head xml:id="admda-l1t1c2-Hd1e135" type="question-title">De nobilitate et utilitate scientiae de anima.</head>
+        <p xml:id="admda-l1t1c2-d1e138">Cum autem opinamur certissime omnem scientiam esse de numero bonorum honorabilium, eo
+          quod omnis scientia de se expetibilis est quae vere scientia est, tamen magis una quam
+          altera est de numero honorabilium, propter alteram duarum causarum, aut propter duas
+          causas simul : quarum una est certitudo quam facit de suis conclusionibus per
+          demonstrationes firmissimas, quae procedunt ex primis et veris, vel ex his quae per prima
+          et vera sumpserunt fidem, sicut videmus arithmeticam et geometriam in Mathematicis omnes
+          alias excellere. Altera autem est, quod meliorum subjectorum et mirabiliorum est. Meliora
+          autem vocamus nobiliora, sicut incorruptibilia sunt meliora corruptibilibus. Mirabiliora
+          vero, quae altiores et magis difficiles et remotas habent causas : talia enim omnis
+          sapiens miratur et inquirit, sicut in Mathematicis videmus astronomiam omnes alias
+          scientias excellere, eo quod incorruptibilis est subjecti, cujus passiones et passionum
+          causas omnes mirantur, ut lunae et solis eclipses. Nec miretur aliquis, quod dicimus etiam
+          scientiam sive noti<cb ed="#B5" n="b"/>
+          <!-- 119 b -->tiam esse de numero bonorum honorabilium : quoniam sunt quaedam scientiae,
+          quas non quaerimus propter se, sed ut nobis adminiculentur ad alia, sicut scientiam
+          Topicorum problematum, et scientiam de instrumento scientiarum qui est syllogismus, et
+          universaliter scientias sermocinales. Et illae non sunt verae scientiae, sed modi
+          scientiarum omnium, sicut in principio librorum Logicae dixisse nos meminimus. Et notitia
+          illorum modorum sciendi non vere est de numero bonorum honorabilium, sed potius de numero
+          notitiarum et bonorum utilium. Honorabile quippe est, quod propter seipsum quaerimus :
+          utile autem, quod volumus propter alterum. Adhuc autem honor praemium virtutis est, et
+          praecipue virtutis quae hominis ut homo est, quae est contemplativa virtus, ut scientia,
+          et sapientia, et intellectus, et prudentia, et ars, ut dicit Philosophus in sexto suorum
+          Ethicorum : utile autem quod est sicut instrumentum quo aliquid praeter ipsum intenditur
+          per ipsum adipisci. Cum igitur propter dictas duas causas una scientia sit super alteram,
+          aut propter alteram ipsarum, dicimus nos in prioritate dignitatis debere ponere scientiam
+          de Anima propter utramque istarum causarum : nobilioris enim subjecti est quam aliqua
+          scientia corporum, et mirabilioris : quoniam omnis sapiens admirabitur de causa lucis
+          intellectus animae et passionibus ejus, et qualiter est omnia quodammodo intelligibilia,
+          et quantum ad facere omnia intelligibilia, et quantum ad fieri omnia intelligibilia, et
+          utrum sit separabilis omnis anima vel non. Et est certissimarum demonstrationum, quoniam
+          licet quoad nos sit occulta habens principia, eo quod nostri intellectus oculus se habet
+          ad ea quae manifestissima sunt secundum naturam, sicut oculus vespertilionis ad lumen
+          solis, tamen nihil manifestius est in natura quam fons et origo omnis cognitionis, quod
+          est lumen intelligentiae in nobis. Ad illud enim lumen certificatur, quidquid certe
+          scitur, <pb ed="#B5" n="120"/> <cb ed="#B5" n="a"/> et tunc sciri judicatur quando illi
+          conveniens invenitur. Sic enim medium virtutis moralis quod non est idem omnibus,
+          examinatur et proportionatur illi medio, quod natura intus est in quolibet : et est tunc
+          satis quando illi congruit. Sic necesse est absque dubio primum lumen ad quod examen
+          refertur verorum et intelligibilium intus esse in natura : propter quod egregie dicit
+          <name ref="#Aristotle">Aristoteles</name> principia nobis quodammodo esse innata, sicut
+          innata est quodammodo forma materiae. Cum igitur sic sit anima certificans ad seipsam
+          quidquid certificatur, oportet ipsam scientiam de Anima fore certissimam, et firmissimarum
+          esse demonstrationum. Et hoc lumine deceptus Plato putavit omnium intelligibilium
+          cognitionem esse intus, neque aliquem aliquid discere, sed immemorem recordari. Sed de hoc
+          inferius disseremus. Licet autem sic in prioritate dignitatis animae scientiam ponamus,
+          tamen in ordine doctrinae inter scientias naturales non ponimus eam primam : quia ordo
+          doctrinae non sequitur prioritatem dignitatis, sed rationis ordinem tenet, in quo de
+          communioribus prior est speculatio, sicut diximus superius.</p>
+        <p xml:id="admda-l1t1c2-d1e152">Cum autem propter sui honorabilitatem sic in priori dignitate ponenda sit notitia animae,
+          non amisit etiam utilitatem : eo quod, sicut dicit Tullius in libro de Amicitia, omne
+          honestum plurimas sibi habet adjunctas utilitates, licet neque nomen neque diffinitionem
+          sortiatur ex illis. Utilitatis autem ejus praecipua est, quod ad omnium scibilium
+          veritatem cognoscendam maxime proficit, et praecipue ad notitiam veritatis rerum
+          naturalium, cum ipsa sit principium formale et essentiale animalium, et non nisi per
+          notitiam animae poterunt cognosci corpora animatorum. In corporibus au<cb ed="#B5" n="b"/>
+          <!-- 120 b -->tem animatorum et commixtio est simplicium et ipsa simplicia : et sic
+          ulterius scientia animae proficit ad notitiam omnium corporum naturalium. Ad veritatem
+          autem omnium proficit propter modum quem diximus superius, in quo videlicet apud se habet
+          lumen, quod est veritatis examen, tribus modis, non simul, sed divisis : quorum unus est,
+          quia proficit ad naturalem veritatem, eo quod ipsa pars nobilissima est scientia
+          naturalis. Alio autem modo proficit ad divinam, quia in ista scientia manifestatur
+          nobilior pars subjecti scientiae divinae. Manifestatur etiam in ista scientia, quod
+          intelligentia est, et quod separata est, et qualiter agit intelligibilia : de quibus
+          omnibus primus Philosophus inquirit, licet non inquirat de eis, in quantum sunt haec opera
+          animae et partes animae. Ad quasdam autem proficit, quia dat eis plurima principia, sicut
+          ad moralem cui dat eligentiam et rationem rectam et prohaeresim et multa alia, per quae
+          reguntur civitates in moribus.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

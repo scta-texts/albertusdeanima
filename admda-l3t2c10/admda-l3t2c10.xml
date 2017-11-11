@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT X.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT X.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t2c10">
+        <head xml:id="admda-l3t2c10-Hd1e128">CAPUT X.</head>
+        <head xml:id="admda-l3t2c10-Hd1e131" type="question-title">Et est digressio declarans opinionem Platonis et Gregorii
+          Nysseni, et ejus errorem.</head>
+        <p xml:id="admda-l3t2c10-d1e134">Gregorius autem Nyssenus et Graecorum sapientium quamplures, Platonis philosophia imbuti,
+          videntes ex inductis rationibus necessario sequi animam rationalem esse separatam et non
+          conjunctam corpori ut actum corporis, dixerunt esse causam animae aeternitatem secundum
+          substantiam : eo quod non incipit cum corpore, ut dicunt, sed potius in coelo existentes
+          animae a comparibus sibi stellis descendunt et incorporantur, et ideo corpori uniri non
+          possunt ita quod sint corporum actus : et quia sic sunt separatae, cum tamen in se sint
+          individuae, est etiam pars animae quae est intellectus sic separata : universale autem
+          quod est objectum intellectus, aliquando esse habet in anima, et aliquando esse extra
+          ani<cb ed="#B5" n="b"/>
+          <!-- 346 b -->mam. Est enim universale, ut dicitur incorruptibile, aliquando in re
+          existens, aliquando in anima, aliquando in utroque : et hoc non est inconveniens, quoniam
+          est ubique et semper : et ideo cum anima sit locus ejus, eo quod est in potentia ad ipsum,
+          est in ea, et cum res extra sit locus ejus, etiam est in re : sed verius est tamen ubi
+          secundum formam est tantum, quam ubi est secundum esse materiale quod accidit formae : et
+          ideo universalia verius dicit esse extra rem quam in rebus. Dicit enim quod omnis forma
+          per hoc quod est causa, est ante rem cujus est causa, non solum secundum rationem, sed
+          etiam secundum esse formale : et secundum hoc praehabet omnia in se quibus multiplicantur
+          postea secundum esse : et haec forma sic existens est objectum ipsius intellectus quando
+          intelligitur. Hujus autem causa est, quoniam scientia est ex necessariis. In rebus autem
+          mutabilibus nihil est permanens necessarium. Oportet igitur quod necessarium per quod est
+          scientia ipsorum, sit extra res ipsas. Adhuc autem intellectus est quoddam permanens et
+          necessarium : quod autem est in ipso, est in eo secundum potestatem et naturam illius in
+          quod est : quia hoc generaliter est verum de omni eo quod est in aliquo, quod scilicet
+          semper est in eo in quo est secundum potestatem ejus in quo est, et non secundum naturam
+          et potestatem ejus quod inest : oportet igitur quod id quod est in intellectu, sit
+          permanens et necessarium. Istis igitur de causis et similibus posuit Plato intellectum
+          separatum, et universale sic separatum : et cum universale secundum ipsum nunquam sit in
+          potentia, sed semper est in actu separatum, et hoc sufficit ad intellectum, dixit non esse
+          universale collectum ex pluribus memoriis et experimentis, sed omnium scientias ex
+          intellectu, sed non considerare animam ea quae sunt in ipsa, eo quod occupatione corporis
+          et delectatione abstrahitur, ne convertat oculum ad ea quae semper sunt <pb ed="#B5" n="347"/> <cb ed="#B5" n="a"/> in ea : per studium autem nihil fieri de scientia in
+          homine, sed potius reordinari animam ad contuendum ea quae sunt in ea ut reminiscatur
+          eorum quae delectatione carnis et occupatione sensibilium oblivioni tradiderat. Et hoc
+          tangit Boethius in libro quem de Consolatione philosophiae edidit, dicens quod si Platonis
+          musa personat verum, quod quisque discit, immemor recordatur. Sed de his in scientia de
+          intelligibili erit quaerendum. Nunc autem dictum est opinionem Stoicorum fuisse,
+          intellectum non sic esse separatum, quod non sit ens hoc aliquid, sed potius sic quod non
+          sit forma corporalis vel actus corporis, et non esse cum potentia susceptibilem
+          intelligibilium, sed actu semper habere universalia secum, quae tamen non tantum sunt in
+          ipso, sed etiam extra animam et ante res particulares.</p>
+        <p xml:id="admda-l3t2c10-d1e145">Hujus autem opinionis absurditas maxima et error pessimus : quoniam secundum hoc una
+          anima diversa recipere potest corpora : quia qua ratione descendit in unum a stella
+          compare recedens, eadem ratione potest intrare aliud post recessum ab eo in quo est : et
+          hoc Plato esse verum asseruit : hoc autem in primo hujus scientiae libro sufficienter est
+          improbatum. Dictum autem Platonis non curat morbum illum quem induximus : quoniam ponitur
+          intellectus esse in se quoddam individuum : et jam superius conclusimus quod quidquid est
+          individuum, non recipit in se aliquid nisi secundum esse individuetur illud : et sic id
+          quod est in intellectu, non est universale, sed intentio particularis : et hoc non est
+          principium artis et scientiae secundum ipsam veritatem. Adhuc autem secundum istam
+          scientiam sensus et phantasiae non erunt nisi impedimenta scientiae : et tunc mirum quod
+          anima eligeret tale corpus, quod eam a perfectione impediret. Amplius si dii incorporant
+          animas, ut dicit Plato, sequitur malivolos et insipientes esse omnes coelestes deos in
+          tale corpus detrudentes similes <cb ed="#B5" n="b"/>
+          <!-- 347 b --> sibi intellectuales animas, in quibus per maximos labores vix possunt
+          unquam attingere contuitum pulchritudinis quam habent in seipsis. Ratio autem etiam quare
+          hoc dixit Gregorius Platonem sequens, nulla est omnino. Fugit enim inconveniens, ne forte
+          cogatur concedere animam corrumpi cum corpore, si concesserit quod incipit cum corpore :
+          et illius nulla est necessitas, quoniam non sequitur quod si aliquid incipit cum aliquo,
+          quod continuo corrumpatur corrupto illo : quoniam non incipit cum ipso ut sit aliqua pars
+          ejus vel aliqua forma, quae non habeat esse nisi in ipso : et hoc nos in sequentibus
+          ostendemus. Adhuc autem absurdum est quod anima coelestis fiat terrestris, quia aequivoce
+          habent nomen animae coelestes et terrestres : anima autem comparis stellae, stellae est
+          proportionata, et est coelestis : hoc igitur ad inferiora non descendit ut terrestre fiat
+          : hoc enim non modo esset tectoricam tibicines indui, sed jam terram indui virtute
+          coelesti et forma, quod omnino absurdum est. Est ideo haec Stoicorum opinio aut
+          metaphorice dicta, aut est omnino falsa : quoniam Plato, sicut et alii Antiqui omnia per
+          metaphoricas similitudines tradiderunt, quae de Physicis intellexerunt. Cujus causa fuit,
+          quia per propria exprimere quae senserunt nesciverunt.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT V.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT V.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t4c5">
+        <head xml:id="admda-l2t4c5-Hd1e128">CAPUT V.</head>
+        <head xml:id="admda-l2t4c5-Hd1e131" type="question-title">In quo probatur, quod nullus deest sensus ab ipsis
+          sensibilibus.</head>
+        <p xml:id="admda-l2t4c5-d1e134">Adhuc autem et tertiam inducemus rationem sumptam a sensibus, per quam nullum deesse
+          sensum animalibus perfectis ostendemus : haec enim efficacior est ad probandum quod
+          numerus propriorum passivorum ex numero propriorum activorum convenientissime probatur.
+          Non enim alterum aliquod corpus sensibile est et alia passio sive qualitas sensibilis quae
+          nulli sensui est propria, quam illae quae dictae sunt : ergo nullus deest animalibus
+          perfectis sensus : nullum autem aliud sensibile est ab his quae dicta sunt, sicut
+          probabimus. Si enim esset aliud aliquod sensibile, sensus illius ab aliquo animali
+          haberetur : sed animal perfectissimum est homo : ergo sensus illius haberetur ab homine.
+          Nos autem videmus hominem non habere plurium sensibilium sensus, quam qui dicti sunt :
+          quoniam sensibilia judicant convenientia et inconvenientia animalibus quorum sunt sensus.
+          Judicium autem convenientis potest accipi per illud quod substantialiter convenit, aut
+          nocet, aut per signum illius. Et siquidem est de eo quod substantialiter convenit, tunc
+          oportet quod sensibile innotescat per seipsum, et aliquid quod est pars animalis : quia ad
+          hoc quod aliquid substantialiter conveniat, oportet ista duo concurrere, scilicet quod
+          substantia sensibilis per seipsam conveniat : quia species generata ab ipso, non
+          constituit substantiam corpoream : et oportet ut <cb ed="#B5" n="b"/>
+          <!-- 299 b --> substantiae conveniat sentientis : et sic sensibile necesse est conjungi
+          per substantiam sentienti : et ex hoc convincitur esse tactus, et sufficienter habetur,
+          quando omnia <choice> <orig>contingibilia</orig> <reg>contangibilia</reg> </choice> nobis
+          substantialiter per tactum sentimus. Si autem per signum innotescit, aut illud signum est
+          propinquum, aut remotum, aut medio modo se habens. Et siquidem est propinquum, tunc erit
+          sequela commixtionis : et sic erit sapor per substantiam conjunctus gustui. Et si est
+          medio modo se habens, tunc est odor, qui causatur a sapore. Si autem est remotum, tunc
+          significat per ipsam rei formam, aut per illud quod est ejus signum et non res ipsa, et
+          sic est sonus.</p>
+        <p xml:id="admda-l2t4c5-d1e150">Est autem numerum hunc aliter accipere : quoniam sensus est ad notitiam ordinatus, et ad
+          cibum convenientem, et ad substantiam : his enim tribus perficitur animal perfectum :
+          substantia enim dat esse, cibus autem conservationem in esse, disciplina autem est de
+          perfectione animae praecipue humanae. Si ergo sensibile sit magis disciplinabile, tunc
+          erit aut ex ipsa rei forma deserviens inventioni, et tunc est sensus visus : et ideo
+          delectatio visus maxime signum est quod homo naturaliter scire desiderat : aut est per
+          signum intentionis rei, et sic est auditus deserviens doctrinae. Quia autem omne quod
+          quisquam scit, aut addiscens ab alio, aut inveniens per seipsum novit, ideo isti duo modi
+          sufficiunt ad disciplinam. Si autem sensus sit magis ad cibum persequendum, cum cibus non
+          sit nisi aliquid commixtum, oportet quod species sensibilis sit alicujus commixti species
+          : species igitur ista consequitur proxime mixturam, ita quod est proximus effectus ejus,
+          et sic est sapor : aut est effectus ejus non proximus, et sic est odor qui saporem
+          sequitur. Si autem est de his qui ordinant ad substantiam, tunc est species
+          tangibilium.</p>
+        <p xml:id="admda-l2t4c5-d1e153">Et ex his patet quare homines visum et auditum habentes optime disciplinabi<pb ed="#B5" n="300"/> <cb ed="#B5" n="a"/>les sunt : et si carent odoratu, visu, et auditu, nunquam
+          disciplinantur perfecte. Sunt tamen omnes sensus aliquo modo et secundum quid
+          disciplinabiles : et ideo dicitur quod destructo quolibet sensu perit scientia sensibilis
+          ejus : et sunt aliquo modo judicantes cibum : sed tunc aut judicant per intentionem pure
+          spiritualem, aut medio modo se habentem. Et primo quidem modo judicat visus a remotissimo.
+          Secundo autem modo aut est substantialiter judicans, aut proxime judicans conveniens et
+          inconveniens in ipso : et primo quidem modo est tactus, secundo autem modo est gustus. Si
+          autem habet se medio modo, aut plus est materiale quam spirituale aut e converso. Et primo
+          quidem modo est odor, qui mixti corporis est. Et secundo modo est sonus, qui esse
+          spirituale habet in medio, non tamen sicut visus. Hae autem sunt rationes ab Aristotele in
+          II de Anima confuse et breviter positae : propter quod <name ref="#Avicenna">Avicenna</name> professus est se <name ref="#Aristotle">Aristotelem</name> illo in loco
+          non intellexisse.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

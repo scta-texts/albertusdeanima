@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t2c7">
+        <head xml:id="admda-l2t2c7-Hd1e128">CAPUT VII.</head>
+        <head xml:id="admda-l2t2c7-Hd1e131" type="question-title">De officiis virtutis generativae.</head>
+        <p xml:id="admda-l2t2c7-d1e134">Idem autem nutrimentum per virtutem generativam, est factivum generationis, non tamen
+          generat id quod alitur, sed potius generat id quod est, ut id quod alitur in specie. Cujus
+          probatio est, quia nihil generat seipsum : oporteret enim quod idem esset et non esset
+          simul. Omne enim generans actu est : id autem quod generatur actu, non est ens : esset
+          igitur idem, et non esset secundum substantiam : et ideo sicut alimento et augmento aliud
+          et aliud est esse secundum idem subjectum, ita alimento et generativo necessarium est
+          aliud esse secundum diffinitivam rationem. Propter quod notandum est, nutritivam salvare
+          individuum per distributionem nutrimenti ad membra : et quod superfluit membris, hoc
+          sequestrat ad membra genitalia, quae trahunt ipsum sicut ventosa trahit sanguinem. Membra
+          autem seminaria sunt organum virtutis generativae, sicut cerebrum est organum virtutis
+          animalis, et cor virtutis vitalis : et virtus generativa sita in membris genitalibus,
+          imprimit in alimento superfluo virtutem formativam, quae in seminis viscositate retenta,
+          quando fuerit in debito loco, format semen in organicum corpus : sicut enim nutritiva cibo
+          influit speciem membrorum, per quam tendit ad membra, ita genitalia influunt ei virtutem
+          formativam, qua formatur semen in membra corporis organici : et hoc quidem semen a toto
+          corpore deciditur, et maxime a cerebro, et per spongiositatem membrorum, attractiva
+          virtute testiculorum trahitur ad vasa seminaria, et ibi informatur praedicta virtute.</p>
+        <p xml:id="admda-l2t2c7-d1e137"> <pb ed="#B5" n="225"/> <cb ed="#B5" n="a"/> Et ideo virtus generativa in veritate est
+          duplex. Una quidem in generante, quae descindit semen attrahendo, et haec operatur tribus,
+          calore scilicet qui spumosum facit semen, ut spumosum sit spiritu deferente formativam
+          virtutem, et hic spiritus extendit membra genitalia : et eodem calore consumit superfluum
+          humidi seminis, ut efficiatur globosum et quasi glandulosum, quod magis retinere possit
+          virtutes sibi impressas, et melius retineat figuras membrorum in se effigiatas. Operatur
+          autem seipsa virtus generativa, influendo virtutem formativam quae est in semine, sicut
+          ars est in artificiati materia : et operatur humido cibali, sicut materia etiam operatur :
+          et operatur ventositate sicut instrumento extendente membra genitalia ad actum coitus, et
+          ejiciendo semen a masculo in foeminam : ventositas enim propellit semen ad locum
+          debitum.</p>
+        <p xml:id="admda-l2t2c7-d1e144">Alia autem virtus generativa est in semine, quae est virtus formativa, duo habens
+          instrumenta, et duas materias, et duo opera. Unum quidem suorum instrumentorum est calor
+          seminis, qui triplici virtute est informatus : quarum unam habet a substantia in quantum
+          est calor, et ille est virtus solutiva aut dissolutiva et subtiliativa et alterativa
+          seminis. Secunda autem est virtus coelestis, quae virtute operatur ad vitam ex potentia
+          motionis coeli, sicut diximus in aliis locis. Tertia est virtus animae, cujus ipse calor
+          est instrumentum, qua virtute inducit formas organorum physici corporis potentia
+          exercentis opera vitae. Habet etiam spiritum infra spumam seminis contentum pro
+          instrumento, per quem vehit in omnes partes seminis suas virtutes. Duo autem humida sunt
+          materiae in quibus haec operatur. Unum quidem est quod est in substantia seminum, et hoc
+          est principale. Aliud autem est attractum ut addatur illi, hoc est, humidum sanguinis
+          menstrui, loco cujus infans quaerit cibum cum a matrice separatur : et hoc humidum est
+          supplementum quod additur <cb ed="#B5" n="b"/>
+          <!-- 225 b --> humido seminali, ut sufficiat formationi membrorum. Duo autem opera sunt :
+          unum quidem membrorum formatio, alterum autem est quod attribuitur membris, sicut numerus
+          membrorum et ordo, et situs, et asperitas, et lenitas, et caetera hujusmodi quae membris
+          attribuuntur. Haec igitur sunt opera virtutis generativae, et haec quidem fit ex
+          nutrimento.</p>
+        <p xml:id="admda-l2t2c7-d1e152">Fuerunt autem quidam contendentes, non ex nutrimento, sed ex aliquo quod actu est pars
+          animati, fieri generationem, dicentes eam fieri ex carne, non ex superfluo nutrimenti. Sed
+          error eorum convincitur quatuor rationibus. Quarum prima est, quod caro vel aliud quod est
+          pars corporis animati, non est potentia corpus animatum, nisi prius a sua forma
+          corrumpatur : semen autem potentia totum corpus. Secunda ratio est, quod illud quod est
+          actu pars, non deciditur ab animato, nisi cum magno dolore : semen autem separatur cum
+          delectatione. Tertia ratio est, quia actu pars non deciditur a toto corpore : semen autem
+          deciditur a toto corpore. Quarta ratio est, quia videmus oculis nostris semina plantarum,
+          neque lignum esse, neque folia, neque radicem, sed semina maturata : et videmus semina
+          animalium non esse carnem, neque os, sed humorem album. Falsum igitur est quod dicunt, et
+          rationibus inductis et multis aliis manifestatur error eorum. Quaerunt autem isti,
+          qualiter tunc fit generatio univoca, ut ex planta planta, et ex homine homo ? Sed ad hoc
+          nos dicimus, quod generatio dicitur aequivoca vel univoca quantum ad generans primum
+          effective quod decidit a se semen : haec enim dat virtutem formativam semini : et sic fit
+          ex planta planta, et ex homine homo, et sic de aliis.</p>
+        <p xml:id="admda-l2t2c7-d1e155">Ex omnibus autem praemissis constat, quod hujusmodi principium quod vocamus animam
+          nutritivam, est ejus quod potest salvare seipsum et suscipere tale <pb ed="#B5" n="226"/>
+          <cb ed="#B5" n="a"/> principium secundum quod est in tali dispositione. Ad hoc enim habet
+          eam ut salvetur in aliquibus suis dispositionibus, licet in omnibus salvari non possit,
+          quia in quibusdam continue mutatur. Alia autem sunt quae non indigent tali principio, eo
+          quod in omnibus suis dispositionibus semper uno modo conservantur, sicut corpora coelestia
+          : et ideo illa habent alias virtutes quam mortalia. Non enim indigent nutritiva et
+          augmentativa et generativa, quemadmodum diximus in aliis.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

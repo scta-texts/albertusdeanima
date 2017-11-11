@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XIII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XIII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l1t2c13">
+        <head xml:id="admda-l1t2c13-Hd1e128">CAPUT XIII.</head>
+        <head xml:id="admda-l1t2c13-Hd1e131" type="question-title">De causa illius opinionis, quae dixit animam esse ex elementis,
+          et specialiter ex aere : et est digressio in eo declarans diversas causas, et tres
+          opiniones circa hoc.</head>
+        <p xml:id="admda-l1t2c13-d1e134">Causa autem hujus opinionis partim tacta est ab Aristotele, et partim tangetur a nobis.
+          Dicit enim <name ref="#Aristotle">Aristoteles</name> quod causa quare opinabantur animam
+          esse in elementis nobiliorem et immortaliorem quam sit in his quae constituuntur ex
+          elementis, fuit haec, quod viderunt totum et partem in simplici corpore esse similis
+          speciei et formae : et tamen ex hoc sequitur quod necessarium sit quod etiam ipsi dicant,
+          quod anima totalis est similis speciei et partis cum animae parte. Est autem opinio eorum
+          de parte, quod opinantur quod animata sint mixta corpora, propter hoc quod aliquid
+          continentis et circumdantis aeris per anhelitum recipitur intra corpora eorum : et cum
+          pars intus recepta sit ejusdem speciei cum ea quae remanet extra de aere, et concedunt
+          quod intus recepta est animatum corpus, dicunt consequens esse quod totus aer extra manens
+          sit animatus. Et contra hoc dicit <name ref="#Aristotle">Aristoteles</name>, quod si aer
+          districtus vel discerptus, cujus quaedam pars est intra, et aliud totum est extra, est
+          simile speciei, tunc consequens est ut etiam anima totius aeris et partis intus sit
+          similis speciei. Si ergo exterioris aeris anima est <choice> <orig>immoralis</orig>
+          <reg>immortalis</reg> </choice> utpote quae semper vivificabit et vivificat viva,
+          consequens est animam quae est in aere qui intus est receptus, esse immortalem : et hoc
+          ipsi non dixerunt : sicut enim se habet suscipiens <cb ed="#B5" n="b"/>
+          <!-- 176 b --> ad suscipiens, ita anima ad animam, et e converso. Si autem aer dicatur
+          esse speciei similis, sicut diximus, et anima dicatur esse dissimilis, tunc sequitur
+          necessario quod non ambae partes aeris susceptibile erunt animae : sed una pars potest
+          esse animae susceptibilis, et alia pars non erit, eo quod suscipiens proprium non habet.
+          Sequitur igitur alterum de duobus, quod aut scilicet aer sit similis partis, et anima
+          similiter : aut si ipsa est dissimilis et aer similium partium, tunc sequitur quod anima
+          non sit in qualibet parte totius aeris. Haec autem inconvenientia sunt secundum ipsos.
+          Manifestum est igitur ex his quae dicta sunt, quod neque cognoscere inest animae, propter
+          hoc quod ex elementis sit : neque movere ponitur bene vel vere ex causis quas
+          assignaverunt Philosophi.</p>
+        <p xml:id="admda-l1t2c13-d1e156">Scias autem circa materiam istam esse tres opiniones, quarum una antiquissima est quam
+          prosecuti sumus, quod scilicet anima sit in omnibus elementis, praecipue corporeis, sicut
+          igne, et aere, eo quod illa sunt quae videntur animare corpora per calorem naturalem et
+          respirationem et spiritum, sicut diximus superius. Et dicebant elementa non animare
+          corpora composita, nisi propter hoc quod ipsa in se animata sunt, ponentes materiam
+          subjectam eis esse divinum, eo quod videbant esse ingenerabilem et incorruptibilem : et
+          per hoc divinum dicebant quod animabat corpora : unum quidem perforando et faciendo vias
+          per corpus quod est calor : alterum autem quod discurrit in foraminibus corporum
+          animatorum quod est spiritus aeris vel aereus : et ideo aerem principaliorem dicebant in
+          animando : et haec fuit ratio Orphei et aliorum. Videbant etiam spiritum esse vehiculum
+          virtutis in corpore per modum illum quo radius et lumen est virtutum coelestium vehiculum
+          in mundo : et quia sic discurrit per corpus et <pb ed="#B5" n="177"/> <cb ed="#B5" n="a"/>
+          vehit virtutem, et operatur naturales operationes et vitales et animales : naturales
+          quidem in hepate per attractivam, digestivam, nutritivam, et expulsivam, vitales autem in
+          corde per arterias pulsas in arteriis virorum, et animales in cerebro per sensum, et
+          imaginationem, et caeteras operationes animales, dicebant spiritum esse animam. Est autem
+          adhuc quod induxit eos, quod spiritus inclusus in viscositate seminis animatorum operari
+          videtur organa corporum et figurare corpora : et ideo quia viderunt operari spiritum ut
+          animam, dixerunt spiritum esse animam. Non autem fit anima aer propter hoc quod est intus,
+          cum non accipiat aliquid a corpore, sed potius det refrigerium quod secum attulit : et
+          ideo oportuit eum prius fuisse animam aut animatum : et cum sit ejusdem rationis in specie
+          cum toto aere, dixerunt totum aerem esse animatum : et haec fuit vera ratio quae induxit
+          istos. Et contra hoc fecit Constabenluce librum ad istum errorem elidendum : quoniam sine
+          dubio spiritus ille corpus est, anima autem non est corpus. Similiter autem spiritus
+          instrumentum animae est quod movet totum corpus, et anima non est instrumentum animae.
+          Spiritus enim est corpus aereum lucidum a vapore cibi, vel per anhelitum inductum,
+          mediante quo anima movet corpus, et quod est vehiculum virtutum quas anima influit corpori
+          : quod quidem animae opera perficit, sicut instrumentum artificis inducit formam quam
+          habet in mente artifex, non quidem ut est ferrum vel lignum, sed prout est ab anima
+          directum et motum. Similiter spiritus ille quando digestus et purificatus est ab anima, et
+          directus ab ipsa, omnes animae perficere potest operationes quas anima habet in corpore.
+          Hic autem spiritus abundantior est in corde et in pulmone et in arteriis, sed paucior in
+          aliis : est tamen in omnibus : quod ostendit ipsa aliorum spumositas quae est in sanguine
+          <cb ed="#B5" n="b"/>
+          <!-- 177 b --> et semine et cibo, et aliis humiditatibus, quae profecto spumositas non est
+          nisi ex spiritu incluso in eis. Hic etiam portat formas per cellulas capitis quae sunt
+          tres, anterior, et media, et ultima distinctae, sicut dici habet in libro de
+          Animalibus.</p>
+        <p xml:id="admda-l1t2c13-d1e167">Secunda autem opinio est dicentium quod elementa quidem non sunt animata extra compositum
+          : sed tamen compositio et commixtio elementorum in se habet primam animae perfectionem et
+          essentiam : et vocant primam animae perfectionem et essentiam inchoationem animae, eo modo
+          quo inchoatur aliqua alia forma in sua propria materia, quando est in <choice>
+          <orig>potentiam</orig> <reg>potentia</reg> </choice> habituali ad illam formam <choice>
+          <orig>proximam</orig> <reg>proxima</reg> </choice> in illa. Dicunt enim illi quod anima
+          est perfectio corporis commixti et physici : perfectio autem omnis corporis physici in
+          ipso est secundum potentiam formalem, antequam sit in actu in eo : physicum autem corpus
+          est commixtum ex elementis : anima igitur secundum suam primam inchoationem praecipue
+          secundum vegetari et sentire est in elementis commixtis. Adhuc autem vegetativum et
+          sensitivum nunquam operantur, nisi per corpus expleant suas operationes : sicut autem se
+          habet operatio ad organum, ita se habet substantia cujus est illa operatio ad substantiam
+          : sic substantia est vita in corpore, sicut et operatio expletur per corpus : substantia
+          autem quae est de esse corporis, et est substantia ipsius vel perfectio primo formali
+          potentia est in semine corporis : et videtur quod sit in commixtione elementorum anima,
+          licet ante commixtionem elementa haud animata sint. Et hoc quidem dixit Alexander Graecus
+          Peripateticus. Sed hoc non esse verum patet ex hoc quod anima non est harmonia, sicut
+          supra probatum est. Et ulterius etiam hic addimus quod etiam non est aliquid sequens
+          harmoniam, quia cum harmonia sit corporalis contemperantia elementorum, non potest aliquid
+          sequi harmoniam, ut essen<pb ed="#B5" n="178"/> <cb ed="#B5" n="a"/>tialiter causatum ab
+          harmonia, nisi forma corporalis : anima autem nullo modo est forma corporalis : ergo anima
+          non est sic in commixtione elementorum. Adhuc autem si anima secundum sui inchoationem et
+          potentiam formalem esset in elementis, vel ex elementis, oporteret etiam quod anima
+          perfecta ultima perfectione esset ex elementis : quia, sicut diximus in fine primi
+          Physicorum, talis potentia eadem est in essentia cum actu, licet secundum esse sit
+          differens : hoc enim esse nominat potentiam et actum. Si autem hoc esset verum, non
+          haberet anima operationem nisi formae corporalis quae sequitur mixtionem : omnis autem
+          talis forma habet unicam operationem : et sic anima non haberet nisi unicam operationem :
+          et hoc falsum est, cum et vegetabilis et sensibilis et intellectualis anima multas habeat
+          operationes : et ideo ista opinio sane falsa intelligitur aut convincitur : unde licet
+          anima potentia sit in semine commixto, non tamen est in semine causata a commixtis ipsis
+          vel a commixtione, sed potius causata ab anima decidente semen, sicut infra dicemus : vel
+          etiam ab intelligentia movente stellas, sicut in his quae ex putrefactione generantur.
+          Quod autem quando perfecta sunt vegetativa et sensitiva non operentur nisi in corpore, hoc
+          non ideo est, quod sint causatae a commixtione, sed potius ideo quia sunt virtutes in
+          corpore, non a corpore causatae, nec a commixtione corporali, quamvis causantur in ipso
+          quod corporaliter commixtum est. Hujus autem expressa ratio inferius ostendetur.</p>
+        <p xml:id="admda-l1t2c13-d1e193">Tertia vera opinio est quorundam nostrorum sociorum dicentium animas vegetabilium et
+          brutorum animalium esse ex traductione. Dicunt enim illi, quod quando semen deciditur a
+          corpore aut a parte corporis, deciditur etiam pars animae ab anima : et ex illo quod ab
+          anima deciditur, fit et generatur anima generati. Hujus autem signum esse dicunt quod
+          compertum est embrionem per cotilidones adhaerere matricibus, et habere cutariam contra
+          arte<cb ed="#B5" n="b"/>
+          <!-- 178 b -->riam matricis, et venam contra venam, et sic de aliis : ut et sic spiritum
+          et sanguinem trahant a matrice : quod non esset, ut dicunt, nisi traduceretur anima
+          embrionis ab anima matris. Adhuc autem dicunt non esse completam aliter propinquitatem
+          inter parentem et prolem, nisi aliquid animae traheretur a parente in prolem, ut dicunt.
+          Sed hoc mirum esse videtur qualiter anima potest decidi ab anima, cum anima sit
+          indivisibilis, et nihil ab ipsa decidi possit. Adhuc autem non fit generatio ex eo quod
+          est actu pars, sed potius ex eo quod est potentia pars corporis, quod est superfluitas
+          digestionis : et hoc non est adhuc animatum anima parentum secundum actum : et ideo nihil
+          animae deciditur ipso deciso. Haec autem magis pertinent ad tractandum in libro de
+          Animalibus, ubi agetur de animalium generatione. Sed quod hic sufficit, est quod dicimus
+          semen esse ex quo est generatio, vel id quod est sicut semen consequens materiam, ut patet
+          in his quae ex putrefactione generantur, vel ex alia quacumque elementorum commixtione per
+          virtutes stellarum in species plantarum vel animalium producta. In omnibus enim talibus
+          praeter commixta elementa est resultatio virtutis animae vel intelligentiae, quae
+          resultatio est forma inchoans animam vel essentiam animae. Sicut enim videmus in operibus
+          artis, quod dolabrum de virtute anguli habet scindere ligna vel lapides, sed ad formam
+          domus non deducit ea quae scindit, nisi per operationem et formam artis quae est in
+          intellectu practico artificis : et sic dicimus artem facere artem, quia forma artis in
+          anima artificis existens educit illam quae est in lignis et in lapidibus : et hoc non est
+          potentia in lapidibus et lignis, secundum quod lapides sunt aut ligna, sed potius secundum
+          quod subjiciuntur instrumentis artis et ipsi formae artis quae est in artificis mente. Sic
+          etiam dicimus quod omne semen ex quo fit generatio, sive sit in matrice alicujus animalis,
+          sive non sit, habet in se virtutem formativam, quae absque dubio <pb ed="#B5" n="179"/>
+          <cb ed="#B5" n="a"/> virtus est in semine non ex elementis, sed sicut artificis forma est
+          operans super ligna ut fiat artificiatum. Sed tamen est differentia in hoc quod virtus
+          formativa est in semine, forma autem artis in arte operans est in anima. Haec autem virtus
+          formativa datur ab anima, vel ab eo quod est simile animae. Ab anima quidem, quando semen
+          <choice> <orig>maturatum</orig> <reg>maturatur</reg> </choice> in corpore animato et
+          postea educitur ab ipso. Ab eo autem quod est loco animae, quando semen maturatur extra
+          corpus animatum a lumine et virtutibus. In corpore autem animato fit duobus modis. In
+          vegetabilibus fit per maturationem quae est in fructu, quia vegetabilia ubique in se
+          virtutem habent generativam dispersam : et ideo ubique adhaerentia sibi semina maturantur,
+          et virtutem recipiunt formativam. In animalibus autem fit per membrum determinatum ad
+          generatione : semen enim in nulla parte corporis efficitur vere semen, hoc est, potens
+          producere simile in specie ei cujus est semen, nisi maturatum in membro ad generationem
+          ordinato, hoc est, testiculis vel in eo membro quod est testiculorum loco, in quibus
+          virtus animae generativa habet situm. Sive autem fiat in corpore animato, sive extra,
+          oportet observare qualiter fiat : et hoc bene consideratum solvit totam Antiquorum
+          contradictionem istam.</p>
+        <p xml:id="admda-l1t2c13-d1e213">Sciendum igitur quod omne agens incorporeum quod imprimit speciem suam in rem corpoream
+          et per corporeum instrumentum, oportet quod agat aliquando sic quod species quam imprimit,
+          sequitur magis substantiam cui imprimitur, et aliquando magis assimilatur speciei agentis,
+          et aliquando assimilatur secundum quid utrique : et hoc fit propter diversitatem ejus quod
+          suscipit suam impressionem sive <choice> <orig>formamin$formam in$, quam inducit. Est
+          autem motor primus omnino incorporeum agens, quod tamen agit in materiam quae est ex
+          contrariis et commixta ex elementis et qualitatibus elementorum, et agit per instrumentum
+          corporeum quadrupliciter, quorum unum est virtus quae <cb ed="#B5" n="b"/>
+          <!-- 179 b --> est in corporibus coelestibus, aliud autem virtus quae est in lumine
+          $caelesti</orig> <reg>coelesti</reg> </choice> descendente, et tertium motus coelestis, et
+          quartum est qualitates primae quae sunt in elementis : et ideo in quibusdam quae tantum
+          commixta sunt materialiter, non inducit nisi formam corpoream, sicut in lapidibus et
+          metallis : et hoc est differens corporaliter secundum omnem diversitatem lapidum et
+          metallorum. In quibusdam autem quae aequalitati coeli magis appropinquant, et ab
+          excellentia contrariorum elementalium multum elongantur, multum resultat de lumine suo
+          sicut in intellectuali anima, quae tota est extra corporeitatem et materiam
+          contrarietatis, sicut superius diximus, et est similitudo quaedam agentis primi : propter
+          quod dixerunt Philosophi quidam mediante intelligentia animam causari, quia similitudo est
+          solius intellectualis naturae primae causae quae similitudinem suam in tali et non ex tali
+          materia producit : propter quod etiam intellectualis anima non ex materia dicitur produci,
+          sed potius ab extrinseco ingredi, eo quod nullum elementorum divisim, neque etiam
+          elementorum commixtio potentiam habet conjuncti quae sit radix elementalis talis animae,
+          sed tantum lumen intelligentiae agentis est radix ejus, ita quod aliquando a Philosophis
+          vocatur resultatio intellectus divini in corpore physico potentia vitam habente : et
+          aliquando vocatur umbra intellectus divini, eo quod lux illa quae causatur ab intellectu
+          agente in naturis, aliquantulum obumbratur ex inclinatione ad materiam corporis physici.
+          Cujus signum est, quod anima intellectiva inquisitiva est, et accipit cum continuo et
+          tempore, cum intellectus qui separatus est, omnino sit sine inquisitione, apud quem sunt
+          simplices formae et quiditates rerum. Quod autem sic causetur pars et anima
+          intellectualis, et non ex materia educatur, neque in materia sit radix ejus, ex hoc
+          probatur quod supra dictum est, intellectum esse ante corporeitatem et contrarietatem
+          secun<pb ed="#B5" n="180"/> <cb ed="#B5" n="a"/>dum naturam, et quod habitum est
+          intellectum esse antiquiorem materia corporali secundum naturam. Habetur autem etiam ex
+          hoc quod si radicaretur in aliqua materia vel virtute corporali, indigeret in operatione
+          sua materia illa et virtute corporali, et non esset separata anima intellectualis. Nos in
+          tertio hujus doctrinae libro ostendemus eum esse separatum in substantia et operatione.
+          Nullus igitur alius modus productionis inesse potest etiam intellectualis animae, nisi qui
+          dictus est, et nullo modo reducatur in elementis, neque ex elementis educitur. Propter
+          quod eleganter dicit <name ref="#Aristotle">Aristoteles</name> in XVI Animalium solum
+          intellectum ab extrinseco, non ex elementis ingredi in esse et produci. Anima autem
+          vegetabilis et sensibilis producuntur ex materia, et radicem habent in materia, sed
+          virtute agentis incorporei, sive hoc sit intellectus movens stellas, sive sit virtus
+          formativa in semine animatorum corporum, sed tamen radix istarum animarum non est forma
+          elementalis, neque aliquid sequens commixtionem elementorum, sed potius forma impressa ab
+          anima decidente semen vel impressa a motore orbium, sed educta instrumentis corporalibus
+          quae sunt lumen et virtus et motus coelorum et stellarum et qualitates elementales in se
+          habentes coeli et animae virtutes : et ideo tales animae sunt quidem virtutes in corpore
+          existentes, et sine eo non explentes operationes suas : sed tamen radix earum et inchoatio
+          est forma impressa semini a virtute incorporea, ut dictum est. De his autem quae
+          generantur ex putrefactione, in IV Meteororum fecimus mentionem et assignavimus causam.
+          Haec enim omnia quae hic diximus, apertius in libro Animalium dicentur, ubi de operatione
+          spermatis proprium nos oportet facere tractatum. Sed ea quae hic dicta sunt, breviter ad
+          intellectum opinionum inductarum sunt inducta.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

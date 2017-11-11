@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XIV.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XIV.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t3c14">
+        <head xml:id="admda-l3t3c14-Hd1e128">CAPUT XIV.</head>
+        <head xml:id="admda-l3t3c14-Hd1e131" type="question-title">Et est digressio declarans errorem eorum qui dicunt de omnibus
+          animabus tantum unam remanere post mortem.</head>
+        <p xml:id="admda-l3t3c14-d1e134">Fuerunt autem quidam qui videntes animam substantialiter esse separatam, di<pb ed="#B5" n="393"/> <cb ed="#B5" n="a"/>xerunt eam non individuari nisi per corpus et ad corpus, et
+          ideo destructo corpore ex omnibus animabus non remanere nisi unicam substantiam separatam,
+          et horum nos tetigimus supra errorem, cum loqueremur de natura intellectus possibilis. Sed
+          quia deliramentum hoc esse putamus, et fuerunt viri magni in philosophia, qui hunc
+          abhorruerunt errorem, bonum nobis videtur ponere fortes rationes et demonstrativas contra
+          illos. Dicimus autem quod si una anima sit ex omnibus animabus rationabilibus, aut hoc fit
+          sic quod ex animabus substantialiter multis fiat una, aut ideo quia accidentaliter multae
+          sunt, et substantialiter remanet una ex multis vel omnibus post mortem corporis. Si autem
+          primo modo dicunt, haec est absurditas magna : quia cum omnis anima rationalis sit ejusdem
+          speciei cum alia, non remaneret unum nisi collectione ex omnibus, sicut exercitus et turba
+          et populus : hoc autem simpliciter sunt multae animae et secundum quid unum. Viri autem
+          sapientiores fuerunt quam ut dixerint hoc, sed absque dubio secundo modo dixerunt dicentes
+          animas non esse multas nisi ex respectu ad corpus : et contra hoc fortissimas quatuor
+          superius induximus rationes vel demonstrationes. Hoc autem diximus, quod illud accidens
+          quod fecit multas animas, aut est accidens quod est in anima, aut non est in anima. Si
+          enim est in anima, cum anima sit simplex, tunc oportet quod sit in tota anima : et sic
+          individuatio animae ad unum erit individuatio ad alium : et sic animae per illud accidens
+          non erunt multiplicatae per numerum, et est contra eos. Adhuc autem quidquid accidit
+          simplici, toti simplici accidit. Illud ergo accidens toti accideret animae : accideret
+          ergo ei secundum quod est in omnibus : et sic non multiplicarentur per illud accidens. Si
+          autem non accideret animae, tunc non individuaret animam. Adhuc <cb ed="#B5" n="b"/>
+          <!-- 393 b --> habitum est quod speculativus intellectus inest animae secundum ipsam : et
+          sic speculativus intellectus esset idem apud omnes, quod omnino falsum est : quia sic uno
+          homine existente sapiente, omnis homo sapiens esset, quod falsum est. Adhuc autem cum
+          anima rationalis sit simplex, ipsa est tota in omni corpore in quo est : ergo cum tota
+          anima secundum istos esset in uno, et tota in alio, et tota in quolibet : et hoc non est
+          intelligibile : quia ex hoc sequitur quod tota esset in quolibet, et tota extra quolibet,
+          quod est absurdum. Si autem dicatur esse non in corpore, sed respicere ipsum, quaeratur
+          quis sit modus illius respectus ? Et dicunt quod hoc est respectus operationis : et hoc
+          stare non <choice> <orig>postest</orig> <reg>potest</reg> </choice>, quoniam cum operatio
+          egrediatur a potentia, et potentia sit in essentia, oportet eam essentialiter esse ubi
+          operatur : et operatur in corpore : ergo est in corpore. Adhuc autem substantia quae est
+          dans esse et rationem, est in eo cui dat esse et rationem : anima autem rationalis dat
+          esse et rationem corpori : ergo est in ipso. Constat autem falsum esse quod isti dicunt.
+          Si autem quaeratur modus conjunctionis animae ad corpus et individuationis, superius a
+          nobis hic est assignatus, cum ostenderemus qualiter intellectus possibilis est separatus
+          et conjunctus in anima intellectuali. Similiter nec oportet hoc <choice>
+          <orig>reitare</orig> <reg>reiterare</reg> </choice> : dicit tamen <name ref="#Avicenna">Avicenna</name> quod anima habet individuans proprium, licet naturam ejus et nomen
+          ignoremus. Sed cum omne individuans sit materia, oportet quod illud individuans sit
+          materia incorporea in anima existens : et per formam quae non est corporis perfectio : et
+          hoc concedunt plerique inter nostros socios. Sed nos eis in nullo contradicere volentes,
+          probabile reputamus quod nos superius diximus, quod id probari potest ex his quae insunt
+          animae : istud autem non est probatum, sed ratione magis confictum.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

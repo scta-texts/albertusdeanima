@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XXXIV.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XXXIV.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c34">
+        <head xml:id="admda-l2t3c34-Hd1e128">CAPUT XXXIV.</head>
+        <head xml:id="admda-l2t3c34-Hd1e131" type="question-title">De medio tactus, quid sit, et quot modis dicatur.</head>
+        <p xml:id="admda-l2t3c34-d1e134">Omnino autem videtur caro et extremitas in lingua in gustu, et sic per omnia se habere in
+          mediando, sicut se habent aer et aqua in visu et auditu et olfactu : in omnibus enim
+          sensibus generaliter videtur convenire, quod illius nullus sit sensus, quo sicut
+          instrumento sentimus, quando sine medio tangitur a sensibili primo : ut si quis ponat
+          corpus album oculi ultimum quo videmus, sicut instrumento, qui est humor crystallinus sive
+          glacialis. Manifestum est igitur ex hoc quod possibile tangi quod est instrumentum tactus,
+          est intus sub carne : et non est caro ipsa : quia sic necesse est accidere in tactu, sicut
+          in aliis sensibus : sensibilia enim apposita sine medio sunt id quod sentiunt animalia
+          sicut instrumento non sentiunt, sed tangibilia posita super carnem sentiunt, ergo caro
+          erit medium in tactu et non instrumentum. Causa autem quare non sentiunt instrumenta nisi
+          a medio, haec est, quia in instrumento est vis sensitiva, et haec non accipit nisi speciem
+          in omni sensu : et ideo oportet quod in organo non sit nisi species, et ideo non potest
+          fieri tactus corporis secundum naturam sensus : sed oportet quod species sit in medio et a
+          medio fiat in instrumento. Sed hoc videtur forte mirabile, cum omni tentanti per
+          experimentum constet nervos esse magis sensibiles quando tanguntur a sensibus, quam ipsam
+          carnem, quod est contra praedicta. Adhuc autem per anatomiam probatum est, quoniam caro
+          non habet sensum nisi sibi ministratum a nervo : et ideo videtur scientia inducta esse
+          falsa, nec <pb ed="#B5" n="291"/> <cb ed="#B5" n="a"/> solum in carne sit sensus, sed in
+          ossibus quibusdam, sicut in dentibus, sicut experimento probatur. Et ideo <name ref="#Avicenna">Avicenna</name> et multi alii hanc scientiam <name ref="#Aristotle">Aristotelis</name> imitari contempserunt, et dixerunt carnem nervosam esse organum
+          tactus, et non esse in tactu sicut in caeteris sensibus : quoniam tactus non tantum est
+          vis quaedam et potentia sensitiva animae, sed est forma quae facit alias esse : quoniam
+          nullum animal est sine tactu : et omne quod habet tactum, est animal : et ideo tactus non
+          est in uno membro, sed est in multis, sicut omnis forma substantialis actum quem habet
+          essentialem, operatur in tota materia, et non in una ejus parte tantum : et ideo dicunt
+          tactum non habere medium aliquod. Cujus adhuc inducunt rationem : quia scilicet animal
+          sentiens ex tangibilibus componitur, et ex illis salvatur et corrumpitur : et ideo oportet
+          quod sine medio eisdem conjungatur.</p>
+        <p xml:id="admda-l2t3c34-d1e147">Nos autem et veritatem salvare cupientes et reverentiam exhibere Aristoteli principi
+          Philosophorum, dicamus carnem esse medium tactus : sed carnem generaliter vocamus id quod
+          vere caro est, vel id quod est simile carni. Simile autem carni dicimus tripliciter
+          accipi. Uno quidem modo membrum quod loco carnis est in animalibus sanguinem non
+          habentibus. Alio autem modo dicitur caro vel simile carni id quod vicinatur medietati et
+          aequalitati complexionis quae est in carne, sicut dentes : et ideo dentes crescunt in his
+          in quibus alia ossa non crescunt : et experimentum hujus est, quod ei qui dentes
+          superiores vel inferiores habet extractos, ille videbit dentes illis oppositos super alios
+          prolongari : et hoc non esset, nisi crescerent per nutrimentum : videmus enim in senibus
+          quibusdam dentes extractos crescere : quod non fieret, nisi essent vicini carnis
+          complexioni, quoniam caro sola est quae influit et effluit per nutrimentum restaurata per
+          totam vitam animalis. Et ideo dixerunt Galenus et <name ref="#Avicenna">Avicenna</name>
+          quod dentes habent me<cb ed="#B5" n="b"/>
+          <!-- 291 b -->dium in tactu sicut et caro. Propter quod etiam membra mollia quorum
+          complexio ad aequalitatem carnis non accedit, non sentiunt, hepar, et cerebrum, et
+          hujusmodi : et si aliquando in eis sentitur dolor, hoc est in panniculis qui sunt circa
+          substantias eorum. Tertio autem modo dicitur simile carni quod carni est commixtum sicut
+          nervi : non enim potest esse quod nervi multum immixti carni non multum sint similes
+          carni, cum ex corde vel eodem trahant nutrimentum : cujus signum est, quia nervi in
+          utroque fine conjuncti ossibus, sicut nervi qui vocantur funes sive ligamentum ossium
+          propter similitudinem quam habent ad ossa, non sentiunt. Dicimus igitur nervos sensitivos
+          in loco ubi sensum hauriunt, non sentire si sine medio tanguntur a sensibili : et hoc est
+          in loco ubi a cerebri anteriori parte oriuntur : illi enim complexionem carnis non habent,
+          sed potius cerebri unde oritur sensus. Alibi autem ubi carni immixti sunt et medietati
+          carnis vicini, sensum habent : quia illi sunt plus habentes rationem medii in tactu quam
+          organi rationem.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

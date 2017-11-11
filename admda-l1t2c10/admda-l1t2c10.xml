@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT X.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT X.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l1t2c10">
+        <head xml:id="admda-l1t2c10-Hd1e128">CAPUT X.</head>
+        <head xml:id="admda-l1t2c10-Hd1e131" type="question-title">De improbatione opinionis quae dicit animam esse numerum seipsum
+          moventem.</head>
+        <p xml:id="admda-l1t2c10-d1e134">Multum autem his opinionibus quae dictae sunt, irrationabilius est sive videtur dicere
+          quod anima est numerus movens seipsum. Ad hanc enim positionem sequuntur impossibilia
+          communia ex parte illa contingentia, qua dicunt animam movere se ipsam : et ex alia parte
+          sequuntur ad eam impossibilia propria et specialia, quae contingunt ex hoc quod dicunt eam
+          esse numerum : et non oportet nos reiterare impossibilia communia quae sequuntur ex hoc
+          quod dicunt animam movere seipsam : quia plurima dicta sunt in praemissis. Qualiter autem
+          anima non sit numerus movens seipsum, nunc ostendimus. Quomodo autem congruat intelligere
+          unitatem moveri, primo quaeramus. Nihil enim movetur nisi quod habet situm, sicut
+          probavimus in Physicis. Si igitur unitas movetur habebit unitas situm : et sic erit unitas
+          ali<pb ed="#B5" n="167"/> <cb ed="#B5" n="a"/>quid in continuo, et non aliquid in
+          discreto. Adhuc autem cum omne quod movetur, necesse sit ab aliquo moveri, quod differt ab
+          eo, aut essentialiter tantum, aut essentialiter et localiter, sicut probavimus in VII
+          Physicorum, quaeramus ab istis quomodo intelligi potest, quod unitas moveatur ab aliquo
+          differente ab ipsa per substantiam et locum, aut per substantiam solum : et tamen haec
+          ipsa unitas manet indivisibilis et indifferens existens per substantiam et locum : hoc
+          enim non est intelligere. Quia si ponatur seipsam movens, tunc erit motiva suiipsius, et
+          mobilis a seipsa et mota : et tunc oportet per praedicta quod differat a seipsa
+          substantialiter, et sic per substantiam divisibilis est unitas : et hoc est contra
+          diffinitionem et intellectum unitatis.</p>
+        <p xml:id="admda-l1t2c10-d1e141">Amplius autem apud mathematicos commune dictum est, quod motus puncti facit lineam, et
+          motus lineae facit planam superficiem. Constat autem ex his quae nos in Physicis diximus,
+          quod omne quod movetur secundum locum, situm habet. Cum igitur ponant unitatem moveri,
+          oportet quod unitas situm habeat : ergo erit idem cum puncto, quia indivisibile unum
+          habens situm est punctum. Jam autem habitum est ex propria doctrina mathematicorum, quod
+          fluxus puncti facit lineam et non numerum : ergo et unitas mota quae est situm habens, et
+          idem puncto, motu suo facit lineam, et non numerum. Non igitur debent dicere quod anima
+          sit numerus movens seipsam, sed quod sit linea movens seipsam vel superficies. Jam enim
+          concesserunt quod numerus ille quem dicunt esse animam, est ubi, sive in loco, et quod
+          habet positionem : quia hoc necesse fuit eos concedere propter motum quem attribuebant ei
+          : et tunc necessario sequuntur quae inducta sunt. Amplius autem si quis auferat a numero
+          unitatem vel nu<cb ed="#B5" n="b"/>
+          <!-- 167 b -->merum, relinquitur alia numeri species : et hoc est ideo, quia numerus est
+          multitudo numerata per unum : et sic esse numerum est a discretione : species autem numeri
+          est a mensura determinante multitudinem quam praecipue determinat ultima numeri unitas :
+          et ideo cum aufertur aliquid vel apponitur, relinquitur quidem causa generis numeri, quae
+          est discretio : sed non relinquitur eadem species, quia species datur ab unitate ultima
+          secundum quod finit et determinat multitudinem. In continuis autem non sic est : quia non
+          ex appositione vel demptione causantur, sed potius a continuitate : et haec continuitas
+          neque apponitur per aliquid appositum, neque tollitur per aliquid demptum : propter quod
+          divisio lineae non facit aliam speciem, sed tantum aliam lineam in numero. Similiter autem
+          in his animatis quae habent corpora multum similia et non diversificata per diversae
+          figurae organa, vel parum habent diversitatis in organis corporum suorum, sicut plantae et
+          quaedam animalia quae sunt sicut lumbrici terrae et serpentes et anguillae, quando
+          dividuntur, magis sequuntur divisiones animarum suarum modum divisionis continui, quam
+          modum divisionis discreti : quia in utraque parte divisa relinquitur anima ejusdem speciei
+          : et hoc non fuit in numeris : ergo anima magis deberet dici punctus vel linea vel alia
+          species continuae quantitatis, quam quod dicitur numerus.</p>
+        <p xml:id="admda-l1t2c10-d1e148">Movet autem fortassis aliquem quod diximus unitatem motam non differre a puncto :
+          unitatis enim origo a puncto differt essentialiter : et sic videtur unitas nunquam posse
+          fieri punctum, sive mota ponatur esse unitas, sive non mota. Si enim nos imaginemur
+          materiam primam nudam ab omni forma substantiali et accidentali, ipsa est unum solum et
+          indivisibilis non habens extra partem, sicut ostendimus in primo Physicorum : habet autem
+          partem et partem, et partem juxta partem in potentia solum et <pb ed="#B5" n="168"/> <cb ed="#B5" n="a"/> non in actu. Cum autem imaginamur formam substantialem solum et non a
+          materia participatam, ipsa etiam erit una sola non habens in se aliquam multitudinem : et
+          cum materia sit susceptibilis tam formae accidentalis quam substantialis, constat quod
+          ipsa non est susceptibilis formae accidentalis, nisi per formam substantialem : et si ipsa
+          est susceptibilis duarum formarum substantialium, non suscipiet eas secundum unam et
+          indivisam materiam quae sit in utraque. Ponamus igitur quod suscipiat formam substantialem
+          secundum actum, hoc necessario dividet materiam ab omnibus aliis, et faciet in se ipsam
+          indivisam quae sub eadem forma continetur : ergo forma sic participata et terminans
+          materiam causa est unitatis : et diversitas terminationis quae est a forma diversimode
+          participata, causa est multitudinis : et sic unitatis origo et numeri est a forma.
+          Suscipiat etiam materia prima primum accidens quod quantitas est : illius autem non erit
+          susceptiva ex parte formae, quia formae non est habere partem situaliter juxta partem :
+          ergo accidit quantitas ex parte materiae : et accidit secundum principium suum quod est
+          punctum : punctum igitur ex parte materiae est : et sic origo unitatis est a forma, et
+          origo puncti a materia. Qualiter igitur potest dici quod unitas est punctum ? Sed
+          intelligendum est quod nos non dicimus, quod unitas sit punctum, vel quod ipsa fiat
+          essentialiter, sed quod subjectum ejus et subjectum utriusque efficitur unum per hoc quod
+          unitas dicitur moveri : eo quod nihil movetur nisi quod habet situm : et ideo licet unitas
+          sit ex parte formae, et punctum ex parte materiae, tamen unum indivisibile erit utrumque
+          si unitas situm habere ponatur : quia punctum nihil aliud est nisi indivisibile habens
+          situm.</p>
+        <p xml:id="admda-l1t2c10-d1e156"> <cb ed="#B5" n="b"/>
+          <!-- 168 b --> Redeuntes igitur ad propositum dicimus adhuc, quod taliter dicens animam
+          esse unitates se moventes, nihil differret ab eo qui dicit animam esse corpora parva. Et
+          hujus quidem causa est, quia si ponamus sphaeras indivisibiles quas dicit Democritus esse
+          animam esse puncta, ita quod non remaneat in eis qualitas aliqua, sed quantitas sola in
+          genere, adhuc oportet quod in eis differat movens ab eo quod movetur essentialiter, sicut
+          patet per antedicta : et hoc accidit in magnitudine mota quae est divisibilis. Non enim
+          sequitur quantitatem esse mobilem ex hoc quod est magna vel parva, sed ex hoc quod est
+          quantitas : quia sic est divisibilis. Omne autem motum ostendimus esse divisibile in VI
+          Physicorum. Si igitur unitas vel punctum ponatur moveri, oportet quod utrumque sit quantum
+          : et sic unitas vel punctum dicentur esse corpora parva, sicut dixit Democritus. Est autem
+          adhuc necessarium aliud esse movens a moto essentialiter. Si igitur unitates sunt motae,
+          oportet quod aliquid per essentiam distinctum ab eis sit motivum unitatum. Si ergo anima
+          diffiniatur essentialiter per esse motivum animalium, anima per essentiam alia erit ab
+          unitatibus : ergo non erit mota, sed movens tantum : non ergo erit numerus seipsum
+          movens.</p>
+        <p xml:id="admda-l1t2c10-d1e163">Adhuc autem si anima dicatur unitates vel numerus, oportet quod unitas sit quaedam
+          materialis, et quodammodo, et non simpliciter unitas formalis : oportet enim quod unitates
+          quae sunt anima, habeant aliquam differentiam ad alias unitates quae sunt aliae res :
+          formalis autem unitas non differt ab alia formali unitate, neque numerus a numero : decem
+          enim canes et decem equi non differunt per denarium, sed potius per materiam, quia isti
+          sunt canes et isti sunt equi. Cum igi<pb ed="#B5" n="169"/> <cb ed="#B5" n="a"/>tur
+          unitates constituentes animam differant ab aliis unitatibus constituentibus alias res,
+          oportet quod non sint formales unitates. Puncti autem solitarii, hoc est, secundum se
+          accepti, quae utique erit differentia ab unitate nisi potentia sola, sicut superius
+          diximus ? Cum igitur anima non sit unitates formales, sed unitates materiales, et unitates
+          tales non differant a punctis, anima erit unitates quae sunt puncta. Siquidem igitur
+          dicatur quod alterae unitates sunt in corpore, et alia puncta quae constituunt corpora,
+          quam illae unitates et puncta quae constituunt animam, oportet tamen quod sint in eodem
+          loco istae et illae. Quaelibet enim talium unitatum obtinebit locum puncti per hoc quod
+          ponuntur motae unitates animae. Habent enim tunc necessario situm sicut et corporis
+          unitates. Utraque ergo erunt indivisibilia habentia situm : et sic sequitur esse ipsa in
+          loco puncti unius. Quid enim prohibet in eodem loco esse duas unitates habentes situm ? Si
+          enim una supponatur alteri, non faciet aliam quantitatem cum ipsa : et similiter est si
+          etiam infinitae sibi supponantur : ergo unitates animae et corporis differentiam non
+          habent : quia quorum locus est indivisibilis, et ipsa et quae sunt in uno loco et sunt
+          indivisibilia posita ejusdem rationis sunt posita : et hoc convenit, ut diximus, tam
+          punctis constituentibus animam quam etiam punctis constituentibus corpus.</p>
+        <p xml:id="admda-l1t2c10-d1e170">Si autem hoc concedatur, quod scilicet puncta quae sunt in corpore constituentia corpus,
+          sunt numerus animae qui constituit animas. Numerus enim qui est anima ex punctis est quae
+          sunt in corpore, sicut jam diximus. Nunc quaeramus ab istis quare non omnia corpora habent
+          animas, cum omnia corpora habeant hujusmodi corpora se constituentia, sicut illi dicunt ?
+          puncta enim, ut illi dicunt, sunt in omnibus corporibus, quia po<cb ed="#B5" n="b"/>
+          <!-- 169 b -->nunt quodlibet corpus constitui ex punctis infinitis. Amplius autem ex hoc
+          sequitur quod nullum animatum moritur ex separatione animae a corpore, sed tantum ex
+          resolutione continui in puncta : igitur animae animatorum nunquam a corporibus absolvuntur
+          : quia jam probavimus in VI Physicorum, et in libello de lineis indivisibilibus, quod
+          lineae et alia continua non resolvuntur in puncta, etsi in infinitum dividantur :
+          remanentibus autem punctis in continuo animae remanent in ipsis, quia puncta sunt animae,
+          sicut coguntur dicere ex sua positione. Si autem propter hoc diceretur quod est unitates
+          materiales, quae formalem constituunt numerum quo numeratur quidquid est, tunc sequitur
+          quod numerus habeat animam et sit animal, quod est absurdum.</p>
+        <p xml:id="admda-l1t2c10-d1e177">Accidit etiam huic positioni, sicut diximus, impossibile inconveniens commune quod
+          accidit dicentibus quod anima est corpus indivisibile : et ab alia parte accidit
+          inconveniens proprium quod accidit Democrito, in quantum qualis dicta est, ponit causam
+          qua moveri est ab anima. Si enim anima supponatur esse corpus constitutum ex punctis,
+          sicut dictum est, contingit inconveniens quod contingit illis qui dicunt eam esse corpus
+          subtile : et hoc est, quod duo corpora sint in eodem loco. Cum enim anima sensibilis sit
+          in toto, eo quod sentit, et est partes in partibus, et tota in toto, ubique pene trahit
+          corpus animatum sensibile : et erit quaelibet pars in loco partis corporis, et ipsa tota
+          erit in eodem loco cum corpore quod animat : et sic duo corpora erunt in eodem loco. Hoc
+          autem idem inconveniens accidit dicentibus eam esse numerum motum vel unitates motas.
+          Numerum enim motum necesse est habere situm et esse idem punctis. Sequitur igitur quod
+          punctum qui est animae pars quaedam, sit in <pb ed="#B5" n="170"/> <cb ed="#B5" n="a"/>
+          eodem loco cum puncto qui est corporis pars quaedam : et sic in uno puncto loci oportet
+          esse multa et multorum puncta. Sicut autem se habet locus partis ad partem, sic se habet
+          locus totius ad totum : et ideo sicut duo puncta quorum unum est animae, et alterum
+          corporis, sunt in eodem loco, ita tota anima ex situalibus punctis constituta in eodem
+          loco erit cum toto corpore ex situalibus punctis constituto : ergo duo corpora erunt in
+          eodem loco. Aut oportet concedere quod non sit anima in corpore aliquo nisi puncta, quae
+          constituunt ipsum corpus. Sed ex hoc sequitur quod omne corpus sit animatum et habeat
+          animam, quia omne corpus constituitur ex punctis, nisi quidam numerus differens esse
+          ponatur, et alius qui sit anima, ab eo numero qui est punctorum corpus constituentium. Sed
+          tunc sequitur, sicut jam diximus, duo corpora esse in eodem loco. Hoc igitur est
+          inconveniens commune quod accidit similiter dicentibus animam esse corpus subtile, et
+          animam esse numerum qui movetur.</p>
+        <p xml:id="admda-l1t2c10-d1e184">Proprium autem inconveniens quod accidit Democrito, accidit etiam istis, sicut diximus :
+          accidit enim istis non esse aliquam causam motus corporis animati, nisi numerum motum : et
+          haec est similis causa, sicut posuit Democritus. Quid enim est differentiae quantum ad
+          causam motus corporum animatorum dicere sphaeras parvas motu suo movere animal, et dicere
+          magnificatas per situm unitates, aut universaliter unitates motu suo movere corpora
+          animata ? utrobique enim necesse est moveri animal in eo quod illa moventur : et sic non
+          erit voluntarius motus animalium, neque habent in facultate quiescere, sed moveri tantum,
+          sicut etiam supra diximus.</p>
+        <p xml:id="admda-l1t2c10-d1e187"> <cb ed="#B5" n="b"/>
+          <!-- 170 b --> Ista sunt igitur impossibilia et multa alia similia his quae accidunt
+          illis, qui in unum complectuntur numerum. Non enim solum diffinitionem animae impossibile
+          est hujusmodi esse, sed etiam accidentia propria quae sunt animae passiones et
+          proprietates naturales, impossibile est attribuere numero : hoc autem facile manifestum
+          est ei qui arguta mente tentaverit assignare causas propriarum passionum et operationum
+          ejus, ut assignet in his causas cognitionum et sensuum, et laetitiarum et tristitiarum, et
+          aliorum quae sunt his similia. Si enim numerus constituit animam, tunc diversitas
+          numerorum constituet vires animae diversas, et opera, et passiones. Sicut autem superius
+          deridendo diximus, etiamsi cui licentia divinandi concedetur de tali unitatum et numerorum
+          diversitate, non erit ei facile in tali diversitate numeros fingere.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

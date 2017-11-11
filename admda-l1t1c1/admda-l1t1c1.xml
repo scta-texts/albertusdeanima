@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title> CAPUT I.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title> CAPUT I.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l1t1c1">
+        <head xml:id="admda-l1t1c1-Hd1e128"> <pb ed="#B5" n="117"/> <cb ed="#B5" n="a"/> CAPUT I.</head>
+        <head xml:id="admda-l1t1c1-Hd1e135" type="question-title">Et est digressio declarans, quod scientia naturalis est de
+          anima, et quis ejus ordo.</head>
+        <p xml:id="admda-l1t1c1-d1e138">Omnibus quae de corpore mobili, et de mobili secundum locum dicenda erant expeditis,
+          traditis etiam eis quae de mobilibus ad formam tam simplicibus quam mixtis in universali
+          videbantur esse <choice> <orig>didicenda</orig> <reg>dicenda</reg> </choice>, determinatis
+          nihilominus his quae de mixtura lapidum et minerarum commemoranda esse videbantur : nunc
+          tandem stilum ad tractandum animatorum naturas convertimus, ordinem quem in principio
+          nostrorum librorum praescri<cb ed="#B5" n="b"/>
+          <!-- 117 b -->psimus, per omnia insequendo. Cum autem omnium animatorum principium sit
+          anima, non poterunt animata cognosci nisi per cognitionem suarum animarum, sicut et
+          unumquodque aliorum non cognoscitur nisi per formam suam, eo quod forma est et principium
+          esse et cognitionis. Oportet ergo hanc de necessitate nos de anima facere inquisitionem,
+          antequam de corporibus animatorum aliquid possumus disserere. Sunt autem animae opera et
+          passiones, sicut sentire, dormire, et vigilare, et nutrire, et spirare, et mors, et vita,
+          de quibus omnibus et similibus, sicut est reminisci et movere, debet sciri post scientiam
+          de Anima : quia ex illis plurimum dirigere videtur in scientia animatorum corporum.</p>
+        <p xml:id="admda-l1t1c1-d1e154">Licet ergo anima et opera ejus et passiones non sint corpus mobile quod est subjectum est
+          philosophiae naturalis, est tamen anima principium essentiale talis <pb ed="#B5" n="118"/>
+          <cb ed="#B5" n="a"/> corporis : et ideo in scientia naturali oportet inquiri de ipsa. Et
+          hoc quidem de vegetativa et sensitiva non habet dubitationem. De rationali anima fortasse
+          videtur alicui esse non verum quod ipsa sit corporis <choice> <orig>animari</orig>
+          <reg>animati</reg> </choice> principium et forma : eo quod principia et formae corporum
+          operationes habent quas non explent, nisi per corporum motus et operationes, sicut visus
+          non videt sine oculo, neque vis ambulativa ambulat sine pedibus : vires autem rationalis
+          animae operantur sine aliquo corporis instrumento, propter quod et circa omnia
+          universaliter operantur. Intellectus enim de omnibus intelligit, et ratio de omnibus
+          ratiocinatur, et voluntas libera est convertendi se ad quod voluerit : et hanc
+          generalitatem et libertatem non habet aliquod principiorum, neque aliqua formarum neque
+          virium corpori affixarum et obligatarum. Videtur ergo rationalis anima cum suis viribus
+          non esse principium et forma vel perfectio, quam endelechiam Graeci vocant, alicujus
+          corporis vel partis corporis esse, et sic non pertinere ad physicum tractare de ipsa.</p>
+        <p xml:id="admda-l1t1c1-d1e170">Sed intelligendum est animam rationalem esse in corpore hominis, et esse perfectionem
+          suam secundum quod est homo : et secundum quod est hominis perfectio, non habet affixionem
+          cum hominis aliqua parte, sed potius in eo quod libere et universaliter intelligit et
+          vult, dividitur ab omnibus aliis cum quibus in natura generis communicat, et in quantum
+          talis anima perfectio est animati, venit in considerationem naturalis Philosophi. Et hoc
+          est quod praeclarus Philosophus ait in Ethicis suis distinguens quaedam esse naturalia
+          homini ex genere, et quaedam ex differentia, quae constitutiva est speciei hominis. Et
+          etiam dicit concupiscere et sentire hominem cum aliis animalibus communicare secundum
+          communionem generis : esse ta<cb ed="#B5" n="b"/>
+          <!-- 118 b -->men hominis in quantum homo est, solum intellectu est. Qualiter autem hoc
+          sit, melius scietur cum secundum hujus scientiae librum tractabimus.</p>
+        <p xml:id="admda-l1t1c1-d1e178">Nec movere debet aliquem quod nos scientiam de Anima tractamus et explanamus, qui forte
+          occasionem erroris accipit ex eo quod videt omnem nostram scientiam oriri de sensu, animam
+          autem et praecipue intellectivam nullo sensu nobis manifestari. Ex quo etiam occasionem
+          acceperunt haeretici nullam hujusmodi animam esse contendentes : quoniam nobis ad hoc
+          rationem et intellectum Deus gloriosus dedit, ut ratio et intellectus reflexi ad sensum,
+          non tantum sensibilia, sed etiam quae sub sensibus latent, accipiant et pertractent.
+          Latent autem sub sensibus substantiae insensibilium, et per operationes innotescunt nobis.
+          Sic etiam insensibilium causae insensibiles, quando comparamus sensibilia ad suas causas,
+          et advertimus oppositas esse proprietates sensibilium effectuum, et insensibilium
+          efficientium. Licet ergo sic omnis nostra cognitio a sensibilibus incipiat, tamen
+          profundata circa ea quae sensibilibus quocumque modo attribuuntur, non semper stat et
+          terminatur circa sensibilia, sed extollitur vehementer in immensum ad ardua et remota a
+          sensibilibus, sicut causam primam et intelligentias et seipsam : eo quod advertit circa
+          sensibilia negotiando, ratiocinando, et intelligendo sensibilium quidditates : ac per hoc
+          incipit quaerere de seipsa, et de seipsa habere scientiam nobilissimam.</p>
+        <p xml:id="admda-l1t1c1-d1e181">Cum autem jam certum sit nobis de Anima esse scientiam, et quod haec scientia est pars
+          naturalis scientiae, facile advertere possumus ordinem istius inter libros scientiae
+          naturalis. Cum enim a communibus omnis incipiat speculatio, et communius sit mixtum tantum
+          quam mixtum et animatum, scimus quod animati notitia est tradenda post notitiam <pb ed="#B5" n="119"/> <cb ed="#B5" n="a"/> mixtorum in specie consideratorum. Mixta autem
+          secundum species suas considerata sunt in libro Mineralium. Tradenda ergo erit notitia
+          animatorum continue post illam. Animae autem notitia est prior notitia corporis animati.
+          Congrue igitur ordinamus hanc scientiam post scientiam mineralium, et ante scientiam
+          corporum animatorum, quae in vegetabilibus et animalibus erit terminanda.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

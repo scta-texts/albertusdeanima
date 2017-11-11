@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT V. De alimento quod est objectum nutritivae et vegetativae.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT V. De alimento quod est objectum nutritivae et
+          vegetativae.</title> <date when="2017-11-11">November 11, 2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t2c5">
+        <head xml:id="admda-l2t2c5-Hd1e128">CAPUT V.</head>
+        <head xml:id="admda-l2t2c5-Hd1e131" type="quesiton-title">De alimento quod est objectum nutritivae et vegetativae.</head>
+        <p xml:id="admda-l2t2c5-d1e134">Quoniam autem haec potentia animae quam vocamus nutritivam, est vegetativa individui et
+          generativa per multiplicationem individuorum in specie, oportet nos secundum praedictam
+          doctrinam prius loqui de nutrimento. Opere enim quod est alimenti opus, determinatio fit
+          circa alias potentias animae vegetabilis : eo quod augmentativa et generativa operationem
+          quamdam alimenti recipiunt. Est igitur alimentum quasi objectum unum tribus potentiis
+          animae vegetabilis praevium.</p>
+        <p xml:id="admda-l2t2c5-d1e137"> <pb ed="#B5" n="221"/> <cb ed="#B5" n="a"/> Primum autem quod de alimento quaerendum
+          occurrit, est, utrum alatur contrarium contrario, vel simile simili ? Videtur enim
+          quibusdam quod contrarium alatur contrario, sed non omne contrarium alitur a quocumque
+          contrario, sed solum illo contrario alitur aliquid contrarium, quando contraria non solum
+          generari possibile est ex alterutris, sed etiam augmentari unum ex alio. Multa enim
+          generantur contrariorum ex alterutris, non tamen omnia contraria fiunt ex omnibus, sicut
+          diximus in primo libro Physicorum. Et eorum quae generantur ex invicem, non omnia augent
+          se invicem, sicut quando sanum generatur ex laborante, non augetur, neque alitur unum ex
+          alio : et ut universaliter dicatur, cum contraria sint quae sunt potentia et actus ad
+          invicem in generibus omnibus, ea quae sunt unius generis contraria, generantur ex invicem,
+          sed non augetur neque alitur unum ex alio, nisi sint contraria in genere substantiae
+          tantum accepta. In illis enim unum substantialiter potest converti in substantiam alterius
+          : et ideo unum potest alere et augere alterum.</p>
+        <p xml:id="admda-l2t2c5-d1e144">Sed adhuc observandum est, quod neque illa eodem modo se habent ad invicem, quod scilicet
+          utrumque alat reliquum, et e converso : et hoc scimus ex dictis Antiquorum, qui dixerunt
+          de simplicibus corporibus, quod aqua alit ignem, et non e converso ignis alit aquam. Et
+          licet falsa sit eorum suppositio, tamen verissima ratione fuerunt inducti. Viderunt enim
+          quod nihil aliud alit, nisi quod recipit speciem et formam ejus quod alitur ab ipso.
+          Humidum autem inter omnia prima solum videbant facile recipere formas et species aliorum
+          corporum quae ei imprimuntur : et ideo dixerunt hoc solum esse alimentum. Et haec ratio
+          cogit, quod omne alimentum oportet humidum esse secundum actum, licet forte potentia sit
+          alterius qualitatis. Viderunt etiam quod omne quod alitur, speciem et formam suam imprimit
+          ei <cb ed="#B5" n="b"/>
+          <!-- 221 b --> quod alit ipsum. Nihil autem adeo potest esse sigillativum formae suae,
+          sicut calidum et siccum : quia calidum penetrat, et siccum retinet acumen quod dat ei
+          calidum : et ideo solum ignem nutriri dixerunt. Patet igitur quod licet non verum dixerint
+          in hoc quod aqua alat ignem, tamen causa propter quam illud dixerunt, est verissima : et
+          ex veritate quae est in dicto eorum isto, accipitur quod non aequaliter se habent
+          contraria ad invicem, quorum unum alit, et alterum alitur, quod utrumque scilicet ab
+          altero et ali possit et alere reliquum. Alens enim in eo quod est alens, oportet quod sit
+          in actu humidum susceptibile formae et speciei ejus quod alitur. Id autem quod alitur, est
+          habens virtutem quae formam corporis quod alitur et membrorum ejus sigillat in ipso : et
+          ideo indiget instrumento quod est calor naturalis, et aliis virtutibus sibi
+          subservientibus, de quibus infra dicemus. Distinctio autem quae est inter alens et id quod
+          alitur inter corpora animata, in solis simplicibus deprehenditur, sicut diximus, quod
+          ignis alitur et aqua alit : et non ita videtur in compositis : propter quod composita ab
+          excellentiis primarum qualitatum sunt remota, et ita non videntur esse in actu humida,
+          neque in actu adeo sicca, quod possint ita evidenter habere proprietates alentis et aliti,
+          quemadmodum simplicia.</p>
+        <p xml:id="admda-l2t2c5-d1e152">Haec autem quae diximus habent dubitationem : eo quod quidam videntes alimentum uniri ei
+          quod alitur, nihil autem uniri alii, nisi quod similitudinem habet in forma ad ipsum,
+          dicunt non augeri vel ali contrarium contrario, sed potius simile simili. Aliis autem, de
+          quibus praediximus, videbatur ali contrarium contrario, tanquam impossibile sit ali simile
+          simili. Et pro se inducunt rationem, quod omne alimentum mutatur et decoquitur decoctione
+          calidi et humidi : et sic alimen<pb ed="#B5" n="222"/> <cb ed="#B5" n="a"/>tum omne
+          mutatur. Mutatio autem omnis, aut est de contrario in contrarium, aut de contrario in
+          medium, quod comparatum contrario est contrarium : ergo non alitur nisi contrarium
+          contrario.</p>
+        <p xml:id="admda-l2t2c5-d1e159">Adhuc autem omne alimentum patitur ab eo quod alitur, et non e converso : contraria autem
+          sunt quae patiuntur ab invicem : patitur enim decoctionem et assimilationem, cum omnis
+          decoctio sit completio a naturali et proprio calore ex contrajacentibus qualitatibus aut
+          passionibus, sicut habitum est in quarto Meteororum. Non tamen patitur id quod alitur ab
+          alimento, sicut neque instrumentorum domus aliquid patitur a materia ex qua fit domus, sed
+          potius materia patitur et transmutatur ab ipso in domus formam. Ita et alimentum
+          transmutatur in formam ejus quod alitur, et non e converso. Instructor autem domus non
+          habet mutationem nisi illam quae est ex otio ad agere, sive actus primi ad secundum, sicut
+          scientem dicimus mutari quando actu fit considerans : ita etiam animae virtus quae
+          nutritiva vocatur, mutatur quando de nutriente secundum potentiam, efficitur nutriens in
+          effectu. Et forte hoc nunquam est, quia in talibus virtutibus superius diximus animam
+          magis fore actum secundum quam primum, et potius assimilari vigiliae quam somno : forte
+          enim semper nutrit, etsi non semper nutrimentum ab extrinseco <choice> <orig>querat</orig>
+          <reg>quaerat</reg> </choice> : quia semper aliquid agit circa nutrimentum, aut
+          dissolvendo, aut alterando, aut attrahendo, aut uniendo membris. In determinando autem
+          istam quaestionem magnam habet differentiam, utrum nutrimentum sit quod ultimo est quando
+          unitur membris, aut quod primo quaerit ut nutriat antequam alteretur et assimiletur, aut
+          utrumque : quoniam si consideremus nutrimentum secundum actum, hoc est, quod potest
+          perficere nutrimenti operationem per <cb ed="#B5" n="b"/>
+          <!-- 222 b --> hoc quod movetur ad membra et unitur membris, sine dubio tunc id quod
+          ultimo assimilatum est membris, est nutrimentum. Si autem nutrimentum accipiatur secundum
+          potentiam, quod scilicet potest per suam substantiam fieri nutrimentum, tunc nutritur
+          contrarium contrario : et ideo non coctum adhuc est contrarium, coctum autem simile : et
+          ita utrumque praedictorum contingit dicere, et quod contrarium contrario, et quod simile
+          simili alitur : et ideo manifestum est quod utrique quodammodo recte et non recte
+          dicunt.</p>
+        <p xml:id="admda-l2t2c5-d1e175">Quoniam autem, sicut supra ostendimus, nihil alitur proprie quod non habet animam,
+          oportet animatum esse corpus quod alitur, et animae potentia in alimentum agere, et non
+          virtute elementali simplici. Alimentum igitur animati corporis per se est, et non secundum
+          accidens : virtutibus autem elementalibus non attribuitur nisi per accidens, hoc est, in
+          quantum sunt instrumenta animae : et sic qualitates elementales sunt concausae et non
+          causae <choice> <orig>alimentali</orig> <reg>alimenti</reg> </choice>, sicut supra
+          ostendimus.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

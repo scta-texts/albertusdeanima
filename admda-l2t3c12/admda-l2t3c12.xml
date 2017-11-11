@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c12">
+        <head xml:id="admda-l2t3c12-Hd1e128">CAPUT XII.</head>
+        <head xml:id="admda-l2t3c12-Hd1e131" type="question-title">Et est digressio declarans veram sententiam de luce et de lumine
+          et de natura.</head>
+        <p xml:id="admda-l2t3c12-d1e134">Nos autem sequentes dicta Peripateticorum, quorum princeps fuit <name ref="#Aristotle">Aristoteles</name>, dicimus lucem et lumen esse qualitatem luminosi corporis, secundum
+          quod est luminosum, quae ab ipso procedit, et generata formatur tam in diaphanum pervium
+          quam in diaphanum terminatum, et receptum in diaphano pervio, est actus ejus perficiens
+          ipsum, non in esse essentiali, sed in esse accidentali quo ipsum est perspicuum. Procedens
+          autem in id quod est terminatum, est actus colorum, sicut superius diximus. Est igitur sic
+          actus perspicui secundum quod est perspicuum, quod nequaquam est natura superioris
+          corporis immixta inferiori<cb ed="#B5" n="b"/>
+          <!-- 255 b -->bus : quia sic natura corporis superioris, esset corruptibilis : mutatur
+          enim aliquando perspicuum in non perspicuum, quando de igne vel aere fit terra, quod est
+          corpus opacum : corpus autem coeleste secundum substantiam in aliud mutari dicere,
+          dementis est : et ideo perspicuum ignis est de natura ignis, et perspicuum aquae est de
+          natura aquae, et perspicuum coeli est de natura coeli. Habent tamen istam naturam
+          inferiora ex hoc quod conveniunt in perpetuo corpore : sed ista convenientia non est nisi
+          in actu perspicuitatis, et in natura perspicui, quae per analogiam est in illis, sicut
+          diximus supra. Quod dicitur de visus continuitate vel concavitate, dictum est ac si
+          videamus per lineas emissas de oculis, et hoc non concedimus et improbavimus in libro de
+          sensu et sensato : sed immutatio sensibilium fit continue de perspicuo in perspicuum,
+          quamdiu perspicua se contingunt, nullo corpore opaco terminato interposito inter primum
+          visibile et visum. Lumen autem, sicut dictum est, generatum a luminoso corpore in
+          perspicuo, habet se ad lucem quae est forma corporis luminosi, sicut se habet intentio
+          coloris generata in perspicuo ad formam coloris quae est in corpore colorato. Et ideo
+          satis convenienter dicunt quidam, quod lumen est intentio, spirituale esse habens in
+          perspicuo, quemadmodum color est habens esse intentionale in medio : sed in hoc differunt,
+          eo quod lux est forma nobilior et simplicior quam sit color, et ideo perficit perspicuum,
+          et facit ipsum esse actu, et hoc non potest facere color. Similiter autem dat actu esse
+          coloribus : et hoc iterum non potest facere color. Est autem haec forma quae vocatur
+          lumen, vivificativa vivorum, et calefactiva, et motiva ad esse generabilium in quantum est
+          instrumentum intelligentiae quae per motum luminarium lumine emisso movet ad esse omne
+          quod in natura est, sicut etiam supra diximus : et ideo etiam lumen est hypostasis colorum
+          secundum esse formale quod est esse <pb ed="#B5" n="256"/> <cb ed="#B5" n="a"/>
+          simpliciter colorum, sicut supra diximus. Hanc igitur veram putamus esse sententiam de
+          luce et lumine.</p>
+        <p xml:id="admda-l2t3c12-d1e148">Scias autem omnia illa esse lucentia, in quibus spissatae et quasi calcatae continuantur
+          partes nobiliores diaphani : et ideo lucet ignis quando est spissus, sicut apparet in
+          flamma quae spissa est, et subtiliorum et nobiliorum partium. Non autem lucet carbo, quia
+          est terrestris. Si autem secundum aliqua composita ex ignitis terrestribus efficiuntur
+          etiam lucentia, sicut carbo ignitus, et talia sunt quaedam aliquando ex ipsa generatione,
+          et aliquando ex putrefactione. Ex ipsa generatione quando componuntur ex partibus ignitis
+          : quia ignis ex mixtura excellentiam amittit calidi adurentis, et ex subtilitate partium
+          retinet lucem, sicut videmus quaedam capita et squamas piscium lucere, et videmus quaedam
+          animalia lucentia in vere : et viderunt quidam jam ovum gallinae lucens : et quidam gallos
+          tales et cicadas, et hujusmodi animalia : et oculi luporum et cattorum sic lucent ex ista
+          causa, quia scilicet quia in omnibus talibus natura perspicui quae nullius elementi est
+          propria, sicut diximus, in commixtione elementorum amittit excellentias qualitatum
+          activarum et passivarum, et retinet sibi lumen connaturale, et cum illo permiscetur
+          talibus corporibus vincens in extremitatibus corporum illorum : et ideo cum spissata sit
+          ibi, lucet. Et hujus argumentum sunt lapides pretiosi, qui quando lucent, perspicui sunt.
+          Hujus etiam est argumentum et signum, quod aqua licet sit minus perspicua quam aer, tamen
+          licet propter spissitudinem plus habet luminis, et retinet ipsum fortius. Et ideo si
+          talium aliquid nitens, sicut argentum, ponatur in vase in loco subobscuro, ita quod in
+          aere videri non possit, videbitur aqua limpida superfusa : et ideo verissimum est
+          perspicuum condensatum in partibus, et lumen valens tenere fortius, et aliquid luminis in
+          se habetur : et per illud micant hujusmodi corpora. Quercus autem pu<cb ed="#B5" n="b"/>
+          <!-- 256 b -->trefacta partes igneas habet in superficie partium suarum : eo quod calor in
+          putrefactis ad superficiem egreditur, et ibi partes incendit : et tunc perspicuum ignis
+          aliquid retinens luminis, eis adhaeret, et per illud micant. Haec ergo est causa in oculis
+          quorumdam animalium et ossibus quorumdam piscium : terrestria enim adusta commixtam sibi
+          habent perspicui naturam : et hoc quia levior est, in superficie est, et micant propter
+          illud. Sunt autem quidam qui capita lavantes cum aqua calida et acuta sive lixivio, et
+          radentes pilos capitis, et cum extergunt capita sua panno aspero, evolant de capite
+          scintillae quae profecto sunt partes terrae, in quibus ignis natura est micans per modum
+          dictum. Hujus autem causa est, quare est scintillans etiam aqua maris fortiter mota : quia
+          scilicet partes salis combustae multae sunt in ea, in quarum superficie est ignis micans.
+          Haec igitur dicta sunt de lumine et de luce : differentia enim luminis et lucis et radii
+          scitur ex praehabitis prius. Splendor autem est divaricatio luminis super corpus politum
+          et tersum. Redeamus ergo nunc ad propositum, et quae restant de visu prosequamur.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

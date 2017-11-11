@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t3c7">
+        <head xml:id="admda-l3t3c7-Hd1e128">CAPUT VII.</head>
+        <head xml:id="admda-l3t3c7-Hd1e131" type="question-title">Et est digressio declarans opinionem Themistii et Theophrasti in
+          solutione quaestionis inductae.</head>
+        <p xml:id="admda-l3t3c7-d1e134">Themistii autem et Theophrasti dictum ad hoc redit, quod intellectus agens est forma, et
+          intellectus possibilis, ut superius diximus, et intelligere in nobis non est per
+          receptionem intelligibilium, sed intelligere nihil aliud est quam denudare per intellectum
+          intelligibilia, eo quod lux agentis est circa ipsa, et circa lucem agentis tunc circa ipsa
+          est intelligere ea. Hi autem qui dicunt intellectum possibilem esse separatum sicut et
+          agentem, et incorruptibilem utrumque esse, dicunt quod nihil inconveniens est, quod
+          incorruptibilis fiat forma incorruptibilis : et ideo reprehendendo Alexandrum, dicunt quod
+          ipse dixit incompossibilia : dixit enim speculativum continue generari et corrumpi, qui
+          etiam vocatur intellectus in habitu, et tamen istum informari ab intellectu agente
+          incorruptibili sicut informatur substantia ex sua forma. Sic enim esset corruptibile
+          materia incorruptibilis, quod est inconveniens : et si hoc modo intellectus uniretur
+          nobis, indigeret intellectus agens corruptibili ad suam actionem perficiendam, quae est
+          intelligere : quae omnia stare non possunt : et ideo dictum Alexandri isti duo viri nullo
+          modo sequi voluerunt. Dicunt etiam isti probationem Alexandri non valere, quando verum est
+          quod virtus perficitur confortatione et exercitio quando est virtus generata : in
+          complemento enim ge<pb ed="#B5" n="381"/> <cb ed="#B5" n="a"/>nerati accipit etiam
+          complementum virtutum generatarum, sed non propter hoc provenit ad virtutem quae non est
+          generati secundum quod est generatum. Cum enim Alexander dicat intellectum potentialem
+          esse generatum, et intellectum qui est in habitu, similiter esse generatum, et
+          complementum finis generati est generatum : tunc per haec duo non venit ad continuationem
+          et unionem intellectus agentis qui non est generatus : propter quod isti fuerunt primi qui
+          contempserunt dictum Alexandri, et dixerunt et possibilem esse non generatum et agentem et
+          speculativum, qui sit ab utroque, sicut superius diximus. Dicunt autem intellectum nostrum
+          compositum ex potentiali et agenti esse conjunctum nobis per intelligibilia ad phantasiam
+          moventem relata : et sic compositum intellectum nobis conjunctum per se sufficientem esse
+          ad intelligendum separata. Et hujus unicam rationem assignant, quae a majori est ducta, et
+          est ratio topica et probabilis uno modo et non necessaria : dicunt enim quod minus
+          videtur, quod intellectus compositus ex duobus separatis sit de intelligibili concipiente
+          materiam, quam de intelligibili quod est simile sibi : et est tamen de intelligibili
+          conjuncto cum magnitudine : ergo multo magis est de intelligibili separato. Et haec ratio
+          quam inducunt, nullo modo concluderet si dicerent intellectum possibilem non esse
+          separatum, sicut dixit Alexander : quoniam in omnibus virtutibus corporeis sic est quod
+          aliquid quod in se valde activum est, non percipitur quoad nos eo quod expellit harmoniam
+          virtutis : sicut sol qui est valde visibilis, non videtur a nobis : et similiter posset
+          esse, quod separata quae secundum se sunt valde intelligibilia, non intelliguntur a nobis,
+          sicut etiam <name ref="#Aristotle">Aristoteles</name> videtur dicere, quod dispositio
+          nostri intellectus ad manifestationem naturae est sicut dispositio oculorum vespertilionis
+          ad lumen solis. Cum autem ponunt intellectum esse virtutem separatam, tunc ratio eorum est
+          probabilis. Sed <cb ed="#B5" n="b"/>
+          <!-- 381 b --> ipsi causam assignare non possunt : quia intellectus agens quandoque agit
+          in nobis et quandoque non agit, cum secundum eos continuetur nobis. Adhuc autem secundum
+          istos non est in nobis aliquid recipiens intellectum, et sic intellectus et intelligere
+          non fit unum, quod est contra positiones sapientum. Quaedam autem alia contra hanc
+          opinionem inducta sunt in praecedentibus.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

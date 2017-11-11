@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT II.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT II.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c2">
+        <head xml:id="admda-l2t3c2-Hd1e128">CAPUT II.</head>
+        <head xml:id="admda-l2t3c2-Hd1e131" type="question-title">De distinctionibus potentiae passivae in apprehendendo.</head>
+        <p xml:id="admda-l2t3c2-d1e134">His igitur sic habitis, quod sentire est secundum potentiam passivam, dicendum est de
+          potentia et actu, quoniam utrumque dicitur dupliciter : nunc enim simpliciter et
+          universaliter volumus aliquid dicere de ipsis, quia certificative de eis dicere, est primi
+          philosophi. Dicimus igitur quod potentia dicitur duobus modis, hoc est, disposita et
+          indisposita perfectione prima. Dicimus enim aliquando hominem scientem in potentia : quia
+          cum est indispositus, et nihil habet nisi naturam ad scientiam ordinatam : sicut ideo quia
+          homo est animal disciplinabile, dicimus hominem potentia scientem : et haec potentia quae
+          est ante perfectionem primam, sive ante habitum, habet gradus duos : potest enim esse
+          remota et propinqua. Remota quidem, sicut dicimus puerum potentia scientem. Propinqua,
+          sicut dicimus potentia scientem eum qui jam novit instrumenta et principia quibus
+          accipitur scientia, quae discens a Doctore non accipit, sicut quod de quolibet contingit
+          affirmari vel negare et de nullo simul, et quod omne totum majus sua parte est, et quod
+          uni et eidem aequalia, inter se sunt aequalia, et hujusmodi, quibus scitis non propter hoc
+          scitur ars, sed eis ignoratis non potest ars sciri. Et in practicis quidem est idem, sicut
+          dicimus infantem potentia esse scriptorem, et dicimus potentia esse scriptorem eum <cb ed="#B5" n="b"/>
+          <!-- 233 b --> qui novit pennam et calamarium, et temperaturam incausti, et hujusmodi alia
+          scripturae instrumenta. Alio modo dicimus potentia scientem eum, qui jam habet habitum
+          scientiae, quia habitus scientiae vel potentiae similis est et somno in eo quod non agit,
+          sicut dicimus scientem et non considerantem esse potentia scientem, et hoc est qui
+          potentiam habet completam per actum primum, qui somno similis est. Sed non est idem motus
+          quo uterque istorum est possibilis sive in potentia existens. Ille enim in utroque gradu
+          potentiae dicitur potentia sciens grammaticam vel aliam scientiam secundum potentiam
+          materialem adhuc imperfectam, quae tamen secundum genus est primum subjectum scientiae,
+          vel alterius habitus ad quem ordinata est potentia. Ille autem qui habet potentiae
+          perfectionem ad modum somni, dicitur sic potens, quia potest agere secundum habitum quando
+          voluerit : habitus enim est quo quis agit aliquid quando voluerit, si nihil eum exterius
+          et per accidens prohibeat. Similiter autem et actus dupliciter dicitur secundum actum
+          primum et secundum actum secundum, ut diximus superius : et ideo habens habitum dicitur
+          actu sciens.</p>
+        <p xml:id="admda-l2t3c2-d1e141">Jam autem considerans cum actu sit qui est per modum vigiliae, proprie secundum actum
+          sciens vocatur. Hi autem utique qui primo modo scientes sunt ambo, secundum potentiam
+          scientes vocantur, sed differenter : quoniam non habens habitum, secundum potentiam
+          sciendi materialem et imperfectam non dicitur sciens nisi quando per doctrinam est
+          alteratus, et multotiens est mutatus ex contrario in habitum scientiae : oportet enim
+          multotiens discentem mutari modo ex ignorantia in dispositionem, modo ex dispositione in
+          dispositionem, antequam sit in habitu completo : diximus enim quod potentia materialis
+          habet gradus, <pb ed="#B5" n="234"/> <cb ed="#B5" n="a"/> qui licet in genere sint duo,
+          tamen in numero multi sunt. Quod autem dicimus, quod talis ex contrario venit in habitum,
+          ideo dicimus, quod licet dispositio secundum id quod est non sit contraria habitui : tamen
+          per modum est contraria, quia facile mobilis, cum habitus sit qualitas stans et completa
+          et immobilis. Ignorantia etiam largo modo est contraria habitui. Alius autem qui jam habet
+          habitum, et sic non dicitur potentia sciens, sed potius eo quod similis dormienti et non
+          agenti : hoc enim habet habitum faciendi vel sciendi grammaticam vel aliud, sed non
+          operatur in agendo secundum illum modum actionis qui dicitur ex habitu.</p>
+        <p xml:id="admda-l2t3c2-d1e148">Et ideo etiam talis mutatio ex habitu in operationem, non est aliquid pati vel recipere,
+          sed mutatio illa quae est ex contrario, est secundum passionem et corruptionem contrarii
+          habitus, sive dispositionis, secundum quod in unaquaque alteratione multae sunt
+          corruptiones contrarii illius quod abjicitur : quia, sicut diximus in tertio Physicorum,
+          motus alterationis est generatio formae post formam, quantum ad formam contrarii quae
+          abjicitur per motum. Sed habens jam habitum non corrumpitur secundum aliquid quod in ipso
+          sit, quando venit ad operationem, sed potius venit ad id quod est salvans habitum : quia
+          habitus per operationes salvantur : operatio enim est similis tali potentiae habituali, eo
+          modo quo se habet talis habitualis potentia ad actum. Habens enim scientiam, et secundum
+          scientiam illam sic speculans et operans, aut in veritate non est alterari, aut si
+          alteratio dicitur, dicetur alterum genus esse alterationis, in eo quod nihil in eo
+          abjicitur vel generatur, sed potius habitus qui jam inest, confirmatur et salvatur, eo
+          quod speculatio nihil aliud est nisi <cb ed="#B5" n="b"/>
+          <!-- 234 b --> habitus qui inducitur in seipsum, hoc est, in ea quorum species jam insunt,
+          et ex his venit in actum qui est operatio : sicut est videre in exemplo architecti, qui
+          habet habitum aedificandi, et conducit habitum in seipsum, hoc est, convertendo se ad ea
+          quae sunt in habitu, ut fundamentum, et lapides, et ligna, et ordinat ea, et impetum facit
+          ad opus, tunc nihil novi acquirit, sed idem habitus confirmatur : cum igitur alteratio sit
+          alicujus novae formae inductio, iste non est alteratus, vel aliud genus fit alterationis
+          quae alterari dicitur, quocumque modo nunc aliter se habens quam prius.</p>
+        <p xml:id="admda-l2t3c2-d1e156">Unde non bene se habet dicere sapientem cum secundum operationem sapiat alterari, sicut
+          nec aedificatorem bene dicimus alterari, quando secundum actum aedificat : in actum enim
+          se ducens qui operationem facit ex habitu elicitam, non est justum quod haec dicatur
+          doctrina sive doctrinatio, hoc est, doctrinae acceptio : sed oportet quod habeat aliam
+          denominationem : sed potius quando fit mutatio ex eo quod est potentia materiali sciens,
+          et est scientiam accipiens a didascalo sive doctore qui actu habet eam, hoc est pati et
+          alterari. Oportet igitur, quod isti duo aut non dicuntur alterari ambo simpliciter, aut si
+          ambo alterari dicuntur, tunc oportet quod non sit unus modus alterationis in utroque, sed
+          unus alteratur in privativas dispositiones et in habitum ex ignorantia, sicut diximus, et
+          alter alteratur, quia non uno modo se habet considerans et non considerans secundum
+          habitum quem habet, absque eo quod aliquid novi generetur in ipso, vel aliquid eorum quae
+          insunt, abjiciatur. Scias tamen quod omnia ista quae dicta sunt de alteratione, haec dicta
+          sunt large accipiendo alterationem : quoniam in VII Physicorum probavimus secundum ha<pb ed="#B5" n="235"/> <cb ed="#B5" n="a"/>bitum et dispositionem non esse alterationem
+          aliquam, nec animam secundum intellectum moveri posse : sed ea quae hic dicta sunt,
+          exempli gratia dicta sunt : et adhuc sufficit quidam modus alterationis, licet non vere
+          sit alteratio : non enim fit alteratio physica, nisi secundum illam speciem qualitatis
+          quae dicitur passio vel passibilis qualitas : et ideo quaecumque in VII Physicorum
+          subtiliter disputata sunt, his quae hic dicta sunt non contrariantur.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

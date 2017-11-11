@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT IX.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT IX.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t3c9">
+        <head xml:id="admda-l3t3c9-Hd1e128">CAPUT IX.</head>
+        <head xml:id="admda-l3t3c9-Hd1e131" type="question-title">Et est digressio qualiter <name ref="#Avicenna">Avicenna</name>
+          et Algazel solvunt inductam quaestionem, et quaestio dubitationis est in dictis <choice>
+          <orig>eo rum</orig> <reg>eorum</reg> </choice>.</head>
+        <p xml:id="admda-l3t3c9-d1e146">Huic etiam quaestioni satisfacere intendit <name ref="#Avicenna">Avicenna</name> et
+          insecutor ejus Algazel dicentes, quod in veritate intellectus possibilis est in nobis
+          primo sicut tabula rasa et planata, quemadmodum superius est dictum : quia cum addiscit
+          homo, acquirit formas intellectas per hoc quod agens, denudat eas et conjungit eas
+          intellectui possibili : et cum quaelibet illarum formam intellectualitatis accipit ab
+          agente, oportet quod possibilis in qualibet convertatur ad agentem : et cum perfecta
+          fuerit conversio ejus ad agentem, tunc conjungitur intellectui agenti ut formae : et tunc
+          per ipsum intelligit separata : et ideo addiscere nihil aliud est nisi acquirere perfectam
+          habitudinem, qua materialis ad agentem convertatur : quam cum acquirit, tunc omnia scit
+          actu ex hoc quod convertitur ad agentem largientem ei formas intellectas : quia ex ipsa
+          emanant in animam omnes formae intellectae. Dicunt enim isti quod cum formae intellectus
+          speculativi sunt in anima, quas homo intelligit quando vult, aut sunt in anima sicut in
+          thesauro, aut sunt ita in anima, quod licet non sint in ipsa sicut in subjecto, habet
+          tamen eas quando vult. Si autem essent in ea sicut in thesauro, tunc oporteret quod anima
+          rationalis haberet memoriam et reminis<pb ed="#B5" n="384"/> <cb ed="#B5" n="a"/>centiam
+          in omni actuali consideratione, quod falsum est : quia ea quae sunt in anima, sunt
+          abstracta a tempore : et omnis memorans memorat sub differentia temporis determinati.
+          Adhuc autem thesaurus perficitur in tenendo : quae sit autem natura animae rationalis qua
+          teneat formas, non potest etiam dici ab eo qui dicere velit. Non ergo sic res servatur in
+          anima. Si autem dicatur quod sunt in anima sicut actus in potentia, hoc esse non potest :
+          quia nihil aliud est intelligere et considerare secundum actum, nisi habere intellecta in
+          anima secundum actum : aliquando autem non consideramus ea quorum tamen habemus scientiam
+          : videtur autem quod oporteat dici, quod nihil habeat anima plus quam ante discere habuit
+          : aut oportet quod sint formae speculatae intellectu agente. Constat autem quod posteriori
+          modo dici non potest, quia tunc eodem modo ad intelligendum esset dispositus, et ante
+          scientiam et post, et esset semper impossibilis ad sciendum. Relinquitur ergo quod formae
+          intellectae sunt in intellectu agente, et quod per addiscere acquirit anima aptitudinem
+          convertendi se ad intelligibilia vel intelligentiam quae larga est in dandis speciebus
+          intelligibilibus, et quotiescumque convertitur ad eam, emanant ex ea in animam intellectus
+          multi : et haec est conjunctio nostra ad intelligentiam separatam : et per illam ad omnes
+          alias separatas : ideo dicunt isti quod etiam verum est secundum aliquem modum etiam post
+          addiscere et scire, intellectus est in potentia ad considerare : sed haec est potentia
+          propinqua. Est autem potentia ista in hoc quod possibilis non habet in se intelligibile,
+          quia statim ut convertitur ad agentem, habebit illum.</p>
+        <p xml:id="admda-l3t3c9-d1e156">Contra autem dictum istud sunt praecise quatuor rationes, quarum prima est, quia adhuc
+          quasi est ut prius, qualiter possibilis per intellecta non remanentia in ipso acquirat
+          aptitudinem conjungendi agenti : de hoc enim nullam assignant causam. Secunda autem est,
+          quia <cb ed="#B5" n="b"/>
+          <!-- 384 b --> secundum hoc immediate agens continuatur possibili post scientiam, et cum
+          sit incorporeus et separatus, videtur quod eadem ratione continuatur ei etiam ante
+          scientiam, et sic semper continuatur ei, ut videtur. Tertia autem est, si solum agens
+          largitur formas intellectas, cum ipsae differant genere et specie, debet assignare <name ref="#Avicenna">Avicenna</name> quae est causa differentiae. Quarta autem est, quia cum
+          convertitur possibilis ad agentem, tunc fluunt formae intellectae ad ipsum possibilem :
+          cum ergo agens habet se uno modo, formae fluentes ab ipso receptae immateriali erunt uno
+          modo : et hoc est falsum : quia modo fluunt formae quaedam, et cras aliae, et sic etiam de
+          aliis. Haec igitur sunt ad quae reducuntur dicta Peripateticorum : et sunt in eis plurimae
+          dubitationes, sicut cuilibet de his cogitanti patet.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

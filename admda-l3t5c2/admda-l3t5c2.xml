@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT II.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT II.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t5c2">
+        <head xml:id="admda-l3t5c2-Hd1e128">CAPUT II.</head>
+        <head xml:id="admda-l3t5c2-Hd1e131" type="question-title">Quod sensus qui fiunt per media extrinseca, non nutriunt, et
+          qualiter fiunt per media extrinseca.</head>
+        <p xml:id="admda-l3t5c2-d1e134">Sonus autem et color et odor non alunt cum sint intentiones sine materia : et ideo talia
+          neque sensum per substantiam alunt, neque ex eis augmentum est vel decrementum. Cum autem
+          gustus sit alimenti sensus, necesse est gustabile non per speciem saporis esse alimentum,
+          sed oportet gustum esse quemdam tactum, ita quod alimentum per substantiam accipiat : et
+          ideo oportet quod gustus sit sensus ejus quod et possibile est tangi propter qualitates
+          tactus quas habet : et sic vegetativus per nutrimentum quod ex sua substantia praestat.
+          Omne enim quod nutritur, ex eisdem nutritur ex quibus generatur. Cum igitur generationem
+          habeat ex tangibilibus, oportet quod eisdem nutriatur : gustus autem sensus est gustus :
+          ergo erit sensus tangibilium : et sic gustus est aliquis tactus. Hi igitur duo sensus
+          necessarii sunt animali : et ideo manifestum est quod animal impossibile est esse sine
+          tactu. Alii autem sensus sunt propter bonum et utile quorumdam animalium : eo quod non
+          nisi cuidam conveniunt generi, et non omnibus animalibus : conveniunt enim habenti motum
+          processivum, quod est unus quo movetur ad nutrimentum. Idem enim <pb ed="#B5" n="415"/>
+          <cb ed="#B5" n="a"/> oportet habere sensus conveniens et quoddam nocivum apprehendentes :
+          et generaliter quidem verum est, quod si ullum debeat salvari, oportet salvari per tactum.
+          Sed quaedam sunt quae etiam indigent procul apprehendere conveniens et nocivum : et hoc
+          fit quando per medium extrinsecum advenit, et fit eis sensibile quod apprehendunt.</p>
+        <p xml:id="admda-l3t5c2-d1e141">Hoc autem in tali modo fit, quod medium accipit formam sensibilem in eo quod a sensibili
+          patitur vel movetur : sensus autem accipit in eo quod movet secundum locum violento motu,
+          sicut diximus ante finem octavi Physicorum. Illud enim usque ad terminum ad quem facit et
+          movet mutare aliquid pellit : et sic depellens facit alterum tale quale ipsum est : et sic
+          continue movens unum movet alterum : et ideo omne depellere est motus etiam qui est per
+          medium, sicut et sensus, in quo quidem primum depellit et non depellitur, sicut chorda vel
+          manus : ultimum autem sicut lapis vel sagitta depellitur solum et non depellit. Medium
+          autem istorum habet utrumque istorum : quia sicut aer vel aqua hic est et depellitur a
+          primo, et depellit ultimum, et sunt media sic depellentia et depulsa quodammodo multa,
+          sicut et in alteratione qua sensus a sensibili alteratur, excepto hoc solo quod alteratio
+          sensuum fit in primo sensibili manente in eodem loco, quod non fit in his quae feruntur in
+          quibus illud quod depellitur, mutat locum : et haec alteratio est similis motui figurae
+          sigilli in cerae, sicut diximus superius. Motus enim figurae tantum ingreditur in ceram,
+          quantum imprimens tangit ceram, et non amplius : et ita medium tangitur specie rei
+          sensibilis ad tantum ad quantum durat motus rei sensibilis : et ideo in lapide nihil fit
+          de motu tali, eo quod non est medium conveniens. Sed aqua propter humidum et perspicuum
+          tangitur usquequo hoc est <cb ed="#B5" n="b"/>
+          <!-- 415 b --> procul : aer autem adhuc amplius, quia ille de facili impulsu movetur et de
+          facili recipit species sensibilium, et de facili agit in sensum, et patitur a sensibili si
+          maneat, et unus continuus maneat vel sit non interceptus a spisso terminato : quod facit
+          cum non est continuum inter sensibile primum et organum sensus. Et quia si fit sensus
+          visus et alii per exteriora media apprehendentes, sensus melius est quam id quod dicitur
+          de repercussione radiorum visus a sensibili ad videntem : sicut dicunt hi qui dicunt visum
+          per emissionem radiorum, melius est multo quod dicatur aerem pati a visibili, quam quod
+          visus extra mittat radios, et illi repercutiantur ad videntem. Patitur enim aer a figura
+          et colore quamdiu est unus et continuus nisi interceptus aliquo corpore terminato. In levi
+          autem humido est unus continuus : quia quaelibet ejus pars propter humidum fluit in aliam
+          et continuatur ei : et ideo tale medium sic motum a visibili terminato motu movebat visum
+          : sicut etiam in cera motus est figura sigilli usque ad finem ad quem ingreditur. Supra
+          autem diximus quod impressioni sigilli similis est omnis acceptio sensibilium, et maxime
+          visibilium, eo quod illa prae omnibus sunt spiritualia, et esse intentionum potius quam
+          rerum habentia.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

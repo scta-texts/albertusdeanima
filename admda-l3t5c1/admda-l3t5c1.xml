@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT I.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT I.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t5c1">
+        <head xml:id="admda-l3t5c1-Hd1e128">CAPUT I.</head>
+        <head xml:id="admda-l3t5c1-Hd1e131" type="question-title">Quod omne animatum habet vegetabile, sed non necessario habet
+          sensum.</head>
+        <p xml:id="admda-l3t5c1-d1e134">His habitis, restat videre de comparatione potentiarum ad id quod habet hujusmodi
+          potentias, in quo etiam hanc scientiam de anima finiemus. Dicimus igitur quod omne quod
+          vivit et animam habet qua operationes vitae perficit et generatum est, necesse est habere
+          animam vegetabilem : opera enim ejus salvant ipsum usque ad suam corruptionem : in his
+          autem quae non generabilia sunt, vita nobilior est : et ideo vegetabili non indigent
+          anima, neque viribus ejus. Quod autem omne generatum animam habens necesse sit habere
+          animam vegetabilem, probatur per effectum virium animae vegetabilis : omne enim generatum
+          imperfectae qualitatis est, quando generatum est, et imperfectae virtutis : oportet igitur
+          per augmentum quod de<cb ed="#B5" n="b"/>
+          <!-- 412 b -->ducatur ad debitam perfectionem, et <choice> <orig>ite rum</orig>
+          <reg>iterum</reg> </choice> per decrementum deducatur ad naturalem suae senectutis et
+          necessitatis corruptionem, quia aliter natura deficeret in necessariis : augmentum autem
+          sine alimento fieri non potest : oportet igitur habere nutritivam et augmentativam : et ne
+          destruatur esse divinum propter quod agit omne quod agit, oportet etiam ipsum generativam
+          habere : necesse est igitur vegetabilis animae potentias in omnibus generativis et
+          corruptibilibus : generata autem dico quaecumque de seipsis generant, et non illa quae
+          generant, suas formas et species in materia aliena, sicut faciunt corpora simplicia et
+          immaterialia : talia enim omnia non de seipsis semen emittunt generationis : propter hoc
+          etiam non vere generata sunt, sed agentia tantum generationem in aliis.</p>
+        <p xml:id="admda-l3t5c1-d1e150">Sensum autem non necesse est inesse omnibus viventibus : secundum enim superius dicta, ea
+          quae habent corpora simplicia, impossibile est habere medium in tactu : et ita simplicia
+          non habent tactum, cum tamen simplicium quaedam habeant <pb ed="#B5" n="413"/> <cb ed="#B5" n="a"/> vitam. Adhuc autem ex supra habitis constat quod sine tactu nullus
+          habetur sensus : tactus enim est tam sensus quam differentia constitutiva animalis : neque
+          illa saltem sine tactu esse possunt animalia quaecumque non recipiunt animas sensibiles
+          sine materia, sicut illa quae non habent sensus qui apprehendunt per medium, et sunt illa
+          quae non habent nisi tactum et gustum secundum quod est quidam tactus. Si autem concedamus
+          quod superius dictum fuit, quod nihil frustra facit natura, tunc necesse est cum illo,
+          quod concedamus quod animalia necesse est habere sensus : et hoc quidem necesse est
+          concedere, quia nos videmus, sicut et in secundo Physicorum probavimus, quod omnia quae
+          natura consistunt, propter aliquem finem determinatum sunt, vel his quae propter finem
+          coaccidunt, sicut pili quos videmus in locis determinatis oriri, et in tota specie sunt,
+          sicut sub ascellis hominum et in inguine : uniformitas enim ista non esset, nisi essent ad
+          finem determinatum in natura. Similiter autem est in aliis accidentibus rebus naturalibus.
+          Cum igitur natura faciat omnia propter finem, ad quem ita nata sunt pervenire, tunc etiam
+          facit alia quae non mox nata corrumpantur : sed ut in pluribus vel omnibus deveniat
+          quodlibet ad finem suae perfectionis secundum speciem, ad quam natum est devenire. Hic
+          enim finis est principaliter intentum opus a natura. Si igitur consideremus animalia
+          habentia processivum motum, oportet quod habeant illum ut de loco ad locum mota
+          conjungantur convenientibus, et removeantur a nocentibus. Si autem illa sensum non
+          haberent, nocumenta et convenientia non perciperent : oportet igitur quod corrumperentur
+          sensum non habentia : idem autem est de his quae permanentia et immobilia sunt secundum
+          locum : his enim inest convenientium perceptio et laedentium fuga, aliter tamen quidem
+          quam aliis perfectis animalibus, tamen inest modo suae naturae convenienti. Omnia igitur
+          anima<cb ed="#B5" n="b"/>
+          <!-- 413 b -->lia sine sensu existentia destruerentur ante perfectionem : esset igitur
+          frustrata natura, cum animalia ad debitum sibi finem produci non possent.</p>
+        <p xml:id="admda-l3t5c1-d1e161">Similiter autem corpus non posset habere intellectum et animam discretivam et sensus non
+          posset habere. Dico autem animatum quod movens est secundum locum, sive fuerit generatum
+          et non factum : nec dico hoc quod animatum terrena anima non sit factum, sed quia dicunt
+          quidam simplicia corpora esse non facta, et habere solum intellectum discretivum
+          particularium et sensibilium, sicut ex phantasmate acceptus intellectus, et tamen
+          sensibilem animam non habere : hoc enim impossibile est omnino. Sed coelestia quidem
+          habent intellectum activum et operativum, et ille discretivus non vocatur. Talia igitur
+          non perfecta per generationem habentia intellectus agentes et operativos non discretivos,
+          non habent sensum. Et si quaeramus quare non habent, in promptu erit assignare causam. Si
+          enim haberent, tunc haberent aut propter dignius aliquid in anima, aut propter dignius
+          aliquid in corpore. Nunc autem neutrum horum est in eis ex habere sensum. Intellectus enim
+          acceptivus de se et operativus qui extra se non quaerit intelligibilia, non magis
+          intelligit propter sensibilia, sed minus, eo quod a simplicibus intelligibilibus avertitur
+          ad phantasmata. Corpus autem propter sensus non melius est, sed potius nihil erit per
+          corruptionem quae est ex sensu. Necesse est enim quod omne habens sensus, valde diversae
+          sit compositionis, et multas habeat partes molles et terrenas, quarum facilis est
+          corruptio : et ideo generaliter brevioris vitae quam multae ex plantis. Vivum ergo non
+          factum per generationem habitam non esset melius, sed pejus ex sensu : igitur frustra
+          daretur ei sensus a natura.</p>
+        <p xml:id="admda-l3t5c1-d1e165"> <pb ed="#B5" n="414"/> <cb ed="#B5" n="a"/> Sed eorum quae facta sunt corporum et non
+          moventium secundum locum, nullum est omnino quod habeat intellectum sine sensu : cujus
+          ratio jam dicta est, quia videlicet non conjungerentur convenientibus, neque removerentur
+          a contrariis : et sic natura ageret frustra. Si autem dicta necessitate animali detur
+          sensus, tunc necessarium est quod in corpore simplici sit sensus, vel in corpore composito
+          : non autem potest esse corpus simplex sensibile per rationem prius inductam : quoniam
+          tactus non potest esse simplicis, et sine tactu non potest esse aliquis sensus.</p>
+        <p xml:id="admda-l3t5c1-d1e172">Quod licet superius probavimus, tamen etiam manifestum erit ex his quae nunc inducemus :
+          est enim animal corpus animatum : omne autem corpus generabile et corruptibile, quia de
+          talibus hic loquimur, est possibile tangi tactu physico, et sentitur per sensus tactivos :
+          ergo necessarium est cum tactus sit per medium intraneum, quod animalis corpus sit tale
+          quod possit tangere et sentire sensus differentias vel tactus. Non autem sentiret
+          qualitates tangibiles, nisi per hoc quod medietas est mixta ex eis : oportet ergo corpus
+          esse mixtum et non simplex : nisi enim sentiret tangibilia, non posset salvari animal :
+          quia non sentiret ea quae essentialiter componunt ipsum et salvant et corrumpunt. Sic
+          autem non est in aliis sensibus : quia illi per extrinseca media sentiunt, et sensibilia
+          eorum neque essentialiter componunt, neque salvant, neque componunt corpus, sicut et
+          auditus et odoratus : nisi enim habeat sensum tactus, non possit quaedam corrumpentia
+          essentialiter fugere, et quaedam salvantia essentialiter accipere. Si autem sic se
+          habeant, possibile est salvare animal quousque ad finem naturae deveniat : et ideo quia
+          gustus est salvativus substantiae animati corporis, oportet gustum esse quemdam tactum.
+          Cujus causa est, <cb ed="#B5" n="b"/>
+          <!-- 414 b --> quia gustus est sensus quo accipitur nutrimentum vel alimentum, quod nutrit
+          per hoc quod substantialiter convertitur in substantiam. Tale autem corpus tangibile
+          habens qualitates : et ideo sensus participans ipsum est tactus quidam necessario. Haec
+          autem omnia constant ex determinatis de tactu et gustu.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

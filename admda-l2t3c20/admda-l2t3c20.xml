@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XX.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XX.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c20">
+        <head xml:id="admda-l2t3c20-Hd1e128">CAPUT XX.</head>
+        <head xml:id="admda-l2t3c20-Hd1e131" type="question-title">Qualiter sonus venit ad auditum auris, et qualiter auris
+          connaturalitatem habeat ad audiendum.</head>
+        <p xml:id="admda-l2t3c20-d1e134">Auditus autem sonorum fit in aere per eamdem causam quae dicta est. Aer enim quidam
+          connaturaliter tenetur in aure, et connaturalis est auris tympano : tympanum autem auris
+          voco nervum audientem, qui expanditur in interiori auris : qui quando pulsatur ab aere qui
+          est in aure, fit auditus : aer enim qui est in aure, continuus est aeri qui est extra : et
+          ideo ab exteriori moto aere movetur interior auris : et ille movet nervum auditivum : et
+          facit natura latera auris dura, ut bene percutiant percussa : et exteriora auris facit
+          lata, ut ubique hauriant sonum : et facit foramina tortuosa, ut prohibeatur aer exire : et
+          purgationem capitis quae est cholerae purgatio, facit descendere per aures, ut ex calido
+          sicco auris tympanum et latera sicca et dura conserventur, sicut pellis tympani sicca bene
+          sonat, et emollita sonum perdit. Similiter autem faciunt chordae musicorum. Quia haec
+          connaturalitas ad soni subjectum non est penitus in toto corpore animalis, propter hoc non
+          secundum totum corpus audit, alias secundum omnia membra. Quia etiam non penitus secundum
+          omnia membra transit aer ad interiora nervi auditivi : pars enim movenda ad auditum, non
+          pene in omnibus membris connaturalem in se habet aerem : nec ipsum animatum in omnibus
+          membris habet connaturalitatem ad percipiendos sonos in aere generatos.</p>
+        <p xml:id="admda-l2t3c20-d1e137"> <cb ed="#B5" n="b"/>
+          <!-- 269 b --> Aer igitur secundum se est nullum omnino habens sonum, ut omnes suscipere
+          possit : cum autem prohibetur dividi vehementia verberantis, remanet continuus et unus
+          resistens per modum supra dictum : tunc motus talis est vera causa soni : aer autem qui
+          est in auribus animalium, aedificatur a natura circumponente latera tortuosa auris, ut sit
+          immobilis, quatenus certe et non confuse sentire possit omnes soni differentias : quod
+          esse non posset, si motus esset aer qui est in aure : quia tunc motus exteriores non
+          reciperet nisi confuse. Et haec est causa, quod quando aliquis caput mergit sub aqua,
+          adhuc audit sonos qui fiunt super aquam, quamdiu manet ei auris plena aere : quia tunc
+          soni intentio per aquam ut per medium delata venit ad aerem qui est in aure, et tunc
+          percutit tympanum auris, et fit auditus : et hoc sumus experti. Sed tamen aqua percutiens
+          aerem qui est in aure, multum confundit sonum auditum sub aqua. Si vero contingit evolare
+          totum aerem de aure, et subintrare aquam in ejus locum, tunc non fit auditus aliquo modo
+          quamdiu hoc durat. Et ex hoc apparet non aquam, sed aerem esse proprium soni subjectum,
+          sicut diximus supra. Sicut etiam destruitur visus, quando pellis alba vel aliqua alia
+          occasio texerit oculi pupillam.</p>
+        <p xml:id="admda-l2t3c20-d1e144">Signum autem quod fiat sic auditus, sicut dictum est, et non fiat auditus si hoc
+          destruatur, est quod actu semper sonat : sicut quando aliquis cornu applicat ad aurem,
+          audit trepidantem aerem in aure : et hoc facit aer, eo quod calor auris movet eum : et
+          tunc percutiuntur latera auris : iste tamen tremitus aeris in aere non tantus est, quod
+          impediat alios motus exterioris aeris : aer enim proprio quodam motu semper movetur in
+          auribus : sed tamen sonus non est ex motu proprio aeris, sed potius ex motu alieno. Et
+          quoad hoc bene dixerunt <pb ed="#B5" n="270"/> <cb ed="#B5" n="a"/> Antiqui, quod auditus
+          fit in vacuo exteriori et in sonanti interius : quia nos audimus in aere determinato in
+          aure semper tremente et trepidante, et in aere exteriori vacuo et libero per motum quo
+          supra dicto modo commovetur.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

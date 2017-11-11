@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XVII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XVII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t2c17">
+        <head xml:id="admda-l3t2c17-Hd1e128">CAPUT XVII.</head>
+        <head xml:id="admda-l3t2c17-Hd1e131" type="question-title">Qualiter intellectus est subjectum receptionis et non
+          transmutationis, et qualiter intelligit se.</head>
+        <p xml:id="admda-l3t2c17-d1e134">Dubitabit autem fortassis aliquis de determinatis a nobis in praehabitis. Si enim
+          intellectus possibilis est simplex et impassibilis, et nulli habet omnino aliquid commune,
+          eo quod ipse non est hoc, sicut optime dixit Anaxagoras, quomodo potest cum hoc dici quod
+          intelligat aliquid, cum intelligere sit recipere aliquid et pati aliquid : cum probatum
+          sit, quod omnis agentis et patientis est commune aliquid quod est subjectum et materia,
+          per cujus communitatem illud agit et aliud patitur, sicut in primo Physicorum est
+          determinatum ? Videbitur ergo quod intellectus possibilis cum intelligibilibus quae agunt
+          in ipsum, conveniat in subjecto, et sic habet aliquid commune cum entibus quae intelligit
+          : et sic falsum est quod dicit Anaxagoras.</p>
+        <p xml:id="admda-l3t2c17-d1e137">Antequam autem illam solvamus dubitationem, aliam movebimus. Quaeramus igitur si ipse
+          possibilis intellectus est unum de numero intelligibilium, aut non ? et non potest dici,
+          quod non sit unum de intelligibilibus, quia supra ostensum est quod intelligit se : et
+          ideo est potentia separata. Si autem intelligit se, aut intelligit alia sicut seipsum, aut
+          intelligit se sicut alia intelligibilia : oportet enim dare istorum alterum : quia omne
+          intelligibile in eo quod est intelligibile, est specie intelligibilitatis unum et idem,
+          sicut omne visibile est idem cum alia specie qua visibile est. Si autem dicatur, <cb ed="#B5" n="b"/>
+          <!-- 361 b --> quod intelligit alia sicut seipsum : constat autem ex his omnibus quae
+          superius inducta sunt, quod ipse intelligit se sicut actu separatum a materia, et a
+          materiae appendiciis : igitur et alia sic separata intelligit : ergo formae separatae
+          secundum actum insunt rebus : formae autem separatae potentia sunt intellectus, et non
+          esse naturae : ergo principia intellectus insunt rebus, sed cum natura non deficiat in
+          necessariis, cuipiam insunt principia res intelligendi, illis inest virtus intelligendi :
+          ergo intellectus inest omnibus rebus : hoc autem videmus fore falsum : ergo non potest
+          dici quod intelligat alia sicut seipsum. Si autem e converso dicatur quod intelligit se
+          sicut alia : alia autem intelligit actu mixta cum materia, et separat a materia et
+          individuantibus : ergo etiam intelligit se mixtum cum materia, et separabit se ab ipsa et
+          individuantibus. Ergo ipse est mixtus materiae, et patitur per communicationem materiae
+          cum rebus quae agunt in ipsum : et sic falsum videtur quod dixit Anaxagoras, et totum quod
+          superius inductum est.</p>
+        <p xml:id="admda-l3t2c17-d1e144">Dicemus autem solvendo primam quaestionem, quod pati physicum quod est cum motu, semper
+          est secundum commune aliquid agenti et patienti quod est subjectum : unde et prius
+          diximus, quoniam intellectus non est simpliciter potentia passiva intelligibilium, sed
+          quodammodo est potentia : est enim potentia receptiva tantum, et non proprie passiva : est
+          enim potentia intelligibilia : et antequam intelligat, nihil est omnino intelligibilium
+          nisi priusquam intelligit actu ea : quod qualiter sit, oportet ad memoriam revocare quae
+          dicta sunt in fine primi Physicorum. Ex his enim intelligitur, quod duplex est potentia
+          passiva : quaedam enim ex sua potentialitate non est nisi subjectum et causa receptionis
+          simplicis : quaedam autem ex sua potentialitate est causa et subjectum et re<pb ed="#B5" n="362"/> <cb ed="#B5" n="a"/>ceptionis et transmutationis : potentia enim materiae quae
+          una est contrariorum, est subjectum et causa receptionis et transmutationis : propter duo
+          enim est subjectum transmutationis, et propter unum tantum est ipsa subjectum receptionis
+          : quia enim contrarium inest sibi, oportet hoc abjici per transmutationem : et quia
+          inchoatio formae inest ei ante perfectionem secundum actum, oportet illam inchoationem
+          procedere ad actum per transmutationem quae est forma post formam : et eo quod continue
+          fluit potentia ejus in actum. His enim duabus de causis oportet ipsam materiam prius
+          tempore subjici transmutationi quam receptioni. Receptioni enim subjicitur per id quod
+          receptio est finis transmutationis : et ideo receptio est in indivisibili temporis, et
+          transmutatio in tempore : haec autem omnia manifeste probata sunt in Physicis. Sed
+          potentia cui non inest contrarium, nec inchoatio receptibilis, illa non potest esse
+          subjectum motus, sed erit subjectum receptionis simplicis : et illius exemplar est, quod
+          tamen non per omnia simile est, tabula rasa et planata et polita, in qua scriptura nec
+          secundum actum est, nec contrarium scripturae, nec inchoatio scripturae per dispositionem
+          mediam inter actum et potentiam, quae per motum educatur in actum : sed tantum est
+          sufficienter praeparata ad recipiendam scripturam, et ideo recipit eam sine motu : et
+          nihil abjicitur a tabula, nec aliquid illi imperfectum procedit in actum, sed quamlibet
+          litteram recipit ut actum sine motu adeptum, ad quem non est in potentia, nisi receptiva
+          solum : et sic oportet accipere de intellectu possibili, quod sit in potentia receptiva
+          tantum, cui intelligibilia prima actu non insunt, nec per dispositionem mediam inter actum
+          et potentiam insunt ei, quod tunc oporteret eum esse materialem et transmutabilem ad actum
+          : sed tantum habet recipere ea et meliori modo quam tabula : quia supra diximus quod ipse
+          est quodammodo formalis ad ea, quod non est ta<cb ed="#B5" n="b"/>
+          <!-- 362 b -->bula circa scripturam est : et est operativus circa intelligibilia, quod
+          iterum tabula minus facit circa scripturam : tamen tabula exemplum convenientius est quod
+          in rebus corporalibus poterat inveniri ad incorporearum rerum potentiam demonstrandam.</p>
+        <p xml:id="admda-l3t2c17-d1e156">Oportet autem hic cavere Alexandri errorem. Ille enim dicit quod intellectus possibilis
+          non habet similitudinem cum tabula, sed cum praeparatione et rasura et politione tabulae :
+          et causa propter quam hoc dicit, est quia dixit intellectum possibilem esse formam
+          corporis, sicut superius diximus. Nos autem dicimus intellectum esse unam rem perfectam in
+          entibus et incorpoream, et ideo dicimus intellectum esse sicut tabulam, et potentialitatem
+          ejus sicut rasuram et praeparationem. Sic igitur cum sit receptibilis intellectus sine
+          passione et motu, suscipit et sine tempore quodlibet intelligibile : et ideo indiget
+          agente duplici, scilicet quod conferat formam moventi, et movente : intellectus enim agens
+          confert formam intellectualitatis et intelligibili et possibili intellectui, sicut unum
+          lumen et perficit diaphanum et facit actu esse colorem : sed intelligibile movet ipsum
+          distinguendo eum, sicut color visum : et hoc simile est, sicut si diceremus quod litterae
+          scriberent seipsas in tabula : talis autem potentia receptiva soli convenit intellectui
+          possibili, ita quod non sensui : quoniam quaedam materiales dispositiones ad sensibile
+          recipiendum praecedunt in sensu, sicut calor vel frigus, vel hujusmodi aliquid : in
+          intellectu autem omnino nihil praecedit : sed purae receptibilitati acquiritur receptum
+          secundum actum : et in istum sensum concordant nobiscum <name ref="#Averroes">Averroes</name>, Themistius, et Theophrastus, et Nicolaus Peripateticus. Et per istud
+          nunc perfecte patet qualiter distinguitur intellectus possibilis a materia prima, et quod
+          passio et receptio et potentia, et omnia talia aequivoce dicuntur de intellectu possibili,
+          et aliis potentiis receptivis.</p>
+        <p xml:id="admda-l3t2c17-d1e162"> <pb ed="#B5" n="363"/> <cb ed="#B5" n="a"/> His autem sic determinatis, solvemus
+          quaestionem secundam, dicentes quod ipse intellectus per intentionem suam est
+          intelligibilis, sicut et alia intellecta. Sed est differentia, quia ideo intellectus est
+          intentio per quam intelligitur, non autem est intentio qua intelligitur alia res, quia
+          ipse est intellectus, et non lapis, vel alia res : nihil enim omnino intelligi potest,
+          nisi per suam universalem et formalem intentionem. Nec oportet propter hoc dicere quod
+          intellectus non sit intellectus, quia intelligit se, et antequam intelligat, nihil est
+          intelligibilium : sed puram et simplicem habet ad talia potentiam receptivam : quia cum
+          intelligit, ipse est separatus : et sua intentio per quam intelligit se, est separata
+          intentio. Quae autem sic separata in intellectu sunt et sine materia, in talibus idem est
+          intellectus et quod intelligitur. Scientia namque speculativa sui et quod speculatum est,
+          idem est omnino, quia cum sit separatus sibi ipsi praesens est per intentionem, et ideo
+          abstractione non indiget. Si autem in aliis similiter omnino esset, tunc semper esset idem
+          scientia et res scita, et hoc est impossibile.</p>
+        <p xml:id="admda-l3t2c17-d1e169">Sed ad hanc quaestionem plene solvendam oportet quaerere quare intellectus non semper
+          intelligit secundum actum alia intelligibilia, et seipsum ? Si enim detur quod omne quod
+          intelligitur, intelligitur per intentionem a se abstractam, tunc oportet quod intellectus
+          seipsum intelligat per hujusmodi abstractionem : abstractum autem non recipitur in eo a
+          quo abstrahitur, sed in alio quodam : ergo si se sic intelligit intellectus possibilis,
+          ipse ad intelligendum se indiget aliquo alio intellectu recipiente suam intentionem : et
+          hoc abibit in infinitum. Si intelligit se et alia non per abstractionem, tunc aliis inerit
+          intellectus speculativus : et sic alia erit intelligentia, sicut patet per supra inductam
+          rationem. Cum <cb ed="#B5" n="b"/>
+          <!-- 363 b --> igitur utrumque istorum sit impossibile, oportet dici quod intellectus
+          intelligit se, et sicut alia, et non sicut alia. Sicut alia quidem, quoniam intelligit se
+          per intentionem suam, et sic intelligit alia. Non autem sicut se alia intelligit, quoniam
+          ipse se non abstrahendo intelligit, cum sit separatus : alia autem intelligit separando et
+          abstrahendo, sicut in praemissis dictum est : et quia illa quae abstrahit, ante
+          abstractionem sunt in potentia intelligibilia, ideo non semper praesentia sunt in anima :
+          et ideo intellectus non semper est de illis, quod intellectus non est talium intellectorum
+          nisi quando sunt sine materia, non autem semper sunt sine materia : illi autem
+          intellectui, scilicet possibili, convenit semper intelligibile esse, eo quod semper
+          denudatus est et praesens sibi : et quia immaterialis est, habet intelligere seipsum. Sic
+          ergo perfecte satis factum est de quaestionibus duabus.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

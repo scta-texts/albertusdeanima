@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT II.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT II.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l1t2c2">
+        <head xml:id="admda-l1t2c2-Hd1e128">CAPUT II.</head>
+        <head xml:id="admda-l1t2c2-Hd1e131" type="question-title">De opinionibus eorum qui animam per cognoscitivum diffiniendam
+          esse dixerunt.</head>
+        <p xml:id="admda-l1t2c2-d1e134">Quicumque autem dixerunt animam esse diffiniendam penes cognoscere, et sentire ea quae
+          sunt, attribuendo cognoscitivum esse velut magis essentiale, et motivum esse sicut
+          potentiam quae consequitur essentiam animae, isti dicunt animam esse principia rerum
+          naturalium materialia vel agentia : quia alia principia non viderunt. Et differunt, quia
+          alii inter eos dixerunt ista principia esse plura, et alii dixerunt ea esse unum.
+          Empedocles enim qui dixit sex esse principia, materialia quatuor, et duo agentia, dixit
+          animam esse ex omnibus his elementis, et animam esse unumquodque istorum. Et ratio quidem
+          inducens istos, fuit subtilis : videbant enim quod nihil est quod sit potentia omnia
+          fieri, et nihil eorum secundum actum in natura, nisi materia prima : et cum hanc
+          proprietatem in cognoscitiva potentia animae invenissent, et praecipue in intellectu
+          potentiali, arguebant cognoscitivam potentiam et intellectum potentialem esse aliquid
+          materiae primae, sicut adhuc hodie multi errantes faciunt, [GREEK: noun], et materiam idem
+          arbitrantes. Cujus adhuc aliam inducunt rationem fortiorem, dicentes nihil restringere
+          potentiam materiae, nisi formam : propter quod videmus materiam determinatam quantitate et
+          contrarietate esse pauciorum formarum capacem, quam sit materia determinata quantitate
+          tantum. Similiter autem materia non determinata quantitate esset amplioris ca<cb ed="#B5" n="b"/>
+          <!-- 139 b -->pacitatis formarum, quam illa quae quantitate determinata est. Hoc autem
+          est, quae ex formis non habet nisi formam primam : forma autem prima est, quae constituit
+          essentiam primam in ordine rerum naturalium : hoc autem est intellectualitas, sicut
+          probabitur in philosophia prima : haec igitur est potentia capiens omnes formas inferiores
+          per amplitudinem potentiae materialis quae est ipsa. Amplius autem una potestas naturae
+          erit in omnibus in quibus est per principium unum et idem. Sed potentia recipere formas,
+          et actu non habere, quaedam est potestas naturae, quae est in materia et in anima : inerit
+          ergo ratione unius ejusdem principii : hoc autem principium non est nisi materia : ergo
+          oportet quod materia prima faciat hoc in anima. Istae rationes et similes quae adhuc
+          detinent multos, induxerunt primos Philosophos ad hoc quod dixerunt, quod anima est ex
+          principiis materialibus naturae. Adhuc autem ipsi supposuerunt, quod cognitio non existit
+          animae nisi per assimilationem cognoscentis et cogniti, sicut et verum est. Adhuc autem
+          ponebant aliam propositionem veram, quod nihil cognoscitur nisi a principiis suis, sicut
+          etiam probatur in principio Physicorum, quod intelligere et scire circa omnes scientias,
+          non est nisi ex principiis, causis, et elementis rerum. Et posuerunt iterum tertium verum,
+          quod anima cognoscat omnia. Et syllogizabant, quod cognoscens omnia, simile est in forma
+          cum principiis omnium : nihil autem est simile cum principiis omnium, nisi quod est ipsa
+          principia prima, vel ex ipsis principiis primis : igitur anima aut erit principia prima,
+          vel ex ipsis principiis primis constans. Haec igitur sunt quae induxerunt Antiquos ad
+          dicendum animam esse principia rerum vel ex ipsis.</p>
+        <p xml:id="admda-l1t2c2-d1e141">Et propter paucitatem exercitii in studio sciverunt, quod alia est potentia cognitionis,
+          et alia materiae : quoniam <pb ed="#B5" n="140"/> <cb ed="#B5" n="a"/> illa quae est
+          intellectus possibilis et cognoscitivae potentiae, proportionatur universali et
+          particulari quibus perficitur secundum actum : potentia autem materiae proportionatur
+          formis secundum esse quibus secundum actum efficitur et perficitur : propter quod in anima
+          non est materia vel intelligentia, sed potentia in aliquo materiae similis, et in aliquo
+          dissimilis. Similiter autem quando Antiqui videbant quod cognitio non existit in anima
+          nisi per assimilationem cognoscentis et cogniti, si vidissent quod haec assimilatio fit
+          per intentiones rerum, et non per essentias earum, eo quod intentio lapidis est in anima,
+          et non ipse lapis, non errassent. Sed nesciverant illud, et posuerunt assimilationem non
+          posse fieri nisi secundum formam esse perficientem et dantem : et ideo in errorem inducti
+          sunt. Sed de omnibus his nobis inferius erit inquirendum. Sed ea quae hic dicta sunt, ad
+          excusationem Antiquorum sunt dicta, ut sciamus quoniam subtiles rationes fuerunt quae eos
+          induxerunt. Sic igitur Empedocles dixit animae assimilationem fieri cum omnibus, quia ex
+          principiis omnium : et ideo terra cognoscit terram, et aether quem aerem esse voluit,
+          cognoscit aethera, et aquam aqua : et quia spiritualior est ignis, ideo dixit hoc
+          manifestum esse, quod anima igne cognoscit ignem : et in efficientibus principiis idem
+          dixit, quoniam concordia cognoscit concordiam, et discordia cognoscit discordiam. Haec
+          igitur est opinio Empedoclis de anima.</p>
+        <p xml:id="admda-l1t2c2-d1e148">Eodem autem modo, hoc est, per eamdem rationem Plato in Timaeo animam dixit esse ex
+          elementis, non quidem ex eisdem quae dixit Empedocles, sed ex aliis quae Plato omnium
+          posuit elementa. Habuit enim idem inducens quod habuit <cb ed="#B5" n="b"/>
+          <!-- 140 b --> Empedocles, quantum ad similitudinem <choice> <orig>in tellectus</orig>
+          <reg>intellectus</reg> </choice> possibilis cum materia, et quantum ad hoc quod est
+          cognitionem fieri per assimilationem cognoscentis et cogniti, et quod non sit cognitio
+          rerum nisi per principia rerum : et ideo dixit cognosci simile simili, et res esse ex
+          eisdem principiis ex quibus sunt cognitae. Et verum in hoc dixit Plato, sicut patet ex
+          praedictis. Sicut autem dixit in Timaeo, ita etiam determinavit in dictis suis de
+          philosophia prima, ubi loquitur de primis rerum principiis. Ibi enim dixit quod ipsum
+          animal quod est forma separata, et est genus continens in se species animalium existens
+          ante hoc, constituitur ex ipsa idea unitatis et prima longitudine et latitudine et
+          altitudine. Et alia quae sunt in alia coordinatione alterius generis, constituuntur simili
+          modo. Et non fuit Platonis intellectus irrisorius, quemadmodum multi crediderunt. In
+          omnibus enim unitas est a forma, et oportet quod in quolibet genere uno fuit una forma
+          prima secundum intentionem quae est genus illud. Et illa forma reduplicata de potentia ad
+          actum, constituit species diversas secundum quod reduplicatur ad diversos actus. Hanc
+          igitur formam quia separatam posuit Plato, vocavit ideam, quod Latine sonat forma, eo quod
+          omnia sequentia format. Separatam autem posuit, eo quod per essentialia sibi non dependet
+          ab aliquo posteriorum. Nullo enim animali existente in specie et individuo, adhuc remanet
+          substantia animata sensibilis, eo quod non trahit essentiam ab eis, sicut jam dictum est.
+          Quia autem idea est substantiae corporeae, ideo prima principia corporum posuit cum idea
+          prima esse principium animalis. Fluit autem punctum ex unitate, et linea ex binario, et
+          superficies ex ternario et corpus ex quaternario. Quoniam si ego accipiam primum
+          indivisibile, in hoc conveniet et punctum et unitas : si autem addidero, dicens primum
+          indivisibile habens <pb ed="#B5" n="141"/> <cb ed="#B5" n="a"/> positionem in continuo,
+          tunc genero punctum : punctum igitur addit supra unitatis rationem. Quandocumque autem
+          sunt duo in genere uno, quorum unum se habet ex additione ad alterum, illud quod ex
+          additione est, principiatur a simpliciori. Et hac ratione dixit Plato punctum principiari
+          ex unitate. Et hac ratione discreta quantitas est ante continuam. Linea autem oritur a
+          binario : quoniam linea constituitur in esse ex fluxu puncti in continuum : fluxus autem
+          omnis unius et ejusdem indivisibilis necessario est ab uno indivisibili puncto in aliud
+          indivisibile punctum : et sic linea duo indivisibilia puncta habet actu, quorum utrumque
+          oritur ab unitate sicut binarius est perfectus in duabus unitatibus. Haec igitur ratio
+          quare linea orta dicitur a binario. Superficies autem oritur a ternario, quia tria puncta
+          poni secundum actum non possunt in continuo in linea una prima simplici. Dico autem lineam
+          primam simplicem esse rectam lineam, quoniam curva compositionem habet in partibus
+          diversis, et circularis habet compositionem in formis duabus, quae sunt convexum et
+          concavum, sicut in Physicis et in libro de Coelo et Mundo dictum est. Tria ergo puncta
+          posita a tribus unitatibus orta, si secundum actum sint positionem habentia, non
+          continuabit ea linea una simplex quocumque modo protrahatur. Sed primum continuans ea est
+          superficies. Igitur superficiei continuitas primum est in tribus punctis secundum actum
+          positis in continuo. Si autem puncta quatuor ponam, ita quod quartum differentiam ponat a
+          tribus, oportet quod quartum figam in profundum continui : quoniam si ponam in latum, non
+          faciet differentiam ad tertium, et si ponam in longum, non faciet differentiam ad
+          secundum. Si autem positis quatuor punctis nulla superficies una continuabit ea, oportet
+          igitur quod corpus continuet haec quatuor puncta discreta a quatuor unitatibus exorta.
+          Sicut autem dictum est, quod una forma idealis est in omni uno gene<cb ed="#B5" n="b"/>
+          <!-- 141 b -->re, sicut dixit Plato, et verum dicebat, quod est resolvere omnia genera
+          subalterna ad generalissimum, et illius forma reduplicata per differentias, format et
+          constituit omnia alia inferiora, et contingit generalissima resolvere in ens et unum quae
+          sunt omnium principia. Unum autem nihil dixit addere supra ens secundum rem : et ideo
+          unitatem idealem primam dixit esse omnium principium formale, sed magnitudinem ab unitate
+          per dimensiones fluentem dixit esse principium materiale, eo quod physica materia est illa
+          quae tres habet indeterminatas dimensiones, sicut nos ostendimus in fine primi Physicorum.
+          Hoc igitur modo dixit Plato principium omnium et formale et materiale esse numeros, et
+          supponebat rem cognosci ex principiis suis : cognoscitur ergo ex talibus numeris, qui sunt
+          essentialia rerum principia : et cum anima cognoscat omnia, oportet quod anima sit ex
+          primis numeris, qui sunt essentialia rerum principia.</p>
+        <p xml:id="admda-l1t2c2-d1e174">Adhuc autem probabat hoc Plato ex ipsis habitibus perficientibus vires animae : quia
+          intellectus qui conceptio principiorum est, quae sunt rerum simplices quidditates, stat in
+          uno non fluens ex uno in aliud. Scientia autem quae conclusionum est, et effectus est
+          demonstrationis, necessario est duo : quoniam exit ab habitudine extremorum ad medium in
+          conceptione conclusionis : et sic de perfectione ejus sunt duo, quorum unum efficitur ab
+          altero, et est sicut unitas terminata vel sicut punctum fluens in continuum per directum
+          vel discretum : et ideo singulariter stat fluxus ejus in uno, non obliquatus ad aliquid
+          quod sit extra situm ejusdem rectitudinis. Opinio autem est ejus, sicut sit plani numerus,
+          quia numeri plani primi sive superficiei est ternarius : opinio autem cum sit acceptio
+          duplicis, exit quidem ex uno, sed non stat singulariter in uno, sed dilatatur ad <pb ed="#B5" n="142"/> <cb ed="#B5" n="a"/> timorem contradictorii, cum certa ratione non sit
+          probata conclusio. Sensus autem firmissime corporis est, quoniam acceptivus est corporalis
+          formae : neque hoc facit sensus exterior tantum, sed etiam sensus interiores, qui
+          particularium formis informantur, quae ab individuantibus non sunt separatae. Cum igitur
+          omnis acceptio sive conceptio animae, aut sit universalis, aut particularis : et siquidem
+          universalis, tunc aut simplex, aut complexa : et si est complexa, aut est certe stans in
+          uno, aut dilatata ad formidinem oppositi, et non possunt esse plures, oportet quod omnia
+          quae fiunt in anima sint per haec quatuor. Cum autem omnis cognitio sit per similitudinem
+          cognoscentis et cogniti, sicut diximus, oportet quod ipsa anima similitudinem habeat ad
+          ista quatuor. Cum igitur unitas formae, et binarius, et trinarius, et quaternarius sint
+          ipsae species ideales, quae sunt principia rerum et sunt de numero elementorum primo res
+          elementantium, oportet quod anima sit ratio elementalis istorum numerorum, eo quod omnes
+          res judicantur et cognoscuntur, aut intellectu, aut scientia, aut opinione, aut sensu,
+          sicut dictum est. Isti enim numeri sunt formae primae et species et principia rerum. Et
+          Plato quidem in Timaeo dicit animam esse quasi naturam mediam inter intelligentias et
+          naturam : et sic sit media, oportet quod sit numerus idealis ab intelligentia quidem
+          secundum ordinem naturae productus et ante naturam existens. Haec igitur dicta sint de
+          Platonis opinionibus.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

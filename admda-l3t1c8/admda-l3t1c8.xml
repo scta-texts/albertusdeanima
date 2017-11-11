@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VIII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VIII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t1c8">
+        <head xml:id="admda-l3t1c8-Hd1e128">CAPUT VIII.</head>
+        <head xml:id="admda-l3t1c8-Hd1e131" type="question-title">Quid sit phantasia secundum veritatem, prout communiter agitur
+          de imaginatione phantasiae.</head>
+        <p xml:id="admda-l3t1c8-d1e134">Si autem volumus scire secundum veritatem quid est phantasia, prout communiter accipitur
+          pro imaginatione in qua distribuuntur imagines, et pro phantasia quae utitur ipsis
+          secundum superius determinatum modum, sciendum est quod in omnibus quae sic se habent,
+          quod aliquid est motum ad formam primi moventis, sicut sensus secundum actum factus <cb ed="#B5" n="b"/>
+          <!-- 326 b --> motus ad formam sensibilis, necessario etiam movet ad consequens ipsum et
+          proportionatur sibi secundum communionem moventis et moti : oportet igitur quod sensus
+          secundum actum factus, et habens formam sensibilis moveat virtutes apprehensivas
+          interiores sibi proximas ad speciem sensibilem quam habet : videmus autem phantasiam esse
+          motam sic ad formam : igitur phantasia erit motus quidam : et quoniam phantasia nunquam
+          est nisi in eo subjecto in quo est et sensus, et non est unquam in aliquo nisi in quo est
+          etiam sensus, et est tantum de his quorum est sensus : fit autem motus moventis non a
+          sensu in potentia, sed potius ab actu sensus : quoniam movetur secundum formam sensibilis
+          quae facit ipsum actu.</p>
+        <p xml:id="admda-l3t1c8-d1e141">Motus autem talis quem facit sensus secundum actum, necesse est esse similem in forma
+          sensui secundum actum facto : igitur phantasia secundum veritatem erit potentia in qua est
+          motus sensus secundum actum simul. Non autem hic vocamus motum ipsam motus successionem,
+          sed potius cum in motu sint duo, unum quod est ipsa successio secundum fieri, alterum
+          autem quod est forma facta post formam, vocamus hic motum formam factam post formam : quia
+          forma quae est in phantasia fit post illam quae est in sensu communi et proprio : et
+          quando dicimus quod est motus a sensu, intelligimus hoc, quod sensus est effectivus hujus
+          motus, et non terminus a quo fit motus : quia ille abjicitur in motu. Si autem phantasia
+          dicatur motus a sensu factus, et non potentia in qua sive in quam fit hujusmodi motus,
+          erit descriptio potentiae per suum proprium actum, sicut habent describi potentiae
+          passivae, prout supra determinatum est. Ex quo autem phantasia est talis motus, constat
+          quod non est contingens sine sensu qui aliquando fuerit, licet forte cum ipsa sen<pb ed="#B5" n="327"/> <cb ed="#B5" n="a"/>sum esse non sit necessarium : et ideo phantasia
+          nunquam contingit in his quae non sunt sensibilia, sicut plantae : sed illud quod habet
+          eam, multa contingit secundum ipsam facere et pati : et hujusmodi causam superius
+          assignavimus, ubi sigillatim de interioribus viribus animae sensibilis egimus : et
+          convenit ipsam esse aliquando veram, et aliquando falsam : hujusmodi autem causa oritur ex
+          diversitate sensibilium quae sunt tripliciter dicta, sicut in superiori libro
+          determinavimus : et sensus per se et propriorum sensatorum semper est verus : et si habet
+          falsum, hoc est parvissimum : quia non convenit ei falsum ex se, sed potius ex sentiente,
+          vel ex medii diversitate, vel ex sensibilis distantia, sicut superius ostendimus : et voco
+          diversitatem sentientis quando contingit per infirmitatem malae dispositionis organum
+          sentiens : diversitatem autem medii quando ipsum non in sincera et pura natura medii
+          mediat, sed habet aliquid sibi immixtum. Distantia autem sensibilis impedit vires
+          sensibilis agentis in sensum, eo quod vis omnis agentis in aliud est proportionata ad
+          determinatam distantiam. Aliter autem non posset errare sensus proprius circa sensibile
+          proprium : quoniam, sicut supra probatum est, sensibile proprium est per se activum in
+          sensum, et per se activum non imprimit in passivum, nisi tantum formam propriam : et cum
+          illam recipit sensus, non potest esse error circa id quod sic recipit : et quoad hoc motus
+          a sensu factus est verus eadem veritate qua sensus est verus, nisi aliquid aliud impediat.
+          Est autem aliud sensibile ut haec individua demonstrata accidant sensui, quod vocamus
+          sensibile per accidens : et in illo incidit medium in sensum : quia illud est per
+          compositionem et divisionem sensibilis per se, ad aliud quod non accipit sensus, et
+          aliquando componit vere, aliquando autem false. Visus enim albi non mentitur quod album
+          sit : in quantum autem album dicit esse hoc vel illud per affirmationem vel negationem,
+          saepe menti<cb ed="#B5" n="b"/>
+          <!-- 327 b -->tur. Tertium autem sensibile est commune sensibile, et hoc est consequens
+          propria sensata : propria enim sensata insunt communibus : communia enim sunt in
+          magnitudine et figura : et ideo iterum hoc componit et dividit : et ideo circa illa maxima
+          fit deceptio secundum sensum : et ideo sensus interior qui est phantasia, fit ab actu
+          sensus exterioris, qui est ab his tribus sensibus : et ideo duas habet causas falsitatis,
+          quarum una est distantia a re, quia accidit re non praesente, et non dirigit formam
+          sensibilis quam habet ad rem sicut facit sensus : et ideo frequentes sunt illusiones in
+          ipsa phantasia et in sensibus propriis. Alia autem causa falsitatis est quam habet a
+          sensibili per accidens, et a sensibili communi, in quorum compositione et divisione
+          frequens est deceptio : unde licet exterior sensus praesentis aliquando sit verus, tamen
+          alteri interiores sensus qui sunt praesentis et absentis, erunt utique frequenter falsi,
+          et tunc maxime cum procul sit quod sentimus secundum rem. Si igitur ea quae dicta sunt,
+          nulli alii conveniunt quam phantasiae, sicut jam ostendimus, tunc absque dubio phantasia
+          erit motus a sensu secundum actum facto, sicut diximus supra.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

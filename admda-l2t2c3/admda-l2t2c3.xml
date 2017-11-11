@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT III.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT III.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t2c3">
+        <head xml:id="admda-l2t2c3-Hd1e128">CAPUT III.</head>
+        <head xml:id="admda-l2t2c3-Hd1e131" type="question-title">De improbatione erroris Empedoclis circa motum et causam
+          nutrimenti.</head>
+        <p xml:id="admda-l2t2c3-d1e134">Empedocles autem loquens de motu nutrimenti ad partes et membra ejus quod aliter non bene
+          dixit, addens dictis suis augmentum accidere plantis : deorsum quidem, propter id quod
+          terra sic fertur naturaliter deorsum : sursum autem, propter ignem qui movetur sursum. Et
+          fuerunt rationes inducentes Empedoclem praecipue tres, quarum una est : quia videbat motum
+          nutrimenti esse naturalem, et naturalem habet finem determinatum in natura : tractum autem
+          esse motum violentum, sicut manifestum est ex VII Physicorum : et ideo ne diceretur
+          nutrimentum trahi ad membra per virtutem membrorum, dixit quod naturaliter movetur ad illa
+          per naturalem motum elementorum, quae commixta sunt in alimento. Alia vero ratio est, quia
+          videmus elementa per aliquem suum actum remanere immixta : et ideo dicebat quod etiam suos
+          motus naturales retinebant. Tertia ratio fuit, quia in omni animato videbat membra
+          inferiora habere nutrimentum grossum et terrestre, superiora autem habere alimentum
+          subtile et calidum. Similiter autem in senibus, in quibus deficit calor, videbat inferiora
+          membra plus nutriri quam superiora : et in juvenibus, in quibus est multum calidum, membra
+          superiora plus nutriri quam in<pb ed="#B5" n="218"/> <cb ed="#B5" n="a"/>feriora, quia in
+          eis calor ignis multam ad se trahit materiam, et illa multiplicata multum elevatur sursum,
+          et parum deorsum. Eadem autem causa est, quod in mulieribus membra inferiora multum
+          augentur, sicut crura, et nates, et membra superiora habent gracilia, sicut brachia et
+          humeros : quia frigiditas vincens in eis ingrossat nutrimentum, quod ponderositate sua
+          trahitur inferius. Videbat nihilominus in omni nutrimento dominari aquam et terram, et
+          ideo putabat haec non moveri sursum, nisi prius essent conversa in ignem vel ignita. Haec
+          igitur sunt quae induxerunt Empedoclem. Errabat autem Empedocles dupliciter. Uno quidem
+          modo, quod non bene accepit intentionem ejus quod est superius, et intentionem ejus quod
+          est inferius : quia non idem est sursum et deorsum animati corporis et mundi : quia in
+          mundo sursum et deorsum differunt et opponuntur situ tantum, sed in corporibus animatis
+          differunt figura membrorum et officio. In omni enim animato dicimus quod caput est
+          superius corporis ejus, et tamen videmus quod bestiarum caput est pronum in terram, et non
+          rectum, nisi solius hominis, sicut Ovidius dixit de Deo, quod <quote xml:id="admda-l2t2c3-Qd1e140">Os homini sublime
+          dedit, caelumque tueri Jussit, et erectos ad sidera tollere vultus.</quote> </p>
+        <p xml:id="admda-l2t2c3-d1e144">Si ergo sic figura et officiis in corporibus animatis distinguuntur sursum et deorsum,
+          tunc cum planta radices habeant ori animalium per officium similes, radix erit in plantis
+          sursum, et rami erunt deorsum : quia non idem erit sursum in deorsum quod in mundo est
+          sursum et deorsum : quia, sicut diximus, positiones istae in corporibus animatorum
+          dicuntur eaedem vel similes diversae secundum opera, et non secundum situm mundi.</p>
+        <p xml:id="admda-l2t2c3-d1e147"> <cb ed="#B5" n="b"/>
+          <!-- 218 b --> Adhuc etiamsi concesserimus Empedocles quod idem sit mundo superius et
+          corporibus animatis, nos videmus quod quaelibet pars nutrimenti fertur in contraria loca :
+          quia fertur sursum et deorsum ubicumque sunt membra : talis enim motus non potest esse a
+          virtute elementali. Si enim illa sint simplicia, habebunt motus simplices. Si autem
+          composita, praevalebit motus dominantis in mixto. Oportet igitur quod motus iste sit ab
+          alia virtute quae non est elementalis, neque consequens commixtionem elementi : hanc autem
+          vocamus animam : ergo erit ab anima. Aliter enim evellerentur a se invicem quae in
+          contraria loca feruntur, et praevaleret dominans elementum. Universaliter autem nunquam
+          evelluntur quando diu vivit planta vel animatum. Continens igitur ea non est elementalis
+          virtus : et hanc, ut diximus, vocamus animam.</p>
+        <p xml:id="admda-l2t2c3-d1e155">Rationes autem moventes Empedoclem non sunt difficiles ad solvendum. Ostendimus enim in
+          VII Physicorum duplicem esse tractum : unum quidem in quo trahens per virtutem, quae
+          omnino extrinseca est, trahit id quod trahit, et tractus iste est violentus. Alius autem
+          est quando trahens aliquid suae virtutis generat in tracto, quae virtus innata in tracto
+          facit ipsum moveri ad trahens, sicut trahitur ferrum a magnete, et hic tractus est
+          naturalis. Sic trahitur cibus ad membra : eo quod virtus membri generatur in cibo, quae
+          agente in se membro continue reducitur ad actum : et per illam alimentum movetur ad
+          membrum sicut ad locum suae formae et speciei, in qua complementum accipit illius virtutis
+          quae generata est in ipso per actionem animae quae est actus membrorum. Cum autem haec
+          virtus non sit elementalis, sed animae quae est actus membrorum, constat quod naturaliter
+          movetur, vel potius, si ita liceat loqui, animaliter movetur ad membra, et non per
+          virtutem aliquam <pb ed="#B5" n="219"/> <cb ed="#B5" n="a"/> elementalem. Et quod dicit
+          elementa aliqualiter remanere in mixto cibo, non juvat ad suae opinionis assertionem :
+          quia elementa materialia efficiuntur, et virtus animae alimentum assimilans efficitur
+          formalis et movens. Quod autem dicit grossius et terrestrius esse nutrimentum inferiorum
+          membrorum, non generaliter est verum. Membrorum enim terrestrium, sicut sunt ossa,
+          nutrimentum est terrestre : et membrorum aquaticorum, sicut est cerebrum, nutrimentum est
+          aquaticum : et ossa sunt superius et inferius corpore, cerebrum tantum superius. Sed verum
+          est quod in senibus et in mulieribus frigidis plus nutriuntur inferiora membra quam
+          superiora, propter caloris defectum : quia calor est instrumentum animae, et deficiente
+          instrumento, aut nullae fiunt operationes artis, aut non bene fiunt : sed ex hoc non
+          probatur quod fiat nutrimentum virtute elementali, sed potius virtute animae cum aliquo
+          defectu instrumenti : quia, secundum Empedoclem, nihil deberet de nutrimento in talibus
+          ferri sursum, sed totum deorsum. Sic igitur patet quod non vere dixit Empedocles.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

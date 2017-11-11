@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT VII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT VII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l1t1c7">
+        <head xml:id="admda-l1t1c7-Hd1e128">CAPUT VII.</head>
+        <head xml:id="admda-l1t1c7-Hd1e131" type="question-title">Qualiter differenter considerat physicus de eis quae hic
+          quaeruntur, a dialectico et mathematico et metaphysico et mechanico, in quo est digressio
+          quaedam.</head>
+        <p xml:id="admda-l1t1c7-d1e134">Physicus autem et dialecticus diffiniunt differenter unumquodque istorum quae diximus
+          esse animae opera et passiones. Si enim quaerimus quid est ira, intendentes de
+          diffinitione quaerere, dicet dialecticus, quod est appetitus contrarii doloris, aut
+          aliquid hujusmodi diffiniens per intentiones communes formales, quae non sunt vera causa
+          rei propria, sed intentiones communes inventae in pluribus et nulli propriae : et ideo
+          diffinit per formam quae forma de se communis est, et non appropriatur ad esse rei nisi
+          per propriam materiam uniuscujusque rei. Physicus autem dicet quod ira accensus vel
+          accensus et calefactio sanguinis circa cor, tangens <cb ed="#B5" n="b"/>
+          <!-- 130 b --> propriam causam efficientem quae est ascensus et calefactio sanguinis, et
+          propriam materiam quae est sanguis cordis bulliens, et subjectum ejus quod est cor. Et
+          horum quidem alius reddit materiam propriam, scilicet physicus : alius autem reddit
+          speciem et intentionem formae simplicem et communem quae est rei ratio communis. Hic enim
+          considerat rationem sive intentionem communem rei, eo quod non descendit ad propria : ille
+          autem considerat principia realia quae dant esse rei. Necessarium autem est quod ista
+          realia principia sint in materia hujusmodi quae determinata et propria est, si erunt et
+          habent esse in natura. Sicut etiam domus ratio differens est assignata et considerata a
+          dialectico et mechanico qui naturalem imitatur, sicut ars imitatur naturam. Dicet enim
+          dialecticus quod domus est operimentum sive receptaculum prohibens aeris corruptiones,
+          quae sunt excellentia frigoris et excellentia caloris, et corruptiones imbrium et
+          caumatum. Mechanicus autem dicet quod domus est ex lapidibus et lignis sic et sic
+          compaginatis vel ligatis. Alius vero ab utroque istorum est, qui in his materialibus
+          determinatis praebet in diffinitione sua speciem quae est, intentio domus propter finem
+          qui dictus est, hoc est, ut prohibeat corruptiones. Quaeramus igitur quis horum
+          diffinientium sit physicus ? utrum ille sit physicus, qui considerat materiam et ignorat
+          rationem intentionis formae, aut ille qui solum est circa rationem quae est communis rei
+          intentio et conceptus, aut ille qui est ex utrisque ? Quoniam ex inducta differentia
+          mechanici ad dialecticum possumus cognoscere eum qui perfectus est physicus : quoniam
+          diximus quod quidam illorum quodammodo uterque est, quia et praebet formam rei propter
+          determinatum finem inductam, et praebet eam in hac determinata materia in qua habet esse
+          secundum rem. Quaeramus etiam, quod si nos concesserimus quod physicus perfectus utrumque
+          facit, utrum ipse sit circa aliquas alias formas <pb ed="#B5" n="131"/> <cb ed="#B5" n="a"/> quam sint formae quae sunt passiones materiae determinatae, quae nomine suo et
+          diffinitione concernunt materiam corporis mobilis ut mobile, et non separantur ab ipsa per
+          nomen et diffinitionem sive rationem : et ipse physicus considerat tales in quantum non
+          separantur, etiamsi secundum aliam aliquam rationem separari possent. Verbi gratia,
+          quoniam physicus est considerans carnem, quae nec nomine nec ratione separatur a physica
+          materia, quae est corpus transmutabile in quantum est transmutabile : et si in alia
+          materia carnis et nomen et species esse ponatur, erit aequivocum nomen, et species carnis
+          secundum veritatem non est in alia, sed secundum similitudinem solam. Considerat etiam
+          mathematicus quantitatem quae non est forma sequens transmutabile corpus in quantum est
+          transmutabile, sed potius sequens corpus in quantum est corpus. Sed physicus non
+          considerat sic quantitatem, sed potius secundum quod non separatur a transmutabili corpore
+          in quantum est mutabile : quia considerat quantitatem non secundum quod est quantitas, sed
+          secundum quod est terminus magnitudinis augmenti vel diminutionis, aut secundum quod est
+          dispositio mobilis localiter.</p>
+        <p xml:id="admda-l1t1c7-d1e145">Physicus ergo circa omnia illa est, quaecumque sunt physici corporis in quantum est sic
+          transmutabile, et considerat omnia opera talis materiae et omnes passiones ejus.
+          Quaecumque autem sunt quidem in physico corpore et non sunt his similia, quod scilicet
+          sint formae et opera et passiones ipsius physici corporis in eo quod est physicum, sed
+          potius a voluntate et arte inducuntur in physica corpora, illa sunt alterius qui
+          mechanicus dicitur, sicut est mechanicus qui dicitur instructor sive architecta, qui
+          structu<cb ed="#B5" n="b"/>
+          <!-- 131 b -->ras facit : sive etiam medicus qui circa corpus humanum facit clysterium et
+          embota et hujusmodi instrumenta. Scire enim causas corporis humani, physici est non medici
+          : sed formae quae secundum esse non sunt separabiles a physicis corporibus, sed semper
+          inveniuntur in eis, et tamen non sequuntur corpus physicum in quantum physicum est, eo
+          quod non sunt physici corporis in quantum mobile est, sed sunt secundum rationem ante
+          ipsum, et sequuntur corpus in quantum est corpus, et ideo dicuntur esse physici corporis
+          ex remotione, quia sunt ejus quod abstrahit a physico corpore : omne enim physicum corpus
+          est corpus, sed non convertitur, et ideo abstrahit corpus a physico corpore. Quaecumque
+          igitur sequuntur ad corpus secundum quod abstrahit a physico corpore, sunt ante principia
+          physica : et ideo de illis erit alius philosophus qui mathematicus vocatur, cujus tamen
+          omnia considerata sunt in physico corpore, sed tamen non trahunt rationem ab ipso : et
+          ideo non concipiunt in nominibus suis materiam sensibilem et mobilem, sed intellectualem
+          magnitudinem tantum. Et hujus ratio est, quia nihil diffinitur per ea quae consequuntur
+          ipsum secundum materiam, sed potius per ea quae ipsum secundum naturam antecedunt. Et cum
+          omnia quae sunt transmutabilis corporis principia, consequantur secundum naturam ea quae
+          sunt principia corporis simpliciter accepti, oportet necessario quod nihil eorum quae sunt
+          physici corporis, ut est physicum, concipiatur in ratione eorum quae sunt corporis ut est
+          corpus. Non sunt tamen illa separata omnino : quoniam concipiunt in rationibus suis
+          subjectum intellectuale, quod est magnitudo, quae secundum naturam antecedit corpus ut est
+          corpus. Sicut autem diximus, quod corpus per naturam antecedit physicum corpus, ita ens et
+          substantia et hujusmodi per naturam antecedunt cor<pb ed="#B5" n="132"/> <cb ed="#B5" n="a"/>pus et magnitudinem, et sunt ista secundum se separata, et per accidens conjuncta
+          cum materia corporum quae sunt quanta et mobilia : quoniam ista secundum se esse realiter
+          inveniuntur ante haec in intelligentiis et substantiis separatis : et de his est primus
+          philosophus secundum quod in prooemiis diximus libri Physicorum. Diximus etiam multa de
+          his in secundo Physicorum : cum certitudine autem habent in prima philosophia
+          determinari.</p>
+        <p xml:id="admda-l1t1c7-d1e156">Dubitabit autem fortasse aliquis an verum sit quod diximus, dialectici diffinitionem per
+          solam formam esse datam. Cum enim forma pars sit rei et non totius videtur fortasse non
+          praedicari de toto, sicut neque dicere possumus quod homo est anima : praedicantur autem
+          ea quae sunt dialectica de toto : non ergo videntur esse formae simplices quae
+          praedicantur in logicis, sed potius potentia et actus conjuncta videntur esse, praecipue
+          cum simplex de composito vere non praedicetur. Adhuc autem cum potentia et actus sint
+          principia cujuslibet generis, sicut in Physicis declaratum est, et praecipue principia
+          substantiae, et logicus sumat praedicata genera vel species, videbuntur omnia illa esse
+          composita ex potentia et actu, et non esse solius formae et speciei intentiones. Amplius
+          autem omnis diffinitio composita est : et nullum simplex diffinitur, cum simplex sit unum
+          solum, et omnis diffinitio contineat plura, videbitur forte alicui ex his et similibus
+          verum non esse quod dictum est, logicum solam formam considerare et speciem. Similiter
+          autem non videtur physicus considerare materiam solam, quia materia principium cognoscendi
+          rem non est : et probatum est in secundo Physicorum, physicum debere inducere omnes
+          causas.</p>
+        <p xml:id="admda-l1t1c7-d1e160">Omnibus autem hujusmodi rationibus respondentes, dicimus quod forma rei dupliciter potest
+          considerari, sicut dicit <cb ed="#B5" n="b"/>
+          <!-- 132 b --> <name ref="#Avicenna">Avicenna</name>. Uno enim modo consideratur ut est
+          actus rei et pars esse ejus, et hoc modo non de re praedicatur. Alio autem modo ut est
+          intentio rei abstracta a re, et sic praedicatur, quia est intentio totius rei et non
+          partis : totum enim significatur sub qualibet forma quae in ipso est, sive sit generis,
+          sive differentiae, sive speciei, sive proprii, sive accidentis : et secundum quod
+          significatur stans sub aliqua illarum formarum, sic abstrahitur ab ipso universale, et est
+          illud universale intentio totius sui : et ideo praedicatur de toto. Et has intentiones
+          totius considerat logicus : et quaedam earum sunt acceptae ut simplices, et quaedam sicut
+          compositae. Intentio accepta a toto secundum quod significatur sub forma generis ut genus
+          est, et intentio accepta de toto secundum quod significatur sub forma differentiae, et
+          intentio accepta de toto secundum quod significatur sub forma proprii, et intentio accepta
+          sive abstracta de toto secundum quod significatur sub forma accidentis, simplices sunt et
+          intentiones sunt totius : et ideo de toto, sicut dictum est, praedicantur : quia, sicut
+          diximus, totum potest optime significari stans sub forma quae est essentialis, et
+          accidentalis : et si est essentialis, potest esse pars, dummodo illa forma simpliciter et
+          secundum totum insit et non secundum partem, sicut sunt quaedam accidentia quae secundum
+          partem insunt, ut Aethiops qui dicitur esse albus dentem. Forma autem speciei composita
+          est : quia diffinitio dicit quidditatem rei vel speciei, ideo et ipsa plura continet, sed
+          non est composita ex materia et forma, sed potius ex genere et differentia, quorum genus
+          est loco materiae, et differentia loco formae : tamen illud quod est loco materiae, non
+          est materia, sed est forma generalis abstracta, non a qualibet materia, sed a materia
+          propria quae est proportionata formae quae est differentia. Et si proprie velimus loqui,
+          dicemus quod est abstracta non a materia, sed a toto, secundum quod significatur totum
+          nomine materiae proximae : sicut si dicam signifi<pb ed="#B5" n="133"/> <cb ed="#B5" n="a"/>cari hominem secundum quod est animatum sensibile corpus : sic enim est materia proxima
+          homini : et quod abstrahitur ab eo secundum quod sic significatur, est forma generis quae
+          est animal. Sic igitur patet qualiter intentiones communes abstractae a rebus aliquando
+          sunt simplices, et aliquando sunt compositae, et tamen semper praedicantur de toto : et
+          quando sunt compositae, non sunt compositae nisi ex genere et differentia, et non ex
+          materia et forma : quorum genus est sicut materia, differentia vero ut actus : et hoc modo
+          intelligitur quod potentia et actus sunt principia generum.</p>
+        <p xml:id="admda-l1t1c7-d1e174">Si autem quis objiciat, quod secundum hoc si potentia est genus, et potentia est
+          principium generis, quomodo ergo erit principium generis ? Dicemus quod potentia simplex
+          non est genus, sed potentia contracta per differentiam : et si illa differentia est
+          intrinseca ita quod facit summum in una ordinatione praedicabilium, tunc facit
+          generalissimum, eo quod ante illud nihil est quod univoce praedicetur. Sed si differentia
+          est quasi extra, et ponit in partem praedicamentorum univocorum, tunc facit genus
+          subalternum vel speciem. Verbi gratia, sicut si dicam, ens praedicatur univoce. Si autem
+          addam differentiam quae non coartat in praedicabilibus univoce, sed in his quae
+          praedicantur aequivoce secundum analogiam, ut si dicam, ens per se existens : tunc facio
+          genus generalissimum : vel si dicam, ens in alio non per se, ut mensura entis per se, vel
+          ut dispositio entis per se. Si autem dicam, ens per se animatum : tunc facio ejus
+          subalternum, vel speciem subalternam : et similiter est in aliis generibus
+          accidentium.</p>
+        <p xml:id="admda-l1t1c7-d1e177">Dicimus igitur quod potentia simplex non determinata per differentiam coartantem
+          analogiam entis, est principium generis, et simplex est intentio. Quae autem coartatur in
+          genere praedicabilium uni<cb ed="#B5" n="b"/>
+          <!-- 133 b -->voce praedicatorum, illa non est in genere, nisi actus in potentia : et non
+          est principium generis, nisi forte generis quod alia consideratione est species. Ex his
+          igitur patet qualiter logicus solas considerat formas intentionum communes. Similiter
+          autem ex opposito physicus non considerat materiam solam : sed si considerat materiam,
+          illa erit hujus physicae formae materia : et ideo materia secundum quod concipitur a
+          formae nomine et ratione, erit principium cognitionis et non per se : sicut et
+          mechanicorum nullus ligna et lapides considerat, nisi secundum quod inducitur in eis forma
+          domus : quia aliter non esset unquam materia diffiniens, neque aliquod principium
+          cognitionis. Sed quia physicus considerat formas transmutationis secundum esse, et esse
+          habent transmutationis a physica materia, et ab his quae insunt physicae materiae, ideo
+          dicitur quod physicus materiam considerat. Considerat tamen causam secundum quod refertur
+          ad esse quod habet in materia, quod solum est esse naturae et reale. Et considerat
+          moventem sive efficientem secundum quod movet materiam, et formam secundum esse quod habet
+          in materia, et finem secundum quod est terminus motus quo movetur materia, et materiam
+          ipsam secundum quod est subjecta formae secundum esse quod habet forma in materia. Et sic
+          patet solutio eorum quae in hac quaestione generabant difficultatem. In Logicis autem de
+          ipsis plane dictum est vel plenius.</p>
+        <p xml:id="admda-l1t1c7-d1e184">Sed nunc redeundum unde nostra ratio erat prius. Dicebamus autem prius, quod passiones
+          animae non sunt separabiles a physica materia animatorum secundum quod sunt hujusmodi,
+          timor, desiderium, quorum diffinitiones concernunt mate<pb ed="#B5" n="134"/> <cb ed="#B5" n="a"/>riam sensibilem, et non sunt sicut linea et planum quae sunt per naturam ante
+          physicum corpus, sicut diximus, eo quod sequuntur magnitudinem ut magnitudo est, et non
+          physicum corpus secundum quod est physicum corpus.</p>
+        <p xml:id="admda-l1t1c7-d1e191">Sic ergo physice intendentes de anima determinare, necessarium est ut simul cum his quae
+          intendimus, dubitemus de <cb ed="#B5" n="b"/>
+          <!-- 134 b --> his de quibus oportet dubitare bene volentem tractare de anima. Et hoc est
+          ut attendamus diligenter opinionem priorum Antiquorum recitantes omnium illorum
+          sententias, quicumque de ipsa aliquid contulerunt, ut bene quidem dicta accipiamus. Si
+          vero aliquid ab aliquo non bene dictum est, hoc vereamur et abnuntiemus, licet et hoc
+          ipsum dignum sit narratione : quia nobis dat occasionem, et abundare nos facit.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

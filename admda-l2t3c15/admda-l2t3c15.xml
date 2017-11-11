@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XV.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XV.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c15">
+        <head xml:id="admda-l2t3c15-Hd1e128">CAPUT XV.</head>
+        <head xml:id="admda-l2t3c15-Hd1e131" type="question-title">Quare per vacuum non potest videri, et de visu in
+          speculo.</head>
+        <p xml:id="admda-l2t3c15-d1e134">Ex his autem quae dicta sunt, patet quod non bene dicit Democritus, et quicumque secuti
+          sunt cum. Opinatus est enim quod si vacuum esset spatium inter coelum et terram, etiamsi
+          formica in coelo moveretur, certissime aspiceretur : et <cb ed="#B5" n="b"/>
+          <!-- 261 b --> hoc ideo dixit, quia putabat medium impedire visum, nec fieri per diaphanum
+          visum, nisi per multos poros vacuos qui sunt in ipso : dixitque visum fieri extra mittendo
+          tanquam si esset vis activa. Nos autem ostendimus, quod non fit visus nisi aliquid
+          patiente et suscipiente visu. Ostendimus etiam quod a re materiali visa non potest
+          immediate pati visus. Ergo relinquitur, quod medium patitur a re visa, et visus a medio
+          spiritualiter habente species visibilium : et ideo non solum certe, sed etiam nullus
+          omnino fieret visus in vacuo : quia non esset medium agens in oculum. Ob quam igitur
+          causam et qualiter necesse est colorem in lumine, quod est actus lucidi, videre,
+          sufficienter quantum ad hanc intentionem dictum est.</p>
+        <p xml:id="admda-l2t3c15-d1e141">Scias autem quod sicut species visibilis fit in oculo, ita fit in speculo quod est tersum
+          politum recipiens formam, et repraesentans iterato, sicut est res. Et hoc facit per duas
+          naturas quae sunt in ipso, quarum una est perspicui politi, altera est opaci terminantis
+          ipsum in altera superficie : tunc enim politum perspicuum recipit formam, et opacum adunat
+          eam : et ita faceret aer, si sic esset composita. Et recolenda sunt quae in tertio
+          Meteororum in sermone de iride dicta sunt, quod aliqui in aere spisso et humido aliquando
+          vident facies suas ante se, et per illam eamdem naturam repraesentat speculum formam, et
+          reflectit lumen quod portabat forma in speculum, et facit reflexio procedere ipsum in
+          oculum a speculo : et ideo forma etiam procedit a speculo ad visum : et quando convexum
+          est speculum, tunc fit sicut oculus, et in puncto tangitur a lumine et forma, sicut omne
+          sphaericum tangitur in puncto a recto tangente ipsum : diximus enim supra, quod radii sunt
+          sicut linea visualis : et propter politionem et tersionem ipsius divaricatur lumen super
+          speculum, quando recte objicitur ei : et tunc forma in speculo aut non videtur, aut
+          confuse videtur : sed <pb ed="#B5" n="262"/> <cb ed="#B5" n="a"/> quando res visa est in
+          lumine et superficies speculi in obscuro, tunc bene videtur, quia de lumine tunc non plus
+          procedit in speculum, nisi quod actu facit visibilem colorem. Quando autem speculum est
+          planum, tunc ad totam superficiem aequaliter fit processus luminis, et ideo in illa forma
+          totam quantitatem repraesentat : et videtur forma tanta esse, quanta est res : et quia
+          lumen procedit ad totam illam superficiem ab inferiori et lateribus aequaliter, ideo res
+          apparet in illo speculo in omni situ ad quem duci potest recta linea a speculo : quod non
+          fit in eo quod est convexum : ibi enim oportet conservari locum determinatum, eo quod
+          lineae multae contingunt sphaericum, et illae transeunt et non reflectuntur ab ipso, sicut
+          linea contingens circulum non secat eum. In concavis autem speculis forma sigillata in uno
+          latere, sigillatur et in altero : et quia superius rei plus habens de luminis, prius
+          natura procedit in speculum, ideo statim illud a superiori parte proicitur in inferiore :
+          et sic continue fit de forma rei visae : et ideo omnia quae in talibus speculis apparent,
+          videntur inversa : et quando aspicit ibi homo, videtur mentum superius et frons inferius.
+          Si autem in una planitie continue esset concavum et convexum, et homo aspiceret in partes
+          ubi conjunguntur superficies, apparent ibi imagines duae, et essent conjunctae per mentum
+          : et hoc ideo fit, quia una irradiat super aliam formam quam recipit, et superius formae
+          unius projicit super inferius superficiei alterius, ad quam fit irradiatio : et tot modis
+          possunt multiplicari quot valde multae facies apparent. De his autem omnibus tractandum
+          est in perspectivis, quia et causa eorum geometricis sciri non potest : et ideo quae hic
+          dicta sunt, propter exemplarem explanationem dicta sunt, et non ideo quia hic sunt
+          intenta. Sed ex eis omnibus constat visum medio indigere quod sit in actu lucidum, per
+          quod tales possunt fieri irradiationes, et quod colores non nisi in tali modo
+          videntur.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

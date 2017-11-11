@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XVIII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XVIII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l3t2c18">
+        <head xml:id="admda-l3t2c18-Hd1e128">CAPUT XVIII.</head>
+        <head xml:id="admda-l3t2c18-Hd1e131" type="question-title">De natura intellectus agentis, et qualiter anima est
+          composita.</head>
+        <p xml:id="admda-l3t2c18-d1e134">Quoniam autem in omni genere entium secundum naturam in quibus est aliquid sicut materia,
+          oportet esse aliquid aliud in quolibet genere, quoniam materia est potentia omnia illa
+          quae sunt generis illius species : et illud non potest per seipsum fieri actus de potentia
+          : et ideo alterum necesse est esse in eodem genere, quod sit principale et efficiens, quod
+          omnia facit quae sunt in eo vel fiunt in eo quod est potentia omnia illa quae sunt in
+          genere suo. Et hoc quidem in praehabitis planum est ex omnibus quae in Physica diximus. In
+          sensibus etiam patet quoniam potentia color non fit actu <pb ed="#B5" n="364"/> <cb ed="#B5" n="a"/> color nisi ab aliquo agente : hoc autem in omnibus est : in semine enim
+          ordinavit natura agens quod est formans ad speciem, et id quod format ad speciem, posuit
+          in materia seminis. Similiter est in omnibus : plura enim ad speciem unam formata, necesse
+          est quod habeant agens unicum quod formet ea ad speciem illam : est autem omnium
+          intelligibilium secundum quod intelligibilia sunt, sicut est etiam omnium visibilium
+          secundum quod visibilia sunt, species una qua visibilia sunt : oportet igitur quod ipsorum
+          sit agens unum ad speciem illam formandam in eis. Hoc autem agens duo facit in omnibus in
+          quibus est, quorum primum est, quod de se facit formas inductas, et quoad hoc est simile
+          arti factuosae quae non accipit formas artificiatorum aliunde, sed faciat ea de se, et
+          inducit eas in materiam : sed in anima non est nisi facere formas intelligibiles secundum
+          quod intelligibiles sunt : et compositio earum non est in anima ad res, sed potius ad
+          intellectum possibilem : et quoad hoc intellectus agens in anima assimilatur arti, et
+          intellectus possibilis assimilatur materiae. Sed quia forma intelligibilis prout
+          comparatur ad aliud cujus est forma, informando movet et distinguit intellectum
+          possibilem, et non movet nisi prout in actu est. Non autem de se in actu est, sed in
+          potentia : et ideo etiam intellectus agens comparatur lumini, quod potentia colores facit
+          actu colores qui secundum actum lucidi movent visum : et quoad hoc intellectus possibilis
+          alias agens assimilatur visui vel lumini : necesse enim est quod haec duo sint in omni eo
+          quod est agens universaliter conferens unde moveat actum ab ipso : agens enim facit
+          formas, et cum facit eas per suas intentiones, tunc est factum principium formarum sicut
+          ars : et cum dat eis unde moveant, tunc est faciens, sicut lux facit colores : et per hunc
+          modum in anima rationali necesse est esse has differentias.</p>
+        <p xml:id="admda-l3t2c18-d1e141"> <cb ed="#B5" n="b"/>
+          <!-- 364 b --> Ita quod unus intellectus sit in ea in quo anima fiant intellecta, qui
+          formatur et distinguitur ab intellectis : et alius sit quo omnia intellecta facit et
+          confert eis formas unde movere possint intellectum possibilem, et ille est non quidem
+          habitus qui sit accidens, quod non est pars animae : sed habet similitudinem habitus in
+          hoc quod per ipsum agit anima quando vult, et non indiget aliquo ad hoc extrinseco
+          perficiente vel operante : et sicut habitus de se faciens formas separatas intelligibiles,
+          quae prout sunt intelligibiles, non habent de se formae esse prout sunt in rebus quarum
+          sunt formae : et est sicut lumen : lumen enim secundum quemdam modum esse formalis colorum
+          facit potentia colores esse actu colores, sicut diximus supra : et sic ille intellectus
+          potentia intelligibilia facit actu intelligibilia per hoc quod separet ea a materia, et a
+          conditionibus materiae, resplendendo super ea, sicut lumen resplendendo super colores
+          facit eos resultare in lucido.</p>
+        <p xml:id="admda-l3t2c18-d1e148">Hic autem intellectus est etiam separatus et immixtus et omnino impassibilis et est
+          substantia quae est actu : et ideo in hoc quod est separatus et immixtus, convenit cum
+          intellectu possibili : in hoc autem quod est omnino impassibilis, possibilis autem
+          intellectus patitur quodammodo, et differt secundum aliquid ab ipso : in hoc autem quod
+          agens actu est, et possibilis non habet naturam nisi qua vocatur et est possibilis
+          intellectus, differt ab eo simpliciter. Et hoc sic esse oportet, quia semper in omni
+          natura in qua est agens et patiens, oportet quod honorabilius sit agens quam patiens, et
+          illud quod est principiatum per suam formalem actionem, honorabilius est quam materia in
+          qua principiatur hoc quod principiatur. Differt autem hic intellectus a possibili :
+          quoniam cum suum intelligere nihil aliud sit nisi quod suum <pb ed="#B5" n="365"/> <cb ed="#B5" n="a"/> intellectuale lumen imbuitur intellectus speciebus, et resplendet in eis,
+          non egreditur suum intelligere extra seipsum : non enim est differentia inter intelligens
+          et intellectum in eo, nisi sicut luminis in se, et luminis quo imbuti sunt colores ad
+          actum : et ideo secundum actum sua scientia est res scita prout est scita : sed
+          intellectus possibilis quando intelligit ea quae non sunt ipsemet intellectus, tunc sua
+          scientia et suum scitum non sunt idem. Sic ergo in duobus differunt simpliciter
+          intellectus agens et intellectus possibilis, et in tertio secundum aliquid differunt, et
+          in duobus conveniunt. Et quia lumen intellectus agentis non egreditur extra se, licet ad
+          aliud terminetur, et hoc est proprium intelligentiarum separatarum, et maxime
+          intelligentiae primae et causae primae, et ideo quidam crediderunt eum non esse partem
+          animae, sed esse splendorem resultantem in anima ab intelligentia separata. Et hoc non
+          inconveniens est, quia secundum hoc in natura animae non essent ista duo principia, agens
+          scilicet et patiens : et cum illa sint in omni natura et universali et particulari,
+          virtutes enim coelestes sunt agentes, et elementales sunt patientes, et in semine et in
+          omnibus generatis est virtus formativa faciens et materia patiens, et impossibile est ista
+          ad eamdem naturam reduci : et ideo manifeste errant qui dicunt quod ista duo secundum idem
+          sint in anima : sed differunt in hoc quod eadem forma secundum quod est separata, sit
+          agens : et secundum quod est incorporata, sit patiens : quoniam nos ostendimus supra quod
+          anima non habet intellectum possibilem nisi in quantum est separata : et hoc concorditer
+          dicunt Philosophi omnes. Amplius autem in intelligentiis separatis sunt istae duae
+          differentiae, sicut dicit <name ref="#Averroes">Averroes</name> et omnes alii Philosophi :
+          quia nec aliter enumerari possunt, nec intelligibilia habere, et non excipitur ab his
+          duabus dif<cb ed="#B5" n="b"/>
+          <!-- 365 b -->ferentiis nisi sola prima causa quae nihil omnino intelligit extra seipsam.
+          Dicendum igitur quod ista super duo radicantur in anima, quorum unum est sicut forma, et
+          alterum sicut materia. Et placet multum nobis hoc dictum Averrois in quaestionis
+          Theophrasti solutione, qui quaesivit qualiter differrent potentiae materiae, et potentia
+          intellectus possibilis : et dixit quod necesse est alia esse principia rerum corporearum
+          et incorporearum. Corporea enim habent materiam et formam, incorporea autem omnino sunt
+          formae, habent tamen in se id quod est universaliter agens, et id quod est possibile : et
+          hoc convenit intelligentiis separatis omnibus : et ideo convenit eis reflectere lumen
+          intellectus sui super se, quod non posset esse, si esset tantum intellectus agens in eis :
+          quia ille non nisi spargitur ad intelligibiles formas, et reflectitur in seipsum : et ideo
+          omne quod habet lumen intellectus in se reflexum, est compositum ex his principiis : et
+          sic anima rationalis et est hoc aliquid, et non est hoc aliquid : quia est hoc aliquid, eo
+          quod est substantia perfecta formali et possibili patiente secundum quid et non
+          simpliciter. Non est autem hoc aliquid, quia est hoc perfectum ex materia et forma, et est
+          separata a formis intellectorum suorum. Cum enim anima sit resultatio quaedam lucis
+          intelligentiae separatae, erunt in ipsa duo necessaria, quorum unum est forma lucis, et
+          alterum est id in quo lux recipitur et stat ut fiat ens aliquod mundi : et ab hoc esse
+          animae fluunt duae virtutes, quarum una est intellectus agens, qui causatur a luce recepta
+          : et alius est intellectus possibilis, qui causatur ab eo in quo lux recipitur : et in his
+          duobus perfecta substantia existens et separata, anima est substantia permanens semper et
+          non corrupta per mortem corporis, sicut nos inferius ostendemus. Cum autem separatus et
+          immixtus dicitur intellectus agens et possi<pb ed="#B5" n="366"/> <cb ed="#B5" n="a"/>bilis, similiter hoc erit eodem modo in utroque : quia neuter eorum est virtus in
+          corpore : et ideo immixtus est uterque eorum. Similiter autem uterque separatus est a
+          formis intelligibilium : et ideo et agens universalis est ad agendum et possibilis
+          universalis est ad recipiendum, quod non posset esse aliquo modo si specificarentur ut
+          essent ens aliquod : quia illud ageret ad formam suam tantum, et non ad omnia. Ex his
+          igitur patet quae sit natura et quae sint agentis intellectus proprietates.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

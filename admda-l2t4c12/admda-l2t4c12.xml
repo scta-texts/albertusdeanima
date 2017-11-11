@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t4c12">
+        <head xml:id="admda-l2t4c12-Hd1e128">CAPUT XII.</head>
+        <head xml:id="admda-l2t4c12-Hd1e131" type="question-title">Et est digressio declarans qualiter sensus communis est medietas
+          omnium sensuum.</head>
+        <p xml:id="admda-l2t4c12-d1e134">Forsitan autem objiciet aliquis contra ea quae dicta sunt, dicens quod omne movens
+          formale est ad id quod movetur ab ipso : movet autem sensus proprius communem eo modo quo
+          ipse movetur a sensibili : non enim esset judicium sensatorum propriorum in sensu communi
+          dicente ea altera esse vel eadem, nisi ad ipsum transirent a sensu proprio cui prius
+          occurrunt. Videtur igitur sensus communis esse materialior quam proprius. Omne enim
+          recipiens recipit secundum potentiam materialem, sicut in antehabitis saepe determinatum
+          est : oportet autem quod sensus communis recipiat eadem quibus discernit et judicat :
+          recipit autem secunda receptione : videtur igitur materialior esse quam sensus proprius
+          qui prima recipit receptione. Adhuc autem si sensus communis omnium propriorum sensuum
+          recipit sensata, et nihil recipitur nisi quod habet aliquam communicantiam cum recepto,
+          sicut visus qui non recipit nisi colorem propter communicantiam quam habet cum ipso, et
+          non recipit sonum, eo quod nullam habet comparationem communicantiae et proportionis ad
+          sonum : tunc videtur sensus communis esse compositum quid ex omnibus harmoniis sensuum
+          propriorum : est ergo materialior, quia compositior cum omni sensu particulari : et sic
+          videtur iterum non esse vera prius inducta solutio. Non enim potest dici, quod sensus
+          communis sit communis per modum praedicati communiter de omni sensu proprio : <cb ed="#B5" n="b"/>
+          <!-- 312 b --> quia sic esset sensus communis aliquid de ratione sensus proprii, nec
+          posset diffiniri sensus proprius, nisi in diffinitione sua poneretur sensus communis,
+          sicut hominis diffinitio in se habet animal, quod est praedicatum commune de homine : hoc
+          autem non est verum, sicut per se patet cuilibet.</p>
+        <p xml:id="admda-l2t4c12-d1e141">Propter hoc dicimus ad hoc et his similia omnia, quod sensus communis est una numero
+          forma quae est universalis non ut praedicabile : sed sicut causa formaliter praebens ea
+          quae oriuntur ex ipsa : sicut architectonica praebet formam domus. Sicut enim a principio
+          diximus, anima est super naturam totam corporis : et ideo imprimit et influit in totam
+          naturam corporis suas impressiones et suas vires, absque eo quod imprimatur sibi aliquid a
+          natura : et ideo natura non agit in naturam, nisi etiam agatur et patiatur ab ea. Omne
+          enim movens physice movetur, eo quod in ordine unum physicum non supponitur alteri physico
+          : sed anima cum sit incorporea, agit in naturam, et non patitur ab ipsa natura, sicut
+          etiam diximus supra : et ideo primum augens quod est virtus animae, non auget nec
+          alteratur augmento : et similiter est in omnibus sicut de primo digerente. Similiter autem
+          primum sentiens non quidem tempore sed natura, hoc est in quo prius salvatur tota virtus
+          sensitiva, est sensus communis qui est origo sensuum propriorum, ita quod ab ipso
+          derivantur sensus proprii, ita quod non e converso constituitur ab eis, nec aliquid sui
+          esse habet ab eis. Et quod dicitur, quod sensus proprii movent ipsum, falsum est omnino :
+          oportet enim quod sensibile proprium spiritualius et simplicius fiat in sensu communi quam
+          sit in proprio : et hanc majorem simplicitatem non dat ei sensus proprius, sed potius
+          communis. In ipso enim est spiritus lucidus, qui est et vehiculum et instrumentum ipsius :
+          et ille prout est instrumentum sensus communis, confert ei majorem simplicitatem, sicut
+          lux coloribus : et in <pb ed="#B5" n="313"/> <cb ed="#B5" n="a"/> tali actu et forma facta
+          sensibilia propria pertingunt ad organum sensus communis : et tunc judicat de eis. Nec
+          potest dici quod aliquid corporeum omnino conferat eis agere in organum sensus communis :
+          eo quod formae corporales sunt ipsa sensata, non separatae ab appendiciis materiae : et
+          ideo corporale agens, quod tamen est instrumentum ejus quod est incorporeum, habet quod
+          dat eis agere in organum sensus communis, quod formalius est quam organa sensuum
+          propriorum : et hoc est quod intendit dicere Augustinus, qui dicit quod corporales formae
+          non movent animam, sed potius talibus formis factis in corpore, anima luce sua facit eas
+          in ipsa. In tali autem ordine moventium et motorum, id quod ultimo movetur, formalissimum
+          est omnium, et primum movens omnium materialissimum : et hoc ideo est, quia in tali ordine
+          secundum movens non accipit virtutem motivam a primo movente, sed ab alio quod est aliquid
+          ejus quod movetur : sed in his in quibus secundum movens accipit virtutem motivam a priori
+          movente, verum est quod ultimum motum est materialissimum omnium, et minus habens
+          dignitatis et simplicitatis : cum autem anima rationalis sit supra naturam et infra
+          intelligentiam erit, anima sensibilis infra rationem et supra naturam, sicut anima
+          vegetabilis infra sensibilem et supra naturam, et ideo ipsa est substantia et for<cb ed="#B5" n="b"/>
+          <!-- 313 b -->ma quaedam habens vires multas, quarum quidem ipsa sensibilis vis est
+          potentia a generatione perfecta habitu connaturali sibi, qui habitus est inchoatio quaedam
+          et harmonia omnium sensibilium formarum, sicut in genere est inchoatio et harmonia omnium
+          differentiarum illius generis : et illa potentia sic habitu connaturali perfecta, omnia
+          sensibilia habet potestate et actu nullum antequam distinguatur ab eis : et in sensu
+          dicitur a Philosopho, quod sensus est species sensibilium, et intelligens species
+          intelligibilium. Talis autem forma una simplex praehabens potestate ea quorum ipsa est
+          causa, et habet ea actu quando distinguitur ab aliquo illorum. Et per hoc patet solutio
+          omnium inductarum dubitationum. Et haec est causa quare Avicebron dixit species sensibiles
+          esse in anima, et non acceptas ab extra. Hac etiam de causa dixerunt quidam virtutem
+          sensibilem per se esse activam, et nullius speciei esse receptivam : quia non recte
+          recipit eas, sed una species quae est habitus potentiae sensitivae, distinguitur ad
+          sensibilia quae sunt in organis, sicut distinguitur virtus universalis ad particulare in
+          quod agit, et circa quod operatur. De principio igitur et virtute secundum quam dicimus
+          animal habere sensum et posse sentire, sit hoc modo determinatum : de aliis autem
+          virtutibus quas supra detegimus, sub alterius libri principio inquiremus.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT XXIII.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT XXIII.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l2t3c23">
+        <head xml:id="admda-l2t3c23-Hd1e128">CAPUT XXIII.</head>
+        <head xml:id="admda-l2t3c23-Hd1e131" type="question-title">Quare homo non bene odorat, sed bene tangit, et ideo
+          prudens.</head>
+        <p xml:id="admda-l2t3c23-d1e134">De odore autem et de olfactu minus bene determinabile est, quam de supra dictis sensibus.
+          Licet enim homo habeat ingenium per quod possit excitare odores, et conferre de
+          differentiis eorum plus quam aliud animalium, tamen in organo odoratus non bene sentit
+          odores : et ideo non est manifestum homini per sensum, quale quid sit odor, sicut
+          manifestum est quale quid sit sonus, et quale quid color. Causa autem hujus ad scientiam
+          libri de Animalibus pertinet : sed tamen propter doctrinae bonitatem etiam hic aliquid
+          dicetur. Est enim causa hujus, quod homo inter caetera animalia ma<pb ed="#B5" n="274"/>
+          <cb ed="#B5" n="a"/>jus habet cerebrum, et majus caput proportione sui corporis : cerebrum
+          autem humidum et frigidum est : id autem quod connaturale est odori, siccum et calidum
+          esse oportet. Quod autem cerebrum hominis sit frigidum et humidum respectu aliorum
+          animalium, indicat longitudo dormitionis hominis : diutius enim et saepius dormit homo
+          caeteris animalibus, ita quod quasi medietas vitae hominis somno deputatur : et ideo non
+          per accidens propter defluentia reumata, ut quidam dicunt, homo male odorat, sed
+          naturaliter ex ipsa cerebri quantitate et complexione. Propter quod animalia sicca
+          habentia cerebra, sicut canes qui breves habent nasos, et vultures, et tigrides, bene
+          odorant. Causa igitur quod odor non bene determinabilis est quale quid sit, est quia
+          sensum odoratus habet homo incertiorem animalibus aliis et aliis sensibus, et habet eum
+          aliis animalibus multis deteriorem. Prave enim sive debiliter homo odorat : cujus signum
+          est, quia differentias quas ad sapores non refert, non discernit in odore subtiliter, sed
+          excellentias tantum percipit, quarum una est cum laetitia quae est redolens sive bene
+          odorans : alia autem cum tristitia quae est foetens, sive male odorans : medias autem non
+          considerat differentias, sicut non existente sibi certo eo quo sicut agente sentimus in
+          hoc sensu.</p>
+        <p xml:id="admda-l2t3c23-d1e141">Rationale autem est et sic esse hominem odorantem, sicut sunt quaedam animalia videntia :
+          animalia enim aquatica duros oculos habentia, non sentiunt bene colores, et differentiae
+          colorum mediorum non sunt his manifestae valde, sed excellentias sentiunt, quae cum
+          terrore sunt et non terrore : quoniam excellentia visibilis cum terrore immutat oculum,
+          praecipue multum humidum humiditate aliena : quoniam haec humiditas movetur et discurrit
+          in oculo, et foramina lucis vel <cb ed="#B5" n="b"/>
+          <!-- 274 b --> albedinis intensae receptiva diffundit et divaricat, et facit magnae et
+          monstruosae quantitatem : et ideo cum terrore videt quod videt. Hanc autem humiditatem
+          habent in oculis aquatica magnos et duros oculos habentia. Indicat autem id hoc quod
+          accidit in homine : si enim homo indigesta humiditate in oculis discurrente post somnum
+          subito candelae lumen videat, videbitur lumen esse magnae coruscationis vel magni
+          incendii, et terretur ad visum. Alia autem his opposita vident talia animalia sine terrore
+          propter malitiam sui visus. Sic autem et hominum genus sentit odores quoad hoc quod non
+          valde manifestae sunt sibi odorum mediae differentiae : sed tamen differentias quas in
+          natura odorum non permanifeste sentit, ingenio adjutus potius quam olfactu, secundum
+          analogiam ad sapores gustus distinguit et accipit per similitudinem species saporum cum
+          speciebus illis quae sunt odorum.</p>
+        <p xml:id="admda-l2t3c23-d1e148">Hoc enim modo juvatur optime in odorum differentiis cognoscendis, quia gustus est quidam
+          tactus, ut infra dicemus : tactum autem habet homo certissimum inter omnes sensus, et
+          inter omnia animalia. In aliis enim sensibus multum deficit ab aliis animalibus : secundum
+          tactum autem multum differt in bonitate sensus ab aliis animalibus. Propter quod et homo
+          prudentissimum est aliorum animalium : causa autem hujus est, quia tangibiles qualitates
+          mixtione sua complexionem faciunt, quae complexio cum magis ab excellentis recedit, tunc
+          medietati et aequalitati est vicinior : et ideo coelo similior, in quo nulla est omnino
+          contrarietas : et quia secundum merita materiae dantur formae, sicut dixit Plato, et
+          unicuique complexioni propria respondet forma, ideo aequaliori complexioni debetur anima
+          nobilissima, quae est intellectiva secundum prudentium dicto intellecto. Inter homines
+          autem <pb ed="#B5" n="275"/> <cb ed="#B5" n="a"/> quicumque aequaliorem habent
+          complexionem, habent eam in hoc quod magis recedunt ab excellentiis : et ideo illi optimum
+          habent intellectum, alias tactum, et aptiores sunt secundum industriam intellectus, ita
+          quod forte tantum ad aequalitatem reducetur complexio, quod videbuntur esse quidam dii
+          terrestres, omnia quasi per seipsos intelligentes : et hi omnes sunt mollis et non laxae
+          carnis, quoniam mollities provenit ex sicco bene commixto cum humido : et hoc est spumosum
+          subtiles generans spiritus. Laxitas autem carnis provenit ex multo humido frigido : sed
+          caro debet esse terminata temperamento calido, quod proportionaliter moveat spiritus, et
+          non commisceat operationes suas, sicut facit superfluum calidum. Signum autem hujus
+          complexionis est tenuitas ungium et subtilitas capillorum : haec enim indicant lucidos et
+          subtiles esse spiritus cordis, qui ad cerebrum venientes optime deserviunt virtutibus
+          animalibus : et inde proveniunt sapientiae et industriae : et quibus prudens et ingeniosus
+          efficitur homo quantum est de natura, et ad actum prudentiae venit, nisi per inertiam
+          naturae destruat aptitudinem. Haec igitur est vera causa prudentiae : et nunquam errantes
+          dicunt esse bonitatem imaginationis : bonitas enim imaginandi ex frigida et sicca provenit
+          complexione : et hoc indicat vel facit industriam et ingenium. Haec autem omnia dicta
+          sunt, ut sciatur quod certificatione sunt ambae differentiae odorum cognitae per saporum
+          differentias, eo quod sapores melius scimus, cum gustus sit tactus quidam.</p>
+        <p xml:id="admda-l2t3c23-d1e156">Ex dictis autem oportet accipere falsum esse vel dictum Antiquorum quorumdam dicentium
+          quod aranea cuncta animalia excellit tactu : hoc enim dicentes non sufficienter
+          crediderunt signo. Videbant enim araneam sentire vermiculos tangentes fila sui retis ad
+          magnam distantiam : et hoc ob bonitatem sensus tactus fore credebant. Quod pro certo
+          minime verum est : nihil enim spissae <cb ed="#B5" n="b"/>
+          <!-- 275 b --> pellis et frigidae complexionis, et viscosam habens humiditatem, praecellit
+          in tactu, sed habet tactum quasi stupidum : cujus signum est, quia aranea etiam cum
+          tangitur cum igne, lente et non cito sentit : et ideo perceptio vermiculorum tangentium
+          rete, est propter motum retis, quod continuum est : mota enim una parte continui movetur
+          totum continuum.</p>
+      </div>
+    </body>
+  </text>
+</TEI>

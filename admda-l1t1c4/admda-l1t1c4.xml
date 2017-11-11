@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>CAPUT IV.</title>
+        <author ref="#Albert">Albertus Magnus</author>
+        <respStmt>
+          <name xml:id="JW">Jeffrey C. Witt</name>
+          <resp>TEI encoder</resp>
+        </respStmt>
+        <respStmt>
+          <name>Mitchell Elvidge</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Tatianna Bechal</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+        <respStmt>
+          <name>Bruno Tremblay</name>
+          <resp>Text Preparation</resp>
+        </respStmt>
+      </titleStmt>
+      <editionStmt>
+        <edition n="0.0.0-dev"> <title>CAPUT IV.</title> <date when="2017-11-11">November 11,
+          2017</date> </edition>
+      </editionStmt>
+      <publicationStmt>
+        <authority>SCTA with <ref target="http://albertusmagnus.uwaterloo.ca/">Alberti Magni
+          e-corpus</ref> </authority>
+        <availability status="free">
+          <p>Published under a <ref target="https://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution 4.0 International</ref> </p>
+        </availability>
+      </publicationStmt>
+      <sourceDesc>
+        <listWit>
+          <witness xml:id="B5" n="Borgnet1890v5">Borgnet 1890, Volume 5</witness>
+        </listWit>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <schemaRef n="lbp-critical-1.0.0" url="https://raw.githubusercontent.com/lombardpress/lombardpress-schema/master/src/out/critical.rng"/>
+      <editorialDecl>
+        <p>Encoding of this text has followed the recommendations of the LombardPress 1.0.0
+          guidelines for a critical edition.</p>
+      </editorialDecl>
+    </encodingDesc>
+    <revisionDesc status="draft">
+      <listChange>
+        <change when="2017-11-11" status="draft" n="0.0.0"> <p>Created file for the first time.</p>
+        </change>
+      </listChange>
+    </revisionDesc>
+  </teiHeader>
+  <text xml:lang="la">
+    <front>
+      <div xml:id="starts-on"/>
+    </front>
+    <body>
+      <div xml:id="admda-l1t1c4">
+        <head xml:id="admda-l1t1c4-Hd1e128">CAPUT IV.</head>
+        <head xml:id="admda-l1t1c4-Hd1e131" type="question-title">Quae oportet inquirere ad investigandum propriam animae
+          diffinitionem.</head>
+        <p xml:id="admda-l1t1c4-d1e134">Diffinitionibus autem omnibus existentibus ex genere et differentia constitutiva speciei,
+          si conveniens diffinitio debet haberi, oportet primo quaerere in quo genere sit fortassis
+          : quoniam forte non est res quae sit in genere directe sicut genus, vel species, vel
+          individuum : et forte est in genere sicut principium generis : potentia enim et actus
+          principia sunt generum et eorum quae sunt in genere, et ipsa non sunt directe in genere :
+          quoniam principium alicujus non directe constituitur sub ipso, sed est ante ipsum. Esse
+          autem in genere est esse sub genere, sicut manifestum est ex determinatis in
+          Praedicamentis. Quaerendo autem utrum quocumque modo sit in genere, quaeremus utrum sit
+          hoc aliquid quod est substantia, aut sit qualitas, aut sit aliud aliquod diversorum
+          praedicamentorum, licet omnes convenerint ipsam aut substantiam, aut qualitatem esse : et
+          ideo non est nobis necessarium ut reliqua genera inducamus. Habito autem genere ipsius
+          animae, oportet nos quaerere de differentia animae, qualiter scilicet sit in genere, utrum
+          sit aliquid eorum quae sunt potentia, sicut dixerunt illi qui po<pb ed="#B5" n="123"/> <cb ed="#B5" n="a"/>suerunt eam humorem quemdam : aut sit de numero eorum quae Graece vocantur
+          endelechiae, quod Latine sonat perfectiones sive actus, sicut sunt formae essentiales
+          actus et complementa rerum naturalium. Haec enim duo magnam habent differentiam.</p>
+        <p xml:id="admda-l1t1c4-d1e141">Habitis vero genere et differentia animae, considerandum erit nobis utrum anima sit
+          partibilis an impartibilis : quoniam quidam dixerunt in omnibus corporibus animam unam
+          specie et numero, quae tamen pro diversitate corporum diversa operatur : et alii etiam, ut
+          Plato, dixerunt in uno corpore plures esse animas specie differentes, sicut quod
+          intellectiva sit in cerebro, et concupiscibilis sive appetitiva sit in hepate, et
+          irascibilis sit in felle et vitalis sit in corde, et generativa in testiculis. Haec autem
+          sequentia declarabunt. Si vero consentiatur in hoc quod sit indivisibilis, tunc oportet
+          quaerere utrum sit similis speciei omnis anima, et tantum dividatur per individua, aut non
+          sit similis speciei omnis anima. Etsi consentiatur quod anima non est similis speciei,
+          tunc oportet quaerere utrum sit tantum specie differens, et sint omnes species animae sub
+          uno et eodem assignato genere, aut cum hoc differant etiam genere. Hoc autem inquirere est
+          necessarium, quoniam quidam supponentes omnium animatorum esse easdem animas specie,
+          quando tractant de anima, de humana solum loquuntur et inquirunt. Et per hoc credunt se
+          sufficienter de omni anima terminasse, eo quod omnes animae, ut dicunt, in specie
+          conveniunt cum animabus hominum. Et in hoc peccato dicitur fuisse Plato, qui dixit omnem
+          animae speciem esse in corpore hominis, et in corpore humano plures esse species animarum
+          <cb ed="#B5" n="b"/>
+          <!-- 123 b --> subjecto differentes et forma. Haec autem non est sententia <name ref="#Aristotle">Aristotelis</name> et Peripateticorum, sed potius quod anima hominis una
+          sit substantia et subjecto, et habet pluralitatem in viribus et potestatibus sive
+          potentiis suis. Et hoc in sequentibus declarabitur.</p>
+        <p xml:id="admda-l1t1c4-d1e151">Videndum est ita quod nullo modo lateat nos utrum sit una ratio omnis animae, sicut est
+          una ratio generis secundum species suas, aut sit altera et altera ratio specierum. Cum
+          enim nos quaesivimus utrum anima sit unum genus ad omnes animas, vel non, sed sit specie
+          differens tantum, tunc oportet nos cavere, ne ignoremus univocationem vel aequivocationem
+          suae diffinitionis : ut sciamus utrum diffinitio data de anima sit univoca tribus
+          animabus, <choice> <orig>vegetalili</orig> <reg>vegetabili</reg> </choice> scilicet, et
+          sensibili, et rationabili, sicut est una ratio animalis sive vivi ad ea quae continentur
+          sub eo, aut non est sic, sed est altera ratio secundum unamquamque trium animarum, sicut
+          est altera ratio equi, et canis, et dei Jovis vel Aesculapii. Haec autem ideo dico, quia
+          animal universale ut universale, aut nihil est de quidditate particularis et realis
+          animalis, aut est posterius ipso. Et similiter est de omni communi quod universaliter
+          praedicatur de aliquo. Causa enim animalis quae est principium esse hujus vel illius
+          animalis, est in ipso animalis esse, et est particularis, et non praecedit ipsum tempore,
+          sicut dicebat Plato : quoniam si praecederet ipsum, non possemus habere notitiam
+          particularis nisi per ipsum, sicut modo non cognoscimus res naturae, nisi scitis causis ex
+          quibus sunt. Natura ergo formae generis vel differentiae quae est in ista re demonstrata
+          in esse naturae, est in uno, et non est in alio. Sed cum intellectus noster accipit
+          inten<pb ed="#B5" n="124"/> <cb ed="#B5" n="a"/>tiones essentialium principiorum hujus rei
+          demonstratae, quae sunt potentia et actus, et abstrahit eas a materia, et ab
+          individuantibus aliis, tunc agit in eis universalitatem : sic universale posterius est
+          quando ut universale accipitur, et non sicut prius dixit Plato, quod praecederet secundum
+          esse omnia sua particularia. Haec tamen natura quae principium est essentiale hujus
+          particularis demonstrati, prius est secundum causam et intellectum quam res principiata
+          per ipsam : quia aliter non esset causa essentialis. Quod autem haec vera sint quae dicta
+          sunt, testatur <name ref="#Aristotle">Aristotelis</name> translatio Arabica quae sic
+          dicit. "Et debemus praeservare nos ne ignoremus utrum diffinitio ejus sit eadem ut
+          diffinitio vivi, aut sit alia in quolibet, verbi gratia, diffinitio equi et canis et
+          hominis et Dei : vivum autem universale, aut nihil est, aut est postremum." Et hoc exponit
+          <name ref="#Averroes">Averroes</name>, sicut hic dictum est. Graeca autem translatio
+          discordat ab hac : et (ut puto) est mendosa. Habet enim sic : "Videndum autem quatenus non
+          lateat, utrum una ratio ipsius sit, an sicut animalis est secundum unumquodque altera." Et
+          si deberet concordare cum Arabica, sic deberet ordinari, "Utrum una ratio ipsius sit sicut
+          animalis, aut sit secundum unumquodque altera :" tunc enim plana esset. Sed quia in multis
+          invenimus Graecas emendatiores quam Arabicas translationes, ideo et hoc sustinentes
+          dicimus, quod animalis est una ratio ut generis. Si autem animal secundum esse sumitur in
+          unoquoque, tunc variatur esse ejus differentiis specierum sibi adjunctis : et tunc sic
+          variatum habet alteram et alteram secundum esse diffinitionem : et licet hoc sit verum,
+          tamen primum magis conveniens ad propositum est.</p>
+        <p xml:id="admda-l1t1c4-d1e174">Et ut melius intelligatur, sciendum est quod Plato posuit in omni re triplex dixit esse
+          universale. Unum quidem ante rem, quod erat causa rei formalis secundum esse praecedens,
+          quia separatum ipsum esse posuit. Secundum in re, quod erat forma <cb ed="#B5" n="b"/>
+          <!-- 124 b --> adhaerens ei una in multis et de multis : et hoc unum dixit Plato in
+          essentia esse unum et in esse naturae et formae in omnibus. <name ref="#Aristotle">Aristoteles</name> autem in ratione dixit unum, et in essentia et esse plura. Tertium
+          autem dixit esse post rem, quod est intentio universalis in anima : et sic dixit etiam
+          quod anima communis et universalis erat ante omnes animas, et erat causa ipsarum per quam
+          habent diffiniri et esse : et secundum hoc esset una universalis illius ratio de omni
+          anima. Et hoc esse non potest, quia in philosophia prima habet ostendi id universale
+          nullum esse omnino, sed omne universale ut universale sumptum esse aut nihil rei
+          praecedens rem, aut esse post rem, sicut est intentio abstracta de particularibus.</p>
+        <p xml:id="admda-l1t1c4-d1e184">His autem omnibus relictis, tanquam haec quae non hic, sed alibi sunt determinanda,
+          dicimus nobis esse necessarium inquirere utrum una communis ratio sit de anima in communi
+          danda, quae univoce conveniat tribus animabus, scilicet vegetabili, sensibili, et
+          rationali, aut sit nobis quaerenda propria ratio secundum quamlibet trium animarum. Hoc
+          enim necessarium est, quia inferius apparebit quod ratio data de anima, quae est
+          endelechia corporis physici potentia vitam habentis, non omnino secundum unam rationem
+          convenit tribus animabus, nec unius est et altera ratio secundum unamquamque animam,
+          secundum quod est altera et altera equi et canis et hominis : quia ista diffiniuntur sicut
+          habentia oppositas differentias, quarum una non est in alia. Sed ratio animae in partibus
+          suis est sicut figurae : quia sicut una figurarum secundum potentiam est in alia, sicut
+          trigonum in tetragono, sic una animarum videtur esse in alia, sicut vegetativum in
+          sensitivo, et sensitivum in rationali. Est igitur necessarium nobis subtiliter ista
+          disquirere, quatenus non lateant quae dicta sunt.</p>
+      </div>
+    </body>
+  </text>
+</TEI>
