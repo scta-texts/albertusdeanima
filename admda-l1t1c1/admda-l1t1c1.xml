@@ -61,7 +61,8 @@
         <head xml:id="admda-l1t1c1-Hd1e128"> <pb ed="#B5" n="117"/> <cb ed="#B5" n="a"/> CAPUT I.</head>
         <head xml:id="admda-l1t1c1-Hd1e135" type="question-title">Et est digressio declarans, quod scientia naturalis est de
           anima, et quis ejus ordo.</head>
-        <p xml:id="admda-l1t1c1-d1e138">Omnibus quae de corpore mobili, et de mobili secundum locum dicenda erant expeditis,
+        <p xml:id="admda-l1t1c1-d1e138">
+          Omnibus quae de corpore mobili, et de mobili secundum locum dicenda erant expeditis,
           traditis etiam eis quae de mobilibus ad formam tam simplicibus quam mixtis in universali
           videbantur esse <choice> <orig>didicenda</orig> <reg>dicenda</reg> </choice>, determinatis
           nihilominus his quae de mixtura lapidum et minerarum commemoranda esse videbantur : nunc
